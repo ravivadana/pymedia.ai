@@ -1,0 +1,1002 @@
+[
+    {
+        "id":379252,
+        "name":"Khartoum",
+        "country":"SD",
+        "admin1":"Khartoum",
+        "admin2":"",
+        "lat":15.55177,
+        "lon":32.53241,
+        "pop":1974647
+    },
+    {
+        "id":365137,
+        "name":"Omdurman",
+        "country":"SD",
+        "admin1":"Khartoum",
+        "admin2":"",
+        "lat":15.64453,
+        "lon":32.47773,
+        "pop":1849659
+    },
+    {
+        "id":379251,
+        "name":"Khartoum North",
+        "country":"SD",
+        "admin1":"Khartoum",
+        "admin2":"",
+        "lat":15.64925,
+        "lon":32.53458,
+        "pop":1012211
+    },
+    {
+        "id":369004,
+        "name":"Nyala",
+        "country":"SD",
+        "admin1":"Southern Darfur",
+        "admin2":"",
+        "lat":12.04888,
+        "lon":24.88069,
+        "pop":565734
+    },
+    {
+        "id":377039,
+        "name":"Port Sudan",
+        "country":"SD",
+        "admin1":"Red Sea",
+        "admin2":"",
+        "lat":19.61745,
+        "lon":37.21644,
+        "pop":489725
+    },
+    {
+        "id":372753,
+        "name":"Kassala",
+        "country":"SD",
+        "admin1":"Kassala",
+        "admin2":"",
+        "lat":15.45099,
+        "lon":36.39998,
+        "pop":401477
+    },
+    {
+        "id":379003,
+        "name":"El Obeid",
+        "country":"SD",
+        "admin1":"North Kordofan",
+        "admin2":"",
+        "lat":13.18421,
+        "lon":30.21669,
+        "pop":393311
+    },
+    {
+        "id":379062,
+        "name":"Al Qadarif",
+        "country":"SD",
+        "admin1":"Al Qaḑārif",
+        "admin2":"",
+        "lat":14.03493,
+        "lon":35.38344,
+        "pop":363945
+    },
+    {
+        "id":371760,
+        "name":"Kosti",
+        "country":"SD",
+        "admin1":"White Nile",
+        "admin2":"",
+        "lat":13.1629,
+        "lon":32.66347,
+        "pop":345068
+    },
+    {
+        "id":364103,
+        "name":"Wad Medani",
+        "country":"SD",
+        "admin1":"Al Jazīrah",
+        "admin2":"",
+        "lat":14.40118,
+        "lon":33.51989,
+        "pop":332714
+    },
+    {
+        "id":380148,
+        "name":"El Daein",
+        "country":"SD",
+        "admin1":"Eastern Darfur",
+        "admin2":"",
+        "lat":11.46186,
+        "lon":26.12583,
+        "pop":264734
+    },
+    {
+        "id":379555,
+        "name":"El Fasher",
+        "country":"SD",
+        "admin1":"Northern Darfur",
+        "admin2":"",
+        "lat":13.62793,
+        "lon":25.34936,
+        "pop":252609
+    },
+    {
+        "id":366847,
+        "name":"Singa",
+        "country":"SD",
+        "admin1":"Sinnār",
+        "admin2":"",
+        "lat":13.1483,
+        "lon":33.93117,
+        "pop":250000
+    },
+    {
+        "id":380174,
+        "name":"Ad-Damazin",
+        "country":"SD",
+        "admin1":"Blue Nile",
+        "admin2":"",
+        "lat":11.7891,
+        "lon":34.3592,
+        "pop":186051
+    },
+    {
+        "id":379303,
+        "name":"Geneina",
+        "country":"SD",
+        "admin1":"Western Darfur",
+        "admin2":"",
+        "lat":13.45262,
+        "lon":22.44725,
+        "pop":162981
+    },
+    {
+        "id":368277,
+        "name":"Rabak",
+        "country":"SD",
+        "admin1":"White Nile",
+        "admin2":"",
+        "lat":13.18087,
+        "lon":32.73999,
+        "pop":135281
+    },
+    {
+        "id":379302,
+        "name":"El Geneina Fort",
+        "country":"SD",
+        "admin1":"Western Darfur",
+        "admin2":"",
+        "lat":13.47481,
+        "lon":22.45744,
+        "pop":134264
+    },
+    {
+        "id":367644,
+        "name":"Sinnar",
+        "country":"SD",
+        "admin1":"Sinnār",
+        "admin2":"",
+        "lat":13.56907,
+        "lon":33.56718,
+        "pop":130122
+    },
+    {
+        "id":379149,
+        "name":"Al Manāqil",
+        "country":"SD",
+        "admin1":"Al Jazīrah",
+        "admin2":"",
+        "lat":14.2459,
+        "lon":32.9891,
+        "pop":128297
+    },
+    {
+        "id":8504621,
+        "name":"Gereida",
+        "country":"SD",
+        "admin1":"Southern Darfur",
+        "admin2":"",
+        "lat":11.27543,
+        "lon":25.14026,
+        "pop":120000
+    },
+    {
+        "id":378231,
+        "name":"Atbara",
+        "country":"SD",
+        "admin1":"River Nile",
+        "admin2":"",
+        "lat":17.70217,
+        "lon":33.98638,
+        "pop":112021
+    },
+    {
+        "id":378699,
+        "name":"An Nuhūd",
+        "country":"SD",
+        "admin1":"West Kordofan State",
+        "admin2":"",
+        "lat":12.7,
+        "lon":28.43333,
+        "pop":108008
+    },
+    {
+        "id":380173,
+        "name":"Ed Damer",
+        "country":"SD",
+        "admin1":"River Nile",
+        "admin2":"",
+        "lat":17.59898,
+        "lon":33.97205,
+        "pop":103941
+    },
+    {
+        "id":373141,
+        "name":"Kadugli",
+        "country":"SD",
+        "admin1":"Southern Kordofan",
+        "admin2":"",
+        "lat":11.01111,
+        "lon":29.71833,
+        "pop":87666
+    },
+    {
+        "id":380129,
+        "name":"Ad Douiem",
+        "country":"SD",
+        "admin1":"White Nile",
+        "admin2":"",
+        "lat":14.0012,
+        "lon":32.3116,
+        "pop":87068
+    },
+    {
+        "id":377108,
+        "name":"Burām",
+        "country":"SD",
+        "admin1":"Southern Darfur",
+        "admin2":"",
+        "lat":10.85826,
+        "lon":25.15921,
+        "pop":65473
+    },
+    {
+        "id":367308,
+        "name":"Shendi",
+        "country":"SD",
+        "admin1":"River Nile",
+        "admin2":"",
+        "lat":16.6915,
+        "lon":33.4341,
+        "pop":63746
+    },
+    {
+        "id":374272,
+        "name":"New Halfa",
+        "country":"SD",
+        "admin1":"Kassala",
+        "admin2":"",
+        "lat":15.33021,
+        "lon":35.59854,
+        "pop":63589
+    },
+    {
+        "id":376450,
+        "name":"Dilling",
+        "country":"SD",
+        "admin1":"Southern Kordofan",
+        "admin2":"",
+        "lat":12.05,
+        "lon":29.65,
+        "pop":59089
+    },
+    {
+        "id":378459,
+        "name":"Er Roseires",
+        "country":"SD",
+        "admin1":"Blue Nile",
+        "admin2":"",
+        "lat":11.8659,
+        "lon":34.3869,
+        "pop":58712
+    },
+    {
+        "id":364706,
+        "name":"Umm Ruwaba",
+        "country":"SD",
+        "admin1":"North Kordofan",
+        "admin2":"",
+        "lat":12.9061,
+        "lon":31.2158,
+        "pop":56833
+    },
+    {
+        "id":363417,
+        "name":"Dongola",
+        "country":"SD",
+        "admin1":"Northern State",
+        "admin2":"",
+        "lat":19.18163,
+        "lon":30.47689,
+        "pop":56167
+    },
+    {
+        "id":13132452,
+        "name":"'Ārdamatā",
+        "country":"SD",
+        "admin1":"Western Darfur",
+        "admin2":"",
+        "lat":13.47546,
+        "lon":22.48531,
+        "pop":55637
+    },
+    {
+        "id":372773,
+        "name":"Kas",
+        "country":"SD",
+        "admin1":"Southern Darfur",
+        "admin2":"",
+        "lat":12.50974,
+        "lon":24.28519,
+        "pop":55255
+    },
+    {
+        "id":370181,
+        "name":"Mellit",
+        "country":"SD",
+        "admin1":"Northern Darfur",
+        "admin2":"",
+        "lat":14.13333,
+        "lon":25.55,
+        "pop":50165
+    },
+    {
+        "id":13132453,
+        "name":"Sh'īarīah",
+        "country":"SD",
+        "admin1":"Eastern Darfur",
+        "admin2":"",
+        "lat":12.43883,
+        "lon":25.58112,
+        "pop":48966
+    },
+    {
+        "id":379427,
+        "name":"Al Hasaheisa",
+        "country":"SD",
+        "admin1":"Al Jazīrah",
+        "admin2":"",
+        "lat":14.75264,
+        "lon":33.29836,
+        "pop":47408
+    },
+    {
+        "id":380757,
+        "name":"Abu Jibeha",
+        "country":"SD",
+        "admin1":"Southern Kordofan",
+        "admin2":"",
+        "lat":11.4562,
+        "lon":31.2285,
+        "pop":47188
+    },
+    {
+        "id":372527,
+        "name":"Khashm al Qirbah",
+        "country":"SD",
+        "admin1":"Al Qaḑārif",
+        "admin2":"",
+        "lat":14.96667,
+        "lon":35.91667,
+        "pop":42900
+    },
+    {
+        "id":367544,
+        "name":"Suakin",
+        "country":"SD",
+        "admin1":"Red Sea",
+        "admin2":"",
+        "lat":19.1059,
+        "lon":37.3321,
+        "pop":42456
+    },
+    {
+        "id":373198,
+        "name":"Kabkābīyah",
+        "country":"SD",
+        "admin1":"Northern Darfur",
+        "admin2":"",
+        "lat":13.65,
+        "lon":24.08333,
+        "pop":42376
+    },
+    {
+        "id":365641,
+        "name":"Tullus",
+        "country":"SD",
+        "admin1":"Southern Darfur",
+        "admin2":"",
+        "lat":11.0904,
+        "lon":24.53015,
+        "pop":41807
+    },
+    {
+        "id":379102,
+        "name":"Al Mijlad",
+        "country":"SD",
+        "admin1":"West Kordofan State",
+        "admin2":"",
+        "lat":11.03333,
+        "lon":27.73333,
+        "pop":40418
+    },
+    {
+        "id":366323,
+        "name":"Tokār",
+        "country":"SD",
+        "admin1":"Red Sea",
+        "admin2":"",
+        "lat":18.4254,
+        "lon":37.729,
+        "pop":37051
+    },
+    {
+        "id":378493,
+        "name":"Ar Rahad",
+        "country":"SD",
+        "admin1":"North Kordofan",
+        "admin2":"",
+        "lat":12.71667,
+        "lon":30.65,
+        "pop":36518
+    },
+    {
+        "id":366846,
+        "name":"Sinkat",
+        "country":"SD",
+        "admin1":"Red Sea",
+        "admin2":"",
+        "lat":18.8405,
+        "lon":36.8351,
+        "pop":35617
+    },
+    {
+        "id":363533,
+        "name":"Zalinguei",
+        "country":"SD",
+        "admin1":"Central Darfur",
+        "admin2":"",
+        "lat":12.90918,
+        "lon":23.47058,
+        "pop":35061
+    },
+    {
+        "id":371745,
+        "name":"Kutum",
+        "country":"SD",
+        "admin1":"Northern Darfur",
+        "admin2":"",
+        "lat":14.2,
+        "lon":24.66667,
+        "pop":34694
+    },
+    {
+        "id":378271,
+        "name":"As Sūkī",
+        "country":"SD",
+        "admin1":"Sinnār",
+        "admin2":"",
+        "lat":13.31667,
+        "lon":33.88333,
+        "pop":33524
+    },
+    {
+        "id":377962,
+        "name":"Babanūsah",
+        "country":"SD",
+        "admin1":"West Kordofan State",
+        "admin2":"",
+        "lat":11.33333,
+        "lon":27.8,
+        "pop":32759
+    },
+    {
+        "id":366426,
+        "name":"Tandaltī",
+        "country":"SD",
+        "admin1":"White Nile",
+        "admin2":"",
+        "lat":13.01667,
+        "lon":31.86667,
+        "pop":31329
+    },
+    {
+        "id":373296,
+        "name":"Jubayt",
+        "country":"SD",
+        "admin1":"Red Sea",
+        "admin2":"",
+        "lat":18.9533,
+        "lon":36.8336,
+        "pop":30856
+    },
+    {
+        "id":13132450,
+        "name":"Al-Fāw",
+        "country":"SD",
+        "admin1":"Al Qaḑārif",
+        "admin2":"",
+        "lat":14.10776,
+        "lon":34.09197,
+        "pop":30629
+    },
+    {
+        "id":379416,
+        "name":"Al Ḩawātah",
+        "country":"SD",
+        "admin1":"Al Qaḑārif",
+        "admin2":"",
+        "lat":13.41667,
+        "lon":34.63333,
+        "pop":30184
+    },
+    {
+        "id":370838,
+        "name":"Maiurno",
+        "country":"SD",
+        "admin1":"Sinnār",
+        "admin2":"",
+        "lat":13.41667,
+        "lon":33.66667,
+        "pop":28727
+    },
+    {
+        "id":367972,
+        "name":"Rufā‘a",
+        "country":"SD",
+        "admin1":"Al Jazīrah",
+        "admin2":"",
+        "lat":14.75969,
+        "lon":33.36754,
+        "pop":28374
+    },
+    {
+        "id":13132451,
+        "name":"Al-Quṭaynah",
+        "country":"SD",
+        "admin1":"White Nile",
+        "admin2":"",
+        "lat":14.72775,
+        "lon":32.26928,
+        "pop":26893
+    },
+    {
+        "id":372386,
+        "name":"Kināna",
+        "country":"SD",
+        "admin1":"Sinnār",
+        "admin2":"",
+        "lat":14.0361,
+        "lon":33.1712,
+        "pop":26233
+    },
+    {
+        "id":377690,
+        "name":"Berber",
+        "country":"SD",
+        "admin1":"River Nile",
+        "admin2":"",
+        "lat":18.02158,
+        "lon":33.98299,
+        "pop":26203
+    },
+    {
+        "id":379535,
+        "name":"Al Fūlah",
+        "country":"SD",
+        "admin1":"Southern Kordofan",
+        "admin2":"",
+        "lat":11.73292,
+        "lon":28.35786,
+        "pop":26020
+    },
+    {
+        "id":13132448,
+        "name":"Ad-Dindar",
+        "country":"SD",
+        "admin1":"Sinnār",
+        "admin2":"",
+        "lat":13.334,
+        "lon":34.09268,
+        "pop":25567
+    },
+    {
+        "id":368230,
+        "name":"Rahad al Bardi",
+        "country":"SD",
+        "admin1":"Southern Darfur",
+        "admin2":"",
+        "lat":11.3,
+        "lon":23.88333,
+        "pop":24768
+    },
+    {
+        "id":380348,
+        "name":"Abū Zabad",
+        "country":"SD",
+        "admin1":"West Kordofan State",
+        "admin2":"",
+        "lat":12.35,
+        "lon":29.25,
+        "pop":23317
+    },
+    {
+        "id":374866,
+        "name":"Ghubaysh",
+        "country":"SD",
+        "admin1":"West Kordofan State",
+        "admin2":"",
+        "lat":12.15,
+        "lon":27.35,
+        "pop":22733
+    },
+    {
+        "id":12493849,
+        "name":"Al Jazeera Aba",
+        "country":"SD",
+        "admin1":"White Nile",
+        "admin2":"",
+        "lat":13.31926,
+        "lon":32.61316,
+        "pop":21683
+    },
+    {
+        "id":13132449,
+        "name":"Al-Fashaqah",
+        "country":"SD",
+        "admin1":"Al Qaḑārif",
+        "admin2":"",
+        "lat":14.39729,
+        "lon":35.86668,
+        "pop":21106
+    },
+    {
+        "id":364621,
+        "name":"Umm Shawkah",
+        "country":"SD",
+        "admin1":"Sinnār",
+        "admin2":"",
+        "lat":13.31667,
+        "lon":33.76667,
+        "pop":20302
+    },
+    {
+        "id":380308,
+        "name":"Abyei",
+        "country":"SD",
+        "admin1":"West Kordofan State",
+        "admin2":"",
+        "lat":9.59525,
+        "lon":28.43493,
+        "pop":20000
+    },
+    {
+        "id":376332,
+        "name":"Doka",
+        "country":"SD",
+        "admin1":"Al Qaḑārif",
+        "admin2":"",
+        "lat":13.51667,
+        "lon":35.76667,
+        "pop":19821
+    },
+    {
+        "id":371870,
+        "name":"Kuraymah",
+        "country":"SD",
+        "admin1":"Northern State",
+        "admin2":"",
+        "lat":18.55,
+        "lon":31.85,
+        "pop":19593
+    },
+    {
+        "id":379630,
+        "name":"El Bauga",
+        "country":"SD",
+        "admin1":"River Nile",
+        "admin2":"",
+        "lat":18.26197,
+        "lon":33.90812,
+        "pop":19141
+    },
+    {
+        "id":379014,
+        "name":"Al Qiţena",
+        "country":"SD",
+        "admin1":"White Nile",
+        "admin2":"",
+        "lat":14.8648,
+        "lon":32.3668,
+        "pop":18321
+    },
+    {
+        "id":379406,
+        "name":"Al Hilāliyya",
+        "country":"SD",
+        "admin1":"Al Jazīrah",
+        "admin2":"",
+        "lat":14.9398,
+        "lon":33.234,
+        "pop":17345
+    },
+    {
+        "id":377724,
+        "name":"Bārah",
+        "country":"SD",
+        "admin1":"North Kordofan",
+        "admin2":"Bara",
+        "lat":13.7,
+        "lon":30.36667,
+        "pop":16969
+    },
+    {
+        "id":380151,
+        "name":"Ad Dindar",
+        "country":"SD",
+        "admin1":"Sinnār",
+        "admin2":"",
+        "lat":13.2,
+        "lon":34.16667,
+        "pop":15144
+    },
+    {
+        "id":12809070,
+        "name":"ALdinigila wad dhahi",
+        "country":"SD",
+        "admin1":"White Nile",
+        "admin2":"Kosti",
+        "lat":13.88232,
+        "lon":32.37714,
+        "pop":15000
+    },
+    {
+        "id":378391,
+        "name":"Ash Shallāl",
+        "country":"SD",
+        "admin1":"Blue Nile",
+        "admin2":"",
+        "lat":11.8,
+        "lon":34.4,
+        "pop":13638
+    },
+    {
+        "id":366487,
+        "name":"Talodi",
+        "country":"SD",
+        "admin1":"Southern Kordofan",
+        "admin2":"",
+        "lat":10.63246,
+        "lon":30.3797,
+        "pop":13188
+    },
+    {
+        "id":378502,
+        "name":"Aroma",
+        "country":"SD",
+        "admin1":"Kassala",
+        "admin2":"",
+        "lat":15.81667,
+        "lon":36.13333,
+        "pop":12708
+    },
+    {
+        "id":370510,
+        "name":"Marabba",
+        "country":"SD",
+        "admin1":"White Nile",
+        "admin2":"",
+        "lat":12.35,
+        "lon":32.18333,
+        "pop":12108
+    },
+    {
+        "id":364027,
+        "name":"Wagar",
+        "country":"SD",
+        "admin1":"Kassala",
+        "admin2":"",
+        "lat":16.1525,
+        "lon":36.2032,
+        "pop":11950
+    },
+    {
+        "id":380186,
+        "name":"Ad Dabbah",
+        "country":"SD",
+        "admin1":"Northern State",
+        "admin2":"",
+        "lat":18.05,
+        "lon":30.95,
+        "pop":11626
+    },
+    {
+        "id":379127,
+        "name":"El Matama",
+        "country":"SD",
+        "admin1":"River Nile",
+        "admin2":"",
+        "lat":16.7095,
+        "lon":33.3565,
+        "pop":11366
+    },
+    {
+        "id":375046,
+        "name":"Gebeit",
+        "country":"SD",
+        "admin1":"Red Sea",
+        "admin2":"",
+        "lat":21.06667,
+        "lon":36.31667,
+        "pop":11095
+    },
+    {
+        "id":379198,
+        "name":"Al Lagowa",
+        "country":"SD",
+        "admin1":"West Kordofan State",
+        "admin2":"",
+        "lat":11.4,
+        "lon":29.13333,
+        "pop":11024
+    },
+    {
+        "id":364933,
+        "name":"Umm Kaddadah",
+        "country":"SD",
+        "admin1":"Northern Darfur",
+        "admin2":"",
+        "lat":13.60169,
+        "lon":26.68759,
+        "pop":10979
+    },
+    {
+        "id":371827,
+        "name":"Kurmuk",
+        "country":"SD",
+        "admin1":"Blue Nile",
+        "admin2":"",
+        "lat":10.52,
+        "lon":34.28333,
+        "pop":10375
+    },
+    {
+        "id":364071,
+        "name":"Wad Rāwah",
+        "country":"SD",
+        "admin1":"Al Jazīrah",
+        "admin2":"",
+        "lat":15.16028,
+        "lon":33.13972,
+        "pop":10348
+    },
+    {
+        "id":370481,
+        "name":"Merowe",
+        "country":"SD",
+        "admin1":"Northern State",
+        "admin2":"",
+        "lat":18.47036,
+        "lon":31.81126,
+        "pop":10234
+    },
+    {
+        "id":379272,
+        "name":"Al Kawa",
+        "country":"SD",
+        "admin1":"White Nile",
+        "admin2":"",
+        "lat":13.7463,
+        "lon":32.4996,
+        "pop":10167
+    },
+    {
+        "id":379261,
+        "name":"Al Kiremit al ‘Arakiyyīn",
+        "country":"SD",
+        "admin1":"Al Jazīrah",
+        "admin2":"",
+        "lat":14.3476,
+        "lon":32.9437,
+        "pop":9775
+    },
+    {
+        "id":375192,
+        "name":"Jalqani",
+        "country":"SD",
+        "admin1":"Sinnār",
+        "admin2":"",
+        "lat":12.4486,
+        "lon":34.2186,
+        "pop":9472
+    },
+    {
+        "id":379080,
+        "name":"Al Masallamiyya",
+        "country":"SD",
+        "admin1":"Al Jazīrah",
+        "admin2":"",
+        "lat":14.5748,
+        "lon":33.3373,
+        "pop":9373
+    },
+    {
+        "id":364216,
+        "name":"Wad az Zāki",
+        "country":"SD",
+        "admin1":"White Nile",
+        "admin2":"",
+        "lat":14.4619,
+        "lon":32.2065,
+        "pop":9271
+    },
+    {
+        "id":364949,
+        "name":"Um Jar Al Gharbiyya",
+        "country":"SD",
+        "admin1":"White Nile",
+        "admin2":"",
+        "lat":13.8013,
+        "lon":32.4078,
+        "pop":9038
+    },
+    {
+        "id":378543,
+        "name":"Argo",
+        "country":"SD",
+        "admin1":"Northern State",
+        "admin2":"",
+        "lat":19.51667,
+        "lon":30.41667,
+        "pop":7716
+    },
+    {
+        "id":365390,
+        "name":"Umm Dafog",
+        "country":"SD",
+        "admin1":"Southern Darfur",
+        "admin2":"",
+        "lat":10.46339,
+        "lon":23.31748,
+        "pop":6700
+    },
+    {
+        "id":372801,
+        "name":"Karmah an Nuzul",
+        "country":"SD",
+        "admin1":"Northern State",
+        "admin2":"",
+        "lat":19.63333,
+        "lon":30.41667,
+        "pop":3928
+    },
+    {
+        "id":7026103,
+        "name":"Najaru قرية نجرو",
+        "country":"SD",
+        "admin1":"Al Jazīrah",
+        "admin2":"",
+        "lat":14.472,
+        "lon":33.2479,
+        "pop":1153
+    },
+    {
+        "id":12104575,
+        "name":"Nagaro",
+        "country":"SD",
+        "admin1":"Al Jazīrah",
+        "admin2":"",
+        "lat":14.4741,
+        "lon":33.24919,
+        "pop":1109
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "id":5881576,
+        "name":"Pago Pago",
+        "country":"AS",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":-14.27806,
+        "lon":-170.7025,
+        "pop":11500
+    },
+    {
+        "id":5881192,
+        "name":"Tāfuna",
+        "country":"AS",
+        "admin1":"Western District",
+        "admin2":"",
+        "lat":-14.33583,
+        "lon":-170.72,
+        "pop":7988
+    },
+    {
+        "id":5881535,
+        "name":"Nu‘uuli",
+        "country":"AS",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":-14.31583,
+        "lon":-170.6975,
+        "pop":5000
+    },
+    {
+        "id":5881347,
+        "name":"Leone",
+        "country":"AS",
+        "admin1":"Western District",
+        "admin2":"",
+        "lat":-14.34389,
+        "lon":-170.785,
+        "pop":4050
+    },
+    {
+        "id":5881224,
+        "name":"Faleniu",
+        "country":"AS",
+        "admin1":"Western District",
+        "admin2":"",
+        "lat":-14.3325,
+        "lon":-170.74444,
+        "pop":3200
+    },
+    {
+        "id":5881287,
+        "name":"Ili‘ili",
+        "country":"AS",
+        "admin1":"Western District",
+        "admin2":"",
+        "lat":-14.35167,
+        "lon":-170.74694,
+        "pop":3073
+    },
+    {
+        "id":5880828,
+        "name":"Aūa",
+        "country":"AS",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":-14.27032,
+        "lon":-170.66528,
+        "pop":2124
+    },
+    {
+        "id":5881442,
+        "name":"Mapusagafou",
+        "country":"AS",
+        "admin1":"Western District",
+        "admin2":"",
+        "lat":-14.323,
+        "lon":-170.754,
+        "pop":2052
+    },
+    {
+        "id":5881241,
+        "name":"Fagatogo",
+        "country":"AS",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":-14.2825,
+        "lon":-170.69,
+        "pop":1868
+    },
+    {
+        "id":5881433,
+        "name":"Mapusaga",
+        "country":"AS",
+        "admin1":"Western District",
+        "admin2":"",
+        "lat":-14.323,
+        "lon":-170.7553,
+        "pop":1772
+    },
+    {
+        "id":5880891,
+        "name":"Vaitogi",
+        "country":"AS",
+        "admin1":"Western District",
+        "admin2":"",
+        "lat":-14.35259,
+        "lon":-170.73796,
+        "pop":1436
+    },
+    {
+        "id":5881410,
+        "name":"Malaeimi",
+        "country":"AS",
+        "admin1":"Western District",
+        "admin2":"",
+        "lat":-14.32278,
+        "lon":-170.73389,
+        "pop":1261
+    },
+    {
+        "id":5880944,
+        "name":"Vailoatai",
+        "country":"AS",
+        "admin1":"Western District",
+        "admin2":"Tūalātai County",
+        "lat":-14.3534,
+        "lon":-170.7808,
+        "pop":1144
+    },
+    {
+        "id":5880833,
+        "name":"Aoloau",
+        "country":"AS",
+        "admin1":"Western District",
+        "admin2":"",
+        "lat":-14.31972,
+        "lon":-170.77,
+        "pop":966
+    },
+    {
+        "id":5881165,
+        "name":"Ta`ū",
+        "country":"AS",
+        "admin1":"Manu'a",
+        "admin2":"",
+        "lat":-14.23361,
+        "lon":-169.51444,
+        "pop":873
+    },
+    {
+        "id":5881168,
+        "name":"Taputimu",
+        "country":"AS",
+        "admin1":"Western District",
+        "admin2":"",
+        "lat":-14.36028,
+        "lon":-170.77306,
+        "pop":741
+    },
+    {
+        "id":5881231,
+        "name":"Faga‘alu",
+        "country":"AS",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":-14.29639,
+        "lon":-170.68361,
+        "pop":731
+    },
+    {
+        "id":5881401,
+        "name":"Malaeloa\/Ituau",
+        "country":"AS",
+        "admin1":"Western District",
+        "admin2":"",
+        "lat":-14.34722,
+        "lon":-170.76722,
+        "pop":717
+    },
+    {
+        "id":5880737,
+        "name":"Utulei",
+        "country":"AS",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":-14.28694,
+        "lon":-170.68306,
+        "pop":683
+    },
+    {
+        "id":5881602,
+        "name":"Futiga",
+        "country":"AS",
+        "admin1":"Western District",
+        "admin2":"",
+        "lat":-14.35333,
+        "lon":-170.75417,
+        "pop":682
+    },
+    {
+        "id":5881409,
+        "name":"Malaeloa\/Aitulagi",
+        "country":"AS",
+        "admin1":"Western District",
+        "admin2":"",
+        "lat":-14.33861,
+        "lon":-170.76784,
+        "pop":633
+    },
+    {
+        "id":5881496,
+        "name":"Mesepa",
+        "country":"AS",
+        "admin1":"Western District",
+        "admin2":"",
+        "lat":-14.3233,
+        "lon":-170.7471,
+        "pop":552
+    },
+    {
+        "id":5881342,
+        "name":"Leloaloa",
+        "country":"AS",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":-14.26736,
+        "lon":-170.67832,
+        "pop":546
+    },
+    {
+        "id":5880755,
+        "name":"Āfono",
+        "country":"AS",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":-14.26417,
+        "lon":-170.65083,
+        "pop":527
+    },
+    {
+        "id":5880764,
+        "name":"Alao",
+        "country":"AS",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":-14.2675,
+        "lon":-170.56361,
+        "pop":508
+    }
+]

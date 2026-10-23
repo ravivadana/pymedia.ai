@@ -1,0 +1,112 @@
+[
+    {
+        "id":3042287,
+        "name":"Saint Peter Port",
+        "country":"GG",
+        "admin1":"St Peter Port",
+        "admin2":"",
+        "lat":49.45981,
+        "lon":-2.53527,
+        "pop":16488
+    },
+    {
+        "id":13527037,
+        "name":"Vale Parish",
+        "country":"GG",
+        "admin1":null,
+        "admin2":"",
+        "lat":49.4944,
+        "lon":-2.5179,
+        "pop":9646
+    },
+    {
+        "id":3042286,
+        "name":"Saint Sampson",
+        "country":"GG",
+        "admin1":"St Sampson",
+        "admin2":"",
+        "lat":49.48389,
+        "lon":-2.52333,
+        "pop":8966
+    },
+    {
+        "id":13527038,
+        "name":"Castel Parish",
+        "country":"GG",
+        "admin1":null,
+        "admin2":"",
+        "lat":49.47089,
+        "lon":-2.602,
+        "pop":8711
+    },
+    {
+        "id":13527036,
+        "name":"Saint Martin Parish",
+        "country":"GG",
+        "admin1":null,
+        "admin2":"",
+        "lat":49.43874,
+        "lon":-2.55734,
+        "pop":6648
+    },
+    {
+        "id":13527043,
+        "name":"Saint Saviour Parish",
+        "country":"GG",
+        "admin1":null,
+        "admin2":"",
+        "lat":49.45839,
+        "lon":-2.62244,
+        "pop":2829
+    },
+    {
+        "id":13527039,
+        "name":"Saint Andrew Parish",
+        "country":"GG",
+        "admin1":null,
+        "admin2":"",
+        "lat":49.45438,
+        "lon":-2.57449,
+        "pop":2328
+    },
+    {
+        "id":13527042,
+        "name":"Saint Pierre du Bois Parish",
+        "country":"GG",
+        "admin1":null,
+        "admin2":"",
+        "lat":49.45399,
+        "lon":-2.63808,
+        "pop":2001
+    },
+    {
+        "id":13527040,
+        "name":"Forest Parish",
+        "country":"GG",
+        "admin1":null,
+        "admin2":"",
+        "lat":49.42983,
+        "lon":-2.60168,
+        "pop":1624
+    },
+    {
+        "id":13527041,
+        "name":"Torteval Parish",
+        "country":"GG",
+        "admin1":null,
+        "admin2":"",
+        "lat":49.42982,
+        "lon":-2.66608,
+        "pop":1026
+    },
+    {
+        "id":6696201,
+        "name":"Sark",
+        "country":"GG",
+        "admin1":null,
+        "admin2":"",
+        "lat":49.43331,
+        "lon":-2.35622,
+        "pop":600
+    }
+]

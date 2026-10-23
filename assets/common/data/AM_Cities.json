@@ -1,0 +1,6162 @@
+[
+    {
+        "id":616052,
+        "name":"Yerevan",
+        "country":"AM",
+        "admin1":"Yerevan",
+        "admin2":"",
+        "lat":40.17765,
+        "lon":44.5126,
+        "pop":1141100
+    },
+    {
+        "id":616635,
+        "name":"Gyumri",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Gyumri Municipality",
+        "lat":40.79305,
+        "lon":43.84635,
+        "pop":112301
+    },
+    {
+        "id":616530,
+        "name":"Vanadzor",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Vanadzor Municipality",
+        "lat":40.8074,
+        "lon":44.49704,
+        "pop":78100
+    },
+    {
+        "id":616629,
+        "name":"Hrazdan",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Hrazdan Municipality",
+        "lat":40.5169,
+        "lon":44.75591,
+        "pop":49500
+    },
+    {
+        "id":617026,
+        "name":"Abovyan",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Abovyan Municipality",
+        "lat":40.2717,
+        "lon":44.63342,
+        "pop":47546
+    },
+    {
+        "id":616062,
+        "name":"Vagharshapat",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Vagharshapat Municipality",
+        "lat":40.16557,
+        "lon":44.29462,
+        "pop":45842
+    },
+    {
+        "id":174875,
+        "name":"Kapan",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Kapan Municipality",
+        "lat":39.20762,
+        "lon":46.40678,
+        "pop":32900
+    },
+    {
+        "id":616631,
+        "name":"Armavir",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Armavir Municipality",
+        "lat":40.15553,
+        "lon":44.0388,
+        "pop":29700
+    },
+    {
+        "id":174979,
+        "name":"Artashat",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":39.95484,
+        "lon":44.54874,
+        "pop":22800
+    },
+    {
+        "id":616785,
+        "name":"Charentsavan",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Charentsavan Municipality",
+        "lat":40.40289,
+        "lon":44.64447,
+        "pop":22763
+    },
+    {
+        "id":616435,
+        "name":"Masis",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.06595,
+        "lon":44.43669,
+        "pop":20774
+    },
+    {
+        "id":616627,
+        "name":"Ijevan",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Ijevan Municipality",
+        "lat":40.88037,
+        "lon":45.14776,
+        "pop":19500
+    },
+    {
+        "id":616250,
+        "name":"Sevan",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Sevan Municipality",
+        "lat":40.548,
+        "lon":44.95314,
+        "pop":18951
+    },
+    {
+        "id":616599,
+        "name":"Gavar",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Gavar Municipality",
+        "lat":40.35398,
+        "lon":45.12386,
+        "pop":18900
+    },
+    {
+        "id":616887,
+        "name":"Artik",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.61918,
+        "lon":43.97207,
+        "pop":17950
+    },
+    {
+        "id":616877,
+        "name":"Ashtarak",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.2976,
+        "lon":44.36152,
+        "pop":17600
+    },
+    {
+        "id":174895,
+        "name":"Goris",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Goris Municipality",
+        "lat":39.51111,
+        "lon":46.34168,
+        "pop":17483
+    },
+    {
+        "id":174991,
+        "name":"Ararat",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Ararat Municipality",
+        "lat":39.85494,
+        "lon":44.6947,
+        "pop":16986
+    },
+    {
+        "id":616752,
+        "name":"Dilijan",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Dilijan Municipality",
+        "lat":40.74037,
+        "lon":44.86344,
+        "pop":16400
+    },
+    {
+        "id":616199,
+        "name":"Spitak",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Spitak Municipality",
+        "lat":40.83131,
+        "lon":44.27019,
+        "pop":13356
+    },
+    {
+        "id":174763,
+        "name":"Sisian",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Sisian Municipality",
+        "lat":39.52191,
+        "lon":46.02696,
+        "pop":13313
+    },
+    {
+        "id":616065,
+        "name":"Yeghvard",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Nairi Municipality",
+        "lat":40.32293,
+        "lon":44.48418,
+        "pop":12636
+    },
+    {
+        "id":616108,
+        "name":"Vardenis",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Vardenis Municipality",
+        "lat":40.1827,
+        "lon":45.73156,
+        "pop":12575
+    },
+    {
+        "id":616974,
+        "name":"Alaverdi",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Alaverdi Municipality",
+        "lat":41.09766,
+        "lon":44.67316,
+        "pop":12202
+    },
+    {
+        "id":616194,
+        "name":"Stepanavan",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Stepanavan Municipality",
+        "lat":41.00995,
+        "lon":44.38531,
+        "pop":12114
+    },
+    {
+        "id":616438,
+        "name":"Martuni",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Martuni Municipality",
+        "lat":40.14028,
+        "lon":45.30232,
+        "pop":11896
+    },
+    {
+        "id":174725,
+        "name":"Vedi",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Vedi Municipality",
+        "lat":39.91291,
+        "lon":44.72083,
+        "pop":11625
+    },
+    {
+        "id":616790,
+        "name":"Byureghavan",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Byureghavan Municipality",
+        "lat":40.31335,
+        "lon":44.59685,
+        "pop":11093
+    },
+    {
+        "id":823814,
+        "name":"Ayntap",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.09659,
+        "lon":44.4646,
+        "pop":10308
+    },
+    {
+        "id":616362,
+        "name":"Nor Hachn",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Nor Hachn Municipality",
+        "lat":40.30296,
+        "lon":44.58314,
+        "pop":10025
+    },
+    {
+        "id":616989,
+        "name":"Akhuryan",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.78081,
+        "lon":43.90037,
+        "pop":9839
+    },
+    {
+        "id":616375,
+        "name":"Nerkin Getashen",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Martuni Municipality",
+        "lat":40.14172,
+        "lon":45.27087,
+        "pop":9381
+    },
+    {
+        "id":823807,
+        "name":"Metsamor",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.14459,
+        "lon":44.11484,
+        "pop":9131
+    },
+    {
+        "id":616338,
+        "name":"Nor Kharberd",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.09168,
+        "lon":44.48053,
+        "pop":8478
+    },
+    {
+        "id":616109,
+        "name":"Vardenik",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Martuni Municipality",
+        "lat":40.13722,
+        "lon":45.42914,
+        "pop":8256
+    },
+    {
+        "id":616697,
+        "name":"Garni",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Garni Municipality",
+        "lat":40.11931,
+        "lon":44.73442,
+        "pop":8248
+    },
+    {
+        "id":174992,
+        "name":"Ararat village",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Ararat Municipality",
+        "lat":39.83166,
+        "lon":44.70489,
+        "pop":8211
+    },
+    {
+        "id":616178,
+        "name":"Tashir",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Tashir Municipality",
+        "lat":41.11922,
+        "lon":44.28649,
+        "pop":7599
+    },
+    {
+        "id":616255,
+        "name":"Sarukhan",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Gavar Municipality",
+        "lat":40.29169,
+        "lon":45.13068,
+        "pop":7458
+    },
+    {
+        "id":616908,
+        "name":"Arinj",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Abovyan Municipality",
+        "lat":40.23356,
+        "lon":44.58209,
+        "pop":7403
+    },
+    {
+        "id":174710,
+        "name":"Yeghegnadzor",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Yeghegnadzor Municipality",
+        "lat":39.7644,
+        "lon":45.33268,
+        "pop":7300
+    },
+    {
+        "id":823795,
+        "name":"Zovuni",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Nairi Municipality",
+        "lat":40.23307,
+        "lon":44.51129,
+        "pop":7290
+    },
+    {
+        "id":616341,
+        "name":"Nor Geghi",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Nor Hachn Municipality",
+        "lat":40.31668,
+        "lon":44.57785,
+        "pop":7005
+    },
+    {
+        "id":616802,
+        "name":"Berd",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Berd Municipality",
+        "lat":40.88066,
+        "lon":45.38901,
+        "pop":6900
+    },
+    {
+        "id":616721,
+        "name":"Jrvezh",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Jrvezh Municipality",
+        "lat":40.18889,
+        "lon":44.62414,
+        "pop":6794
+    },
+    {
+        "id":616307,
+        "name":"Parakar",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Parakar Municipality",
+        "lat":40.16388,
+        "lon":44.4057,
+        "pop":6739
+    },
+    {
+        "id":616040,
+        "name":"Zolakar",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Martuni Municipality",
+        "lat":40.12512,
+        "lon":45.38068,
+        "pop":6646
+    },
+    {
+        "id":823796,
+        "name":"Kasakh",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Nairi Municipality",
+        "lat":40.23555,
+        "lon":44.45162,
+        "pop":6560
+    },
+    {
+        "id":616328,
+        "name":"Sardarapat",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Armavir Municipality",
+        "lat":40.13206,
+        "lon":44.00969,
+        "pop":6539
+    },
+    {
+        "id":174880,
+        "name":"Kajaran",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Kajaran Municipality",
+        "lat":39.15091,
+        "lon":46.15673,
+        "pop":6535
+    },
+    {
+        "id":616945,
+        "name":"Aragatsavan",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Talin Municipality",
+        "lat":40.32121,
+        "lon":43.66205,
+        "pop":6501
+    },
+    {
+        "id":616361,
+        "name":"Noratus",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Gavar Municipality",
+        "lat":40.37793,
+        "lon":45.18048,
+        "pop":6276
+    },
+    {
+        "id":616320,
+        "name":"Oshakan",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.26392,
+        "lon":44.31671,
+        "pop":6131
+    },
+    {
+        "id":616953,
+        "name":"Aparan",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Aparan Municipality",
+        "lat":40.59297,
+        "lon":44.35945,
+        "pop":6078
+    },
+    {
+        "id":616416,
+        "name":"Metsavan",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Tashir Municipality",
+        "lat":41.20156,
+        "lon":44.22877,
+        "pop":6045
+    },
+    {
+        "id":823819,
+        "name":"Geghhovit",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Martuni Municipality",
+        "lat":40.10479,
+        "lon":45.2855,
+        "pop":6008
+    },
+    {
+        "id":616791,
+        "name":"Byurakan",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.33894,
+        "lon":44.27275,
+        "pop":5981
+    },
+    {
+        "id":610813,
+        "name":"Karmirgyugh",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Gavar Municipality",
+        "lat":40.33103,
+        "lon":45.14598,
+        "pop":5952
+    },
+    {
+        "id":616291,
+        "name":"Proshyan",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Nairi Municipality",
+        "lat":40.24731,
+        "lon":44.41949,
+        "pop":5950
+    },
+    {
+        "id":613075,
+        "name":"Margara",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.03332,
+        "lon":44.18048,
+        "pop":5783
+    },
+    {
+        "id":616648,
+        "name":"Gugark",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Vanadzor Municipality",
+        "lat":40.8046,
+        "lon":44.54025,
+        "pop":5740
+    },
+    {
+        "id":616835,
+        "name":"Azatan",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.71959,
+        "lon":43.82727,
+        "pop":5676
+    },
+    {
+        "id":616786,
+        "name":"Chambarak",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Chambarak Municipality",
+        "lat":40.59655,
+        "lon":45.35498,
+        "pop":5558
+    },
+    {
+        "id":174726,
+        "name":"Vayk",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Vayk Municipality",
+        "lat":39.69026,
+        "lon":45.46919,
+        "pop":5548
+    },
+    {
+        "id":616056,
+        "name":"Yeranos",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Martuni Municipality",
+        "lat":40.20428,
+        "lon":45.19209,
+        "pop":5401
+    },
+    {
+        "id":616446,
+        "name":"Maralik",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Ani Municipality",
+        "lat":40.57595,
+        "lon":43.87059,
+        "pop":5399
+    },
+    {
+        "id":616471,
+        "name":"Lichk",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Martuni Municipality",
+        "lat":40.15933,
+        "lon":45.23467,
+        "pop":5369
+    },
+    {
+        "id":616576,
+        "name":"Karanlukh",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"",
+        "lat":40.10444,
+        "lon":45.28972,
+        "pop":5104
+    },
+    {
+        "id":616404,
+        "name":"Mkhchyan",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"",
+        "lat":40.02228,
+        "lon":44.4917,
+        "pop":5013
+    },
+    {
+        "id":174969,
+        "name":"Avshar",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Ararat Municipality",
+        "lat":39.85388,
+        "lon":44.68016,
+        "pop":4899
+    },
+    {
+        "id":616573,
+        "name":"Karbi",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.33069,
+        "lon":44.37793,
+        "pop":4844
+    },
+    {
+        "id":174714,
+        "name":"Vosketap",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Vedi Municipality",
+        "lat":39.88114,
+        "lon":44.64917,
+        "pop":4820
+    },
+    {
+        "id":616716,
+        "name":"Dzoragyugh",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Martuni Municipality",
+        "lat":40.16817,
+        "lon":45.1945,
+        "pop":4767
+    },
+    {
+        "id":174828,
+        "name":"Malishka",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Yeghegnadzor Municipality",
+        "lat":39.73787,
+        "lon":45.39058,
+        "pop":4665
+    },
+    {
+        "id":616769,
+        "name":"Dalarik",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Baghramyan Municipality",
+        "lat":40.22648,
+        "lon":43.8719,
+        "pop":4650
+    },
+    {
+        "id":616525,
+        "name":"Koghb",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Noyemberyan Municipality",
+        "lat":41.18184,
+        "lon":44.97608,
+        "pop":4609
+    },
+    {
+        "id":616136,
+        "name":"Tsovinar",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Martuni Municipality",
+        "lat":40.15959,
+        "lon":45.46786,
+        "pop":4572
+    },
+    {
+        "id":823802,
+        "name":"Myasnikyan",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Armavir Municipality",
+        "lat":40.18048,
+        "lon":43.91949,
+        "pop":4569
+    },
+    {
+        "id":616400,
+        "name":"Mrgashat",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.13068,
+        "lon":44.08069,
+        "pop":4560
+    },
+    {
+        "id":616284,
+        "name":"Geghashen",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Abovyan Municipality",
+        "lat":40.22754,
+        "lon":44.72464,
+        "pop":4555
+    },
+    {
+        "id":616333,
+        "name":"Noyemberyan",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Noyemberyan Municipality",
+        "lat":41.17319,
+        "lon":44.99851,
+        "pop":4536
+    },
+    {
+        "id":174968,
+        "name":"Aygavan",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Vedi Municipality",
+        "lat":39.87327,
+        "lon":44.66984,
+        "pop":4520
+    },
+    {
+        "id":616581,
+        "name":"Karakert",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Baghramyan Municipality",
+        "lat":40.24451,
+        "lon":43.82233,
+        "pop":4518
+    },
+    {
+        "id":616071,
+        "name":"Voskevaz",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.27508,
+        "lon":44.30011,
+        "pop":4496
+    },
+    {
+        "id":616094,
+        "name":"Verin Getashen",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Martuni Municipality",
+        "lat":40.13068,
+        "lon":45.25293,
+        "pop":4490
+    },
+    {
+        "id":616187,
+        "name":"Talin",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Talin Municipality",
+        "lat":40.39172,
+        "lon":43.87793,
+        "pop":4451
+    },
+    {
+        "id":174775,
+        "name":"Shahumyan",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":39.94171,
+        "lon":44.57233,
+        "pop":4409
+    },
+    {
+        "id":616874,
+        "name":"Astghadzor",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Martuni Municipality",
+        "lat":40.12231,
+        "lon":45.35553,
+        "pop":4386
+    },
+    {
+        "id":616814,
+        "name":"Gandzak",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Gavar Municipality",
+        "lat":40.32309,
+        "lon":45.1103,
+        "pop":4377
+    },
+    {
+        "id":616139,
+        "name":"Tsovagyugh",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Sevan Municipality",
+        "lat":40.63348,
+        "lon":44.96112,
+        "pop":4301
+    },
+    {
+        "id":617024,
+        "name":"Achajur",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Ijevan Municipality",
+        "lat":40.98781,
+        "lon":45.14952,
+        "pop":4274
+    },
+    {
+        "id":616488,
+        "name":"Lchashen",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Sevan Municipality",
+        "lat":40.51947,
+        "lon":44.93048,
+        "pop":4266
+    },
+    {
+        "id":616554,
+        "name":"Kasakh",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"",
+        "lat":40.53697,
+        "lon":44.41046,
+        "pop":4247
+    },
+    {
+        "id":616898,
+        "name":"Arshaluys",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Khoy Municipality",
+        "lat":40.16949,
+        "lon":44.21393,
+        "pop":4228
+    },
+    {
+        "id":866091,
+        "name":"Hovtashat",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.09729,
+        "lon":44.34448,
+        "pop":4224
+    },
+    {
+        "id":616330,
+        "name":"Odzun",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Alaverdi Municipality",
+        "lat":41.05321,
+        "lon":44.61341,
+        "pop":4203
+    },
+    {
+        "id":174823,
+        "name":"Meghri",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Meghri Municipality",
+        "lat":38.90123,
+        "lon":46.24308,
+        "pop":4175
+    },
+    {
+        "id":616593,
+        "name":"Kanakeravan",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Nor Hachn Municipality",
+        "lat":40.24739,
+        "lon":44.53511,
+        "pop":4153
+    },
+    {
+        "id":174884,
+        "name":"Jermuk",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Jermuk Municipality",
+        "lat":39.83948,
+        "lon":45.67112,
+        "pop":4146
+    },
+    {
+        "id":823808,
+        "name":"Gay",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Araks Municipality",
+        "lat":40.08444,
+        "lon":44.30528,
+        "pop":4135
+    },
+    {
+        "id":616936,
+        "name":"Aramus",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Abovyan Municipality",
+        "lat":40.25095,
+        "lon":44.66351,
+        "pop":4065
+    },
+    {
+        "id":616119,
+        "name":"Vaghashen",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Martuni Municipality",
+        "lat":40.13611,
+        "lon":45.33069,
+        "pop":4048
+    },
+    {
+        "id":616100,
+        "name":"Verin Artashat",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":39.99731,
+        "lon":44.58893,
+        "pop":4042
+    },
+    {
+        "id":616418,
+        "name":"Merdzavan",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Parakar Municipality",
+        "lat":40.1814,
+        "lon":44.40033,
+        "pop":3938
+    },
+    {
+        "id":616888,
+        "name":"Arteni",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Talin Municipality",
+        "lat":40.2973,
+        "lon":43.76672,
+        "pop":3925
+    },
+    {
+        "id":616824,
+        "name":"Balahovit",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Abovyan Municipality",
+        "lat":40.25153,
+        "lon":44.60828,
+        "pop":3884
+    },
+    {
+        "id":616982,
+        "name":"Akunk",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Vardenis Municipality",
+        "lat":40.16056,
+        "lon":45.72707,
+        "pop":3850
+    },
+    {
+        "id":617002,
+        "name":"Aghavnatun",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Khoy Municipality",
+        "lat":40.2333,
+        "lon":44.25295,
+        "pop":3742
+    },
+    {
+        "id":616350,
+        "name":"Norashen",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":40.0013,
+        "lon":44.59296,
+        "pop":3737
+    },
+    {
+        "id":616944,
+        "name":"Aragats",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Aparan Municipality",
+        "lat":40.48889,
+        "lon":44.3529,
+        "pop":3643
+    },
+    {
+        "id":616722,
+        "name":"Jrashen",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Spitak Municipality",
+        "lat":40.79028,
+        "lon":44.18664,
+        "pop":3616
+    },
+    {
+        "id":617016,
+        "name":"Gandzakar",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Ijevan Municipality",
+        "lat":40.84291,
+        "lon":45.16132,
+        "pop":3613
+    },
+    {
+        "id":616441,
+        "name":"Marmarashen",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.05829,
+        "lon":44.47229,
+        "pop":3607
+    },
+    {
+        "id":616893,
+        "name":"Artashar",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.11108,
+        "lon":44.18329,
+        "pop":3577
+    },
+    {
+        "id":616445,
+        "name":"Margahovit",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Pambak Municipality",
+        "lat":40.73381,
+        "lon":44.68474,
+        "pop":3574
+    },
+    {
+        "id":616634,
+        "name":"Haghartsin",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Dilijan Municipality",
+        "lat":40.77614,
+        "lon":44.96847,
+        "pop":3566
+    },
+    {
+        "id":174843,
+        "name":"Pokr Vedi",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Vedi Municipality",
+        "lat":39.90289,
+        "lon":44.6029,
+        "pop":3523
+    },
+    {
+        "id":616256,
+        "name":"Sarnaghbyur",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Ani Municipality",
+        "lat":40.52368,
+        "lon":43.91248,
+        "pop":3501
+    },
+    {
+        "id":866093,
+        "name":"Voskehat",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Vagharshapat Municipality",
+        "lat":40.14172,
+        "lon":44.33069,
+        "pop":3446
+    },
+    {
+        "id":616126,
+        "name":"Ujan",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.29671,
+        "lon":44.205,
+        "pop":3440
+    },
+    {
+        "id":616735,
+        "name":"Janfida",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.04449,
+        "lon":44.02789,
+        "pop":3363
+    },
+    {
+        "id":616682,
+        "name":"Geghanist",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.14587,
+        "lon":44.43048,
+        "pop":3363
+    },
+    {
+        "id":175008,
+        "name":"Agarak",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Meghri Municipality",
+        "lat":38.86506,
+        "lon":46.19463,
+        "pop":3350
+    },
+    {
+        "id":616523,
+        "name":"Kosh",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.29995,
+        "lon":44.15252,
+        "pop":3341
+    },
+    {
+        "id":616359,
+        "name":"Norakert",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Parakar Municipality",
+        "lat":40.19733,
+        "lon":44.3501,
+        "pop":3320
+    },
+    {
+        "id":616801,
+        "name":"Berdavan",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Noyemberyan Municipality",
+        "lat":41.20503,
+        "lon":44.99967,
+        "pop":3267
+    },
+    {
+        "id":616855,
+        "name":"Aygehovit",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Ijevan Municipality",
+        "lat":40.97951,
+        "lon":45.25033,
+        "pop":3248
+    },
+    {
+        "id":391236,
+        "name":"Urtsadzor",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Vedi Municipality",
+        "lat":39.91949,
+        "lon":44.82507,
+        "pop":3231
+    },
+    {
+        "id":616912,
+        "name":"Argel",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Nor Hachn Municipality",
+        "lat":40.37116,
+        "lon":44.59618,
+        "pop":3222
+    },
+    {
+        "id":174713,
+        "name":"Vostan",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":39.96515,
+        "lon":44.55937,
+        "pop":3216
+    },
+    {
+        "id":616853,
+        "name":"Aknalich",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.14728,
+        "lon":44.16669,
+        "pop":3212
+    },
+    {
+        "id":823809,
+        "name":"Baghramyan",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Parakar Municipality",
+        "lat":40.19324,
+        "lon":44.36934,
+        "pop":3157
+    },
+    {
+        "id":616379,
+        "name":"Artsvanist",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Martuni Municipality",
+        "lat":40.14857,
+        "lon":45.50874,
+        "pop":3142
+    },
+    {
+        "id":823810,
+        "name":"Musaler",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Parakar Municipality",
+        "lat":40.1557,
+        "lon":44.37793,
+        "pop":3098
+    },
+    {
+        "id":616303,
+        "name":"Pemzashen",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.58612,
+        "lon":43.94311,
+        "pop":3074
+    },
+    {
+        "id":174964,
+        "name":"Aygezard",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":39.95436,
+        "lon":44.60229,
+        "pop":3072
+    },
+    {
+        "id":616727,
+        "name":"Jrarat",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Araks Municipality",
+        "lat":40.07214,
+        "lon":44.27137,
+        "pop":3052
+    },
+    {
+        "id":174878,
+        "name":"Kaghtsrashen",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"",
+        "lat":39.98053,
+        "lon":44.62512,
+        "pop":3049
+    },
+    {
+        "id":866082,
+        "name":"Aratashen",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Araks Municipality",
+        "lat":40.12824,
+        "lon":44.22803,
+        "pop":3025
+    },
+    {
+        "id":616484,
+        "name":"Khoronk",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Araks Municipality",
+        "lat":40.13611,
+        "lon":44.24731,
+        "pop":3010
+    },
+    {
+        "id":616480,
+        "name":"Lernanist",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Hrazdan Municipality",
+        "lat":40.46676,
+        "lon":44.79249,
+        "pop":3002
+    },
+    {
+        "id":616918,
+        "name":"Arevik",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.1001,
+        "lon":44.09448,
+        "pop":2991
+    },
+    {
+        "id":174961,
+        "name":"Azatavan",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":39.98608,
+        "lon":44.50568,
+        "pop":2978
+    },
+    {
+        "id":866111,
+        "name":"Tairov",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Parakar Municipality",
+        "lat":40.16078,
+        "lon":44.43435,
+        "pop":2964
+    },
+    {
+        "id":616174,
+        "name":"Tsovasar",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Martuni Municipality",
+        "lat":40.1382,
+        "lon":45.19096,
+        "pop":2917
+    },
+    {
+        "id":616741,
+        "name":"Dvin",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":40.01984,
+        "lon":44.58376,
+        "pop":2905
+    },
+    {
+        "id":823748,
+        "name":"Azatamut",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Ijevan Municipality",
+        "lat":40.98847,
+        "lon":45.2067,
+        "pop":2891
+    },
+    {
+        "id":616946,
+        "name":"Aragats",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Khoy Municipality",
+        "lat":40.21948,
+        "lon":44.23328,
+        "pop":2882
+    },
+    {
+        "id":616789,
+        "name":"Bjni",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Charentsavan Municipality",
+        "lat":40.45382,
+        "lon":44.64841,
+        "pop":2882
+    },
+    {
+        "id":616828,
+        "name":"Bagratashen",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Noyemberyan Municipality",
+        "lat":41.24358,
+        "lon":44.81737,
+        "pop":2869
+    },
+    {
+        "id":616309,
+        "name":"Panik",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.66388,
+        "lon":43.97089,
+        "pop":2860
+    },
+    {
+        "id":616147,
+        "name":"Tsakkar",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Martuni Municipality",
+        "lat":40.17354,
+        "lon":45.22201,
+        "pop":2860
+    },
+    {
+        "id":616882,
+        "name":"Arzakan",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Charentsavan Municipality",
+        "lat":40.45007,
+        "lon":44.60828,
+        "pop":2829
+    },
+    {
+        "id":616220,
+        "name":"Shnogh",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Alaverdi Municipality",
+        "lat":41.14693,
+        "lon":44.84043,
+        "pop":2825
+    },
+    {
+        "id":616878,
+        "name":"Ashotsk",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Ashotsk Municipality",
+        "lat":41.0377,
+        "lon":43.85843,
+        "pop":2818
+    },
+    {
+        "id":174931,
+        "name":"Dalar",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":39.97539,
+        "lon":44.52784,
+        "pop":2813
+    },
+    {
+        "id":823811,
+        "name":"Darakert",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.10553,
+        "lon":44.41388,
+        "pop":2805
+    },
+    {
+        "id":617023,
+        "name":"Vardadzor",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Martuni Municipality",
+        "lat":40.1875,
+        "lon":45.19389,
+        "pop":2798
+    },
+    {
+        "id":616278,
+        "name":"Geghakert",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Khoy Municipality",
+        "lat":40.18516,
+        "lon":44.24493,
+        "pop":2788
+    },
+    {
+        "id":616712,
+        "name":"Dzoraghbyur",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Jrvezh Municipality",
+        "lat":40.2004,
+        "lon":44.63438,
+        "pop":2776
+    },
+    {
+        "id":174806,
+        "name":"Nor Kyank",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Vedi Municipality",
+        "lat":39.902,
+        "lon":44.63,
+        "pop":2760
+    },
+    {
+        "id":823755,
+        "name":"Artsvaberd",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Berd Municipality",
+        "lat":40.83947,
+        "lon":45.47033,
+        "pop":2752
+    },
+    {
+        "id":174770,
+        "name":"Lusarat",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Vedi Municipality",
+        "lat":39.87403,
+        "lon":44.58678,
+        "pop":2739
+    },
+    {
+        "id":174745,
+        "name":"Vanashen",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Vedi Municipality",
+        "lat":39.90008,
+        "lon":44.6889,
+        "pop":2730
+    },
+    {
+        "id":616464,
+        "name":"Lukashin",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Armavir Municipality",
+        "lat":40.18726,
+        "lon":44.0039,
+        "pop":2729
+    },
+    {
+        "id":616431,
+        "name":"Mastara",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Talin Municipality",
+        "lat":40.4471,
+        "lon":43.8817,
+        "pop":2719
+    },
+    {
+        "id":616424,
+        "name":"Meghradzor",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Tsaghkadzor Municipality",
+        "lat":40.6068,
+        "lon":44.64158,
+        "pop":2707
+    },
+    {
+        "id":616076,
+        "name":"Voskehask",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.76426,
+        "lon":43.77474,
+        "pop":2702
+    },
+    {
+        "id":174983,
+        "name":"Armash",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Ararat Municipality",
+        "lat":39.76672,
+        "lon":44.8111,
+        "pop":2700
+    },
+    {
+        "id":616604,
+        "name":"Kaghsi",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Hrazdan Municipality",
+        "lat":40.47196,
+        "lon":44.73744,
+        "pop":2680
+    },
+    {
+        "id":174706,
+        "name":"Goravan",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Vedi Municipality",
+        "lat":39.90539,
+        "lon":44.73131,
+        "pop":2680
+    },
+    {
+        "id":616329,
+        "name":"Ohanavan",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.3485,
+        "lon":44.38717,
+        "pop":2679
+    },
+    {
+        "id":174755,
+        "name":"Surenavan",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Ararat Municipality",
+        "lat":39.79449,
+        "lon":44.77508,
+        "pop":2672
+    },
+    {
+        "id":616757,
+        "name":"Ddmashen",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Sevan Municipality",
+        "lat":40.57013,
+        "lon":44.81609,
+        "pop":2648
+    },
+    {
+        "id":391233,
+        "name":"Aralez",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Vedi Municipality",
+        "lat":39.90005,
+        "lon":44.65086,
+        "pop":2635
+    },
+    {
+        "id":616914,
+        "name":"Argavand",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.0611,
+        "lon":44.09448,
+        "pop":2600
+    },
+    {
+        "id":174769,
+        "name":"Shinuhayr",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Tatev Municipality",
+        "lat":39.4367,
+        "lon":46.31787,
+        "pop":2600
+    },
+    {
+        "id":616411,
+        "name":"Mets Masrik",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Vardenis Municipality",
+        "lat":40.21948,
+        "lon":45.76391,
+        "pop":2595
+    },
+    {
+        "id":799614,
+        "name":"Norabats",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.10553,
+        "lon":44.43329,
+        "pop":2579
+    },
+    {
+        "id":823793,
+        "name":"Sasunik",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.25012,
+        "lon":44.34448,
+        "pop":2555
+    },
+    {
+        "id":616633,
+        "name":"Hatsik",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Armavir Municipality",
+        "lat":40.17143,
+        "lon":43.94993,
+        "pop":2546
+    },
+    {
+        "id":866137,
+        "name":"Mrgavet",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":40.02789,
+        "lon":44.48328,
+        "pop":2514
+    },
+    {
+        "id":616620,
+        "name":"Shahumyan",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Vanadzor Municipality",
+        "lat":40.77482,
+        "lon":44.54596,
+        "pop":2514
+    },
+    {
+        "id":823787,
+        "name":"Lernagog",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Baghramyan Municipality",
+        "lat":40.24011,
+        "lon":43.87102,
+        "pop":2507
+    },
+    {
+        "id":616920,
+        "name":"Arevashogh",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Spitak Municipality",
+        "lat":40.86039,
+        "lon":44.27438,
+        "pop":2493
+    },
+    {
+        "id":174904,
+        "name":"Gladzor",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Yeghegnadzor Municipality",
+        "lat":39.7807,
+        "lon":45.34729,
+        "pop":2490
+    },
+    {
+        "id":616849,
+        "name":"Aygestan",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":40.00293,
+        "lon":44.55829,
+        "pop":2462
+    },
+    {
+        "id":11224304,
+        "name":"Norapat",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.14172,
+        "lon":44.03332,
+        "pop":2455
+    },
+    {
+        "id":616138,
+        "name":"Tsovak",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Vardenis Municipality",
+        "lat":40.18254,
+        "lon":45.63286,
+        "pop":2455
+    },
+    {
+        "id":616305,
+        "name":"Parpi",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.32231,
+        "lon":44.31141,
+        "pop":2452
+    },
+    {
+        "id":616632,
+        "name":"Hayanist",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.11995,
+        "lon":44.37298,
+        "pop":2430
+    },
+    {
+        "id":616872,
+        "name":"Artimet",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Araks Municipality",
+        "lat":40.15008,
+        "lon":44.26672,
+        "pop":2427
+    },
+    {
+        "id":616983,
+        "name":"Akori",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Alaverdi Municipality",
+        "lat":41.08976,
+        "lon":44.6173,
+        "pop":2424
+    },
+    {
+        "id":616492,
+        "name":"Lanjaghbyur",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Gavar Municipality",
+        "lat":40.26947,
+        "lon":45.14447,
+        "pop":2424
+    },
+    {
+        "id":616881,
+        "name":"Arzni",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Arzni Municipality",
+        "lat":40.29636,
+        "lon":44.5958,
+        "pop":2409
+    },
+    {
+        "id":616838,
+        "name":"Haytagh",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Khoy Municipality",
+        "lat":40.18048,
+        "lon":44.23328,
+        "pop":2402
+    },
+    {
+        "id":616640,
+        "name":"Kamaris",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Abovyan Municipality",
+        "lat":40.23694,
+        "lon":44.69153,
+        "pop":2395
+    },
+    {
+        "id":616981,
+        "name":"Akunk",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Akunk Municipality",
+        "lat":40.26672,
+        "lon":44.6861,
+        "pop":2387
+    },
+    {
+        "id":616995,
+        "name":"Akhtala",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Alaverdi Municipality",
+        "lat":41.14952,
+        "lon":44.78168,
+        "pop":2386
+    },
+    {
+        "id":616290,
+        "name":"Pshatavan",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.03888,
+        "lon":44.06671,
+        "pop":2379
+    },
+    {
+        "id":866092,
+        "name":"Sayat-Nova",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.07507,
+        "lon":44.40008,
+        "pop":2375
+    },
+    {
+        "id":174907,
+        "name":"Getap",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Yeghegnadzor Municipality",
+        "lat":39.76392,
+        "lon":45.30829,
+        "pop":2368
+    },
+    {
+        "id":866081,
+        "name":"Taronik",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.13367,
+        "lon":44.19957,
+        "pop":2330
+    },
+    {
+        "id":616429,
+        "name":"Mayakovski",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Abovyan Municipality",
+        "lat":40.24419,
+        "lon":44.6341,
+        "pop":2324
+    },
+    {
+        "id":616399,
+        "name":"Mrgashen",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Nor Hachn Municipality",
+        "lat":40.28607,
+        "lon":44.54449,
+        "pop":2290
+    },
+    {
+        "id":174743,
+        "name":"Tegh",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Tegh Municipality",
+        "lat":39.55826,
+        "lon":46.48054,
+        "pop":2268
+    },
+    {
+        "id":174764,
+        "name":"Sisavan",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Vedi Municipality",
+        "lat":39.90802,
+        "lon":44.66721,
+        "pop":2257
+    },
+    {
+        "id":616386,
+        "name":"Shirakamut",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Spitak Municipality",
+        "lat":40.85287,
+        "lon":44.16366,
+        "pop":2241
+    },
+    {
+        "id":616356,
+        "name":"Noramarg",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.02228,
+        "lon":44.42511,
+        "pop":2241
+    },
+    {
+        "id":616639,
+        "name":"Gyulagarak",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Gyulagarak Municipality",
+        "lat":40.96528,
+        "lon":44.47128,
+        "pop":2239
+    },
+    {
+        "id":616535,
+        "name":"Hnaberd",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Tsaghkahovit Municipality",
+        "lat":40.63721,
+        "lon":44.14058,
+        "pop":2235
+    },
+    {
+        "id":616669,
+        "name":"Getashen",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.04449,
+        "lon":43.94171,
+        "pop":2228
+    },
+    {
+        "id":616932,
+        "name":"Arbat",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"",
+        "lat":40.13892,
+        "lon":44.40289,
+        "pop":2220
+    },
+    {
+        "id":616541,
+        "name":"Khachpar",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.12512,
+        "lon":44.4057,
+        "pop":2219
+    },
+    {
+        "id":616645,
+        "name":"Ghukasavan",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.12394,
+        "lon":44.41556,
+        "pop":2217
+    },
+    {
+        "id":616412,
+        "name":"Mets Mantash",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.64376,
+        "lon":44.05653,
+        "pop":2200
+    },
+    {
+        "id":616137,
+        "name":"Tsovazard",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Gavar Municipality",
+        "lat":40.4751,
+        "lon":45.05011,
+        "pop":2182
+    },
+    {
+        "id":616189,
+        "name":"Getahovit",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Ijevan Municipality",
+        "lat":40.89523,
+        "lon":45.1355,
+        "pop":2174
+    },
+    {
+        "id":616039,
+        "name":"Zorak",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.09168,
+        "lon":44.39447,
+        "pop":2171
+    },
+    {
+        "id":616763,
+        "name":"Darpas",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Vanadzor Municipality",
+        "lat":40.83674,
+        "lon":44.42494,
+        "pop":2170
+    },
+    {
+        "id":616244,
+        "name":"Sevkar",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Ijevan Municipality",
+        "lat":41.01599,
+        "lon":45.14185,
+        "pop":2168
+    },
+    {
+        "id":174805,
+        "name":"Noyakert",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Ararat Municipality",
+        "lat":39.83069,
+        "lon":44.66949,
+        "pop":2140
+    },
+    {
+        "id":616657,
+        "name":"Goght",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Garni Municipality",
+        "lat":40.1347,
+        "lon":44.78332,
+        "pop":2136
+    },
+    {
+        "id":616742,
+        "name":"Dsegh",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Tumanyan Municipality",
+        "lat":40.9617,
+        "lon":44.65003,
+        "pop":2135
+    },
+    {
+        "id":612561,
+        "name":"Horom",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.65973,
+        "lon":43.89032,
+        "pop":2135
+    },
+    {
+        "id":866095,
+        "name":"Griboyedov",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Araks Municipality",
+        "lat":40.11307,
+        "lon":44.27169,
+        "pop":2131
+    },
+    {
+        "id":823812,
+        "name":"Dashtavan",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.1001,
+        "lon":44.39172,
+        "pop":2118
+    },
+    {
+        "id":174717,
+        "name":"Verishen",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Goris Municipality",
+        "lat":39.53117,
+        "lon":46.31829,
+        "pop":2117
+    },
+    {
+        "id":616668,
+        "name":"Getazat",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"",
+        "lat":40.03844,
+        "lon":44.56369,
+        "pop":2115
+    },
+    {
+        "id":616158,
+        "name":"Tsaghkahovit",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Tsaghkahovit Municipality",
+        "lat":40.63883,
+        "lon":44.22252,
+        "pop":2113
+    },
+    {
+        "id":616851,
+        "name":"Aygeshat",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.07507,
+        "lon":44.0611,
+        "pop":2111
+    },
+    {
+        "id":616211,
+        "name":"Solak",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Hrazdan Municipality",
+        "lat":40.46252,
+        "lon":44.70709,
+        "pop":2096
+    },
+    {
+        "id":616617,
+        "name":"Mayisyan",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Armavir Municipality",
+        "lat":40.15701,
+        "lon":44.09192,
+        "pop":2069
+    },
+    {
+        "id":616513,
+        "name":"Kuchak",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Aparan Municipality",
+        "lat":40.51915,
+        "lon":44.39119,
+        "pop":2068
+    },
+    {
+        "id":617020,
+        "name":"Agarak",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.30191,
+        "lon":44.27923,
+        "pop":2057
+    },
+    {
+        "id":616240,
+        "name":"Shamiram",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Shamiram Municipality",
+        "lat":40.27654,
+        "lon":44.09846,
+        "pop":2055
+    },
+    {
+        "id":616297,
+        "name":"Pokr Mantash",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.64026,
+        "lon":44.04666,
+        "pop":2047
+    },
+    {
+        "id":616954,
+        "name":"Apaga",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Araks Municipality",
+        "lat":40.09729,
+        "lon":44.25293,
+        "pop":2045
+    },
+    {
+        "id":616208,
+        "name":"Alashkert",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.10712,
+        "lon":44.05108,
+        "pop":2045
+    },
+    {
+        "id":616410,
+        "name":"Mets Parni",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Spitak Municipality",
+        "lat":40.83472,
+        "lon":44.11108,
+        "pop":2043
+    },
+    {
+        "id":616913,
+        "name":"Argavand",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.15289,
+        "lon":44.4389,
+        "pop":2032
+    },
+    {
+        "id":174984,
+        "name":"Areni",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Areni Municipality",
+        "lat":39.72205,
+        "lon":45.18392,
+        "pop":2030
+    },
+    {
+        "id":616921,
+        "name":"Arevashat",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Parakar Municipality",
+        "lat":40.13984,
+        "lon":44.3744,
+        "pop":2024
+    },
+    {
+        "id":616572,
+        "name":"Karchaghbyur",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Vardenis Municipality",
+        "lat":40.17048,
+        "lon":45.57785,
+        "pop":2017
+    },
+    {
+        "id":616385,
+        "name":"Nalbandyan",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.0639,
+        "lon":43.98889,
+        "pop":2013
+    },
+    {
+        "id":174940,
+        "name":"Burastan",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":39.98907,
+        "lon":44.49785,
+        "pop":2012
+    },
+    {
+        "id":616978,
+        "name":"Alapars",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Charentsavan Municipality",
+        "lat":40.4223,
+        "lon":44.63348,
+        "pop":2010
+    },
+    {
+        "id":616955,
+        "name":"Anushavan",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.65008,
+        "lon":43.98053,
+        "pop":2007
+    },
+    {
+        "id":616055,
+        "name":"Yeraskhahun",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.07233,
+        "lon":44.21948,
+        "pop":2003
+    },
+    {
+        "id":616476,
+        "name":"Lernapat",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Pambak Municipality",
+        "lat":40.81538,
+        "lon":44.39344,
+        "pop":1997
+    },
+    {
+        "id":616289,
+        "name":"Ptghunk",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Parakar Municipality",
+        "lat":40.16388,
+        "lon":44.36389,
+        "pop":1996
+    },
+    {
+        "id":175002,
+        "name":"Aghavnadzor",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Areni Municipality",
+        "lat":39.78197,
+        "lon":45.22708,
+        "pop":1994
+    },
+    {
+        "id":616773,
+        "name":"Chochkan",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Alaverdi Municipality",
+        "lat":41.18118,
+        "lon":44.83217,
+        "pop":1993
+    },
+    {
+        "id":174947,
+        "name":"Berkanush",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":39.97729,
+        "lon":44.52127,
+        "pop":1983
+    },
+    {
+        "id":617010,
+        "name":"Aghdzk",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.3139,
+        "lon":44.25568,
+        "pop":1968
+    },
+    {
+        "id":616519,
+        "name":"Koti",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Noyemberyan Municipality",
+        "lat":41.13243,
+        "lon":45.1295,
+        "pop":1935
+    },
+    {
+        "id":616230,
+        "name":"Shenavan",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Aparan Municipality",
+        "lat":40.48328,
+        "lon":44.38348,
+        "pop":1929
+    },
+    {
+        "id":174849,
+        "name":"Khndzoresk",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Goris Municipality",
+        "lat":39.51325,
+        "lon":46.43141,
+        "pop":1911
+    },
+    {
+        "id":616917,
+        "name":"Arevik",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.7417,
+        "lon":43.9043,
+        "pop":1905
+    },
+    {
+        "id":616915,
+        "name":"Arevshat",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.65345,
+        "lon":44.04419,
+        "pop":1898
+    },
+    {
+        "id":616288,
+        "name":"Ptghni",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Abovyan Municipality",
+        "lat":40.25681,
+        "lon":44.58195,
+        "pop":1890
+    },
+    {
+        "id":616231,
+        "name":"Shenavan",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.05548,
+        "lon":43.93048,
+        "pop":1867
+    },
+    {
+        "id":174955,
+        "name":"Baghramyan",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":39.98053,
+        "lon":44.51392,
+        "pop":1864
+    },
+    {
+        "id":616553,
+        "name":"Katnajur",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Spitak Municipality",
+        "lat":40.82323,
+        "lon":44.14137,
+        "pop":1862
+    },
+    {
+        "id":616097,
+        "name":"Verin Dvin",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Verin Dvin Municipality",
+        "lat":40.02393,
+        "lon":44.5924,
+        "pop":1862
+    },
+    {
+        "id":616840,
+        "name":"Ayrum",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Noyemberyan Municipality",
+        "lat":41.18826,
+        "lon":44.90404,
+        "pop":1850
+    },
+    {
+        "id":616537,
+        "name":"Khashtarak",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Ijevan Municipality",
+        "lat":40.93668,
+        "lon":45.1821,
+        "pop":1838
+    },
+    {
+        "id":7669109,
+        "name":"Noravan",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Armavir Municipality",
+        "lat":40.17244,
+        "lon":44.02979,
+        "pop":1832
+    },
+    {
+        "id":616688,
+        "name":"Gegharkunik",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Gavar Municipality",
+        "lat":40.25568,
+        "lon":45.14728,
+        "pop":1821
+    },
+    {
+        "id":616184,
+        "name":"Tandzut",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.06952,
+        "lon":44.07788,
+        "pop":1821
+    },
+    {
+        "id":823791,
+        "name":"Nor Yerznka",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.30011,
+        "lon":44.38892,
+        "pop":1813
+    },
+    {
+        "id":174820,
+        "name":"Mrgavan",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":39.97251,
+        "lon":44.53565,
+        "pop":1807
+    },
+    {
+        "id":616699,
+        "name":"Gagarin",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Sevan Municipality",
+        "lat":40.54026,
+        "lon":44.86962,
+        "pop":1800
+    },
+    {
+        "id":7669111,
+        "name":"Khanjyan",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Armavir Municipality",
+        "lat":40.18742,
+        "lon":43.97718,
+        "pop":1793
+    },
+    {
+        "id":616692,
+        "name":"Geghamavan",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Sevan Municipality",
+        "lat":40.5625,
+        "lon":44.88892,
+        "pop":1791
+    },
+    {
+        "id":616916,
+        "name":"Arevshat",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":40.03963,
+        "lon":44.54179,
+        "pop":1786
+    },
+    {
+        "id":616522,
+        "name":"Kotayk",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Akunk Municipality",
+        "lat":40.27789,
+        "lon":44.66388,
+        "pop":1785
+    },
+    {
+        "id":616340,
+        "name":"Nor Gyugh",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Akunk Municipality",
+        "lat":40.26494,
+        "lon":44.65471,
+        "pop":1760
+    },
+    {
+        "id":616299,
+        "name":"Zoravan",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Nairi Municipality",
+        "lat":40.35553,
+        "lon":44.52228,
+        "pop":1758
+    },
+    {
+        "id":866089,
+        "name":"Aknashen",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Araks Municipality",
+        "lat":40.09275,
+        "lon":44.29157,
+        "pop":1748
+    },
+    {
+        "id":616850,
+        "name":"Aygeshat",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Khoy Municipality",
+        "lat":40.23608,
+        "lon":44.28888,
+        "pop":1741
+    },
+    {
+        "id":174776,
+        "name":"Shatin",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Yeghegis Municipality",
+        "lat":39.83612,
+        "lon":45.30292,
+        "pop":1738
+    },
+    {
+        "id":616933,
+        "name":"Arazap",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.04169,
+        "lon":44.14728,
+        "pop":1730
+    },
+    {
+        "id":11107455,
+        "name":"Araks",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Armavir Municipality",
+        "lat":40.09729,
+        "lon":43.95569,
+        "pop":1728
+    },
+    {
+        "id":616938,
+        "name":"Araks",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Araks Municipality",
+        "lat":40.05548,
+        "lon":44.30292,
+        "pop":1727
+    },
+    {
+        "id":616061,
+        "name":"Yeghegnut",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.08893,
+        "lon":44.16669,
+        "pop":1726
+    },
+    {
+        "id":616935,
+        "name":"Arapi",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.78276,
+        "lon":43.80583,
+        "pop":1705
+    },
+    {
+        "id":11224578,
+        "name":"Jrarbi",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Araks Municipality",
+        "lat":40.08738,
+        "lon":44.23995,
+        "pop":1704
+    },
+    {
+        "id":616724,
+        "name":"Jrashen",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":40.05275,
+        "lon":44.51259,
+        "pop":1691
+    },
+    {
+        "id":616792,
+        "name":"Buzhakan",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Nairi Municipality",
+        "lat":40.45569,
+        "lon":44.51947,
+        "pop":1675
+    },
+    {
+        "id":616971,
+        "name":"Amasia",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Amasia Municipality",
+        "lat":40.95566,
+        "lon":43.78379,
+        "pop":1671
+    },
+    {
+        "id":616159,
+        "name":"Tsaghkaber",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Spitak Municipality",
+        "lat":40.79849,
+        "lon":44.10144,
+        "pop":1665
+    },
+    {
+        "id":823805,
+        "name":"Lenughi",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Armavir Municipality",
+        "lat":40.12512,
+        "lon":43.96393,
+        "pop":1647
+    },
+    {
+        "id":866097,
+        "name":"Amberd",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Khoy Municipality",
+        "lat":40.24177,
+        "lon":44.27128,
+        "pop":1646
+    },
+    {
+        "id":616474,
+        "name":"Lernavan",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Spitak Municipality",
+        "lat":40.7882,
+        "lon":44.16024,
+        "pop":1633
+    },
+    {
+        "id":616856,
+        "name":"Aygedzor",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Berd Municipality",
+        "lat":40.83121,
+        "lon":45.54483,
+        "pop":1632
+    },
+    {
+        "id":616442,
+        "name":"Marmashen",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.83486,
+        "lon":43.7779,
+        "pop":1605
+    },
+    {
+        "id":11107440,
+        "name":"Aygevan",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Armavir Municipality",
+        "lat":40.14172,
+        "lon":43.9751,
+        "pop":1601
+    },
+    {
+        "id":616335,
+        "name":"Nor Kyank",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.65832,
+        "lon":43.93189,
+        "pop":1599
+    },
+    {
+        "id":616121,
+        "name":"Ushi",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.34729,
+        "lon":44.37512,
+        "pop":1599
+    },
+    {
+        "id":616748,
+        "name":"Doghs",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Khoy Municipality",
+        "lat":40.22229,
+        "lon":44.27228,
+        "pop":1598
+    },
+    {
+        "id":174942,
+        "name":"Brnakot",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Sisian Municipality",
+        "lat":39.49742,
+        "lon":45.97241,
+        "pop":1597
+    },
+    {
+        "id":793693,
+        "name":"Nshavan",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":40.02787,
+        "lon":44.52565,
+        "pop":1593
+    },
+    {
+        "id":823816,
+        "name":"Masis",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":39.99772,
+        "lon":44.49349,
+        "pop":1583
+    },
+    {
+        "id":866098,
+        "name":"Aygek",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Parakar Municipality",
+        "lat":40.1889,
+        "lon":44.38611,
+        "pop":1573
+    },
+    {
+        "id":11224273,
+        "name":"Nor Artagers",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.06952,
+        "lon":44.00568,
+        "pop":1560
+    },
+    {
+        "id":616202,
+        "name":"Spandaryan",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.66105,
+        "lon":44.01551,
+        "pop":1560
+    },
+    {
+        "id":616273,
+        "name":"Sarahart",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Spitak Municipality",
+        "lat":40.87043,
+        "lon":44.21407,
+        "pop":1545
+    },
+    {
+        "id":174709,
+        "name":"Yeghegnavan",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Vedi Municipality",
+        "lat":39.83893,
+        "lon":44.61951,
+        "pop":1537
+    },
+    {
+        "id":616306,
+        "name":"Paravakar",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Berd Municipality",
+        "lat":40.98248,
+        "lon":45.36696,
+        "pop":1524
+    },
+    {
+        "id":616046,
+        "name":"Zar",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Akunk Municipality",
+        "lat":40.25848,
+        "lon":44.73328,
+        "pop":1520
+    },
+    {
+        "id":174965,
+        "name":"Aygepat",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":39.95565,
+        "lon":44.59181,
+        "pop":1517
+    },
+    {
+        "id":174794,
+        "name":"Rind",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Areni Municipality",
+        "lat":39.76111,
+        "lon":45.17792,
+        "pop":1513
+    },
+    {
+        "id":616378,
+        "name":"Nerkin Bazmaberd",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Talin Municipality",
+        "lat":40.33893,
+        "lon":44.01392,
+        "pop":1506
+    },
+    {
+        "id":616037,
+        "name":"Zovaber",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Sevan Municipality",
+        "lat":40.56671,
+        "lon":44.79028,
+        "pop":1506
+    },
+    {
+        "id":616162,
+        "name":"Tavush",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Berd Municipality",
+        "lat":40.91763,
+        "lon":45.40528,
+        "pop":1499
+    },
+    {
+        "id":866141,
+        "name":"Getapnya",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.1381,
+        "lon":44.42795,
+        "pop":1498
+    },
+    {
+        "id":823806,
+        "name":"Zartonk",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.10828,
+        "lon":44.16388,
+        "pop":1494
+    },
+    {
+        "id":616403,
+        "name":"Movses",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Berd Municipality",
+        "lat":40.90534,
+        "lon":45.48838,
+        "pop":1487
+    },
+    {
+        "id":866146,
+        "name":"Lanjazat",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":40.06102,
+        "lon":44.57544,
+        "pop":1486
+    },
+    {
+        "id":616598,
+        "name":"Kamo",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.82572,
+        "lon":43.95071,
+        "pop":1477
+    },
+    {
+        "id":823752,
+        "name":"Teghut",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Dilijan Municipality",
+        "lat":40.77851,
+        "lon":44.93838,
+        "pop":1473
+    },
+    {
+        "id":616590,
+        "name":"Kaputan",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Akunk Municipality",
+        "lat":40.32507,
+        "lon":44.70007,
+        "pop":1471
+    },
+    {
+        "id":616093,
+        "name":"Verin Karmiraghbyur",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Berd Municipality",
+        "lat":40.88044,
+        "lon":45.44159,
+        "pop":1469
+    },
+    {
+        "id":616132,
+        "name":"Tumanyan",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Tumanyan Municipality",
+        "lat":41.0019,
+        "lon":44.6494,
+        "pop":1463
+    },
+    {
+        "id":866104,
+        "name":"Nor Yedesia",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.22229,
+        "lon":44.13348,
+        "pop":1455
+    },
+    {
+        "id":7669112,
+        "name":"Nor Kesaria",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.05941,
+        "lon":43.90725,
+        "pop":1454
+    },
+    {
+        "id":616479,
+        "name":"Lernantsk",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Spitak Municipality",
+        "lat":40.79532,
+        "lon":44.27435,
+        "pop":1439
+    },
+    {
+        "id":616508,
+        "name":"Kurtan",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Gyulagarak Municipality",
+        "lat":40.95719,
+        "lon":44.55623,
+        "pop":1437
+    },
+    {
+        "id":616103,
+        "name":"Varser",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Sevan Municipality",
+        "lat":40.55548,
+        "lon":44.90832,
+        "pop":1437
+    },
+    {
+        "id":174868,
+        "name":"Karahunj",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Goris Municipality",
+        "lat":39.47383,
+        "lon":46.35963,
+        "pop":1430
+    },
+    {
+        "id":616417,
+        "name":"Metsamor",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Araks Municipality",
+        "lat":40.07246,
+        "lon":44.2905,
+        "pop":1425
+    },
+    {
+        "id":174703,
+        "name":"Zaritap",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Vayk Municipality",
+        "lat":39.63892,
+        "lon":45.51111,
+        "pop":1417
+    },
+    {
+        "id":616150,
+        "name":"Tsaghkunk",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Khoy Municipality",
+        "lat":40.18048,
+        "lon":44.27228,
+        "pop":1406
+    },
+    {
+        "id":617015,
+        "name":"Tsaghkalanj",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Khoy Municipality",
+        "lat":40.20007,
+        "lon":44.23053,
+        "pop":1403
+    },
+    {
+        "id":616551,
+        "name":"Katnaghbyur",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Talin Municipality",
+        "lat":40.38068,
+        "lon":43.94733,
+        "pop":1399
+    },
+    {
+        "id":616675,
+        "name":"Gargar",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Gyulagarak Municipality",
+        "lat":40.9577,
+        "lon":44.44161,
+        "pop":1388
+    },
+    {
+        "id":616481,
+        "name":"Lernakert",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.5625,
+        "lon":43.9389,
+        "pop":1386
+    },
+    {
+        "id":616262,
+        "name":"Saratak",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.6709,
+        "lon":43.87231,
+        "pop":1376
+    },
+    {
+        "id":866138,
+        "name":"Arevabuyr",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.03607,
+        "lon":44.46948,
+        "pop":1362
+    },
+    {
+        "id":616650,
+        "name":"Tsiatsan",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Khoy Municipality",
+        "lat":40.1861,
+        "lon":44.26947,
+        "pop":1358
+    },
+    {
+        "id":616054,
+        "name":"Yerazgavors",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"",
+        "lat":40.70288,
+        "lon":43.77649,
+        "pop":1345
+    },
+    {
+        "id":616072,
+        "name":"Voskevan",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Noyemberyan Municipality",
+        "lat":41.12081,
+        "lon":45.06381,
+        "pop":1343
+    },
+    {
+        "id":616265,
+        "name":"Saramej",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Spitak Municipality",
+        "lat":40.77487,
+        "lon":44.2222,
+        "pop":1342
+    },
+    {
+        "id":616595,
+        "name":"Kanachut",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":40.0095,
+        "lon":44.54531,
+        "pop":1335
+    },
+    {
+        "id":616346,
+        "name":"Norashen",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Berd Municipality",
+        "lat":40.87683,
+        "lon":45.45722,
+        "pop":1322
+    },
+    {
+        "id":823813,
+        "name":"Nizami",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.09168,
+        "lon":44.4057,
+        "pop":1320
+    },
+    {
+        "id":616806,
+        "name":"Bazum",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Pambak Municipality",
+        "lat":40.86763,
+        "lon":44.43978,
+        "pop":1320
+    },
+    {
+        "id":616213,
+        "name":"Sis",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.05829,
+        "lon":44.38892,
+        "pop":1317
+    },
+    {
+        "id":175006,
+        "name":"Agarakadzor",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Areni Municipality",
+        "lat":39.73608,
+        "lon":45.35553,
+        "pop":1313
+    },
+    {
+        "id":616879,
+        "name":"Ashnak",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Talin Municipality",
+        "lat":40.33069,
+        "lon":43.91669,
+        "pop":1307
+    },
+    {
+        "id":616234,
+        "name":"Shahumyan",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Khoy Municipality",
+        "lat":40.21393,
+        "lon":44.30011,
+        "pop":1304
+    },
+    {
+        "id":617003,
+        "name":"Aghavnadzor",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Tsaghkadzor Municipality",
+        "lat":40.57848,
+        "lon":44.69948,
+        "pop":1302
+    },
+    {
+        "id":616285,
+        "name":"Ranchpar",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.02789,
+        "lon":44.36951,
+        "pop":1298
+    },
+    {
+        "id":617027,
+        "name":"Abovyan",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":40.04851,
+        "lon":44.54742,
+        "pop":1297
+    },
+    {
+        "id":616398,
+        "name":"Mrgastan",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Khoy Municipality",
+        "lat":40.20007,
+        "lon":44.27789,
+        "pop":1295
+    },
+    {
+        "id":823790,
+        "name":"Aruch",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.28749,
+        "lon":44.07798,
+        "pop":1291
+    },
+    {
+        "id":866090,
+        "name":"Haykashen",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Araks Municipality",
+        "lat":40.07233,
+        "lon":44.30829,
+        "pop":1279
+    },
+    {
+        "id":616267,
+        "name":"Saralanj",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.62116,
+        "lon":44.02041,
+        "pop":1273
+    },
+    {
+        "id":616844,
+        "name":"Haykavan",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.80312,
+        "lon":43.75173,
+        "pop":1268
+    },
+    {
+        "id":793672,
+        "name":"Bardzrashen",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":40.08533,
+        "lon":44.57957,
+        "pop":1265
+    },
+    {
+        "id":793638,
+        "name":"Vardablur",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Gyulagarak Municipality",
+        "lat":40.97083,
+        "lon":44.50889,
+        "pop":1264
+    },
+    {
+        "id":616259,
+        "name":"Sarigyugh",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Ijevan Municipality",
+        "lat":41.03531,
+        "lon":45.14486,
+        "pop":1262
+    },
+    {
+        "id":616659,
+        "name":"Gogaran",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Spitak Municipality",
+        "lat":40.89255,
+        "lon":44.19915,
+        "pop":1259
+    },
+    {
+        "id":616421,
+        "name":"Meghrashen",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.67017,
+        "lon":43.95652,
+        "pop":1255
+    },
+    {
+        "id":616845,
+        "name":"Haykavan",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.08893,
+        "lon":44.03888,
+        "pop":1244
+    },
+    {
+        "id":616719,
+        "name":"Dzithankov",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Ani Municipality",
+        "lat":40.50848,
+        "lon":43.82092,
+        "pop":1242
+    },
+    {
+        "id":616702,
+        "name":"Fioletovo",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Fioletovo Municipality",
+        "lat":40.72365,
+        "lon":44.71664,
+        "pop":1239
+    },
+    {
+        "id":174916,
+        "name":"Yelpin",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Areni Municipality",
+        "lat":39.80832,
+        "lon":45.10985,
+        "pop":1235
+    },
+    {
+        "id":866135,
+        "name":"Dimitrov",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":40.00848,
+        "lon":44.4917,
+        "pop":1232
+    },
+    {
+        "id":616453,
+        "name":"Mayisyan",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.84715,
+        "lon":43.83938,
+        "pop":1230
+    },
+    {
+        "id":616395,
+        "name":"Mughni",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.31198,
+        "lon":44.36671,
+        "pop":1230
+    },
+    {
+        "id":8332820,
+        "name":"Karin",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.25,
+        "lon":44.33,
+        "pop":1224
+    },
+    {
+        "id":617018,
+        "name":"Agarak",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Lori Berd Municipality",
+        "lat":41.01072,
+        "lon":44.46845,
+        "pop":1221
+    },
+    {
+        "id":7647953,
+        "name":"Vanand",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Baghramyan Municipality",
+        "lat":40.10307,
+        "lon":43.81506,
+        "pop":1205
+    },
+    {
+        "id":616260,
+        "name":"Sarchapet",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Tashir Municipality",
+        "lat":41.196,
+        "lon":44.38432,
+        "pop":1205
+    },
+    {
+        "id":174716,
+        "name":"Vernashen",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Yeghegnadzor Municipality",
+        "lat":39.79236,
+        "lon":45.36389,
+        "pop":1199
+    },
+    {
+        "id":11319620,
+        "name":"Lernahovit",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Tashir Municipality",
+        "lat":41.1619,
+        "lon":44.36979,
+        "pop":1194
+    },
+    {
+        "id":7646418,
+        "name":"Lusakunk",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Vardenis Municipality",
+        "lat":40.1778,
+        "lon":45.69137,
+        "pop":1194
+    },
+    {
+        "id":866140,
+        "name":"Nor Kyurin",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.07386,
+        "lon":44.49731,
+        "pop":1193
+    },
+    {
+        "id":616489,
+        "name":"Lchap",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Gavar Municipality",
+        "lat":40.45569,
+        "lon":45.07507,
+        "pop":1191
+    },
+    {
+        "id":616822,
+        "name":"Byuravan",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":40.01604,
+        "lon":44.51889,
+        "pop":1189
+    },
+    {
+        "id":616897,
+        "name":"Hartagyugh",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Spitak Municipality",
+        "lat":40.8346,
+        "lon":44.04614,
+        "pop":1180
+    },
+    {
+        "id":174704,
+        "name":"Zangakatun",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Ararat Municipality",
+        "lat":39.82233,
+        "lon":45.04169,
+        "pop":1169
+    },
+    {
+        "id":616941,
+        "name":"Aragyugh",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Nairi Municipality",
+        "lat":40.40289,
+        "lon":44.54449,
+        "pop":1167
+    },
+    {
+        "id":616391,
+        "name":"Basen",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.75767,
+        "lon":43.99274,
+        "pop":1167
+    },
+    {
+        "id":616909,
+        "name":"Harich",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.60947,
+        "lon":44.00308,
+        "pop":1164
+    },
+    {
+        "id":616396,
+        "name":"Hovtamej",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Khoy Municipality",
+        "lat":40.18249,
+        "lon":44.25383,
+        "pop":1156
+    },
+    {
+        "id":616075,
+        "name":"Voskehat",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.27789,
+        "lon":44.27508,
+        "pop":1155
+    },
+    {
+        "id":616544,
+        "name":"Khachaghbyur",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Vardenis Municipality",
+        "lat":40.16808,
+        "lon":45.69259,
+        "pop":1153
+    },
+    {
+        "id":616765,
+        "name":"Darbnik",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.10828,
+        "lon":44.37793,
+        "pop":1152
+    },
+    {
+        "id":616111,
+        "name":"Vardanashen",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.05242,
+        "lon":44.19014,
+        "pop":1152
+    },
+    {
+        "id":616589,
+        "name":"Karaberd",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Ani Municipality",
+        "lat":40.54309,
+        "lon":43.83331,
+        "pop":1151
+    },
+    {
+        "id":389308,
+        "name":"Arpi",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Areni Municipality",
+        "lat":39.73889,
+        "lon":45.26672,
+        "pop":1151
+    },
+    {
+        "id":616713,
+        "name":"Dzorakap",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Ani Municipality",
+        "lat":40.56811,
+        "lon":43.88068,
+        "pop":1149
+    },
+    {
+        "id":13156560,
+        "name":"Armavir",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.08298,
+        "lon":44.05777,
+        "pop":1148
+    },
+    {
+        "id":616352,
+        "name":"Nor Armavir",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.08612,
+        "lon":43.99451,
+        "pop":1148
+    },
+    {
+        "id":866134,
+        "name":"Hovtashen",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":40.02508,
+        "lon":44.45007,
+        "pop":1146
+    },
+    {
+        "id":7647812,
+        "name":"Narek",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":40.00041,
+        "lon":44.66482,
+        "pop":1142
+    },
+    {
+        "id":616456,
+        "name":"Madina",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Martuni Municipality",
+        "lat":40.07637,
+        "lon":45.25507,
+        "pop":1138
+    },
+    {
+        "id":616457,
+        "name":"Lusaghbyur",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Spitak Municipality",
+        "lat":40.86137,
+        "lon":44.03489,
+        "pop":1135
+    },
+    {
+        "id":174780,
+        "name":"Shaki",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Sisian Municipality",
+        "lat":39.56499,
+        "lon":45.99861,
+        "pop":1135
+    },
+    {
+        "id":174941,
+        "name":"Akner",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Goris Municipality",
+        "lat":39.53491,
+        "lon":46.30732,
+        "pop":1132
+    },
+    {
+        "id":616993,
+        "name":"Haghtanak",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Noyemberyan Municipality",
+        "lat":41.2172,
+        "lon":44.91376,
+        "pop":1128
+    },
+    {
+        "id":616652,
+        "name":"Gosh",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Dilijan Municipality",
+        "lat":40.73053,
+        "lon":45.00012,
+        "pop":1112
+    },
+    {
+        "id":616383,
+        "name":"Navur",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Berd Municipality",
+        "lat":40.86695,
+        "lon":45.34179,
+        "pop":1106
+    },
+    {
+        "id":866110,
+        "name":"Nor Artamet",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Nor Hachn Municipality",
+        "lat":40.30046,
+        "lon":44.55787,
+        "pop":1102
+    },
+    {
+        "id":616681,
+        "name":"Geghanist",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.68467,
+        "lon":44.02333,
+        "pop":1101
+    },
+    {
+        "id":616347,
+        "name":"Norashen",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Tsaghkahovit Municipality",
+        "lat":40.65722,
+        "lon":44.07702,
+        "pop":1101
+    },
+    {
+        "id":616401,
+        "name":"Mrganush",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":40.02642,
+        "lon":44.55953,
+        "pop":1099
+    },
+    {
+        "id":616990,
+        "name":"Akhurik",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.74212,
+        "lon":43.77674,
+        "pop":1093
+    },
+    {
+        "id":616684,
+        "name":"Geghadzor",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Tsaghkahovit Municipality",
+        "lat":40.62731,
+        "lon":44.17095,
+        "pop":1091
+    },
+    {
+        "id":616371,
+        "name":"Nerkin Sasnashen",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Talin Municipality",
+        "lat":40.35553,
+        "lon":43.9917,
+        "pop":1085
+    },
+    {
+        "id":616930,
+        "name":"Arjut",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Pambak Municipality",
+        "lat":40.86118,
+        "lon":44.37587,
+        "pop":1083
+    },
+    {
+        "id":616931,
+        "name":"Archis",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Noyemberyan Municipality",
+        "lat":41.16351,
+        "lon":44.87631,
+        "pop":1080
+    },
+    {
+        "id":174840,
+        "name":"Kornidzor",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Tegh Municipality",
+        "lat":39.54763,
+        "lon":46.53046,
+        "pop":1076
+    },
+    {
+        "id":616419,
+        "name":"Melikgyugh",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Aparan Municipality",
+        "lat":40.66545,
+        "lon":44.35358,
+        "pop":1075
+    },
+    {
+        "id":616607,
+        "name":"Kakavadzor",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Talin Municipality",
+        "lat":40.35406,
+        "lon":44.05435,
+        "pop":1072
+    },
+    {
+        "id":616041,
+        "name":"Sotk",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Vardenis Municipality",
+        "lat":40.20007,
+        "lon":45.86951,
+        "pop":1070
+    },
+    {
+        "id":616160,
+        "name":"Tsaghkadzor",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Tsaghkadzor Municipality",
+        "lat":40.5325,
+        "lon":44.72323,
+        "pop":1069
+    },
+    {
+        "id":174997,
+        "name":"Angeghakot",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Sisian Municipality",
+        "lat":39.56952,
+        "lon":45.94452,
+        "pop":1069
+    },
+    {
+        "id":617019,
+        "name":"Agarakavan",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Talin Municipality",
+        "lat":40.33069,
+        "lon":44.07233,
+        "pop":1063
+    },
+    {
+        "id":616149,
+        "name":"Tsaghkunk",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Sevan Municipality",
+        "lat":40.57788,
+        "lon":44.87793,
+        "pop":1062
+    },
+    {
+        "id":616729,
+        "name":"Jrahovit",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.0473,
+        "lon":44.4751,
+        "pop":1048
+    },
+    {
+        "id":823801,
+        "name":"Baghramyan",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Baghramyan Municipality",
+        "lat":40.19608,
+        "lon":43.85409,
+        "pop":1033
+    },
+    {
+        "id":616545,
+        "name":"Keti",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.87415,
+        "lon":43.84822,
+        "pop":1030
+    },
+    {
+        "id":616120,
+        "name":"Vahagni",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Pambak Municipality",
+        "lat":40.90698,
+        "lon":44.60873,
+        "pop":1028
+    },
+    {
+        "id":616725,
+        "name":"Jrarat",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.73817,
+        "lon":44.02776,
+        "pop":1021
+    },
+    {
+        "id":616970,
+        "name":"Amasia",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.08331,
+        "lon":43.96668,
+        "pop":1016
+    },
+    {
+        "id":616613,
+        "name":"Isahakyan",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Ani Municipality",
+        "lat":40.61564,
+        "lon":43.72643,
+        "pop":1016
+    },
+    {
+        "id":616127,
+        "name":"Ttujur",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Chambarak Municipality",
+        "lat":40.64644,
+        "lon":45.31586,
+        "pop":1015
+    },
+    {
+        "id":823804,
+        "name":"Hushakert",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Baghramyan Municipality",
+        "lat":40.08331,
+        "lon":43.93048,
+        "pop":1014
+    },
+    {
+        "id":616462,
+        "name":"Lusagyugh",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Araks Municipality",
+        "lat":40.08893,
+        "lon":44.26947,
+        "pop":1014
+    },
+    {
+        "id":616557,
+        "name":"Karnut",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.7836,
+        "lon":43.95695,
+        "pop":1013
+    },
+    {
+        "id":616224,
+        "name":"Shirak",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.84042,
+        "lon":43.91582,
+        "pop":1012
+    },
+    {
+        "id":9170032,
+        "name":"Shenik",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Baghramyan Municipality",
+        "lat":40.213,
+        "lon":43.77033,
+        "pop":1010
+    },
+    {
+        "id":616807,
+        "name":"Bazmaghbyur",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.3295,
+        "lon":44.319,
+        "pop":1008
+    },
+    {
+        "id":616890,
+        "name":"Hartavan",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Aparan Municipality",
+        "lat":40.4779,
+        "lon":44.40008,
+        "pop":994
+    },
+    {
+        "id":616761,
+        "name":"Dasht",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Khoy Municipality",
+        "lat":40.2279,
+        "lon":44.30011,
+        "pop":991
+    },
+    {
+        "id":616698,
+        "name":"Gharibjanyan",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.7403,
+        "lon":43.80408,
+        "pop":989
+    },
+    {
+        "id":616191,
+        "name":"Sverdlov",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Lori Berd Municipality",
+        "lat":41.09653,
+        "lon":44.39839,
+        "pop":982
+    },
+    {
+        "id":616117,
+        "name":"Vahan",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Chambarak Municipality",
+        "lat":40.57549,
+        "lon":45.39769,
+        "pop":981
+    },
+    {
+        "id":614100,
+        "name":"Katnarat",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Tashir Municipality",
+        "lat":41.05794,
+        "lon":44.19338,
+        "pop":970
+    },
+    {
+        "id":391241,
+        "name":"Yeraskh",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Ararat Municipality",
+        "lat":39.73944,
+        "lon":44.82806,
+        "pop":961
+    },
+    {
+        "id":616674,
+        "name":"Getamej",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Nor Hachn Municipality",
+        "lat":40.27495,
+        "lon":44.58148,
+        "pop":948
+    },
+    {
+        "id":616077,
+        "name":"Voghjaberd",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Garni Municipality",
+        "lat":40.17187,
+        "lon":44.64547,
+        "pop":946
+    },
+    {
+        "id":616863,
+        "name":"Avan",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.33537,
+        "lon":44.16738,
+        "pop":945
+    },
+    {
+        "id":616646,
+        "name":"Geghamasar",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Vardenis Municipality",
+        "lat":40.31091,
+        "lon":45.67924,
+        "pop":938
+    },
+    {
+        "id":616798,
+        "name":"Berkarat",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Tsaghkahovit Municipality",
+        "lat":40.67602,
+        "lon":44.16801,
+        "pop":937
+    },
+    {
+        "id":866143,
+        "name":"Deghdzut",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":40.02616,
+        "lon":44.54914,
+        "pop":934
+    },
+    {
+        "id":866112,
+        "name":"Verin Ptghni",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Abovyan Municipality",
+        "lat":40.24387,
+        "lon":44.5741,
+        "pop":932
+    },
+    {
+        "id":174854,
+        "name":"Khachik",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Areni Municipality",
+        "lat":39.62196,
+        "lon":45.20837,
+        "pop":930
+    },
+    {
+        "id":616118,
+        "name":"Vahramaberd",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.8554,
+        "lon":43.76114,
+        "pop":928
+    },
+    {
+        "id":13156592,
+        "name":"Monteavan",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Khoy Municipality",
+        "lat":40.2092,
+        "lon":44.30814,
+        "pop":921
+    },
+    {
+        "id":616408,
+        "name":"Mets Sepasar",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Ashotsk Municipality",
+        "lat":41.04773,
+        "lon":43.82739,
+        "pop":920
+    },
+    {
+        "id":616723,
+        "name":"Jrashen",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.08612,
+        "lon":44.01947,
+        "pop":919
+    },
+    {
+        "id":616744,
+        "name":"Drakhtik",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Chambarak Municipality",
+        "lat":40.56497,
+        "lon":45.2367,
+        "pop":917
+    },
+    {
+        "id":616483,
+        "name":"Lermontovo",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Lermontovo Municipality",
+        "lat":40.75843,
+        "lon":44.63401,
+        "pop":910
+    },
+    {
+        "id":616701,
+        "name":"Fantan",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Charentsavan Municipality",
+        "lat":40.39447,
+        "lon":44.6861,
+        "pop":904
+    },
+    {
+        "id":174859,
+        "name":"Kechut",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Jermuk Municipality",
+        "lat":39.80427,
+        "lon":45.67072,
+        "pop":904
+    },
+    {
+        "id":616104,
+        "name":"Vardenut",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Aparan Municipality",
+        "lat":40.46948,
+        "lon":44.3667,
+        "pop":901
+    },
+    {
+        "id":174783,
+        "name":"Shaghap",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Vedi Municipality",
+        "lat":39.88068,
+        "lon":44.89172,
+        "pop":901
+    },
+    {
+        "id":616181,
+        "name":"Geghasar",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Spitak Municipality",
+        "lat":40.84798,
+        "lon":44.1825,
+        "pop":894
+    },
+    {
+        "id":8431075,
+        "name":"Nor Ughi",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Vedi Municipality",
+        "lat":39.92511,
+        "lon":44.63892,
+        "pop":889
+    },
+    {
+        "id":174939,
+        "name":"Berdik",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":39.99451,
+        "lon":44.57233,
+        "pop":887
+    },
+    {
+        "id":174846,
+        "name":"Khot",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Tatev Municipality",
+        "lat":39.44355,
+        "lon":46.3372,
+        "pop":887
+    },
+    {
+        "id":616292,
+        "name":"Privolnoye",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Tashir Municipality",
+        "lat":41.14633,
+        "lon":44.44571,
+        "pop":886
+    },
+    {
+        "id":616406,
+        "name":"Mikhayelovka",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Tashir Municipality",
+        "lat":41.164,
+        "lon":44.2783,
+        "pop":880
+    },
+    {
+        "id":616925,
+        "name":"Tatul",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Talin Municipality",
+        "lat":40.39447,
+        "lon":43.81671,
+        "pop":879
+    },
+    {
+        "id":616102,
+        "name":"Vazashen",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Ijevan Municipality",
+        "lat":40.99617,
+        "lon":45.28016,
+        "pop":877
+    },
+    {
+        "id":616642,
+        "name":"Gusanagyugh",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Ani Municipality",
+        "lat":40.66388,
+        "lon":43.79309,
+        "pop":873
+    },
+    {
+        "id":616091,
+        "name":"Zorakan",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Noyemberyan Municipality",
+        "lat":41.22093,
+        "lon":44.93597,
+        "pop":871
+    },
+    {
+        "id":616756,
+        "name":"Debet",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Pambak Municipality",
+        "lat":40.91786,
+        "lon":44.64933,
+        "pop":870
+    },
+    {
+        "id":11336308,
+        "name":"Getargel",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Abovyan Municipality",
+        "lat":40.2438,
+        "lon":44.59214,
+        "pop":865
+    },
+    {
+        "id":616345,
+        "name":"Norashen",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Tashir Municipality",
+        "lat":41.18886,
+        "lon":44.33336,
+        "pop":860
+    },
+    {
+        "id":616570,
+        "name":"Karenis",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Charentsavan Municipality",
+        "lat":40.39172,
+        "lon":44.60553,
+        "pop":858
+    },
+    {
+        "id":616738,
+        "name":"Jajur",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.85154,
+        "lon":43.95338,
+        "pop":849
+    },
+    {
+        "id":866105,
+        "name":"Nor Amanos",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.23417,
+        "lon":44.06722,
+        "pop":840
+    },
+    {
+        "id":616461,
+        "name":"Lusagyugh",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Aparan Municipality",
+        "lat":40.61018,
+        "lon":44.38626,
+        "pop":840
+    },
+    {
+        "id":616331,
+        "name":"Nurnus",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Byureghavan Municipality",
+        "lat":40.34577,
+        "lon":44.60277,
+        "pop":840
+    },
+    {
+        "id":866136,
+        "name":"Araksavan",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":40.00012,
+        "lon":44.46668,
+        "pop":838
+    },
+    {
+        "id":616829,
+        "name":"Baghanis",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Noyemberyan Municipality",
+        "lat":41.10925,
+        "lon":45.05658,
+        "pop":838
+    },
+    {
+        "id":616827,
+        "name":"Bagravan",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Ani Municipality",
+        "lat":40.47931,
+        "lon":43.6709,
+        "pop":838
+    },
+    {
+        "id":616812,
+        "name":"Bayandur",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.69311,
+        "lon":43.77087,
+        "pop":838
+    },
+    {
+        "id":616614,
+        "name":"Irind",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Talin Municipality",
+        "lat":40.38918,
+        "lon":43.97269,
+        "pop":836
+    },
+    {
+        "id":616374,
+        "name":"Nerkin Karmiraghbyur",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Berd Municipality",
+        "lat":40.94276,
+        "lon":45.43794,
+        "pop":834
+    },
+    {
+        "id":616060,
+        "name":"Yeghegnut",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Pambak Municipality",
+        "lat":40.90302,
+        "lon":44.63155,
+        "pop":832
+    },
+    {
+        "id":616490,
+        "name":"Lanjik",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Ani Municipality",
+        "lat":40.50795,
+        "lon":43.86009,
+        "pop":831
+    },
+    {
+        "id":174933,
+        "name":"Chiva",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Areni Municipality",
+        "lat":39.76672,
+        "lon":45.13611,
+        "pop":822
+    },
+    {
+        "id":616123,
+        "name":"Urut",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Lori Berd Municipality",
+        "lat":41.06778,
+        "lon":44.39628,
+        "pop":821
+    },
+    {
+        "id":616170,
+        "name":"Teghut",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Alaverdi Municipality",
+        "lat":41.1151,
+        "lon":44.84634,
+        "pop":814
+    },
+    {
+        "id":616834,
+        "name":"Azatashen",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.13611,
+        "lon":44.41669,
+        "pop":812
+    },
+    {
+        "id":616780,
+        "name":"Chinari",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Berd Municipality",
+        "lat":40.85469,
+        "lon":45.57781,
+        "pop":807
+    },
+    {
+        "id":616848,
+        "name":"Aygut",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Chambarak Municipality",
+        "lat":40.68298,
+        "lon":45.17634,
+        "pop":806
+    },
+    {
+        "id":616499,
+        "name":"Zovk",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Garni Municipality",
+        "lat":40.20542,
+        "lon":44.69328,
+        "pop":802
+    },
+    {
+        "id":616728,
+        "name":"Jrapi",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Ani Municipality",
+        "lat":40.55496,
+        "lon":43.67926,
+        "pop":801
+    },
+    {
+        "id":823792,
+        "name":"Aragatsotn",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.26028,
+        "lon":44.1815,
+        "pop":799
+    },
+    {
+        "id":616358,
+        "name":"Norakert",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Vardenis Municipality",
+        "lat":40.26492,
+        "lon":45.69882,
+        "pop":795
+    },
+    {
+        "id":616301,
+        "name":"Ptghavan",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Noyemberyan Municipality",
+        "lat":41.22966,
+        "lon":44.8535,
+        "pop":793
+    },
+    {
+        "id":616842,
+        "name":"Hayravank",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Gavar Municipality",
+        "lat":40.43094,
+        "lon":45.09491,
+        "pop":788
+    },
+    {
+        "id":616866,
+        "name":"Hatsik",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.84433,
+        "lon":43.87444,
+        "pop":785
+    },
+    {
+        "id":174748,
+        "name":"Tatev",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Tatev Municipality",
+        "lat":39.38611,
+        "lon":46.24451,
+        "pop":785
+    },
+    {
+        "id":616843,
+        "name":"Hayrenyats",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.63074,
+        "lon":43.8727,
+        "pop":778
+    },
+    {
+        "id":616671,
+        "name":"Getap",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.6543,
+        "lon":43.99451,
+        "pop":778
+    },
+    {
+        "id":616919,
+        "name":"Arevatsag",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Alaverdi Municipality",
+        "lat":40.97211,
+        "lon":44.60911,
+        "pop":767
+    },
+    {
+        "id":616107,
+        "name":"Vardenis",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Aparan Municipality",
+        "lat":40.56746,
+        "lon":44.40586,
+        "pop":764
+    },
+    {
+        "id":616857,
+        "name":"Aygabats",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.70355,
+        "lon":43.90514,
+        "pop":762
+    },
+    {
+        "id":616444,
+        "name":"Marmarik",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Tsaghkadzor Municipality",
+        "lat":40.58044,
+        "lon":44.67124,
+        "pop":755
+    },
+    {
+        "id":389251,
+        "name":"Harzhis",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Tatev Municipality",
+        "lat":39.43443,
+        "lon":46.22204,
+        "pop":752
+    },
+    {
+        "id":174874,
+        "name":"Karaglukh",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Yeghegis Municipality",
+        "lat":39.89305,
+        "lon":45.26761,
+        "pop":751
+    },
+    {
+        "id":616759,
+        "name":"Davtashen",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Talin Municipality",
+        "lat":40.36108,
+        "lon":43.95569,
+        "pop":745
+    },
+    {
+        "id":174850,
+        "name":"Khnatsakh",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Tegh Municipality",
+        "lat":39.60553,
+        "lon":46.39172,
+        "pop":743
+    },
+    {
+        "id":616574,
+        "name":"Karashamb",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Nor Hachn Municipality",
+        "lat":40.40907,
+        "lon":44.58051,
+        "pop":742
+    },
+    {
+        "id":174926,
+        "name":"Davit Bek",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Kapan Municipality",
+        "lat":39.31997,
+        "lon":46.49461,
+        "pop":742
+    },
+    {
+        "id":616152,
+        "name":"Verin Tsaghkavan",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Berd Municipality",
+        "lat":40.94128,
+        "lon":45.33076,
+        "pop":738
+    },
+    {
+        "id":616402,
+        "name":"Yeghipatrush",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Aparan Municipality",
+        "lat":40.53418,
+        "lon":44.47307,
+        "pop":737
+    },
+    {
+        "id":448079,
+        "name":"Artabuynk",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Yeghegis Municipality",
+        "lat":39.8667,
+        "lon":45.32788,
+        "pop":734
+    },
+    {
+        "id":616999,
+        "name":"Haghpat",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Alaverdi Municipality",
+        "lat":41.09559,
+        "lon":44.7113,
+        "pop":733
+    },
+    {
+        "id":616281,
+        "name":"Rya Taza",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Alagyaz Municipality",
+        "lat":40.65712,
+        "lon":44.30107,
+        "pop":732
+    },
+    {
+        "id":174976,
+        "name":"Artsvanik",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Kapan Municipality",
+        "lat":39.26322,
+        "lon":46.4737,
+        "pop":729
+    },
+    {
+        "id":616549,
+        "name":"Ghazanchi",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Ashotsk Municipality",
+        "lat":41.0733,
+        "lon":43.84038,
+        "pop":719
+    },
+    {
+        "id":616892,
+        "name":"Artashavan",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.38892,
+        "lon":44.38348,
+        "pop":718
+    },
+    {
+        "id":8431078,
+        "name":"Ginevet",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Vedi Municipality",
+        "lat":39.9326,
+        "lon":44.62352,
+        "pop":717
+    },
+    {
+        "id":616388,
+        "name":"Nahapetavan",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.6075,
+        "lon":44.01621,
+        "pop":712
+    },
+    {
+        "id":616074,
+        "name":"Voskepar",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Noyemberyan Municipality",
+        "lat":41.06451,
+        "lon":45.05627,
+        "pop":711
+    },
+    {
+        "id":11211596,
+        "name":"Hartashen",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Goris Municipality",
+        "lat":39.48444,
+        "lon":46.38146,
+        "pop":709
+    },
+    {
+        "id":616239,
+        "name":"Shamlugh",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Alaverdi Municipality",
+        "lat":41.16794,
+        "lon":44.72193,
+        "pop":708
+    },
+    {
+        "id":174902,
+        "name":"Gndevaz",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Jermuk Municipality",
+        "lat":39.76111,
+        "lon":45.62231,
+        "pop":705
+    },
+    {
+        "id":616813,
+        "name":"Bavra",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Ashotsk Municipality",
+        "lat":41.12027,
+        "lon":43.81029,
+        "pop":704
+    },
+    {
+        "id":616754,
+        "name":"Charchakis",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Alagyaz Municipality",
+        "lat":40.69974,
+        "lon":44.32398,
+        "pop":700
+    },
+    {
+        "id":616296,
+        "name":"Pokr Masrik",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Vardenis Municipality",
+        "lat":40.25748,
+        "lon":45.72168,
+        "pop":698
+    },
+    {
+        "id":616980,
+        "name":"Akunk",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Talin Municipality",
+        "lat":40.42602,
+        "lon":43.9034,
+        "pop":692
+    },
+    {
+        "id":616552,
+        "name":"Katnaghbyur",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Abovyan Municipality",
+        "lat":40.25597,
+        "lon":44.67582,
+        "pop":692
+    },
+    {
+        "id":616366,
+        "name":"Nigavan",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Aparan Municipality",
+        "lat":40.6163,
+        "lon":44.30118,
+        "pop":691
+    },
+    {
+        "id":616750,
+        "name":"Ditak",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":40.04519,
+        "lon":44.51942,
+        "pop":683
+    },
+    {
+        "id":616487,
+        "name":"Lejan",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Lori Berd Municipality",
+        "lat":41.02733,
+        "lon":44.4451,
+        "pop":680
+    },
+    {
+        "id":174782,
+        "name":"Shaghat",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Sisian Municipality",
+        "lat":39.56794,
+        "lon":45.90635,
+        "pop":680
+    },
+    {
+        "id":823803,
+        "name":"Bagaran",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Baghramyan Municipality",
+        "lat":40.14314,
+        "lon":43.66018,
+        "pop":679
+    },
+    {
+        "id":616734,
+        "name":"Jil",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Chambarak Municipality",
+        "lat":40.45007,
+        "lon":45.45007,
+        "pop":678
+    },
+    {
+        "id":616463,
+        "name":"Lusadzor",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Ijevan Municipality",
+        "lat":40.93689,
+        "lon":45.14845,
+        "pop":670
+    },
+    {
+        "id":11317475,
+        "name":"Byurakn",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Amasia Municipality",
+        "lat":40.8681,
+        "lon":43.71668,
+        "pop":665
+    },
+    {
+        "id":616324,
+        "name":"Hobardzi",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Gyulagarak Municipality",
+        "lat":40.96027,
+        "lon":44.49471,
+        "pop":665
+    },
+    {
+        "id":616113,
+        "name":"Vardakar",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.66434,
+        "lon":43.91887,
+        "pop":662
+    },
+    {
+        "id":616550,
+        "name":"Katnaghbyur",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Stepanavan Municipality",
+        "lat":41.03713,
+        "lon":44.21763,
+        "pop":651
+    },
+    {
+        "id":616772,
+        "name":"Choratan",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Berd Municipality",
+        "lat":40.86185,
+        "lon":45.48793,
+        "pop":648
+    },
+    {
+        "id":616823,
+        "name":"Bambakashat",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Metsamor Municipality",
+        "lat":40.10828,
+        "lon":44.01947,
+        "pop":646
+    },
+    {
+        "id":616536,
+        "name":"Hnaberd",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Artashat Municipality",
+        "lat":40.00611,
+        "lon":44.57433,
+        "pop":643
+    },
+    {
+        "id":616591,
+        "name":"Kaps",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.87128,
+        "lon":43.75505,
+        "pop":640
+    },
+    {
+        "id":616459,
+        "name":"Lusakert",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Artik Municipality",
+        "lat":40.67273,
+        "lon":43.85747,
+        "pop":640
+    },
+    {
+        "id":616458,
+        "name":"Lusaghbyur",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Ani Municipality",
+        "lat":40.6354,
+        "lon":43.74469,
+        "pop":640
+    },
+    {
+        "id":461687,
+        "name":"Zarinja",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Talin Municipality",
+        "lat":40.4779,
+        "lon":43.7807,
+        "pop":639
+    },
+    {
+        "id":9170051,
+        "name":"Argina",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Baghramyan Municipality",
+        "lat":40.27312,
+        "lon":43.73989,
+        "pop":632
+    },
+    {
+        "id":616048,
+        "name":"Yervandashat",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Baghramyan Municipality",
+        "lat":40.11735,
+        "lon":43.67171,
+        "pop":630
+    },
+    {
+        "id":616033,
+        "name":"Zuygaghbyur",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Ashotsk Municipality",
+        "lat":41.03161,
+        "lon":43.87429,
+        "pop":630
+    },
+    {
+        "id":11225586,
+        "name":"Paruyr Sevak",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Ararat Municipality",
+        "lat":39.76936,
+        "lon":44.91525,
+        "pop":624
+    },
+    {
+        "id":616394,
+        "name":"Kayk",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Aparan Municipality",
+        "lat":40.58137,
+        "lon":44.37608,
+        "pop":623
+    },
+    {
+        "id":174928,
+        "name":"Dashtakar",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"",
+        "lat":39.9223,
+        "lon":44.75568,
+        "pop":616
+    },
+    {
+        "id":616141,
+        "name":"Tsilkar",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Tsaghkahovit Municipality",
+        "lat":40.72011,
+        "lon":44.20676,
+        "pop":615
+    },
+    {
+        "id":616153,
+        "name":"Tsaghkashen",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Aparan Municipality",
+        "lat":40.50337,
+        "lon":44.35398,
+        "pop":614
+    },
+    {
+        "id":616140,
+        "name":"Tsoghamarg",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Ashotsk Municipality",
+        "lat":40.94874,
+        "lon":43.85748,
+        "pop":613
+    },
+    {
+        "id":616686,
+        "name":"Geghadir",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Garni Municipality",
+        "lat":40.15466,
+        "lon":44.65141,
+        "pop":610
+    },
+    {
+        "id":616664,
+        "name":"Getk",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.7265,
+        "lon":43.78477,
+        "pop":608
+    },
+    {
+        "id":616896,
+        "name":"Artanish",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Chambarak Municipality",
+        "lat":40.49731,
+        "lon":45.36389,
+        "pop":607
+    },
+    {
+        "id":13132983,
+        "name":"Syunik",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Kapan Municipality",
+        "lat":39.20162,
+        "lon":46.47158,
+        "pop":605
+    },
+    {
+        "id":174914,
+        "name":"Halidzor",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Tatev Municipality",
+        "lat":39.41229,
+        "lon":46.29577,
+        "pop":602
+    },
+    {
+        "id":616319,
+        "name":"Hovit",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.76943,
+        "lon":43.99536,
+        "pop":600
+    },
+    {
+        "id":616270,
+        "name":"Nor Khachakap",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Spitak Municipality",
+        "lat":40.83822,
+        "lon":44.3567,
+        "pop":600
+    },
+    {
+        "id":616867,
+        "name":"Hatsavan",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Garni Municipality",
+        "lat":40.13713,
+        "lon":44.65217,
+        "pop":599
+    },
+    {
+        "id":616979,
+        "name":"Alagyaz",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Alagyaz Municipality",
+        "lat":40.68082,
+        "lon":44.28797,
+        "pop":597
+    },
+    {
+        "id":174908,
+        "name":"Herher",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Vayk Municipality",
+        "lat":39.77508,
+        "lon":45.54169,
+        "pop":595
+    },
+    {
+        "id":616223,
+        "name":"Shirakavan",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Ani Municipality",
+        "lat":40.65216,
+        "lon":43.74541,
+        "pop":592
+    },
+    {
+        "id":866103,
+        "name":"Sipanik",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Masis Municipality",
+        "lat":40.10756,
+        "lon":44.35423,
+        "pop":589
+    },
+    {
+        "id":616559,
+        "name":"Karmrashen",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Talin Municipality",
+        "lat":40.43329,
+        "lon":43.94733,
+        "pop":587
+    },
+    {
+        "id":616050,
+        "name":"Yernjatap",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Aparan Municipality",
+        "lat":40.45569,
+        "lon":44.46668,
+        "pop":585
+    },
+    {
+        "id":616776,
+        "name":"Chkalovka",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Sevan Municipality",
+        "lat":40.50848,
+        "lon":44.98053,
+        "pop":580
+    },
+    {
+        "id":616316,
+        "name":"Hovuni",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.87081,
+        "lon":43.79792,
+        "pop":579
+    },
+    {
+        "id":174826,
+        "name":"Martiros",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Vayk Municipality",
+        "lat":39.59729,
+        "lon":45.51392,
+        "pop":579
+    },
+    {
+        "id":616685,
+        "name":"Geghadir",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Tsaghkahovit Municipality",
+        "lat":40.65213,
+        "lon":44.10581,
+        "pop":576
+    },
+    {
+        "id":616369,
+        "name":"Dashtadem",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Talin Municipality",
+        "lat":40.34168,
+        "lon":43.85828,
+        "pop":576
+    },
+    {
+        "id":616661,
+        "name":"Ghazaravan",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.341,
+        "lon":44.3204,
+        "pop":569
+    },
+    {
+        "id":616415,
+        "name":"Mets Ayrum",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Alaverdi Municipality",
+        "lat":41.16656,
+        "lon":44.82533,
+        "pop":568
+    },
+    {
+        "id":616494,
+        "name":"Debedavan",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Noyemberyan Municipality",
+        "lat":41.27945,
+        "lon":44.81243,
+        "pop":562
+    },
+    {
+        "id":174733,
+        "name":"Vaghatin",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Sisian Municipality",
+        "lat":39.50465,
+        "lon":46.12047,
+        "pop":557
+    },
+    {
+        "id":616477,
+        "name":"Lernapar",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Tsaghkahovit Municipality",
+        "lat":40.7439,
+        "lon":44.16154,
+        "pop":552
+    },
+    {
+        "id":616322,
+        "name":"Orgov",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Ashtarak Municipality",
+        "lat":40.34729,
+        "lon":44.25568,
+        "pop":552
+    },
+    {
+        "id":616271,
+        "name":"Sarakap",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Ani Municipality",
+        "lat":40.55349,
+        "lon":43.73189,
+        "pop":551
+    },
+    {
+        "id":616859,
+        "name":"Lernamerdz",
+        "country":"AM",
+        "admin1":"Armavir",
+        "admin2":"Khoy Municipality",
+        "lat":40.25848,
+        "lon":44.26392,
+        "pop":550
+    },
+    {
+        "id":616437,
+        "name":"Martuni",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Chambarak Municipality",
+        "lat":40.66498,
+        "lon":45.2543,
+        "pop":547
+    },
+    {
+        "id":174929,
+        "name":"Darbas",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Sisian Municipality",
+        "lat":39.4389,
+        "lon":46.12746,
+        "pop":542
+    },
+    {
+        "id":616889,
+        "name":"Artavaz",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Tsaghkadzor Municipality",
+        "lat":40.61174,
+        "lon":44.57846,
+        "pop":541
+    },
+    {
+        "id":616351,
+        "name":"Nor Artik",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Talin Municipality",
+        "lat":40.46668,
+        "lon":43.70831,
+        "pop":541
+    },
+    {
+        "id":617008,
+        "name":"Aghin",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Ani Municipality",
+        "lat":40.58556,
+        "lon":43.69845,
+        "pop":540
+    },
+    {
+        "id":616803,
+        "name":"Beniamin",
+        "country":"AM",
+        "admin1":"Shirak",
+        "admin2":"Akhuryan Municipality",
+        "lat":40.69031,
+        "lon":43.8529,
+        "pop":540
+    },
+    {
+        "id":175001,
+        "name":"Akhlatyan",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Sisian Municipality",
+        "lat":39.4389,
+        "lon":46.04169,
+        "pop":535
+    },
+    {
+        "id":616745,
+        "name":"Dprabak",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Chambarak Municipality",
+        "lat":40.68785,
+        "lon":45.12505,
+        "pop":533
+    },
+    {
+        "id":174960,
+        "name":"Azatek",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Vayk Municipality",
+        "lat":39.65008,
+        "lon":45.4389,
+        "pop":532
+    },
+    {
+        "id":616747,
+        "name":"Dovegh",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Noyemberyan Municipality",
+        "lat":41.18426,
+        "lon":45.02817,
+        "pop":528
+    },
+    {
+        "id":616057,
+        "name":"Yenokavan",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Ijevan Municipality",
+        "lat":40.91291,
+        "lon":45.10742,
+        "pop":527
+    },
+    {
+        "id":616531,
+        "name":"Amrakits",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Gyulagarak Municipality",
+        "lat":40.99415,
+        "lon":44.43883,
+        "pop":523
+    },
+    {
+        "id":616226,
+        "name":"Shgharshik",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Talin Municipality",
+        "lat":40.4057,
+        "lon":43.96668,
+        "pop":523
+    },
+    {
+        "id":616992,
+        "name":"Varagavan",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Berd Municipality",
+        "lat":40.96289,
+        "lon":45.35282,
+        "pop":520
+    },
+    {
+        "id":174834,
+        "name":"Lehvaz",
+        "country":"AM",
+        "admin1":"Syunik",
+        "admin2":"Meghri Municipality",
+        "lat":38.9385,
+        "lon":46.2156,
+        "pop":520
+    },
+    {
+        "id":616216,
+        "name":"Shoghakat",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Chambarak Municipality",
+        "lat":40.5015,
+        "lon":45.27368,
+        "pop":518
+    },
+    {
+        "id":616940,
+        "name":"Arayi",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Aparan Municipality",
+        "lat":40.45831,
+        "lon":44.37512,
+        "pop":517
+    },
+    {
+        "id":616509,
+        "name":"Arjhovit",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Spitak Municipality",
+        "lat":40.82681,
+        "lon":44.33731,
+        "pop":516
+    },
+    {
+        "id":616154,
+        "name":"Tsaghkashen",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Gavar Municipality",
+        "lat":40.30405,
+        "lon":45.05695,
+        "pop":516
+    },
+    {
+        "id":616568,
+        "name":"Karinj",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Tumanyan Municipality",
+        "lat":40.97237,
+        "lon":44.68979,
+        "pop":515
+    },
+    {
+        "id":616726,
+        "name":"Jrarat",
+        "country":"AM",
+        "admin1":"Kotayk",
+        "admin2":"Hrazdan Municipality",
+        "lat":40.54513,
+        "lon":44.75771,
+        "pop":511
+    },
+    {
+        "id":616067,
+        "name":"Lchavan",
+        "country":"AM",
+        "admin1":"Gegharkunik",
+        "admin2":"Vardenis Municipality",
+        "lat":40.14917,
+        "lon":45.6109,
+        "pop":510
+    },
+    {
+        "id":616984,
+        "name":"Akner",
+        "country":"AM",
+        "admin1":"Lori",
+        "admin2":"Alaverdi Municipality",
+        "lat":41.08172,
+        "lon":44.69226,
+        "pop":507
+    },
+    {
+        "id":616380,
+        "name":"Aknaghbyur",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Ijevan Municipality",
+        "lat":40.96393,
+        "lon":45.15832,
+        "pop":506
+    },
+    {
+        "id":616151,
+        "name":"Tsaghkavan",
+        "country":"AM",
+        "admin1":"Tavush",
+        "admin2":"Ijevan Municipality",
+        "lat":41.02787,
+        "lon":45.12097,
+        "pop":505
+    },
+    {
+        "id":174872,
+        "name":"Lusashogh",
+        "country":"AM",
+        "admin1":"Ararat",
+        "admin2":"Vedi Municipality",
+        "lat":39.8529,
+        "lon":44.98053,
+        "pop":504
+    },
+    {
+        "id":617022,
+        "name":"Zovasar",
+        "country":"AM",
+        "admin1":"Aragatsotn",
+        "admin2":"Talin Municipality",
+        "lat":40.4751,
+        "lon":43.95288,
+        "pop":502
+    },
+    {
+        "id":174848,
+        "name":"Khndzorut",
+        "country":"AM",
+        "admin1":"Vayots Dzor",
+        "admin2":"Vayk Municipality",
+        "lat":39.55322,
+        "lon":45.40518,
+        "pop":502
+    },
+    {
+        "id":8504944,
+        "name":"Arayi Hoghamaser",
+        "country":"AM",
+        "admin1":null,
+        "admin2":"",
+        "lat":40.4269,
+        "lon":44.42062,
+        "pop":500
+    }
+]

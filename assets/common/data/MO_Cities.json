@@ -1,0 +1,72 @@
+[
+    {
+        "id":1821274,
+        "name":"Macau",
+        "country":"MO",
+        "admin1":null,
+        "admin2":"",
+        "lat":22.20056,
+        "lon":113.54611,
+        "pop":649335
+    },
+    {
+        "id":1821263,
+        "name":"Taipa",
+        "country":"MO",
+        "admin1":"Nossa Senhora do Carmo",
+        "admin2":"",
+        "lat":22.15583,
+        "lon":113.55694,
+        "pop":112051
+    },
+    {
+        "id":13527317,
+        "name":"Sé",
+        "country":"MO",
+        "admin1":null,
+        "admin2":"",
+        "lat":22.19089,
+        "lon":113.54733,
+        "pop":52200
+    },
+    {
+        "id":1821292,
+        "name":"Luhuan",
+        "country":"MO",
+        "admin1":"São Francisco Xavier",
+        "admin2":"",
+        "lat":22.11806,
+        "lon":113.55194,
+        "pop":36384
+    },
+    {
+        "id":1821294,
+        "name":"Zhuojiacun",
+        "country":"MO",
+        "admin1":"Nossa Senhora do Carmo",
+        "admin2":"",
+        "lat":22.16139,
+        "lon":113.55639,
+        "pop":24000
+    },
+    {
+        "id":1821279,
+        "name":"Lai Chi Van",
+        "country":"MO",
+        "admin1":"São Francisco Xavier",
+        "admin2":"",
+        "lat":22.11972,
+        "lon":113.55111,
+        "pop":22125
+    },
+    {
+        "id":6611390,
+        "name":"Jiu’ao",
+        "country":"MO",
+        "admin1":"São Francisco Xavier",
+        "admin2":"",
+        "lat":22.13306,
+        "lon":113.58139,
+        "pop":850
+    }
+]

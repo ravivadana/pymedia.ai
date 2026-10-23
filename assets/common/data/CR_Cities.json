@@ -1,0 +1,1142 @@
+[
+    {
+        "id":3621849,
+        "name":"San José",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"San José",
+        "lat":9.93388,
+        "lon":-84.08489,
+        "pop":335007
+    },
+    {
+        "id":3622247,
+        "name":"Limón",
+        "country":"CR",
+        "admin1":"Limón Province",
+        "admin2":"Limón",
+        "lat":9.99074,
+        "lon":-83.03596,
+        "pop":63081
+    },
+    {
+        "id":3624955,
+        "name":"Alajuela",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"Alajuela",
+        "lat":10.01723,
+        "lon":-84.21275,
+        "pop":47494
+    },
+    {
+        "id":3623076,
+        "name":"Liberia",
+        "country":"CR",
+        "admin1":"Guanacaste Province",
+        "admin2":"Liberia",
+        "lat":10.63517,
+        "lon":-85.43779,
+        "pop":45380
+    },
+    {
+        "id":3622547,
+        "name":"Paraíso",
+        "country":"CR",
+        "admin1":"Cartago Province",
+        "admin2":"Paraíso",
+        "lat":9.83847,
+        "lon":-83.86655,
+        "pop":39702
+    },
+    {
+        "id":3622228,
+        "name":"Puntarenas",
+        "country":"CR",
+        "admin1":"Puntarenas Province",
+        "admin2":"Puntarenas",
+        "lat":9.97691,
+        "lon":-84.8379,
+        "pop":35650
+    },
+    {
+        "id":3621889,
+        "name":"San Isidro",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Pérez Zeledón",
+        "lat":9.3674,
+        "lon":-83.69713,
+        "pop":34877
+    },
+    {
+        "id":3623977,
+        "name":"Curridabat",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Curridabat",
+        "lat":9.9139,
+        "lon":-84.03595,
+        "pop":34586
+    },
+    {
+        "id":6612154,
+        "name":"San Vicente de Moravia",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Moravia",
+        "lat":9.96164,
+        "lon":-84.0488,
+        "pop":34447
+    },
+    {
+        "id":3621505,
+        "name":"San Vicente",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Moravia",
+        "lat":9.96194,
+        "lon":-84.0494,
+        "pop":34447
+    },
+    {
+        "id":3621841,
+        "name":"San José",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"Upala",
+        "lat":10.95192,
+        "lon":-85.13572,
+        "pop":31430
+    },
+    {
+        "id":3622217,
+        "name":"Purral",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Goicoechea",
+        "lat":9.95689,
+        "lon":-84.03209,
+        "pop":30034
+    },
+    {
+        "id":3621184,
+        "name":"Turrialba",
+        "country":"CR",
+        "admin1":"Cartago Province",
+        "admin2":"Turrialba",
+        "lat":9.90371,
+        "lon":-83.68361,
+        "pop":28955
+    },
+    {
+        "id":3621753,
+        "name":"San Miguel",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Desamparados",
+        "lat":9.87121,
+        "lon":-84.06084,
+        "pop":28827
+    },
+    {
+        "id":3621717,
+        "name":"San Pedro",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Montes de Oca",
+        "lat":9.92829,
+        "lon":-84.05074,
+        "pop":27477
+    },
+    {
+        "id":3621659,
+        "name":"San Rafael Abajo",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Puriscal",
+        "lat":9.831,
+        "lon":-84.29008,
+        "pop":27419
+    },
+    {
+        "id":3622190,
+        "name":"Quesada",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"San Carlos",
+        "lat":10.3266,
+        "lon":-84.432,
+        "pop":27310
+    },
+    {
+        "id":3624370,
+        "name":"Cartago",
+        "country":"CR",
+        "admin1":"Cartago Province",
+        "admin2":"Cartago",
+        "lat":9.86371,
+        "lon":-83.9195,
+        "pop":26594
+    },
+    {
+        "id":3624288,
+        "name":"Chacarita",
+        "country":"CR",
+        "admin1":"Puntarenas Province",
+        "admin2":"Puntarenas",
+        "lat":9.98424,
+        "lon":-84.77892,
+        "pop":26354
+    },
+    {
+        "id":3621819,
+        "name":"San Juan",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Tibás",
+        "lat":9.96188,
+        "lon":-84.07876,
+        "pop":26047
+    },
+    {
+        "id":3623593,
+        "name":"Guadalupe",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Goicoechea",
+        "lat":9.94805,
+        "lon":-84.05665,
+        "pop":26005
+    },
+    {
+        "id":3624848,
+        "name":"Aserrí",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Aserrí",
+        "lat":9.86142,
+        "lon":-84.09266,
+        "pop":25874
+    },
+    {
+        "id":3621689,
+        "name":"San Rafael",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Escazú",
+        "lat":9.92826,
+        "lon":-84.13537,
+        "pop":25410
+    },
+    {
+        "id":3621922,
+        "name":"San Felipe",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Alajuelita",
+        "lat":9.90444,
+        "lon":-84.1062,
+        "pop":24985
+    },
+    {
+        "id":3622507,
+        "name":"Patarrá",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Desamparados",
+        "lat":9.88059,
+        "lon":-84.03551,
+        "pop":23983
+    },
+    {
+        "id":3621335,
+        "name":"Tejar",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Acosta",
+        "lat":9.74301,
+        "lon":-84.23219,
+        "pop":22433
+    },
+    {
+        "id":3623486,
+        "name":"Heredia",
+        "country":"CR",
+        "admin1":"Heredia Province",
+        "admin2":"Heredia",
+        "lat":9.99872,
+        "lon":-84.11587,
+        "pop":21947
+    },
+    {
+        "id":3621729,
+        "name":"San Pablo",
+        "country":"CR",
+        "admin1":"Heredia Province",
+        "admin2":"San Pablo",
+        "lat":9.99559,
+        "lon":-84.09656,
+        "pop":21662
+    },
+    {
+        "id":3624468,
+        "name":"Cañas",
+        "country":"CR",
+        "admin1":"Guanacaste Province",
+        "admin2":"Cañas",
+        "lat":10.43105,
+        "lon":-85.09825,
+        "pop":20306
+    },
+    {
+        "id":3623580,
+        "name":"Guápiles",
+        "country":"CR",
+        "admin1":"Limón Province",
+        "admin2":"Pococí",
+        "lat":10.21682,
+        "lon":-83.78483,
+        "pop":19092
+    },
+    {
+        "id":3621440,
+        "name":"Siquirres",
+        "country":"CR",
+        "admin1":"Limón Province",
+        "admin2":"Siquirres",
+        "lat":10.09748,
+        "lon":-83.50659,
+        "pop":18231
+    },
+    {
+        "id":3621926,
+        "name":"San Diego",
+        "country":"CR",
+        "admin1":"Cartago Province",
+        "admin2":"La Unión",
+        "lat":9.90028,
+        "lon":-84.0017,
+        "pop":16991
+    },
+    {
+        "id":3623781,
+        "name":"Esparza",
+        "country":"CR",
+        "admin1":"Puntarenas Province",
+        "admin2":"Esparza",
+        "lat":9.99197,
+        "lon":-84.66628,
+        "pop":15575
+    },
+    {
+        "id":3621804,
+        "name":"San Juan de Dios",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Desamparados",
+        "lat":9.87812,
+        "lon":-84.08438,
+        "pop":15469
+    },
+    {
+        "id":3622716,
+        "name":"Nicoya",
+        "country":"CR",
+        "admin1":"Guanacaste Province",
+        "admin2":"Nicoya",
+        "lat":10.15038,
+        "lon":-85.45093,
+        "pop":15313
+    },
+    {
+        "id":3621655,
+        "name":"San Rafael Arriba",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Desamparados",
+        "lat":9.87648,
+        "lon":-84.07479,
+        "pop":15051
+    },
+    {
+        "id":3623935,
+        "name":"Desamparados",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"San Mateo",
+        "lat":9.94727,
+        "lon":-84.50626,
+        "pop":14448
+    },
+    {
+        "id":3624142,
+        "name":"Concepción",
+        "country":"CR",
+        "admin1":"Cartago Province",
+        "admin2":"La Unión",
+        "lat":9.92683,
+        "lon":-84.00123,
+        "pop":14000
+    },
+    {
+        "id":3624951,
+        "name":"Alajuelita",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Alajuelita",
+        "lat":9.90294,
+        "lon":-84.10037,
+        "pop":13845
+    },
+    {
+        "id":3622023,
+        "name":"Sabanilla",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Montes de Oca",
+        "lat":9.94706,
+        "lon":-84.03408,
+        "pop":13251
+    },
+    {
+        "id":3621607,
+        "name":"Santa Cruz",
+        "country":"CR",
+        "admin1":"Guanacaste Province",
+        "admin2":"Santa Cruz",
+        "lat":10.26053,
+        "lon":-85.5851,
+        "pop":12281
+    },
+    {
+        "id":3621831,
+        "name":"San Josecito",
+        "country":"CR",
+        "admin1":"Heredia Province",
+        "admin2":"San Rafael",
+        "lat":10.01265,
+        "lon":-84.1075,
+        "pop":12195
+    },
+    {
+        "id":3623787,
+        "name":"Escazú",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Escazú",
+        "lat":9.91887,
+        "lon":-84.13989,
+        "pop":12071
+    },
+    {
+        "id":3622751,
+        "name":"Naranjo",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"Naranjo",
+        "lat":10.09866,
+        "lon":-84.37824,
+        "pop":11853
+    },
+    {
+        "id":3624593,
+        "name":"Buenos Aires",
+        "country":"CR",
+        "admin1":"Puntarenas Province",
+        "admin2":"Buenos Aires",
+        "lat":9.17298,
+        "lon":-83.33277,
+        "pop":11680
+    },
+    {
+        "id":3621967,
+        "name":"San Antonio",
+        "country":"CR",
+        "admin1":"Heredia Province",
+        "admin2":"Belén",
+        "lat":9.9816,
+        "lon":-84.18592,
+        "pop":10938
+    },
+    {
+        "id":3621644,
+        "name":"San Ramón",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"San Ramón",
+        "lat":10.08802,
+        "lon":-84.47022,
+        "pop":10765
+    },
+    {
+        "id":3621224,
+        "name":"Tres Ríos",
+        "country":"CR",
+        "admin1":"Cartago Province",
+        "admin2":"La Unión",
+        "lat":9.90692,
+        "lon":-83.98789,
+        "pop":10430
+    },
+    {
+        "id":3622074,
+        "name":"Río Segundo",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"Sarchí",
+        "lat":10.2398,
+        "lon":-84.3171,
+        "pop":9853
+    },
+    {
+        "id":3624171,
+        "name":"Colón",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Mora",
+        "lat":9.91491,
+        "lon":-84.2417,
+        "pop":9687
+    },
+    {
+        "id":3621683,
+        "name":"San Rafael",
+        "country":"CR",
+        "admin1":"Heredia Province",
+        "admin2":"San Rafael",
+        "lat":10.01817,
+        "lon":-84.09465,
+        "pop":8887
+    },
+    {
+        "id":3621524,
+        "name":"Santiago",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Puriscal",
+        "lat":9.84636,
+        "lon":-84.31428,
+        "pop":8292
+    },
+    {
+        "id":3621630,
+        "name":"Santa Ana",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Santa Ana",
+        "lat":9.9326,
+        "lon":-84.18255,
+        "pop":8029
+    },
+    {
+        "id":3622193,
+        "name":"Quepos",
+        "country":"CR",
+        "admin1":"Puntarenas Province",
+        "admin2":"Quepos",
+        "lat":9.43063,
+        "lon":-84.16231,
+        "pop":7810
+    },
+    {
+        "id":3621817,
+        "name":"San Juan",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"Grecia",
+        "lat":10.10248,
+        "lon":-84.31694,
+        "pop":7729
+    },
+    {
+        "id":3621278,
+        "name":"Tilarán",
+        "country":"CR",
+        "admin1":"Guanacaste Province",
+        "admin2":"Tilarán",
+        "lat":10.46701,
+        "lon":-84.96775,
+        "pop":7301
+    },
+    {
+        "id":3623601,
+        "name":"Guácimo",
+        "country":"CR",
+        "admin1":"Limón Province",
+        "admin2":"Guácimo",
+        "lat":10.2129,
+        "lon":-83.68793,
+        "pop":7022
+    },
+    {
+        "id":3624842,
+        "name":"Atenas",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"Atenas",
+        "lat":9.97489,
+        "lon":-84.37886,
+        "pop":7014
+    },
+    {
+        "id":3624057,
+        "name":"Cot",
+        "country":"CR",
+        "admin1":"Cartago Province",
+        "admin2":"Oreamuno",
+        "lat":9.89472,
+        "lon":-83.8745,
+        "pop":6784
+    },
+    {
+        "id":3623656,
+        "name":"Golfito",
+        "country":"CR",
+        "admin1":"Puntarenas Province",
+        "admin2":"Golfito",
+        "lat":8.60327,
+        "lon":-83.11342,
+        "pop":6777
+    },
+    {
+        "id":3622854,
+        "name":"Miramar",
+        "country":"CR",
+        "admin1":"Puntarenas Province",
+        "admin2":"Montes de Oro",
+        "lat":10.0925,
+        "lon":-84.72978,
+        "pop":6540
+    },
+    {
+        "id":6619864,
+        "name":"Tamarindo",
+        "country":"CR",
+        "admin1":"Guanacaste Province",
+        "admin2":"Santa Cruz",
+        "lat":10.29913,
+        "lon":-85.84107,
+        "pop":6375
+    },
+    {
+        "id":3622660,
+        "name":"Orotina",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"Orotina",
+        "lat":9.91193,
+        "lon":-84.52337,
+        "pop":6135
+    },
+    {
+        "id":3621515,
+        "name":"Santo Domingo",
+        "country":"CR",
+        "admin1":"Heredia Province",
+        "admin2":"Santa Bárbara",
+        "lat":10.06389,
+        "lon":-84.15499,
+        "pop":5745
+    },
+    {
+        "id":3622884,
+        "name":"Mercedes",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Pérez Zeledón",
+        "lat":9.27447,
+        "lon":-83.57968,
+        "pop":5467
+    },
+    {
+        "id":3622325,
+        "name":"Pocora",
+        "country":"CR",
+        "admin1":"Limón Province",
+        "admin2":"Guácimo",
+        "lat":10.17195,
+        "lon":-83.60264,
+        "pop":5248
+    },
+    {
+        "id":3623307,
+        "name":"Juntas",
+        "country":"CR",
+        "admin1":"Guanacaste Province",
+        "admin2":"Abangares",
+        "lat":10.28082,
+        "lon":-84.95912,
+        "pop":4737
+    },
+    {
+        "id":3624730,
+        "name":"Batán",
+        "country":"CR",
+        "admin1":"Limón Province",
+        "admin2":"Matina",
+        "lat":10.08354,
+        "lon":-83.33413,
+        "pop":4584
+    },
+    {
+        "id":3624436,
+        "name":"Canoas",
+        "country":"CR",
+        "admin1":"Puntarenas Province",
+        "admin2":"Corredores",
+        "lat":8.53305,
+        "lon":-82.83844,
+        "pop":4573
+    },
+    {
+        "id":3622663,
+        "name":"Orosi",
+        "country":"CR",
+        "admin1":"Cartago Province",
+        "admin2":"Paraíso",
+        "lat":9.79617,
+        "lon":-83.85383,
+        "pop":4350
+    },
+    {
+        "id":3623258,
+        "name":"La Cruz",
+        "country":"CR",
+        "admin1":"Guanacaste Province",
+        "admin2":"La Cruz",
+        "lat":11.07377,
+        "lon":-85.63272,
+        "pop":4319
+    },
+    {
+        "id":3624379,
+        "name":"Carrillos",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"Poás",
+        "lat":10.02918,
+        "lon":-84.27403,
+        "pop":4258
+    },
+    {
+        "id":3621762,
+        "name":"San Marcos",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Tarrazú",
+        "lat":9.6601,
+        "lon":-84.02026,
+        "pop":4255
+    },
+    {
+        "id":3621153,
+        "name":"Upala",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"Upala",
+        "lat":10.89908,
+        "lon":-85.01366,
+        "pop":4185
+    },
+    {
+        "id":3624822,
+        "name":"Bagaces",
+        "country":"CR",
+        "admin1":"Guanacaste Province",
+        "admin2":"Bagaces",
+        "lat":10.52541,
+        "lon":-85.25537,
+        "pop":4108
+    },
+    {
+        "id":3623369,
+        "name":"Jacó",
+        "country":"CR",
+        "admin1":"Puntarenas Province",
+        "admin2":"Garabito",
+        "lat":9.61497,
+        "lon":-84.62975,
+        "pop":4085
+    },
+    {
+        "id":3621265,
+        "name":"Tobosi",
+        "country":"CR",
+        "admin1":"Cartago Province",
+        "admin2":"El Guarco",
+        "lat":9.83837,
+        "lon":-83.98391,
+        "pop":4060
+    },
+    {
+        "id":3621501,
+        "name":"San Vito",
+        "country":"CR",
+        "admin1":"Puntarenas Province",
+        "admin2":"Coto Brus",
+        "lat":8.82079,
+        "lon":-82.97092,
+        "pop":3981
+    },
+    {
+        "id":3624198,
+        "name":"Puerto Cortés",
+        "country":"CR",
+        "admin1":"Puntarenas Province",
+        "admin2":"Osa",
+        "lat":8.96171,
+        "lon":-83.52463,
+        "pop":3850
+    },
+    {
+        "id":3622537,
+        "name":"Parrita",
+        "country":"CR",
+        "admin1":"Puntarenas Province",
+        "admin2":"Parrita",
+        "lat":9.52166,
+        "lon":-84.32289,
+        "pop":3734
+    },
+    {
+        "id":3621679,
+        "name":"San Rafael",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"San Ramón",
+        "lat":10.06441,
+        "lon":-84.47361,
+        "pop":3624
+    },
+    {
+        "id":3620994,
+        "name":"Zarcero",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"Zarcero",
+        "lat":10.18455,
+        "lon":-84.39163,
+        "pop":3559
+    },
+    {
+        "id":3623008,
+        "name":"Los Chiles",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"Los Chiles",
+        "lat":11.03253,
+        "lon":-84.71544,
+        "pop":3342
+    },
+    {
+        "id":3621490,
+        "name":"Sardinal",
+        "country":"CR",
+        "admin1":"Guanacaste Province",
+        "admin2":"Carrillo",
+        "lat":10.51674,
+        "lon":-85.64748,
+        "pop":3267
+    },
+    {
+        "id":3621890,
+        "name":"San Ignacio",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Acosta",
+        "lat":9.79853,
+        "lon":-84.16173,
+        "pop":3072
+    },
+    {
+        "id":3623716,
+        "name":"La Fortuna",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"San Carlos",
+        "lat":10.47089,
+        "lon":-84.64535,
+        "pop":3010
+    },
+    {
+        "id":3622323,
+        "name":"Poco Sol",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"San Carlos",
+        "lat":10.35509,
+        "lon":-84.65336,
+        "pop":2947
+    },
+    {
+        "id":3622005,
+        "name":"Salitral",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Santa Ana",
+        "lat":9.91163,
+        "lon":-84.17835,
+        "pop":2833
+    },
+    {
+        "id":3624718,
+        "name":"Belén",
+        "country":"CR",
+        "admin1":"Guanacaste Province",
+        "admin2":"Carrillo",
+        "lat":10.40789,
+        "lon":-85.58836,
+        "pop":2715
+    },
+    {
+        "id":3621200,
+        "name":"Tucurrique",
+        "country":"CR",
+        "admin1":"Cartago Province",
+        "admin2":"Jiménez",
+        "lat":9.85336,
+        "lon":-83.72273,
+        "pop":2697
+    },
+    {
+        "id":3623112,
+        "name":"La Suiza",
+        "country":"CR",
+        "admin1":"Cartago Province",
+        "admin2":"Turrialba",
+        "lat":9.85065,
+        "lon":-83.6169,
+        "pop":2434
+    },
+    {
+        "id":3622036,
+        "name":"Roxana",
+        "country":"CR",
+        "admin1":"Limón Province",
+        "admin2":"Pococí",
+        "lat":10.26712,
+        "lon":-83.7511,
+        "pop":2351
+    },
+    {
+        "id":3622895,
+        "name":"Matina",
+        "country":"CR",
+        "admin1":"Limón Province",
+        "admin2":"Matina",
+        "lat":10.08363,
+        "lon":-83.28431,
+        "pop":2315
+    },
+    {
+        "id":3621520,
+        "name":"Santiago",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"Palmares",
+        "lat":10.02275,
+        "lon":-84.4442,
+        "pop":2107
+    },
+    {
+        "id":3622382,
+        "name":"Pital",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"San Carlos",
+        "lat":10.45056,
+        "lon":-84.27406,
+        "pop":2046
+    },
+    {
+        "id":3623454,
+        "name":"Hojancha",
+        "country":"CR",
+        "admin1":"Guanacaste Province",
+        "admin2":"Hojancha",
+        "lat":10.0581,
+        "lon":-85.41809,
+        "pop":1823
+    },
+    {
+        "id":3621430,
+        "name":"Sixaola",
+        "country":"CR",
+        "admin1":"Limón Province",
+        "admin2":"Talamanca",
+        "lat":9.50371,
+        "lon":-82.612,
+        "pop":1823
+    },
+    {
+        "id":3623715,
+        "name":"La Fortuna",
+        "country":"CR",
+        "admin1":"Guanacaste Province",
+        "admin2":"Bagaces",
+        "lat":10.67434,
+        "lon":-85.19962,
+        "pop":1774
+    },
+    {
+        "id":3622765,
+        "name":"Nandayure",
+        "country":"CR",
+        "admin1":"Guanacaste Province",
+        "admin2":"Nandayure",
+        "lat":10.03333,
+        "lon":-85.2,
+        "pop":1649
+    },
+    {
+        "id":3622466,
+        "name":"Pejibaye",
+        "country":"CR",
+        "admin1":"Cartago Province",
+        "admin2":"Jiménez",
+        "lat":9.81253,
+        "lon":-83.70378,
+        "pop":1630
+    },
+    {
+        "id":3622648,
+        "name":"Pacayas",
+        "country":"CR",
+        "admin1":"Cartago Province",
+        "admin2":"Cartago",
+        "lat":9.80737,
+        "lon":-84.04817,
+        "pop":1556
+    },
+    {
+        "id":3622602,
+        "name":"Palmichal",
+        "country":"CR",
+        "admin1":"San José",
+        "admin2":"Acosta",
+        "lat":9.83802,
+        "lon":-84.20405,
+        "pop":1545
+    },
+    {
+        "id":3623755,
+        "name":"Esquipulas",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"Palmares",
+        "lat":10.05676,
+        "lon":-84.42337,
+        "pop":1512
+    },
+    {
+        "id":3622561,
+        "name":"Paquera",
+        "country":"CR",
+        "admin1":"Puntarenas Province",
+        "admin2":"Puntarenas",
+        "lat":9.82005,
+        "lon":-84.93513,
+        "pop":1510
+    },
+    {
+        "id":3624908,
+        "name":"Ángeles",
+        "country":"CR",
+        "admin1":"Heredia Province",
+        "admin2":"Santo Domingo",
+        "lat":9.98863,
+        "lon":-84.05922,
+        "pop":1355
+    },
+    {
+        "id":3624702,
+        "name":"Bijagua",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"Upala",
+        "lat":10.73243,
+        "lon":-85.05721,
+        "pop":1090
+    },
+    {
+        "id":3621990,
+        "name":"Sámara",
+        "country":"CR",
+        "admin1":"Guanacaste Province",
+        "admin2":"Nicoya",
+        "lat":9.88147,
+        "lon":-85.52809,
+        "pop":1071
+    },
+    {
+        "id":3622022,
+        "name":"Sabanilla",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"Alajuela",
+        "lat":10.07404,
+        "lon":-84.21551,
+        "pop":1015
+    },
+    {
+        "id":3624422,
+        "name":"Capellades",
+        "country":"CR",
+        "admin1":"Cartago Province",
+        "admin2":"Alvarado",
+        "lat":9.92165,
+        "lon":-83.78526,
+        "pop":993
+    },
+    {
+        "id":3623342,
+        "name":"Jiménez",
+        "country":"CR",
+        "admin1":"Limón Province",
+        "admin2":"Pococí",
+        "lat":10.16772,
+        "lon":-83.774,
+        "pop":985
+    },
+    {
+        "id":3623726,
+        "name":"Florencia",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"San Carlos",
+        "lat":10.36131,
+        "lon":-84.47496,
+        "pop":888
+    },
+    {
+        "id":3622974,
+        "name":"Macacona",
+        "country":"CR",
+        "admin1":"Puntarenas Province",
+        "admin2":"Esparza",
+        "lat":10.00268,
+        "lon":-84.63994,
+        "pop":840
+    },
+    {
+        "id":3623224,
+        "name":"Laguna",
+        "country":"CR",
+        "admin1":"Alajuela Province",
+        "admin2":"Zarcero",
+        "lat":10.20951,
+        "lon":-84.40074,
+        "pop":670
+    },
+    {
+        "id":3624524,
+        "name":"Cahuita",
+        "country":"CR",
+        "admin1":"Limón Province",
+        "admin2":"Talamanca",
+        "lat":9.73853,
+        "lon":-82.84104,
+        "pop":646
+    }
+]

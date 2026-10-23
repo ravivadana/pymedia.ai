@@ -1,0 +1,20 @@
+[
+    {
+        "Institute ID": "IR-D-N-15",
+        "Name": "All India Institute of Medical Sciences, Delhi",
+        "City": "New Delhi",
+        "State": "Delhi",
+        "Score": "91.80",
+        "Rank": "1",
+        "Tier": "Tier 1"
+    },
+    {
+        "Institute ID": "IR-D-U-0079",
+        "Name": "Post Graduate Institute of Medical Education and Research",
+        "City": "Chandigarh",
+        "State": "Chandigarh",
+        "Score": "82.58",
+        "Rank": "2",
+        "Tier": "Tier 1"
+    }
+]

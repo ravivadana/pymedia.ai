@@ -1,0 +1,262 @@
+[
+    {
+        "id":3576022,
+        "name":"Saint John’s",
+        "country":"AG",
+        "admin1":"Saint John Parish",
+        "admin2":"",
+        "lat":17.12096,
+        "lon":-61.84329,
+        "pop":24226
+    },
+    {
+        "id":3576397,
+        "name":"All Saints",
+        "country":"AG",
+        "admin1":"Saint Peter Parish",
+        "admin2":"",
+        "lat":17.06671,
+        "lon":-61.79303,
+        "pop":2526
+    },
+    {
+        "id":3576057,
+        "name":"Piggotts",
+        "country":"AG",
+        "admin1":"Saint George Parish",
+        "admin2":"",
+        "lat":17.11667,
+        "lon":-61.8,
+        "pop":1878
+    },
+    {
+        "id":3576144,
+        "name":"Liberta",
+        "country":"AG",
+        "admin1":"Saint Paul Parish",
+        "admin2":"",
+        "lat":17.04141,
+        "lon":-61.79052,
+        "pop":1668
+    },
+    {
+        "id":3576361,
+        "name":"Bolands",
+        "country":"AG",
+        "admin1":"Saint Mary Parish",
+        "admin2":"",
+        "lat":17.06565,
+        "lon":-61.87466,
+        "pop":1657
+    },
+    {
+        "id":3576050,
+        "name":"Potters Village",
+        "country":"AG",
+        "admin1":"Saint John Parish",
+        "admin2":"",
+        "lat":17.11337,
+        "lon":-61.81962,
+        "pop":1433
+    },
+    {
+        "id":3576311,
+        "name":"Codrington",
+        "country":"AG",
+        "admin1":"Barbuda",
+        "admin2":"",
+        "lat":17.6394,
+        "lon":-61.82437,
+        "pop":1325
+    },
+    {
+        "id":3575940,
+        "name":"Willikies",
+        "country":"AG",
+        "admin1":"Saint Philip Parish",
+        "admin2":"",
+        "lat":17.08684,
+        "lon":-61.7093,
+        "pop":1270
+    },
+    {
+        "id":3576378,
+        "name":"Bendals",
+        "country":"AG",
+        "admin1":"Saint John Parish",
+        "admin2":"",
+        "lat":17.06807,
+        "lon":-61.83604,
+        "pop":973
+    },
+    {
+        "id":3576074,
+        "name":"Parham",
+        "country":"AG",
+        "admin1":"Saint Peter Parish",
+        "admin2":"",
+        "lat":17.09682,
+        "lon":-61.77046,
+        "pop":969
+    },
+    {
+        "id":3576238,
+        "name":"Freemans",
+        "country":"AG",
+        "admin1":"Saint Peter Parish",
+        "admin2":"",
+        "lat":17.07917,
+        "lon":-61.7857,
+        "pop":860
+    },
+    {
+        "id":6695166,
+        "name":"Jolly Harbour",
+        "country":"AG",
+        "admin1":"Saint Mary Parish",
+        "admin2":"",
+        "lat":17.06622,
+        "lon":-61.88646,
+        "pop":855
+    },
+    {
+        "id":3576344,
+        "name":"Carlisle",
+        "country":"AG",
+        "admin1":"Saint George Parish",
+        "admin2":"",
+        "lat":17.13226,
+        "lon":-61.80356,
+        "pop":831
+    },
+    {
+        "id":3576004,
+        "name":"Sea View Farm",
+        "country":"AG",
+        "admin1":"Saint George Parish",
+        "admin2":"",
+        "lat":17.08809,
+        "lon":-61.80281,
+        "pop":792
+    },
+    {
+        "id":3576338,
+        "name":"Cedar Grove",
+        "country":"AG",
+        "admin1":"Saint John Parish",
+        "admin2":"",
+        "lat":17.16225,
+        "lon":-61.8178,
+        "pop":789
+    },
+    {
+        "id":3575956,
+        "name":"Urlings",
+        "country":"AG",
+        "admin1":"Saint Mary Parish",
+        "admin2":"",
+        "lat":17.02687,
+        "lon":-61.87618,
+        "pop":738
+    },
+    {
+        "id":3575975,
+        "name":"Swetes",
+        "country":"AG",
+        "admin1":"Saint Paul Parish",
+        "admin2":"",
+        "lat":17.05037,
+        "lon":-61.80091,
+        "pop":727
+    },
+    {
+        "id":3576264,
+        "name":"English Harbour Town",
+        "country":"AG",
+        "admin1":"Saint Paul Parish",
+        "admin2":"",
+        "lat":17.01637,
+        "lon":-61.7674,
+        "pop":666
+    },
+    {
+        "id":3576236,
+        "name":"Freetown",
+        "country":"AG",
+        "admin1":"Saint Philip Parish",
+        "admin2":"",
+        "lat":17.04791,
+        "lon":-61.70332,
+        "pop":623
+    },
+    {
+        "id":3576085,
+        "name":"Old Road",
+        "country":"AG",
+        "admin1":"Saint Mary Parish",
+        "admin2":"",
+        "lat":17.01682,
+        "lon":-61.83579,
+        "pop":623
+    },
+    {
+        "id":3576260,
+        "name":"Falmouth",
+        "country":"AG",
+        "admin1":"Saint Paul Parish",
+        "admin2":"",
+        "lat":17.02741,
+        "lon":-61.78136,
+        "pop":619
+    },
+    {
+        "id":3576160,
+        "name":"Jennings",
+        "country":"AG",
+        "admin1":"Saint Philip Parish",
+        "admin2":"",
+        "lat":17.07779,
+        "lon":-61.86582,
+        "pop":609
+    },
+    {
+        "id":3576075,
+        "name":"Pares",
+        "country":"AG",
+        "admin1":"Saint Peter Parish",
+        "admin2":"",
+        "lat":17.08493,
+        "lon":-61.75445,
+        "pop":575
+    },
+    {
+        "id":3576214,
+        "name":"Grays Hill",
+        "country":"AG",
+        "admin1":"Saint John Parish",
+        "admin2":"",
+        "lat":17.10579,
+        "lon":-61.84737,
+        "pop":542
+    },
+    {
+        "id":3576386,
+        "name":"Barnes Hill",
+        "country":"AG",
+        "admin1":"Saint George Parish",
+        "admin2":"",
+        "lat":17.14227,
+        "lon":-61.80788,
+        "pop":537
+    },
+    {
+        "id":3576020,
+        "name":"Saint Johnston Village",
+        "country":"AG",
+        "admin1":"Saint John Parish",
+        "admin2":"",
+        "lat":17.11861,
+        "lon":-61.827,
+        "pop":515
+    }
+]

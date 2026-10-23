@@ -1,0 +1,1612 @@
+[
+    {
+        "id":3871336,
+        "name":"Santiago",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Santiago",
+        "lat":-33.45694,
+        "lon":-70.64827,
+        "pop":4837295
+    },
+    {
+        "id":3875024,
+        "name":"Puente Alto",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Cordillera",
+        "lat":-33.61169,
+        "lon":-70.57577,
+        "pop":568106
+    },
+    {
+        "id":3880980,
+        "name":"Maipú",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Santiago",
+        "lat":-33.51421,
+        "lon":-70.7651,
+        "pop":503635
+    },
+    {
+        "id":3899539,
+        "name":"Antofagasta",
+        "country":"CL",
+        "admin1":"Antofagasta",
+        "admin2":"Provincia de Antofagasta",
+        "lat":-23.65094,
+        "lon":-70.39752,
+        "pop":401096
+    },
+    {
+        "id":3868121,
+        "name":"Viña del Mar",
+        "country":"CL",
+        "admin1":"Valparaíso",
+        "admin2":"Provincia de Valparaíso",
+        "lat":-33.02457,
+        "lon":-71.55183,
+        "pop":294551
+    },
+    {
+        "id":3868626,
+        "name":"Valparaíso",
+        "country":"CL",
+        "admin1":"Valparaíso",
+        "admin2":"Provincia de Valparaíso",
+        "lat":-33.036,
+        "lon":-71.62963,
+        "pop":282448
+    },
+    {
+        "id":3870282,
+        "name":"Talcahuano",
+        "country":"CL",
+        "admin1":"Biobío",
+        "admin2":"Provincia de Concepción",
+        "lat":-36.72494,
+        "lon":-73.11684,
+        "pop":252968
+    },
+    {
+        "id":3872348,
+        "name":"San Bernardo",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Maipo",
+        "lat":-33.59217,
+        "lon":-70.6996,
+        "pop":249858
+    },
+    {
+        "id":3874960,
+        "name":"Puerto Montt",
+        "country":"CL",
+        "admin1":"Los Lagos Region",
+        "admin2":"Provincia de Llanquihue",
+        "lat":-41.4693,
+        "lon":-72.94237,
+        "pop":245902
+    },
+    {
+        "id":3899361,
+        "name":"Arica",
+        "country":"CL",
+        "admin1":"Arica y Parinacota Region",
+        "admin2":"Provincia de Arica",
+        "lat":-18.47552,
+        "lon":-70.30058,
+        "pop":241653
+    },
+    {
+        "id":3876682,
+        "name":"Peñalolén",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Santiago",
+        "lat":-33.46836,
+        "lon":-70.53411,
+        "pop":241599
+    },
+    {
+        "id":3870011,
+        "name":"Temuco",
+        "country":"CL",
+        "admin1":"Araucanía",
+        "admin2":"Provincia de Cautín",
+        "lat":-38.73628,
+        "lon":-72.59738,
+        "pop":238129
+    },
+    {
+        "id":3893894,
+        "name":"Concepción",
+        "country":"CL",
+        "admin1":"Biobío",
+        "admin2":"Provincia de Concepción",
+        "lat":-36.82699,
+        "lon":-73.04977,
+        "pop":223574
+    },
+    {
+        "id":3873775,
+        "name":"Rancagua",
+        "country":"CL",
+        "admin1":"O'Higgins Region",
+        "admin2":"Provincia de Cachapoal",
+        "lat":-34.1691,
+        "lon":-70.74053,
+        "pop":212695
+    },
+    {
+        "id":3874212,
+        "name":"Quilicura",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Santiago",
+        "lat":-33.36799,
+        "lon":-70.71388,
+        "pop":210410
+    },
+    {
+        "id":7281017,
+        "name":"La Pintana",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Santiago",
+        "lat":-33.58331,
+        "lon":-70.63419,
+        "pop":201178
+    },
+    {
+        "id":3887127,
+        "name":"Iquique",
+        "country":"CL",
+        "admin1":"Tarapacá",
+        "admin2":"Provincia de Iquique",
+        "lat":-20.21326,
+        "lon":-70.15027,
+        "pop":199587
+    },
+    {
+        "id":3870294,
+        "name":"Talca",
+        "country":"CL",
+        "admin1":"Maule Region",
+        "admin2":"Provincia de Talca",
+        "lat":-35.4232,
+        "lon":-71.64974,
+        "pop":197479
+    },
+    {
+        "id":3897347,
+        "name":"Calama",
+        "country":"CL",
+        "admin1":"Antofagasta",
+        "admin2":"Provincia de El Loa",
+        "lat":-22.45667,
+        "lon":-68.92371,
+        "pop":166334
+    },
+    {
+        "id":3893629,
+        "name":"Coquimbo",
+        "country":"CL",
+        "admin1":"Coquimbo Region",
+        "admin2":"Provincia de Elqui",
+        "lat":-29.95332,
+        "lon":-71.33947,
+        "pop":161317
+    },
+    {
+        "id":3884373,
+        "name":"La Serena",
+        "country":"CL",
+        "admin1":"Coquimbo Region",
+        "admin2":"Provincia de Elqui",
+        "lat":-29.90591,
+        "lon":-71.25014,
+        "pop":154521
+    },
+    {
+        "id":3895088,
+        "name":"Chillán",
+        "country":"CL",
+        "admin1":"Ñuble",
+        "admin2":"Provincia de Diguillín",
+        "lat":-36.60664,
+        "lon":-72.10344,
+        "pop":150396
+    },
+    {
+        "id":3873454,
+        "name":"Renca",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Santiago",
+        "lat":-33.4019,
+        "lon":-70.70619,
+        "pop":147151
+    },
+    {
+        "id":3894242,
+        "name":"Colina",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Chacabuco",
+        "lat":-33.20443,
+        "lon":-70.67474,
+        "pop":146207
+    },
+    {
+        "id":3899887,
+        "name":"Alto Hospicio",
+        "country":"CL",
+        "admin1":"Tarapacá",
+        "admin2":"Provincia de Iquique",
+        "lat":-20.26871,
+        "lon":-70.1049,
+        "pop":142086
+    },
+    {
+        "id":3877949,
+        "name":"Osorno",
+        "country":"CL",
+        "admin1":"Los Lagos Region",
+        "admin2":"Provincia de Osorno",
+        "lat":-40.57395,
+        "lon":-73.13348,
+        "pop":135773
+    },
+    {
+        "id":3868707,
+        "name":"Valdivia",
+        "country":"CL",
+        "admin1":"Los Ríos Region",
+        "admin2":"Provincia de Valdivia",
+        "lat":-39.81422,
+        "lon":-73.24589,
+        "pop":133419
+    },
+    {
+        "id":3874096,
+        "name":"Quilpué",
+        "country":"CL",
+        "admin1":"Valparaíso",
+        "admin2":"Provincia de Marga Marga",
+        "lat":-33.04752,
+        "lon":-71.44249,
+        "pop":130263
+    },
+    {
+        "id":3893656,
+        "name":"Copiapó",
+        "country":"CL",
+        "admin1":"Atacama",
+        "admin2":"Provincia de Copiapó",
+        "lat":-27.36737,
+        "lon":-70.33219,
+        "pop":129280
+    },
+    {
+        "id":3882428,
+        "name":"Los Ángeles",
+        "country":"CL",
+        "admin1":"Biobío",
+        "admin2":"Provincia de Biobío",
+        "lat":-37.46973,
+        "lon":-72.35366,
+        "pop":125430
+    },
+    {
+        "id":3874787,
+        "name":"Punta Arenas",
+        "country":"CL",
+        "admin1":"Region of Magallanes",
+        "admin2":"Provincia de Magallanes",
+        "lat":-53.16282,
+        "lon":-70.90922,
+        "pop":117430
+    },
+    {
+        "id":7281020,
+        "name":"Lo Prado",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Santiago",
+        "lat":-33.4443,
+        "lon":-70.72552,
+        "pop":104316
+    },
+    {
+        "id":3892870,
+        "name":"Curicó",
+        "country":"CL",
+        "admin1":"Maule Region",
+        "admin2":"Provincia de Curicó",
+        "lat":-34.98279,
+        "lon":-71.23943,
+        "pop":102438
+    },
+    {
+        "id":3885273,
+        "name":"Lampa",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Chacabuco",
+        "lat":-33.2863,
+        "lon":-70.87561,
+        "pop":102234
+    },
+    {
+        "id":3868192,
+        "name":"Villa Alemana",
+        "country":"CL",
+        "admin1":"Valparaíso",
+        "admin2":"Provincia de Marga Marga",
+        "lat":-33.04823,
+        "lon":-71.3729,
+        "pop":97320
+    },
+    {
+        "id":3893532,
+        "name":"Coronel",
+        "country":"CL",
+        "admin1":"Biobío",
+        "admin2":"Provincia de Concepción",
+        "lat":-37.03386,
+        "lon":-73.14019,
+        "pop":92940
+    },
+    {
+        "id":3872395,
+        "name":"San Antonio",
+        "country":"CL",
+        "admin1":"Valparaíso",
+        "admin2":"San Antonio Province",
+        "lat":-33.59473,
+        "lon":-71.60746,
+        "pop":85651
+    },
+    {
+        "id":3895138,
+        "name":"Chiguayante",
+        "country":"CL",
+        "admin1":"Biobío",
+        "admin2":"Provincia de Concepción",
+        "lat":-36.9256,
+        "lon":-73.02841,
+        "pop":82545
+    },
+    {
+        "id":3877918,
+        "name":"Ovalle",
+        "country":"CL",
+        "admin1":"Coquimbo Region",
+        "admin2":"Provincia de Limarí",
+        "lat":-30.60106,
+        "lon":-71.19901,
+        "pop":77138
+    },
+    {
+        "id":3877793,
+        "name":"Padre Las Casas",
+        "country":"CL",
+        "admin1":"Araucanía",
+        "admin2":"Provincia de Cautín",
+        "lat":-38.76081,
+        "lon":-72.5982,
+        "pop":76126
+    },
+    {
+        "id":3883167,
+        "name":"Linares",
+        "country":"CL",
+        "admin1":"Maule Region",
+        "admin2":"Provincia de Linares",
+        "lat":-35.84667,
+        "lon":-71.59308,
+        "pop":69535
+    },
+    {
+        "id":3874119,
+        "name":"Quillota",
+        "country":"CL",
+        "admin1":"Valparaíso",
+        "admin2":"Provincia de Quillota",
+        "lat":-32.88341,
+        "lon":-71.24882,
+        "pop":67779
+    },
+    {
+        "id":3876685,
+        "name":"Peñaflor",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Talagante",
+        "lat":-33.60627,
+        "lon":-70.87649,
+        "pop":65495
+    },
+    {
+        "id":3877794,
+        "name":"Padre Hurtado",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Talagante",
+        "lat":-33.56839,
+        "lon":-70.80584,
+        "pop":63250
+    },
+    {
+        "id":3880107,
+        "name":"Melipilla",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Melipilla",
+        "lat":-33.68909,
+        "lon":-71.21528,
+        "pop":63100
+    },
+    {
+        "id":3872255,
+        "name":"San Felipe",
+        "country":"CL",
+        "admin1":"Valparaíso",
+        "admin2":"Provincia de San Felipe de Aconcagua",
+        "lat":-32.74976,
+        "lon":-70.72584,
+        "pop":59294
+    },
+    {
+        "id":3882434,
+        "name":"Los Andes",
+        "country":"CL",
+        "admin1":"Valparaíso",
+        "admin2":"Provincia de Los Andes",
+        "lat":-32.83369,
+        "lon":-70.59827,
+        "pop":56859
+    },
+    {
+        "id":3897774,
+        "name":"Buin",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Maipo",
+        "lat":-33.73257,
+        "lon":-70.74281,
+        "pop":55441
+    },
+    {
+        "id":3881102,
+        "name":"Machalí",
+        "country":"CL",
+        "admin1":"O'Higgins Region",
+        "admin2":"Provincia de Cachapoal",
+        "lat":-34.18082,
+        "lon":-70.64933,
+        "pop":52505
+    },
+    {
+        "id":3870306,
+        "name":"Talagante",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Talagante",
+        "lat":-33.66386,
+        "lon":-70.92734,
+        "pop":51764
+    },
+    {
+        "id":3881276,
+        "name":"Lota",
+        "country":"CL",
+        "admin1":"Biobío",
+        "admin2":"Provincia de Concepción",
+        "lat":-37.08994,
+        "lon":-73.1577,
+        "pop":49763
+    },
+    {
+        "id":3869657,
+        "name":"Tomé",
+        "country":"CL",
+        "admin1":"Biobío",
+        "admin2":"Provincia de Concepción",
+        "lat":-36.61756,
+        "lon":-72.95593,
+        "pop":46698
+    },
+    {
+        "id":3876664,
+        "name":"Penco",
+        "country":"CL",
+        "admin1":"Biobío",
+        "admin2":"Provincia de Concepción",
+        "lat":-36.74075,
+        "lon":-72.99528,
+        "pop":46091
+    },
+    {
+        "id":3894426,
+        "name":"Coyhaique",
+        "country":"CL",
+        "admin1":"Aysén",
+        "admin2":"Provincia de Coyhaique",
+        "lat":-45.57524,
+        "lon":-72.06619,
+        "pop":45787
+    },
+    {
+        "id":3868633,
+        "name":"Vallenar",
+        "country":"CL",
+        "admin1":"Atacama",
+        "admin2":"Provincia de Huasco",
+        "lat":-28.57617,
+        "lon":-70.75938,
+        "pop":44895
+    },
+    {
+        "id":3899629,
+        "name":"Angol",
+        "country":"CL",
+        "admin1":"Araucanía",
+        "admin2":"Provincia de Malleco",
+        "lat":-37.79519,
+        "lon":-72.71636,
+        "pop":44856
+    },
+    {
+        "id":3873441,
+        "name":"Rengo",
+        "country":"CL",
+        "admin1":"O'Higgins Region",
+        "admin2":"Provincia de Cachapoal",
+        "lat":-34.40639,
+        "lon":-70.85834,
+        "pop":38100
+    },
+    {
+        "id":3893726,
+        "name":"Constitución",
+        "country":"CL",
+        "admin1":"Maule Region",
+        "admin2":"Provincia de Talca",
+        "lat":-35.33321,
+        "lon":-72.41156,
+        "pop":37917
+    },
+    {
+        "id":3883214,
+        "name":"Limache",
+        "country":"CL",
+        "admin1":"Valparaíso",
+        "admin2":"Provincia de Marga Marga",
+        "lat":-33.01327,
+        "lon":-71.26084,
+        "pop":35876
+    },
+    {
+        "id":3871616,
+        "name":"Santa Cruz",
+        "country":"CL",
+        "admin1":"O'Higgins Region",
+        "admin2":"Provincia de Colchagua",
+        "lat":-34.63881,
+        "lon":-71.36576,
+        "pop":33283
+    },
+    {
+        "id":3877739,
+        "name":"Paine",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Maipo",
+        "lat":-33.80796,
+        "lon":-70.74109,
+        "pop":32766
+    },
+    {
+        "id":3873983,
+        "name":"Quintero",
+        "country":"CL",
+        "admin1":"Valparaíso",
+        "admin2":"Provincia de Valparaíso",
+        "lat":-32.78588,
+        "lon":-71.53222,
+        "pop":31923
+    },
+    {
+        "id":3868158,
+        "name":"Villarrica",
+        "country":"CL",
+        "admin1":"Araucanía",
+        "admin2":"Provincia de Cautín",
+        "lat":-39.28569,
+        "lon":-72.2279,
+        "pop":31602
+    },
+    {
+        "id":3872326,
+        "name":"San Carlos",
+        "country":"CL",
+        "admin1":"Ñuble",
+        "admin2":"Provincia de Punilla",
+        "lat":-36.42477,
+        "lon":-71.958,
+        "pop":31517
+    },
+    {
+        "id":3896105,
+        "name":"Cauquenes",
+        "country":"CL",
+        "admin1":"Maule Region",
+        "admin2":"Provincia de Cauquenes",
+        "lat":-35.9671,
+        "lon":-72.32248,
+        "pop":31362
+    },
+    {
+        "id":3892892,
+        "name":"Curanilahue",
+        "country":"CL",
+        "admin1":"Biobío",
+        "admin2":"Provincia de Arauco",
+        "lat":-37.47793,
+        "lon":-73.34495,
+        "pop":30611
+    },
+    {
+        "id":3896218,
+        "name":"Castro",
+        "country":"CL",
+        "admin1":"Los Lagos Region",
+        "admin2":"Provincia de Chiloé",
+        "lat":-42.4721,
+        "lon":-73.77319,
+        "pop":29926
+    },
+    {
+        "id":3871276,
+        "name":"San Vicente de Tagua Tagua",
+        "country":"CL",
+        "admin1":"O'Higgins Region",
+        "admin2":"Provincia de Cachapoal",
+        "lat":-34.43859,
+        "lon":-71.07751,
+        "pop":29560
+    },
+    {
+        "id":3879627,
+        "name":"Molina",
+        "country":"CL",
+        "admin1":"Maule Region",
+        "admin2":"Provincia de Curicó",
+        "lat":-35.11428,
+        "lon":-71.28232,
+        "pop":28775
+    },
+    {
+        "id":3899695,
+        "name":"Ancud",
+        "country":"CL",
+        "admin1":"Los Lagos Region",
+        "admin2":"Provincia de Chiloé",
+        "lat":-41.8707,
+        "lon":-73.81622,
+        "pop":28020
+    },
+    {
+        "id":3875070,
+        "name":"Pucón",
+        "country":"CL",
+        "admin1":"Araucanía",
+        "admin2":"Provincia de Cautín",
+        "lat":-39.28223,
+        "lon":-71.95427,
+        "pop":26953
+    },
+    {
+        "id":3877146,
+        "name":"Parral",
+        "country":"CL",
+        "admin1":"Maule Region",
+        "admin2":"Provincia de Linares",
+        "lat":-36.14311,
+        "lon":-71.82605,
+        "pop":26904
+    },
+    {
+        "id":3875811,
+        "name":"Pirque",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Cordillera",
+        "lat":-33.63638,
+        "lon":-70.57361,
+        "pop":26521
+    },
+    {
+        "id":3883629,
+        "name":"La Unión",
+        "country":"CL",
+        "admin1":"Los Ríos Region",
+        "admin2":"Provincia del Ranco",
+        "lat":-40.29313,
+        "lon":-73.08167,
+        "pop":26298
+    },
+    {
+        "id":3869716,
+        "name":"Tocopilla",
+        "country":"CL",
+        "admin1":"Antofagasta",
+        "admin2":"Provincia de Tocopilla",
+        "lat":-22.09198,
+        "lon":-70.19792,
+        "pop":25400
+    },
+    {
+        "id":3872205,
+        "name":"San Francisco de Mostazal",
+        "country":"CL",
+        "admin1":"O'Higgins Region",
+        "admin2":"Provincia de Cachapoal",
+        "lat":-33.98219,
+        "lon":-70.7104,
+        "pop":25343
+    },
+    {
+        "id":3874930,
+        "name":"Puerto Varas",
+        "country":"CL",
+        "admin1":"Los Lagos Region",
+        "admin2":"Provincia de Llanquihue",
+        "lat":-41.31946,
+        "lon":-72.98538,
+        "pop":24958
+    },
+    {
+        "id":3885456,
+        "name":"La Ligua",
+        "country":"CL",
+        "admin1":"Valparaíso",
+        "admin2":"Petorca Province",
+        "lat":-32.45242,
+        "lon":-71.23106,
+        "pop":24857
+    },
+    {
+        "id":3899462,
+        "name":"Arauco",
+        "country":"CL",
+        "admin1":"Biobío",
+        "admin2":"Provincia de Arauco",
+        "lat":-37.2463,
+        "lon":-73.31752,
+        "pop":24659
+    },
+    {
+        "id":3868326,
+        "name":"Victoria",
+        "country":"CL",
+        "admin1":"Araucanía",
+        "admin2":"Provincia de Malleco",
+        "lat":-38.23291,
+        "lon":-72.33292,
+        "pop":24555
+    },
+    {
+        "id":3888749,
+        "name":"Graneros",
+        "country":"CL",
+        "admin1":"O'Higgins Region",
+        "admin2":"Provincia de Cachapoal",
+        "lat":-34.06863,
+        "lon":-70.72747,
+        "pop":23301
+    },
+    {
+        "id":3890949,
+        "name":"El Monte",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Talagante",
+        "lat":-33.67969,
+        "lon":-70.98482,
+        "pop":23090
+    },
+    {
+        "id":3887344,
+        "name":"Illapel",
+        "country":"CL",
+        "admin1":"Coquimbo Region",
+        "admin2":"Provincia de Choapa",
+        "lat":-31.63349,
+        "lon":-71.16967,
+        "pop":22816
+    },
+    {
+        "id":3872154,
+        "name":"San Javier",
+        "country":"CL",
+        "admin1":"Maule Region",
+        "admin2":"Provincia de Linares",
+        "lat":-35.5952,
+        "lon":-71.72924,
+        "pop":22427
+    },
+    {
+        "id":3883457,
+        "name":"Lebu",
+        "country":"CL",
+        "admin1":"Biobío",
+        "admin2":"Provincia de Arauco",
+        "lat":-37.60825,
+        "lon":-73.65356,
+        "pop":22345
+    },
+    {
+        "id":3879200,
+        "name":"Mulchén",
+        "country":"CL",
+        "admin1":"Biobío",
+        "admin2":"Provincia de Biobío",
+        "lat":-37.71893,
+        "lon":-72.24099,
+        "pop":22170
+    },
+    {
+        "id":3874943,
+        "name":"Quellón",
+        "country":"CL",
+        "admin1":"Los Lagos Region",
+        "admin2":"Provincia de Chiloé",
+        "lat":-43.11819,
+        "lon":-73.61661,
+        "pop":21823
+    },
+    {
+        "id":3883615,
+        "name":"Lautaro",
+        "country":"CL",
+        "admin1":"Araucanía",
+        "admin2":"Provincia de Cautín",
+        "lat":-38.53066,
+        "lon":-72.43652,
+        "pop":21579
+    },
+    {
+        "id":3879123,
+        "name":"Nacimiento",
+        "country":"CL",
+        "admin1":"Biobío",
+        "admin2":"Provincia de Biobío",
+        "lat":-37.50253,
+        "lon":-72.67307,
+        "pop":21220
+    },
+    {
+        "id":3874958,
+        "name":"Puerto Natales",
+        "country":"CL",
+        "admin1":"Region of Magallanes",
+        "admin2":"Provincia de Última Esperanza",
+        "lat":-51.72987,
+        "lon":-72.50603,
+        "pop":20000
+    },
+    {
+        "id":3869821,
+        "name":"Tiltil",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Chacabuco",
+        "lat":-33.0831,
+        "lon":-70.92924,
+        "pop":19312
+    },
+    {
+        "id":3872264,
+        "name":"San Esteban",
+        "country":"CL",
+        "admin1":"Valparaíso",
+        "admin2":"Provincia de Los Andes",
+        "lat":-32.79871,
+        "lon":-70.5807,
+        "pop":18855
+    },
+    {
+        "id":3878456,
+        "name":"Nueva Imperial",
+        "country":"CL",
+        "admin1":"Araucanía",
+        "admin2":"Provincia de Cautín",
+        "lat":-38.74451,
+        "lon":-72.95025,
+        "pop":18777
+    },
+    {
+        "id":3897557,
+        "name":"Cabrero",
+        "country":"CL",
+        "admin1":"Biobío",
+        "admin2":"Provincia de Biobío",
+        "lat":-37.03394,
+        "lon":-72.40468,
+        "pop":18327
+    },
+    {
+        "id":3872073,
+        "name":"San José de Maipo",
+        "country":"CL",
+        "admin1":"Santiago Metropolitan",
+        "admin2":"Provincia de Cordillera",
+        "lat":-33.63912,
+        "lon":-70.35318,
+        "pop":18189
+    },
+    {
+        "id":3892454,
+        "name":"Diego de Almagro",
+        "country":"CL",
+        "admin1":"Atacama",
+        "admin2":"Provincia de Chañaral",
+        "lat":-26.39022,
+        "lon":-70.04556,
+        "pop":18137
+    },
+    {
+        "id":3879062,
+        "name":"Nancagua",
+        "country":"CL",
+        "admin1":"O'Higgins Region",
+        "admin2":"Provincia de Colchagua",
+        "lat":-34.65187,
+        "lon":-71.19724,
+        "pop":17833
+    },
+    {
+        "id":3874122,
+        "name":"Quillón",
+        "country":"CL",
+        "admin1":"Ñuble",
+        "admin2":"Provincia de Diguillín",
+        "lat":-36.74553,
+        "lon":-72.47481,
+        "pop":17485
+    },
+    {
+        "id":3895061,
+        "name":"Chimbarongo",
+        "country":"CL",
+        "admin1":"O'Higgins Region",
+        "admin2":"Provincia de Colchagua",
+        "lat":-34.71247,
+        "lon":-71.0434,
+        "pop":17356
+    },
+    {
+        "id":3874997,
+        "name":"Puerto Aysén",
+        "country":"CL",
+        "admin1":"Aysén",
+        "admin2":"Provincia de Aisén",
+        "lat":-45.40303,
+        "lon":-72.69184,
+        "pop":16936
+    },
+    {
+        "id":3875235,
+        "name":"Pozo Almonte",
+        "country":"CL",
+        "admin1":"Tarapacá",
+        "admin2":"Provincia del Tamarugal",
+        "lat":-20.25585,
+        "lon":-69.7863,
+        "pop":16878
+    },
+    {
+        "id":3896433,
+        "name":"Cartagena",
+        "country":"CL",
+        "admin1":"Valparaíso",
+        "admin2":"San Antonio Province",
+        "lat":-33.55384,
+        "lon":-71.60761,
+        "pop":16875
+    },
+    {
+        "id":3883035,
+        "name":"Llaillay",
+        "country":"CL",
+        "admin1":"Valparaíso",
+        "admin2":"Provincia de San Felipe de Aconcagua",
+        "lat":-32.84043,
+        "lon":-70.95623,
+        "pop":16646
+    },
+    {
+        "id":3885509,
+        "name":"Laja",
+        "country":"CL",
+        "admin1":"Biobío",
+        "admin2":"Provincia de Biobío",
+        "lat":-37.28415,
+        "lon":-72.71105,
+        "pop":16550
+    },
+    {
+        "id":3876256,
+        "name":"Pichilemu",
+        "country":"CL",
+        "admin1":"O'Higgins Region",
+        "admin2":"Provincia de Cardenal Caro",
+        "lat":-34.38333,
+        "lon":-72.0,
+        "pop":16394
+    },
+    {
+        "id":3894177,
+        "name":"Collipulli",
+        "country":"CL",
+        "admin1":"Araucanía",
+        "admin2":"Provincia de Malleco",
+        "lat":-37.95453,
+        "lon":-72.43438,
+        "pop":16392
+    },
+    {
+        "id":3877348,
+        "name":"Panguipulli",
+        "country":"CL",
+        "admin1":"Los Ríos Region",
+        "admin2":"Provincia de Valdivia",
+        "lat":-39.64355,
+        "lon":-72.33269,
+        "pop":16312
+    },
+    {
+        "id":3882582,
+        "name":"Loncoche",
+        "country":"CL",
+        "admin1":"Araucanía",
+        "admin2":"Provincia de Cautín",
+        "lat":-39.36708,
+        "lon":-72.63087,
+        "pop":15590
+    },
+    {
+        "id":3873145,
+        "name":"Río Bueno",
+        "country":"CL",
+        "admin1":"Los Ríos Region",
+        "admin2":"Provincia del Ranco",
+        "lat":-40.33494,
+        "lon":-72.95564,
+        "pop":15456
+    },
+    {
+        "id":3869381,
+        "name":"Traiguén",
+        "country":"CL",
+        "admin1":"Araucanía",
+        "admin2":"Provincia de Malleco",
+        "lat":-38.2496,
+        "lon":-72.67027,
+        "pop":14481
+    },
+    {
+        "id":3880143,
+        "name":"Mejillones",
+        "country":"CL",
+        "admin1":"Antofagasta",
+        "admin2":"Provincia de Antofagasta",
+        "lat":-23.10003,
+        "lon":-70.44703,
+        "pop":14084
+    },
+    {
+        "id":3879429,
+        "name":"Monte Patria",
+        "country":"CL",
+        "admin1":"Coquimbo Region",
+        "admin2":"Provincia de Limarí",
+        "lat":-30.69496,
+        "lon":-70.9577,
+        "pop":13945
+    },
+    {
+        "id":3900138,
+        "name":"Algarrobo",
+        "country":"CL",
+        "admin1":"Valparaíso",
+        "admin2":"San Antonio Province",
+        "lat":-33.36952,
+        "lon":-71.67654,
+        "pop":13817
+    },
+    {
+        "id":3875746,
+        "name":"Pitrufquén",
+        "country":"CL",
+        "admin1":"Araucanía",
+        "admin2":"Provincia de Cautín",
+        "lat":-38.98635,
+        "lon":-72.63721,
+        "pop":13743
+    },
+    {
+        "id":3872306,
+        "name":"San Clemente",
+        "country":"CL",
+        "admin1":"Maule Region",
+        "admin2":"Provincia de Talca",
+        "lat":-35.53777,
+        "lon":-71.487,
+        "pop":13656
+    },
+    {
+        "id":3874579,
+        "name":"Purranque",
+        "country":"CL",
+        "admin1":"Los Lagos Region",
+        "admin2":"Provincia de Osorno",
+        "lat":-40.91305,
+        "lon":-73.15913,
+        "pop":13619
+    },
+    {
+        "id":3893962,
+        "name":"Combarbalá",
+        "country":"CL",
+        "admin1":"Coquimbo Region",
+        "admin2":"Provincia de Limarí",
+        "lat":-31.17863,
+        "lon":-71.00304,
+        "pop":13605
+    },
+    {
+        "id":3868308,
+        "name":"Vicuña",
+        "country":"CL",
+        "admin1":"Coquimbo Region",
+        "admin2":"Provincia de Elqui",
+        "lat":-30.03541,
+        "lon":-70.71274,
+        "pop":13496
+    },
+    {
+        "id":3872594,
+        "name":"Salamanca",
+        "country":"CL",
+        "admin1":"Coquimbo Region",
+        "admin2":"Provincia de Choapa",
+        "lat":-31.77922,
+        "lon":-70.96389,
+        "pop":13265
+    },
+    {
+        "id":3892760,
+        "name":"Dalcahue",
+        "country":"CL",
+        "admin1":"Los Lagos Region",
+        "admin2":"Provincia de Chiloé",
+        "lat":-42.37845,
+        "lon":-73.65011,
+        "pop":13076
+    },
+    {
+        "id":3897724,
+        "name":"Bulnes",
+        "country":"CL",
+        "admin1":"Ñuble",
+        "admin2":"Provincia de Diguillín",
+        "lat":-36.74232,
+        "lon":-72.29854,
+        "pop":12715
+    },
+    {
+        "id":3894871,
+        "name":"Chonchi",
+        "country":"CL",
+        "admin1":"Los Lagos Region",
+        "admin2":"Provincia de Chiloé",
+        "lat":-42.62387,
+        "lon":-73.775,
+        "pop":12572
+    },
+    {
+        "id":3897334,
+        "name":"Calbuco",
+        "country":"CL",
+        "admin1":"Los Lagos Region",
+        "admin2":"Provincia de Llanquihue",
+        "lat":-41.77338,
+        "lon":-73.13049,
+        "pop":12490
+    },
+    {
+        "id":3896774,
+        "name":"Carahue",
+        "country":"CL",
+        "admin1":"Araucanía",
+        "admin2":"Provincia de Cautín",
+        "lat":-38.71122,
+        "lon":-73.16101,
+        "pop":11875
+    },
+    {
+        "id":3874612,
+        "name":"Purén",
+        "country":"CL",
+        "admin1":"Araucanía",
+        "admin2":"Provincia de Malleco",
+        "lat":-38.0334,
+        "lon":-73.07145,
+        "pop":11815
+    },
+    {
+        "id":3881179,
+        "name":"Lumaco",
+        "country":"CL",
+        "admin1":"Araucanía",
+        "admin2":"Provincia de Malleco",
+        "lat":-38.16485,
+        "lon":-72.90551,
+        "pop":11405
+    },
+    {
+        "id":3867625,
+        "name":"Yumbel",
+        "country":"CL",
+        "admin1":"Biobío",
+        "admin2":"Provincia de Biobío",
+        "lat":-37.0982,
+        "lon":-72.56084,
+        "pop":11111
+    },
+    {
+        "id":3870243,
+        "name":"Taltal",
+        "country":"CL",
+        "admin1":"Antofagasta",
+        "admin2":"Provincia de Antofagasta",
+        "lat":-25.40713,
+        "lon":-70.48554,
+        "pop":10018
+    },
+    {
+        "id":3876353,
+        "name":"Pica",
+        "country":"CL",
+        "admin1":"Tarapacá",
+        "admin2":"Provincia del Tamarugal",
+        "lat":-20.49128,
+        "lon":-69.33118,
+        "pop":9296
+    },
+    {
+        "id":3868210,
+        "name":"Vilcún",
+        "country":"CL",
+        "admin1":"Araucanía",
+        "admin2":"Provincia de Cautín",
+        "lat":-38.66875,
+        "lon":-72.22565,
+        "pop":9241
+    },
+    {
+        "id":3881285,
+        "name":"Los Vilos",
+        "country":"CL",
+        "admin1":"Coquimbo Region",
+        "admin2":"Provincia de Choapa",
+        "lat":-31.91292,
+        "lon":-71.50045,
+        "pop":9000
+    },
+    {
+        "id":3873668,
+        "name":"Rauco",
+        "country":"CL",
+        "admin1":"Maule Region",
+        "admin2":"Provincia de Curicó",
+        "lat":-34.92546,
+        "lon":-71.31722,
+        "pop":8566
+    },
+    {
+        "id":3873958,
+        "name":"Quirihue",
+        "country":"CL",
+        "admin1":"Ñuble",
+        "admin2":"Provincia de Itata",
+        "lat":-36.27998,
+        "lon":-72.54118,
+        "pop":8000
+    },
+    {
+        "id":3889322,
+        "name":"Freire",
+        "country":"CL",
+        "admin1":"Araucanía",
+        "admin2":"Provincia de Cautín",
+        "lat":-38.95252,
+        "lon":-72.62653,
+        "pop":7813
+    },
+    {
+        "id":3894406,
+        "name":"Coihueco",
+        "country":"CL",
+        "admin1":"Ñuble",
+        "admin2":"Provincia de Punilla",
+        "lat":-36.62785,
+        "lon":-71.83068,
+        "pop":7346
+    },
+    {
+        "id":4030754,
+        "name":"Hanga Roa",
+        "country":"CL",
+        "admin1":"Valparaíso",
+        "admin2":"Provincia de Isla de Pascua",
+        "lat":-27.15253,
+        "lon":-109.42438,
+        "pop":7322
+    },
+    {
+        "id":3881357,
+        "name":"Los Sauces",
+        "country":"CL",
+        "admin1":"Araucanía",
+        "admin2":"Provincia de Malleco",
+        "lat":-37.98119,
+        "lon":-72.83393,
+        "pop":7169
+    },
+    {
+        "id":3869979,
+        "name":"Teno",
+        "country":"CL",
+        "admin1":"Maule Region",
+        "admin2":"Provincia de Curicó",
+        "lat":-34.87055,
+        "lon":-71.16219,
+        "pop":6858
+    },
+    {
+        "id":3882559,
+        "name":"Longaví",
+        "country":"CL",
+        "admin1":"Maule Region",
+        "admin2":"Provincia de Linares",
+        "lat":-35.96496,
+        "lon":-71.6836,
+        "pop":6325
+    },
+    {
+        "id":3893690,
+        "name":"Contulmo",
+        "country":"CL",
+        "admin1":"Biobío",
+        "admin2":"Provincia de Arauco",
+        "lat":-38.01556,
+        "lon":-73.22991,
+        "pop":5838
+    },
+    {
+        "id":3878253,
+        "name":"María Elena",
+        "country":"CL",
+        "admin1":"Antofagasta",
+        "admin2":"Provincia de Tocopilla",
+        "lat":-22.34449,
+        "lon":-69.66178,
+        "pop":4902
+    },
+    {
+        "id":3895642,
+        "name":"Chaitén",
+        "country":"CL",
+        "admin1":"Los Lagos Region",
+        "admin2":"Provincia de Palena",
+        "lat":-42.91596,
+        "lon":-72.70632,
+        "pop":4065
+    },
+    {
+        "id":3894319,
+        "name":"Colbún",
+        "country":"CL",
+        "admin1":"Maule Region",
+        "admin2":"Provincia de Linares",
+        "lat":-35.69494,
+        "lon":-71.40568,
+        "pop":3679
+    },
+    {
+        "id":3893516,
+        "name":"Corral",
+        "country":"CL",
+        "admin1":"Los Ríos Region",
+        "admin2":"Provincia de Valdivia",
+        "lat":-39.8873,
+        "lon":-73.43101,
+        "pop":3500
+    },
+    {
+        "id":3894483,
+        "name":"Cochrane",
+        "country":"CL",
+        "admin1":"Aysén",
+        "admin2":"Provincia Capitán Prat",
+        "lat":-47.2557,
+        "lon":-72.5695,
+        "pop":2867
+    },
+    {
+        "id":3887766,
+        "name":"Huara",
+        "country":"CL",
+        "admin1":"Tarapacá",
+        "admin2":"Provincia del Tamarugal",
+        "lat":-19.99631,
+        "lon":-69.77205,
+        "pop":2858
+    },
+    {
+        "id":3874552,
+        "name":"Putre",
+        "country":"CL",
+        "admin1":"Arica y Parinacota Region",
+        "admin2":"Provincia de Parinacota",
+        "lat":-18.19821,
+        "lon":-69.56071,
+        "pop":2765
+    },
+    {
+        "id":3874982,
+        "name":"Puerto Cisnes",
+        "country":"CL",
+        "admin1":"Aysén",
+        "admin2":"Provincia de Aisén",
+        "lat":-44.74736,
+        "lon":-72.69695,
+        "pop":2507
+    },
+    {
+        "id":3895113,
+        "name":"Chile Chico",
+        "country":"CL",
+        "admin1":"Aysén",
+        "admin2":"Provincia General Carrera",
+        "lat":-46.541,
+        "lon":-71.72375,
+        "pop":2500
+    },
+    {
+        "id":3874926,
+        "name":"Puerto Williams",
+        "country":"CL",
+        "admin1":"Region of Magallanes",
+        "admin2":"Provincia Antártica Chilena",
+        "lat":-54.93355,
+        "lon":-67.60963,
+        "pop":2000
+    },
+    {
+        "id":3871781,
+        "name":"San Pedro de Atacama",
+        "country":"CL",
+        "admin1":"Antofagasta",
+        "admin2":"Provincia de El Loa",
+        "lat":-22.9111,
+        "lon":-68.20113,
+        "pop":2000
+    },
+    {
+        "id":3889223,
+        "name":"Futaleufú",
+        "country":"CL",
+        "admin1":"Los Lagos Region",
+        "admin2":"Provincia de Palena",
+        "lat":-43.18492,
+        "lon":-71.86722,
+        "pop":1826
+    },
+    {
+        "id":3894309,
+        "name":"Colchane",
+        "country":"CL",
+        "admin1":"Tarapacá",
+        "admin2":"Provincia del Tamarugal",
+        "lat":-19.27588,
+        "lon":-68.63763,
+        "pop":1728
+    },
+    {
+        "id":3877644,
+        "name":"Palena",
+        "country":"CL",
+        "admin1":"Los Lagos Region",
+        "admin2":"Provincia de Palena",
+        "lat":-43.61876,
+        "lon":-71.80434,
+        "pop":1690
+    },
+    {
+        "id":3883715,
+        "name":"La Tirana",
+        "country":"CL",
+        "admin1":"Tarapacá",
+        "admin2":"Provincia del Tamarugal",
+        "lat":-20.33552,
+        "lon":-69.65671,
+        "pop":1529
+    },
+    {
+        "id":3897143,
+        "name":"Camiña",
+        "country":"CL",
+        "admin1":"Tarapacá",
+        "admin2":"Provincia del Tamarugal",
+        "lat":-19.31286,
+        "lon":-69.4261,
+        "pop":1335
+    },
+    {
+        "id":6458911,
+        "name":"Santa Rosa",
+        "country":"CL",
+        "admin1":"Los Ríos Region",
+        "admin2":"Provincia de Valdivia",
+        "lat":-40.17625,
+        "lon":-72.56058,
+        "pop":1000
+    },
+    {
+        "id":3898793,
+        "name":"Baquedano",
+        "country":"CL",
+        "admin1":"Antofagasta",
+        "admin2":"Provincia de Antofagasta",
+        "lat":-23.33374,
+        "lon":-69.84055,
+        "pop":858
+    },
+    {
+        "id":3895573,
+        "name":"Chanavayita",
+        "country":"CL",
+        "admin1":"Tarapacá",
+        "admin2":"Provincia de Iquique",
+        "lat":-20.70516,
+        "lon":-70.18922,
+        "pop":603
+    },
+    {
+        "id":12493988,
+        "name":"Baquedano",
+        "country":"CL",
+        "admin1":"Tarapacá",
+        "admin2":"Provincia del Tamarugal",
+        "lat":-20.13852,
+        "lon":-69.75367,
+        "pop":587
+    },
+    {
+        "id":3880330,
+        "name":"Matilla",
+        "country":"CL",
+        "admin1":"Tarapacá",
+        "admin2":"Provincia del Tamarugal",
+        "lat":-20.51379,
+        "lon":-69.3618,
+        "pop":583
+    }
+]

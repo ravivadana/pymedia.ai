@@ -1,0 +1,102 @@
+[
+    {
+        "id":385038,
+        "name":"Ar Rifā‘",
+        "country":"BH",
+        "admin1":"Southern Governorate",
+        "admin2":"",
+        "lat":26.13,
+        "lon":50.555,
+        "pop":195606
+    },
+    {
+        "id":290340,
+        "name":"Manama",
+        "country":"BH",
+        "admin1":"Manama",
+        "admin2":"",
+        "lat":26.22787,
+        "lon":50.58565,
+        "pop":147074
+    },
+    {
+        "id":290332,
+        "name":"Al Muharraq",
+        "country":"BH",
+        "admin1":"Muharraq",
+        "admin2":"",
+        "lat":26.25722,
+        "lon":50.61194,
+        "pop":97458
+    },
+    {
+        "id":290269,
+        "name":"Dār Kulayb",
+        "country":"BH",
+        "admin1":"Southern Governorate",
+        "admin2":"",
+        "lat":26.06861,
+        "lon":50.50389,
+        "pop":65466
+    },
+    {
+        "id":290247,
+        "name":"Madīnat Ḩamad",
+        "country":"BH",
+        "admin1":"Northern",
+        "admin2":"",
+        "lat":26.11528,
+        "lon":50.50694,
+        "pop":52718
+    },
+    {
+        "id":290187,
+        "name":"Madīnat ‘Īsá",
+        "country":"BH",
+        "admin1":"Southern Governorate",
+        "admin2":"",
+        "lat":26.17361,
+        "lon":50.54778,
+        "pop":38090
+    },
+    {
+        "id":290104,
+        "name":"Sitrah",
+        "country":"BH",
+        "admin1":"Manama",
+        "admin2":"",
+        "lat":26.15472,
+        "lon":50.62056,
+        "pop":37657
+    },
+    {
+        "id":290215,
+        "name":"Jidd Ḩafş",
+        "country":"BH",
+        "admin1":"Manama",
+        "admin2":"",
+        "lat":26.21861,
+        "lon":50.54778,
+        "pop":31735
+    },
+    {
+        "id":290363,
+        "name":"Al Ḩadd",
+        "country":"BH",
+        "admin1":"Muharraq",
+        "admin2":"",
+        "lat":26.24556,
+        "lon":50.65417,
+        "pop":12797
+    },
+    {
+        "id":290121,
+        "name":"Sanābis",
+        "country":"BH",
+        "admin1":"Manama",
+        "admin2":"",
+        "lat":26.22722,
+        "lon":50.55083,
+        "pop":6564
+    }
+]

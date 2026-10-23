@@ -1,0 +1,472 @@
+[
+    {
+        "id":71137,
+        "name":"Sanaa",
+        "country":"YE",
+        "admin1":"Amanat Alasimah",
+        "admin2":"",
+        "lat":15.35452,
+        "lon":44.20646,
+        "pop":1937451
+    },
+    {
+        "id":415189,
+        "name":"Aden",
+        "country":"YE",
+        "admin1":"Aden",
+        "admin2":"Craiter",
+        "lat":12.77957,
+        "lon":45.03852,
+        "pop":1079670
+    },
+    {
+        "id":70225,
+        "name":"Taiz",
+        "country":"YE",
+        "admin1":"Ta‘izz",
+        "admin2":"Salh",
+        "lat":13.57952,
+        "lon":44.02091,
+        "pop":940600
+    },
+    {
+        "id":74477,
+        "name":"Ibb",
+        "country":"YE",
+        "admin1":"Ibb Governorate",
+        "admin2":"Al Mashannah",
+        "lat":13.96667,
+        "lon":44.18333,
+        "pop":771514
+    },
+    {
+        "id":79415,
+        "name":"Al Ḩudaydah",
+        "country":"YE",
+        "admin1":"Al Hudaydah",
+        "admin2":"Al Hawak",
+        "lat":14.79781,
+        "lon":42.95452,
+        "pop":734699
+    },
+    {
+        "id":78754,
+        "name":"Mukalla",
+        "country":"YE",
+        "admin1":"Muhafazat Hadramaout",
+        "admin2":"Al Mukalla City",
+        "lat":14.54248,
+        "lon":49.12424,
+        "pop":594951
+    },
+    {
+        "id":76184,
+        "name":"Dhamār",
+        "country":"YE",
+        "admin1":"Dhamār",
+        "admin2":"Madīnat Dhamār",
+        "lat":14.54274,
+        "lon":44.40514,
+        "pop":160114
+    },
+    {
+        "id":78428,
+        "name":"‘Amrān",
+        "country":"YE",
+        "admin1":"Omran",
+        "admin2":"‘Amrān",
+        "lat":15.6594,
+        "lon":43.94385,
+        "pop":90792
+    },
+    {
+        "id":70979,
+        "name":"Sayyān",
+        "country":"YE",
+        "admin1":"Sanaa Governorate",
+        "admin2":"Sanhan",
+        "lat":15.17177,
+        "lon":44.32442,
+        "pop":69404
+    },
+    {
+        "id":69500,
+        "name":"Zabīd",
+        "country":"YE",
+        "admin1":"Al Hudaydah",
+        "admin2":"Zabīd",
+        "lat":14.1951,
+        "lon":43.31518,
+        "pop":52590
+    },
+    {
+        "id":71334,
+        "name":"Sa'dah",
+        "country":"YE",
+        "admin1":"Şa‘dah",
+        "admin2":"Şa‘dah",
+        "lat":16.94021,
+        "lon":43.76393,
+        "pop":51870
+    },
+    {
+        "id":77408,
+        "name":"Bājil",
+        "country":"YE",
+        "admin1":"Al Hudaydah",
+        "admin2":"Bājil",
+        "lat":15.05898,
+        "lon":43.28731,
+        "pop":48218
+    },
+    {
+        "id":75337,
+        "name":"Ḩajjah",
+        "country":"YE",
+        "admin1":"Ḩajjah",
+        "admin2":"Hajjah City District",
+        "lat":15.69425,
+        "lon":43.60582,
+        "pop":43549
+    },
+    {
+        "id":76154,
+        "name":"Dhī as Sufāl",
+        "country":"YE",
+        "admin1":"Ibb Governorate",
+        "admin2":"Dhī as Sufāl",
+        "lat":13.83446,
+        "lon":44.11469,
+        "pop":37997
+    },
+    {
+        "id":79836,
+        "name":"Al Bayda",
+        "country":"YE",
+        "admin1":"Al Bayda",
+        "admin2":"Al Bayda City",
+        "lat":13.98523,
+        "lon":45.57272,
+        "pop":37821
+    },
+    {
+        "id":77726,
+        "name":"Ataq",
+        "country":"YE",
+        "admin1":"Shabwah",
+        "admin2":"Ataq",
+        "lat":14.53767,
+        "lon":46.83187,
+        "pop":37315
+    },
+    {
+        "id":76991,
+        "name":"Bayt al Faqīh",
+        "country":"YE",
+        "admin1":"Al Hudaydah",
+        "admin2":"Bayt al Faqīh",
+        "lat":14.51635,
+        "lon":43.32446,
+        "pop":34204
+    },
+    {
+        "id":69559,
+        "name":"Yarīm",
+        "country":"YE",
+        "admin1":"Ibb Governorate",
+        "admin2":"Yarīm",
+        "lat":14.29804,
+        "lon":44.37795,
+        "pop":33050
+    },
+    {
+        "id":71273,
+        "name":"Saḩar",
+        "country":"YE",
+        "admin1":"Sanaa Governorate",
+        "admin2":"Sanhan",
+        "lat":15.31637,
+        "lon":44.3088,
+        "pop":31859
+    },
+    {
+        "id":73560,
+        "name":"Laḩij",
+        "country":"YE",
+        "admin1":"Laḩij",
+        "admin2":"Al  Hawtah",
+        "lat":13.05667,
+        "lon":44.88194,
+        "pop":23375
+    },
+    {
+        "id":69426,
+        "name":"Zinjibār",
+        "country":"YE",
+        "admin1":"Abyan Governorate",
+        "admin2":"Zingibar",
+        "lat":13.12871,
+        "lon":45.38073,
+        "pop":19879
+    },
+    {
+        "id":79455,
+        "name":"Al Ḩazm",
+        "country":"YE",
+        "admin1":"Al Jawf",
+        "admin2":"Al Hazm",
+        "lat":16.16406,
+        "lon":44.77692,
+        "pop":18241
+    },
+    {
+        "id":78751,
+        "name":"Mocha",
+        "country":"YE",
+        "admin1":"Ta‘izz",
+        "admin2":"Al Mukhā’",
+        "lat":13.31814,
+        "lon":43.24991,
+        "pop":16794
+    },
+    {
+        "id":72968,
+        "name":"Ma'rib",
+        "country":"YE",
+        "admin1":"Ma’rib",
+        "admin2":"Marib City",
+        "lat":15.46253,
+        "lon":45.32581,
+        "pop":16794
+    },
+    {
+        "id":80384,
+        "name":"Aḑ Ḑāli‘",
+        "country":"YE",
+        "admin1":"Aḑ Ḑāli‘",
+        "admin2":"Ad Dhale'e",
+        "lat":13.69572,
+        "lon":44.73137,
+        "pop":14760
+    },
+    {
+        "id":74219,
+        "name":"Jawf al Maqbābah",
+        "country":"YE",
+        "admin1":"Abyan Governorate",
+        "admin2":"Lawdar",
+        "lat":13.83783,
+        "lon":45.83488,
+        "pop":14175
+    },
+    {
+        "id":79700,
+        "name":"Al Ghayz̧ah",
+        "country":"YE",
+        "admin1":"Al Mahrah Governorate",
+        "admin2":"Al Ghaydah",
+        "lat":16.20787,
+        "lon":52.17605,
+        "pop":10948
+    },
+    {
+        "id":78977,
+        "name":"Al Maḩwīt",
+        "country":"YE",
+        "admin1":"Al Mahwit Governorate",
+        "admin2":"Al Mahwait City",
+        "lat":15.47007,
+        "lon":43.54481,
+        "pop":10593
+    },
+    {
+        "id":11776817,
+        "name":"Jadder Cemetery",
+        "country":"YE",
+        "admin1":"Amanat Alasimah",
+        "admin2":"Bani Al Harith",
+        "lat":15.467,
+        "lon":44.17787,
+        "pop":10000
+    },
+    {
+        "id":75427,
+        "name":"Hadibu",
+        "country":"YE",
+        "admin1":"Soqatra",
+        "admin2":"Hidaybu",
+        "lat":12.64881,
+        "lon":54.01895,
+        "pop":8545
+    },
+    {
+        "id":70676,
+        "name":"Shibām",
+        "country":"YE",
+        "admin1":"Muhafazat Hadramaout",
+        "admin2":"Shibam",
+        "lat":15.92694,
+        "lon":48.62667,
+        "pop":7000
+    },
+    {
+        "id":12217890,
+        "name":"CPF",
+        "country":"YE",
+        "admin1":"Muhafazat Hadramaout",
+        "admin2":"Sah",
+        "lat":15.59166,
+        "lon":49.13601,
+        "pop":6000
+    },
+    {
+        "id":12167139,
+        "name":"Al Madakisha",
+        "country":"YE",
+        "admin1":"Laḩij",
+        "admin2":"Al Qabbaytah",
+        "lat":13.23663,
+        "lon":44.40565,
+        "pop":5000
+    },
+    {
+        "id":11776813,
+        "name":"Village of ALAMRAH",
+        "country":"YE",
+        "admin1":"Ta‘izz",
+        "admin2":"Maqbanah",
+        "lat":13.74318,
+        "lon":43.72992,
+        "pop":4500
+    },
+    {
+        "id":71799,
+        "name":"Qalansīyah",
+        "country":"YE",
+        "admin1":"Soqatra",
+        "admin2":"Qulensya Wa Abd Al Kuri",
+        "lat":12.68958,
+        "lon":53.48709,
+        "pop":3500
+    },
+    {
+        "id":8308217,
+        "name":"Khimār",
+        "country":"YE",
+        "admin1":"Shabwah",
+        "admin2":"As Said",
+        "lat":14.3198,
+        "lon":46.73922,
+        "pop":3000
+    },
+    {
+        "id":73685,
+        "name":"Kilmia",
+        "country":"YE",
+        "admin1":"Muhafazat Hadramaout",
+        "admin2":"",
+        "lat":12.18576,
+        "lon":52.23332,
+        "pop":2013
+    },
+    {
+        "id":12167129,
+        "name":"Al Qabyal",
+        "country":"YE",
+        "admin1":"Laḩij",
+        "admin2":"Al Qabbaytah",
+        "lat":13.23672,
+        "lon":44.4061,
+        "pop":2000
+    },
+    {
+        "id":11153801,
+        "name":"Al-Medy Village, قرية المدي",
+        "country":"YE",
+        "admin1":"Dhamār",
+        "admin2":"Wusab Al Ali",
+        "lat":14.40152,
+        "lon":43.79178,
+        "pop":2000
+    },
+    {
+        "id":79015,
+        "name":"Al Madu",
+        "country":"YE",
+        "admin1":"Aḑ Ḑāli‘",
+        "admin2":"Ash Shu'ayb",
+        "lat":13.85668,
+        "lon":44.8184,
+        "pop":1986
+    },
+    {
+        "id":12097222,
+        "name":"Ahl Mohammed bin Ahmed",
+        "country":"YE",
+        "admin1":"Abyan Governorate",
+        "admin2":"Khanfir",
+        "lat":13.27733,
+        "lon":45.39048,
+        "pop":1800
+    },
+    {
+        "id":11125824,
+        "name":"AL-khashā upper",
+        "country":"YE",
+        "admin1":"Shabwah",
+        "admin2":"As Said",
+        "lat":14.34044,
+        "lon":46.71365,
+        "pop":1100
+    },
+    {
+        "id":12167138,
+        "name":"Najd Al Tha'ub",
+        "country":"YE",
+        "admin1":"Laḩij",
+        "admin2":"Al Qabbaytah",
+        "lat":13.22179,
+        "lon":44.41215,
+        "pop":1000
+    },
+    {
+        "id":71212,
+        "name":"Salābah",
+        "country":"YE",
+        "admin1":"Shabwah",
+        "admin2":"As Said",
+        "lat":14.31603,
+        "lon":46.72468,
+        "pop":1000
+    },
+    {
+        "id":11125823,
+        "name":"AL-khashā Lower",
+        "country":"YE",
+        "admin1":"Shabwah",
+        "admin2":"As Said",
+        "lat":14.34696,
+        "lon":46.73117,
+        "pop":800
+    },
+    {
+        "id":7356251,
+        "name":"Qaryat Al kudshi al Ra'inah",
+        "country":"YE",
+        "admin1":"Ta‘izz",
+        "admin2":"Shara'b Ar Rawnah",
+        "lat":13.69054,
+        "lon":43.87201,
+        "pop":750
+    },
+    {
+        "id":7792750,
+        "name":"Suḩayl Shibām",
+        "country":"YE",
+        "admin1":"Muhafazat Hadramaout",
+        "admin2":"Shibam",
+        "lat":15.91448,
+        "lon":48.63864,
+        "pop":645
+    }
+]

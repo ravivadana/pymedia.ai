@@ -1,0 +1,1192 @@
+[
+    {
+        "id":2210247,
+        "name":"Tripoli",
+        "country":"LY",
+        "admin1":"Tripoli",
+        "admin2":"",
+        "lat":32.88743,
+        "lon":13.18733,
+        "pop":1302947
+    },
+    {
+        "id":88319,
+        "name":"Benghazi",
+        "country":"LY",
+        "admin1":"Banghāzī",
+        "admin2":"",
+        "lat":32.11486,
+        "lon":20.06859,
+        "pop":757490
+    },
+    {
+        "id":2214846,
+        "name":"Misratah",
+        "country":"LY",
+        "admin1":"Mişrātah",
+        "admin2":"",
+        "lat":32.37535,
+        "lon":15.09254,
+        "pop":355657
+    },
+    {
+        "id":2208485,
+        "name":"Zliten",
+        "country":"LY",
+        "admin1":"Mişrātah",
+        "admin2":"",
+        "lat":32.46739,
+        "lon":14.56874,
+        "pop":203790
+    },
+    {
+        "id":2219905,
+        "name":"Al Khums",
+        "country":"LY",
+        "admin1":"Al Marqab",
+        "admin2":"",
+        "lat":32.64861,
+        "lon":14.26191,
+        "pop":201943
+    },
+    {
+        "id":2218970,
+        "name":"Az Zāwīyah",
+        "country":"LY",
+        "admin1":"Az Zāwiyah",
+        "admin2":"",
+        "lat":32.7571,
+        "lon":12.72764,
+        "pop":200000
+    },
+    {
+        "id":2216885,
+        "name":"Zawiya",
+        "country":"LY",
+        "admin1":"Az Zāwiyah",
+        "admin2":"",
+        "lat":32.75222,
+        "lon":12.72778,
+        "pop":186123
+    },
+    {
+        "id":2216349,
+        "name":"Janzūr",
+        "country":"LY",
+        "admin1":"Al Jafārah",
+        "admin2":"",
+        "lat":32.81868,
+        "lon":13.01727,
+        "pop":154389
+    },
+    {
+        "id":2212775,
+        "name":"Sabha",
+        "country":"LY",
+        "admin1":"Sabha District",
+        "admin2":"",
+        "lat":27.03766,
+        "lon":14.42832,
+        "pop":149329
+    },
+    {
+        "id":81302,
+        "name":"Tobruk",
+        "country":"LY",
+        "admin1":"Al Buţnān",
+        "admin2":"",
+        "lat":32.08963,
+        "lon":23.95385,
+        "pop":141499
+    },
+    {
+        "id":89113,
+        "name":"Ajdabiya",
+        "country":"LY",
+        "admin1":"Al Wāḩāt",
+        "admin2":"",
+        "lat":30.75545,
+        "lon":20.22625,
+        "pop":131773
+    },
+    {
+        "id":2219701,
+        "name":"Al Ajaylat",
+        "country":"LY",
+        "admin1":"An Nuqāţ al Khams",
+        "admin2":"",
+        "lat":32.75718,
+        "lon":12.37633,
+        "pop":130546
+    },
+    {
+        "id":89055,
+        "name":"Al Bayḑā’",
+        "country":"LY",
+        "admin1":"Al Jabal al Akhḑar",
+        "admin2":"",
+        "lat":32.76272,
+        "lon":21.75506,
+        "pop":129439
+    },
+    {
+        "id":2219960,
+        "name":"Al Jadīd",
+        "country":"LY",
+        "admin1":"Sabha District",
+        "admin2":"",
+        "lat":27.05,
+        "lon":14.4,
+        "pop":126386
+    },
+    {
+        "id":2210554,
+        "name":"Sirte",
+        "country":"LY",
+        "admin1":"Surt",
+        "admin2":"",
+        "lat":31.20892,
+        "lon":16.58866,
+        "pop":106705
+    },
+    {
+        "id":87205,
+        "name":"Darnah",
+        "country":"LY",
+        "admin1":"Darnah",
+        "admin2":"",
+        "lat":32.76704,
+        "lon":22.63669,
+        "pop":102581
+    },
+    {
+        "id":2219936,
+        "name":"Al Jumayl",
+        "country":"LY",
+        "admin1":"An Nuqāţ al Khams",
+        "admin2":"",
+        "lat":32.85286,
+        "lon":12.0612,
+        "pop":102000
+    },
+    {
+        "id":2213618,
+        "name":"Qaşr Bin Ghashīr",
+        "country":"LY",
+        "admin1":"Tripoli",
+        "admin2":"",
+        "lat":32.68333,
+        "lon":13.18333,
+        "pop":100069
+    },
+    {
+        "id":2210394,
+        "name":"Tājūrā’",
+        "country":"LY",
+        "admin1":"Tripoli",
+        "admin2":"",
+        "lat":32.88167,
+        "lon":13.35056,
+        "pop":100000
+    },
+    {
+        "id":88903,
+        "name":"Al Marj",
+        "country":"LY",
+        "admin1":"Al Marj",
+        "admin2":"",
+        "lat":32.49257,
+        "lon":20.82909,
+        "pop":85315
+    },
+    {
+        "id":2212771,
+        "name":"Şabrātah",
+        "country":"LY",
+        "admin1":"Az Zāwiyah",
+        "admin2":"",
+        "lat":32.79335,
+        "lon":12.48845,
+        "pop":83398
+    },
+    {
+        "id":2219994,
+        "name":"Al Ḩurshah",
+        "country":"LY",
+        "admin1":"Az Zāwiyah",
+        "admin2":"",
+        "lat":32.76472,
+        "lon":12.67389,
+        "pop":81119
+    },
+    {
+        "id":2210560,
+        "name":"Şurmān",
+        "country":"LY",
+        "admin1":"Az Zāwiyah",
+        "admin2":"",
+        "lat":32.75668,
+        "lon":12.57159,
+        "pop":77114
+    },
+    {
+        "id":12687313,
+        "name":"Msalātah",
+        "country":"LY",
+        "admin1":"Al Marqab",
+        "admin2":"",
+        "lat":32.58345,
+        "lon":14.03627,
+        "pop":73907
+    },
+    {
+        "id":2219356,
+        "name":"As Sawānī",
+        "country":"LY",
+        "admin1":"Al Jafārah",
+        "admin2":"",
+        "lat":32.71667,
+        "lon":13.06667,
+        "pop":57069
+    },
+    {
+        "id":2210221,
+        "name":"Tarhuna",
+        "country":"LY",
+        "admin1":"Al Marqab",
+        "admin2":"",
+        "lat":32.43501,
+        "lon":13.6332,
+        "pop":52420
+    },
+    {
+        "id":2220139,
+        "name":"Al ‘Azīzīyah",
+        "country":"LY",
+        "admin1":"Al Jafārah",
+        "admin2":"",
+        "lat":32.53194,
+        "lon":13.0175,
+        "pop":52404
+    },
+    {
+        "id":2213695,
+        "name":"Qaşr al Qarabūllī",
+        "country":"LY",
+        "admin1":"Tripoli",
+        "admin2":"",
+        "lat":32.74506,
+        "lon":13.71467,
+        "pop":49610
+    },
+    {
+        "id":88562,
+        "name":"At Tāj",
+        "country":"LY",
+        "admin1":"Al Kufrah",
+        "admin2":"",
+        "lat":24.20487,
+        "lon":23.2857,
+        "pop":46050
+    },
+    {
+        "id":2218840,
+        "name":"Bani Walid",
+        "country":"LY",
+        "admin1":"Mişrātah",
+        "admin2":"",
+        "lat":31.74554,
+        "lon":13.98354,
+        "pop":45734
+    },
+    {
+        "id":88962,
+        "name":"Al Jawf",
+        "country":"LY",
+        "admin1":"Al Kufrah",
+        "admin2":"",
+        "lat":24.1989,
+        "lon":23.29093,
+        "pop":42079
+    },
+    {
+        "id":2217362,
+        "name":"Gharyan",
+        "country":"LY",
+        "admin1":"Jabal al Gharbi",
+        "admin2":"",
+        "lat":32.17222,
+        "lon":13.02028,
+        "pop":36110
+    },
+    {
+        "id":2208425,
+        "name":"Zuwarah",
+        "country":"LY",
+        "admin1":"An Nuqāţ al Khams",
+        "admin2":"",
+        "lat":32.9312,
+        "lon":12.08199,
+        "pop":33887
+    },
+    {
+        "id":2219235,
+        "name":"Ubari",
+        "country":"LY",
+        "admin1":"Wādī al Ḩayāt",
+        "admin2":"",
+        "lat":26.59034,
+        "lon":12.77511,
+        "pop":33569
+    },
+    {
+        "id":2218963,
+        "name":"Zintan",
+        "country":"LY",
+        "admin1":"Jabal al Gharbi",
+        "admin2":"",
+        "lat":31.93155,
+        "lon":12.25291,
+        "pop":33000
+    },
+    {
+        "id":89087,
+        "name":"Al Abyār",
+        "country":"LY",
+        "admin1":"Al Marj",
+        "admin2":"",
+        "lat":32.19,
+        "lon":20.59653,
+        "pop":32563
+    },
+    {
+        "id":2212882,
+        "name":"Sīdī Bin Zīnah",
+        "country":"LY",
+        "admin1":"An Nuqāţ al Khams",
+        "admin2":"",
+        "lat":32.88718,
+        "lon":11.98729,
+        "pop":31607
+    },
+    {
+        "id":2215210,
+        "name":"Al Burayqah",
+        "country":"LY",
+        "admin1":"Al Wāḩāt",
+        "admin2":"",
+        "lat":30.40624,
+        "lon":19.57386,
+        "pop":31300
+    },
+    {
+        "id":2214603,
+        "name":"Murzuk",
+        "country":"LY",
+        "admin1":"Murzuq District",
+        "admin2":"",
+        "lat":25.91552,
+        "lon":13.91839,
+        "pop":30491
+    },
+    {
+        "id":7602388,
+        "name":"Shahhat",
+        "country":"LY",
+        "admin1":"Al Jabal al Akhḑar",
+        "admin2":"",
+        "lat":32.8043,
+        "lon":21.86605,
+        "pop":29206
+    },
+    {
+        "id":2214433,
+        "name":"Nālūt",
+        "country":"LY",
+        "admin1":"Nālūt",
+        "admin2":"",
+        "lat":31.86848,
+        "lon":10.9812,
+        "pop":28431
+    },
+    {
+        "id":2220153,
+        "name":"Al Aşābi‘ah",
+        "country":"LY",
+        "admin1":"Jabal al Gharbi",
+        "admin2":"",
+        "lat":32.03333,
+        "lon":12.86667,
+        "pop":27713
+    },
+    {
+        "id":2218983,
+        "name":"Az Zahrā’",
+        "country":"LY",
+        "admin1":"Al Jafārah",
+        "admin2":"",
+        "lat":32.67889,
+        "lon":12.87327,
+        "pop":25684
+    },
+    {
+        "id":88835,
+        "name":"Al Qubbah",
+        "country":"LY",
+        "admin1":"Darnah",
+        "admin2":"",
+        "lat":32.75684,
+        "lon":22.24106,
+        "pop":24631
+    },
+    {
+        "id":2216645,
+        "name":"Hūn",
+        "country":"LY",
+        "admin1":"Al Jufrah",
+        "admin2":"",
+        "lat":29.12684,
+        "lon":15.94772,
+        "pop":24431
+    },
+    {
+        "id":2220061,
+        "name":"Al Ghurayfah",
+        "country":"LY",
+        "admin1":"Wādī al Ḩayāt",
+        "admin2":"",
+        "lat":26.52161,
+        "lon":13.01072,
+        "pop":23449
+    },
+    {
+        "id":2208791,
+        "name":"Yafran",
+        "country":"LY",
+        "admin1":"Jabal al Gharbi",
+        "admin2":"",
+        "lat":32.06329,
+        "lon":12.52859,
+        "pop":22680
+    },
+    {
+        "id":88380,
+        "name":"Az Zuwaytīnah",
+        "country":"LY",
+        "admin1":"Al Wāḩāt",
+        "admin2":"",
+        "lat":30.9522,
+        "lon":20.12022,
+        "pop":21015
+    },
+    {
+        "id":2219591,
+        "name":"An Nāşirīyah",
+        "country":"LY",
+        "admin1":"Al Jafārah",
+        "admin2":"",
+        "lat":32.63278,
+        "lon":12.87361,
+        "pop":20687
+    },
+    {
+        "id":81604,
+        "name":"Qaryat Sulūq",
+        "country":"LY",
+        "admin1":"Banghāzī",
+        "admin2":"",
+        "lat":31.66818,
+        "lon":20.25205,
+        "pop":19918
+    },
+    {
+        "id":12687305,
+        "name":"Qarqūzah",
+        "country":"LY",
+        "admin1":"Az Zāwiyah",
+        "admin2":"",
+        "lat":32.74572,
+        "lon":12.84234,
+        "pop":17350
+    },
+    {
+        "id":12687304,
+        "name":"Al-'Alūaṣ",
+        "country":"LY",
+        "admin1":"Al Marqab",
+        "admin2":"",
+        "lat":32.71007,
+        "lon":13.96713,
+        "pop":17122
+    },
+    {
+        "id":12687308,
+        "name":"Wādī 'Utbah",
+        "country":"LY",
+        "admin1":"Murzuq District",
+        "admin2":"",
+        "lat":26.09502,
+        "lon":13.55744,
+        "pop":16746
+    },
+    {
+        "id":2214827,
+        "name":"Mizdah",
+        "country":"LY",
+        "admin1":"Jabal al Gharbi",
+        "admin2":"",
+        "lat":31.44934,
+        "lon":12.9853,
+        "pop":16735
+    },
+    {
+        "id":2213570,
+        "name":"Qaşr Khiyār",
+        "country":"LY",
+        "admin1":"Tripoli",
+        "admin2":"",
+        "lat":32.69677,
+        "lon":13.84634,
+        "pop":16708
+    },
+    {
+        "id":2218478,
+        "name":"Brak",
+        "country":"LY",
+        "admin1":"Ash Shāţiʼ",
+        "admin2":"",
+        "lat":27.54956,
+        "lon":14.27139,
+        "pop":16200
+    },
+    {
+        "id":2218562,
+        "name":"Bin Jawwād",
+        "country":"LY",
+        "admin1":"Surt",
+        "admin2":"",
+        "lat":30.80418,
+        "lon":18.0772,
+        "pop":15509
+    },
+    {
+        "id":2219736,
+        "name":"Al Qawāsim",
+        "country":"LY",
+        "admin1":"Jabal al Gharbi",
+        "admin2":"",
+        "lat":32.18418,
+        "lon":13.06045,
+        "pop":15134
+    },
+    {
+        "id":2219471,
+        "name":"Ar Rayāyinah",
+        "country":"LY",
+        "admin1":"Jabal al Gharbi",
+        "admin2":"",
+        "lat":32.02684,
+        "lon":12.35643,
+        "pop":15031
+    },
+    {
+        "id":2217351,
+        "name":"Ghat",
+        "country":"LY",
+        "admin1":"Ghāt",
+        "admin2":"",
+        "lat":24.96334,
+        "lon":10.18003,
+        "pop":14630
+    },
+    {
+        "id":2220368,
+        "name":"Abū Zayyān",
+        "country":"LY",
+        "admin1":"Jabal al Gharbi",
+        "admin2":"",
+        "lat":32.09972,
+        "lon":12.97861,
+        "pop":14332
+    },
+    {
+        "id":2219812,
+        "name":"Al Māyah",
+        "country":"LY",
+        "admin1":"Al Jafārah",
+        "admin2":"",
+        "lat":32.80194,
+        "lon":12.87917,
+        "pop":14203
+    },
+    {
+        "id":2208655,
+        "name":"Zalţan",
+        "country":"LY",
+        "admin1":"An Nuqāţ al Khams",
+        "admin2":"",
+        "lat":32.94699,
+        "lon":11.86668,
+        "pop":14131
+    },
+    {
+        "id":86049,
+        "name":"Jālū",
+        "country":"LY",
+        "admin1":"Al Wāḩāt",
+        "admin2":"",
+        "lat":29.03333,
+        "lon":21.55,
+        "pop":13401
+    },
+    {
+        "id":88834,
+        "name":"Tūkrah",
+        "country":"LY",
+        "admin1":"Al Marj",
+        "admin2":"",
+        "lat":32.53414,
+        "lon":20.57911,
+        "pop":12593
+    },
+    {
+        "id":2216432,
+        "name":"Jādū",
+        "country":"LY",
+        "admin1":"Jabal al Gharbi",
+        "admin2":"",
+        "lat":31.95506,
+        "lon":12.02901,
+        "pop":12507
+    },
+    {
+        "id":2217440,
+        "name":"Ghadames",
+        "country":"LY",
+        "admin1":"Nālūt",
+        "admin2":"",
+        "lat":30.13366,
+        "lon":9.50072,
+        "pop":12096
+    },
+    {
+        "id":2210627,
+        "name":"Sūknah",
+        "country":"LY",
+        "admin1":"Al Jufrah",
+        "admin2":"",
+        "lat":29.06941,
+        "lon":15.78266,
+        "pop":12077
+    },
+    {
+        "id":2215758,
+        "name":"Kiklah",
+        "country":"LY",
+        "admin1":"Jabal al Gharbi",
+        "admin2":"",
+        "lat":32.08333,
+        "lon":12.7,
+        "pop":11776
+    },
+    {
+        "id":12687309,
+        "name":"Wardāmah",
+        "country":"LY",
+        "admin1":"Al Jabal al Akhḑar",
+        "admin2":"",
+        "lat":32.79661,
+        "lon":21.79099,
+        "pop":11058
+    },
+    {
+        "id":2209662,
+        "name":"Umm al Arānib",
+        "country":"LY",
+        "admin1":"Murzuq District",
+        "admin2":"",
+        "lat":26.13386,
+        "lon":14.7372,
+        "pop":10493
+    },
+    {
+        "id":2209055,
+        "name":"Waddān",
+        "country":"LY",
+        "admin1":"Al Jufrah",
+        "admin2":"",
+        "lat":29.1614,
+        "lon":16.13904,
+        "pop":10150
+    },
+    {
+        "id":2208518,
+        "name":"Zillah",
+        "country":"LY",
+        "admin1":"Al Jufrah",
+        "admin2":"",
+        "lat":28.55099,
+        "lon":17.54358,
+        "pop":10030
+    },
+    {
+        "id":12687312,
+        "name":"Ar-Raḥaībāt",
+        "country":"LY",
+        "admin1":"Jabal al Gharbi",
+        "admin2":"",
+        "lat":31.84637,
+        "lon":11.8436,
+        "pop":9989
+    },
+    {
+        "id":2220109,
+        "name":"Al Barakāt",
+        "country":"LY",
+        "admin1":"Ghāt",
+        "admin2":"",
+        "lat":24.894,
+        "lon":10.18336,
+        "pop":9908
+    },
+    {
+        "id":2211464,
+        "name":"Sīdī aş Şayd",
+        "country":"LY",
+        "admin1":"Tripoli",
+        "admin2":"",
+        "lat":32.33462,
+        "lon":13.47942,
+        "pop":9821
+    },
+    {
+        "id":2219918,
+        "name":"Al Khaḑrā’",
+        "country":"LY",
+        "admin1":"Al Marqab",
+        "admin2":"",
+        "lat":32.44403,
+        "lon":13.76735,
+        "pop":9521
+    },
+    {
+        "id":85074,
+        "name":"Martūbah",
+        "country":"LY",
+        "admin1":"Darnah",
+        "admin2":"",
+        "lat":32.57421,
+        "lon":22.76353,
+        "pop":9357
+    },
+    {
+        "id":80509,
+        "name":"Al Bardīyah",
+        "country":"LY",
+        "admin1":"Al Buţnān",
+        "admin2":"",
+        "lat":31.75601,
+        "lon":25.0853,
+        "pop":9149
+    },
+    {
+        "id":81071,
+        "name":"Umm ar Rizam",
+        "country":"LY",
+        "admin1":"Darnah",
+        "admin2":"",
+        "lat":32.53332,
+        "lon":23.00904,
+        "pop":8742
+    },
+    {
+        "id":84257,
+        "name":"Qamīnis",
+        "country":"LY",
+        "admin1":"Banghāzī",
+        "admin2":"",
+        "lat":31.6576,
+        "lon":20.01697,
+        "pop":8688
+    },
+    {
+        "id":12687307,
+        "name":"Umm Sā'ad",
+        "country":"LY",
+        "admin1":"Al Buţnān",
+        "admin2":"",
+        "lat":31.60968,
+        "lon":25.04999,
+        "pop":8614
+    },
+    {
+        "id":89090,
+        "name":"Al Abraq",
+        "country":"LY",
+        "admin1":"Al Jabal al Akhḑar",
+        "admin2":"",
+        "lat":32.78991,
+        "lon":22.0005,
+        "pop":8276
+    },
+    {
+        "id":2210242,
+        "name":"Tarāghin",
+        "country":"LY",
+        "admin1":"Murzuq District",
+        "admin2":"",
+        "lat":25.92333,
+        "lon":14.42056,
+        "pop":8167
+    },
+    {
+        "id":12687306,
+        "name":"Tāzirbū",
+        "country":"LY",
+        "admin1":"Al Kufrah",
+        "admin2":"",
+        "lat":25.67289,
+        "lon":21.07286,
+        "pop":8085
+    },
+    {
+        "id":84130,
+        "name":"Qaryat ‘Umar al Mukhtār",
+        "country":"LY",
+        "admin1":"Al Jabal al Akhḑar",
+        "admin2":"",
+        "lat":32.62978,
+        "lon":21.67651,
+        "pop":8031
+    },
+    {
+        "id":85026,
+        "name":"Massah",
+        "country":"LY",
+        "admin1":"Al Jabal al Akhḑar",
+        "admin2":"",
+        "lat":32.75249,
+        "lon":21.62807,
+        "pop":7831
+    },
+    {
+        "id":84244,
+        "name":"Qandūlah",
+        "country":"LY",
+        "admin1":"Al Jabal al Akhḑar",
+        "admin2":"",
+        "lat":32.53798,
+        "lon":21.57525,
+        "pop":7760
+    },
+    {
+        "id":2216155,
+        "name":"Kābāw",
+        "country":"LY",
+        "admin1":"Nālūt",
+        "admin2":"",
+        "lat":31.84724,
+        "lon":11.33055,
+        "pop":7686
+    },
+    {
+        "id":87192,
+        "name":"Daryānah",
+        "country":"LY",
+        "admin1":"Banghāzī",
+        "admin2":"",
+        "lat":32.34751,
+        "lon":20.30933,
+        "pop":7558
+    },
+    {
+        "id":2210300,
+        "name":"Tamzāwah",
+        "country":"LY",
+        "admin1":"Ash Shāţiʼ",
+        "admin2":"",
+        "lat":27.57154,
+        "lon":14.20234,
+        "pop":7410
+    },
+    {
+        "id":81584,
+        "name":"Sūsah",
+        "country":"LY",
+        "admin1":"Al Jabal al Akhḑar",
+        "admin2":"",
+        "lat":32.89702,
+        "lon":21.96583,
+        "pop":7285
+    },
+    {
+        "id":2219739,
+        "name":"Al Qaţrūn",
+        "country":"LY",
+        "admin1":"Murzuq District",
+        "admin2":"",
+        "lat":24.95139,
+        "lon":14.64861,
+        "pop":7243
+    },
+    {
+        "id":2213371,
+        "name":"Qīrah",
+        "country":"LY",
+        "admin1":"Ash Shāţiʼ",
+        "admin2":"",
+        "lat":27.58595,
+        "lon":14.35375,
+        "pop":6997
+    },
+    {
+        "id":85819,
+        "name":"Kambūt",
+        "country":"LY",
+        "admin1":"Al Buţnān",
+        "admin2":"",
+        "lat":31.90434,
+        "lon":24.4784,
+        "pop":6973
+    },
+    {
+        "id":2209970,
+        "name":"Tījī",
+        "country":"LY",
+        "admin1":"Nālūt",
+        "admin2":"",
+        "lat":32.01493,
+        "lon":11.35461,
+        "pop":6905
+    },
+    {
+        "id":86002,
+        "name":"Jardas al ‘Abīd",
+        "country":"LY",
+        "admin1":"Al Marj",
+        "admin2":"",
+        "lat":32.30337,
+        "lon":20.98615,
+        "pop":6744
+    },
+    {
+        "id":2219463,
+        "name":"Ar Rujbān",
+        "country":"LY",
+        "admin1":"Jabal al Gharbi",
+        "admin2":"",
+        "lat":31.95,
+        "lon":12.16667,
+        "pop":6419
+    },
+    {
+        "id":2217774,
+        "name":"Daraj",
+        "country":"LY",
+        "admin1":"Nālūt",
+        "admin2":"",
+        "lat":30.16502,
+        "lon":10.45804,
+        "pop":6051
+    },
+    {
+        "id":83861,
+        "name":"Qaşr Lībiyā",
+        "country":"LY",
+        "admin1":"Al Jabal al Akhḑar",
+        "admin2":"",
+        "lat":32.63333,
+        "lon":21.41667,
+        "pop":5975
+    },
+    {
+        "id":2218761,
+        "name":"Barqin",
+        "country":"LY",
+        "admin1":"Ash Shāţiʼ",
+        "admin2":"",
+        "lat":27.54801,
+        "lon":13.62914,
+        "pop":5902
+    },
+    {
+        "id":89053,
+        "name":"Qaryat al Bayyāḑah",
+        "country":"LY",
+        "admin1":"Al Marj",
+        "admin2":"",
+        "lat":32.56501,
+        "lon":21.25415,
+        "pop":5538
+    },
+    {
+        "id":88533,
+        "name":"Awjilah",
+        "country":"LY",
+        "admin1":"Al Wāḩāt",
+        "admin2":"",
+        "lat":29.10806,
+        "lon":21.28694,
+        "pop":5125
+    },
+    {
+        "id":8354477,
+        "name":"Qasr Abu Hadi",
+        "country":"LY",
+        "admin1":"Surt",
+        "admin2":"",
+        "lat":31.05926,
+        "lon":16.65905,
+        "pop":4890
+    },
+    {
+        "id":2219563,
+        "name":"Āqār",
+        "country":"LY",
+        "admin1":"Ash Shāţiʼ",
+        "admin2":"",
+        "lat":27.53914,
+        "lon":14.16251,
+        "pop":4832
+    },
+    {
+        "id":2208848,
+        "name":"Wāzin",
+        "country":"LY",
+        "admin1":"Nālūt",
+        "admin2":"",
+        "lat":31.942,
+        "lon":10.66532,
+        "pop":4715
+    },
+    {
+        "id":2220309,
+        "name":"Idrī",
+        "country":"LY",
+        "admin1":"Ash Shāţiʼ",
+        "admin2":"",
+        "lat":27.44707,
+        "lon":13.05173,
+        "pop":4696
+    },
+    {
+        "id":2220013,
+        "name":"Al Ḩawāmid",
+        "country":"LY",
+        "admin1":"Nālūt",
+        "admin2":"",
+        "lat":31.97528,
+        "lon":11.16222,
+        "pop":4558
+    },
+    {
+        "id":2212610,
+        "name":"Samnū",
+        "country":"LY",
+        "admin1":"Sabha District",
+        "admin2":"",
+        "lat":27.27459,
+        "lon":14.8819,
+        "pop":4492
+    },
+    {
+        "id":2208566,
+        "name":"Zawīlah",
+        "country":"LY",
+        "admin1":"Murzuq District",
+        "admin2":"",
+        "lat":26.16188,
+        "lon":15.12522,
+        "pop":4434
+    },
+    {
+        "id":83726,
+        "name":"Qirnādah",
+        "country":"LY",
+        "admin1":"Al Jabal al Akhḑar",
+        "admin2":"",
+        "lat":32.73174,
+        "lon":21.9035,
+        "pop":4206
+    },
+    {
+        "id":2218475,
+        "name":"Bi’r al Ghanam",
+        "country":"LY",
+        "admin1":"Az Zāwiyah",
+        "admin2":"",
+        "lat":32.30912,
+        "lon":12.56935,
+        "pop":4182
+    },
+    {
+        "id":2210688,
+        "name":"Sīnāwin",
+        "country":"LY",
+        "admin1":"Nālūt",
+        "admin2":"",
+        "lat":31.02604,
+        "lon":10.60238,
+        "pop":4059
+    },
+    {
+        "id":2219689,
+        "name":"Al ‘Awinat",
+        "country":"LY",
+        "admin1":"Ghāt",
+        "admin2":"",
+        "lat":25.78123,
+        "lon":10.56133,
+        "pop":3881
+    },
+    {
+        "id":2218924,
+        "name":"Qaryat al Qī‘ān",
+        "country":"LY",
+        "admin1":"Nālūt",
+        "admin2":"",
+        "lat":32.05572,
+        "lon":11.54302,
+        "pop":3797
+    },
+    {
+        "id":81615,
+        "name":"Sulţān",
+        "country":"LY",
+        "admin1":"Banghāzī",
+        "admin2":"",
+        "lat":31.09396,
+        "lon":20.22329,
+        "pop":3672
+    },
+    {
+        "id":88967,
+        "name":"Al Jaghbūb",
+        "country":"LY",
+        "admin1":"Al Buţnān",
+        "admin2":"",
+        "lat":29.74262,
+        "lon":24.51676,
+        "pop":2768
+    },
+    {
+        "id":2215282,
+        "name":"Marādah",
+        "country":"LY",
+        "admin1":"Al Wāḩāt",
+        "admin2":"",
+        "lat":29.22054,
+        "lon":19.20454,
+        "pop":2229
+    },
+    {
+        "id":80635,
+        "name":"Mukhaylá",
+        "country":"LY",
+        "admin1":"Darnah",
+        "admin2":"",
+        "lat":32.16005,
+        "lon":22.27845,
+        "pop":1764
+    }
+]

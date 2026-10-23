@@ -1,0 +1,362 @@
+[
+    {
+        "id":2110257,
+        "name":"Tarawa",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tarawa",
+        "lat":1.3278,
+        "lon":172.97696,
+        "pop":40311
+    },
+    {
+        "id":2110248,
+        "name":"Betio Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tarawa",
+        "lat":1.35797,
+        "lon":172.92105,
+        "pop":12509
+    },
+    {
+        "id":7601774,
+        "name":"Bikenibeu Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tarawa",
+        "lat":1.3673,
+        "lon":173.12415,
+        "pop":6170
+    },
+    {
+        "id":2110070,
+        "name":"Teaoraereke Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tarawa",
+        "lat":1.33309,
+        "lon":173.01162,
+        "pop":3939
+    },
+    {
+        "id":7601762,
+        "name":"Bairiki Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tarawa",
+        "lat":1.32924,
+        "lon":172.97522,
+        "pop":2766
+    },
+    {
+        "id":7601776,
+        "name":"Eita Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tarawa",
+        "lat":1.36154,
+        "lon":173.08113,
+        "pop":2299
+    },
+    {
+        "id":7601768,
+        "name":"Bonriki Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tarawa",
+        "lat":1.38081,
+        "lon":173.13887,
+        "pop":2119
+    },
+    {
+        "id":7601770,
+        "name":"Temaiku Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tarawa",
+        "lat":1.36292,
+        "lon":173.16226,
+        "pop":2011
+    },
+    {
+        "id":7521902,
+        "name":"Tabwakea Village",
+        "country":"KI",
+        "admin1":"Line Islands",
+        "admin2":"Kiritimati",
+        "lat":2.01643,
+        "lon":-157.48773,
+        "pop":1881
+    },
+    {
+        "id":7576909,
+        "name":"Makin Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Makin",
+        "lat":3.3644,
+        "lon":172.98352,
+        "pop":1834
+    },
+    {
+        "id":4030939,
+        "name":"London Village",
+        "country":"KI",
+        "admin1":"Line Islands",
+        "admin2":"Kiritimati",
+        "lat":1.98487,
+        "lon":-157.47502,
+        "pop":1829
+    },
+    {
+        "id":2110254,
+        "name":"Banraeaba Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tarawa",
+        "lat":1.3454,
+        "lon":173.03464,
+        "pop":1789
+    },
+    {
+        "id":7601771,
+        "name":"Nawerewere Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tarawa",
+        "lat":1.36362,
+        "lon":173.13935,
+        "pop":1780
+    },
+    {
+        "id":7601765,
+        "name":"Ambo Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tarawa",
+        "lat":1.35317,
+        "lon":173.04259,
+        "pop":1688
+    },
+    {
+        "id":2110229,
+        "name":"Buota Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tarawa",
+        "lat":1.39078,
+        "lon":173.13082,
+        "pop":1373
+    },
+    {
+        "id":11185878,
+        "name":"Banana",
+        "country":"KI",
+        "admin1":"Line Islands",
+        "admin2":"Kiritimati",
+        "lat":1.96865,
+        "lon":-157.39361,
+        "pop":1209
+    },
+    {
+        "id":7521903,
+        "name":"Banana Village",
+        "country":"KI",
+        "admin1":"Line Islands",
+        "admin2":"Kiritimati",
+        "lat":1.98329,
+        "lon":-157.36526,
+        "pop":1170
+    },
+    {
+        "id":2110131,
+        "name":"Rawannawi Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Marakei",
+        "lat":2.05379,
+        "lon":173.26354,
+        "pop":1075
+    },
+    {
+        "id":7601767,
+        "name":"Taborio Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tarawa",
+        "lat":1.35621,
+        "lon":173.054,
+        "pop":955
+    },
+    {
+        "id":2110121,
+        "name":"Rungata",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Nikunau",
+        "lat":-1.34244,
+        "lon":176.43567,
+        "pop":933
+    },
+    {
+        "id":7601778,
+        "name":"Abarao Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tarawa",
+        "lat":1.36301,
+        "lon":173.10965,
+        "pop":908
+    },
+    {
+        "id":2110098,
+        "name":"Taborio Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tarawa",
+        "lat":1.52009,
+        "lon":173.00302,
+        "pop":845
+    },
+    {
+        "id":2110221,
+        "name":"Eita Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tabiteuea",
+        "lat":-1.178,
+        "lon":174.72788,
+        "pop":814
+    },
+    {
+        "id":7601763,
+        "name":"Nanikai Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tarawa",
+        "lat":1.33015,
+        "lon":172.9978,
+        "pop":803
+    },
+    {
+        "id":2110124,
+        "name":"Roreti Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Arorae",
+        "lat":-2.65512,
+        "lon":176.83302,
+        "pop":764
+    },
+    {
+        "id":2110026,
+        "name":"Toboiaki Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Nonouti",
+        "lat":-0.73842,
+        "lon":174.45422,
+        "pop":668
+    },
+    {
+        "id":2110193,
+        "name":"Kuma Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Butaritari",
+        "lat":3.17315,
+        "lon":172.95972,
+        "pop":635
+    },
+    {
+        "id":2110122,
+        "name":"Rotuma Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Nonouti",
+        "lat":-0.63125,
+        "lon":174.41433,
+        "pop":625
+    },
+    {
+        "id":2110230,
+        "name":"Buariki Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tarawa",
+        "lat":1.60909,
+        "lon":172.95526,
+        "pop":597
+    },
+    {
+        "id":2110111,
+        "name":"Tabiang Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Abemama",
+        "lat":0.48589,
+        "lon":173.82937,
+        "pop":591
+    },
+    {
+        "id":2110023,
+        "name":"Utiroa",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tabiteuea",
+        "lat":-1.21268,
+        "lon":174.75677,
+        "pop":571
+    },
+    {
+        "id":7576334,
+        "name":"Bakaka Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tamana",
+        "lat":-2.50016,
+        "lon":175.9798,
+        "pop":559
+    },
+    {
+        "id":7576912,
+        "name":"Kiebu Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Makin",
+        "lat":3.32342,
+        "lon":172.97462,
+        "pop":551
+    },
+    {
+        "id":2110050,
+        "name":"Matang Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Nonouti",
+        "lat":-0.67058,
+        "lon":174.44954,
+        "pop":548
+    },
+    {
+        "id":2110085,
+        "name":"Tanaeang Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Tabiteuea",
+        "lat":-1.13765,
+        "lon":174.67741,
+        "pop":514
+    },
+    {
+        "id":7576713,
+        "name":"Buariki Village",
+        "country":"KI",
+        "admin1":"Gilbert Islands",
+        "admin2":"Aranuka",
+        "lat":0.17708,
+        "lon":173.63715,
+        "pop":509
+    }
+]

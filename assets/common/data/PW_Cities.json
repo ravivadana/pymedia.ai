@@ -1,0 +1,132 @@
+[
+    {
+        "id":1559446,
+        "name":"Koror",
+        "country":"PW",
+        "admin1":"Koror",
+        "admin2":"",
+        "lat":7.33978,
+        "lon":134.47326,
+        "pop":14000
+    },
+    {
+        "id":7732415,
+        "name":"Koror Town",
+        "country":"PW",
+        "admin1":"Koror",
+        "admin2":"",
+        "lat":7.34257,
+        "lon":134.47888,
+        "pop":12676
+    },
+    {
+        "id":1559400,
+        "name":"Ngerbeched Hamlet",
+        "country":"PW",
+        "admin1":"Koror",
+        "admin2":"",
+        "lat":7.33249,
+        "lon":134.47623,
+        "pop":1404
+    },
+    {
+        "id":1559513,
+        "name":"Ngerchemai Hamlet",
+        "country":"PW",
+        "admin1":"Koror",
+        "admin2":"",
+        "lat":7.35,
+        "lon":134.4889,
+        "pop":1376
+    },
+    {
+        "id":1559350,
+        "name":"Ngermid Hamlet",
+        "country":"PW",
+        "admin1":"Koror",
+        "admin2":"",
+        "lat":7.33983,
+        "lon":134.50163,
+        "pop":1045
+    },
+    {
+        "id":1559797,
+        "name":"Meyungs Hamlet",
+        "country":"PW",
+        "admin1":"Koror",
+        "admin2":"",
+        "lat":7.35381,
+        "lon":134.45963,
+        "pop":938
+    },
+    {
+        "id":7671223,
+        "name":"Kloulklubed",
+        "country":"PW",
+        "admin1":"Peleliu",
+        "admin2":"",
+        "lat":7.04192,
+        "lon":134.25561,
+        "pop":702
+    },
+    {
+        "id":1559703,
+        "name":"Ngerekebesang Hamlet",
+        "country":"PW",
+        "admin1":"Koror",
+        "admin2":"",
+        "lat":7.35444,
+        "lon":134.44648,
+        "pop":693
+    },
+    {
+        "id":1559847,
+        "name":"Iyebukel Hamlet",
+        "country":"PW",
+        "admin1":"Koror",
+        "admin2":"",
+        "lat":7.34929,
+        "lon":134.48594,
+        "pop":640
+    },
+    {
+        "id":4038084,
+        "name":"Ngerkeseuaol Hamlet",
+        "country":"PW",
+        "admin1":"Koror",
+        "admin2":"",
+        "lat":7.34301,
+        "lon":134.48949,
+        "pop":639
+    },
+    {
+        "id":1559694,
+        "name":"Meketii Hamlet",
+        "country":"PW",
+        "admin1":"Koror",
+        "admin2":"",
+        "lat":7.34708,
+        "lon":134.48299,
+        "pop":637
+    },
+    {
+        "id":1559543,
+        "name":"Ulimang",
+        "country":"PW",
+        "admin1":"Ngaraard",
+        "admin2":"",
+        "lat":7.62416,
+        "lon":134.64208,
+        "pop":581
+    },
+    {
+        "id":1559484,
+        "name":"Idid Hamlet",
+        "country":"PW",
+        "admin1":"Koror",
+        "admin2":"",
+        "lat":7.34299,
+        "lon":134.48373,
+        "pop":537
+    }
+]

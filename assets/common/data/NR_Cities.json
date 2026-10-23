@@ -1,0 +1,62 @@
+[
+    {
+        "id":7626485,
+        "name":"Arijejen",
+        "country":"NR",
+        "admin1":"Aiwo District",
+        "admin2":"",
+        "lat":-0.52545,
+        "lon":166.91247,
+        "pop":2381
+    },
+    {
+        "id":12129637,
+        "name":"Denigomodu",
+        "country":"NR",
+        "admin1":"Denigomodu District",
+        "admin2":"",
+        "lat":-0.52574,
+        "lon":166.91259,
+        "pop":1804
+    },
+    {
+        "id":11695310,
+        "name":"Menen",
+        "country":"NR",
+        "admin1":"Meneng District",
+        "admin2":"",
+        "lat":-0.54539,
+        "lon":166.94871,
+        "pop":1400
+    },
+    {
+        "id":7626461,
+        "name":"Yaren",
+        "country":"NR",
+        "admin1":"Yaren District",
+        "admin2":"",
+        "lat":-0.55085,
+        "lon":166.9252,
+        "pop":1100
+    },
+    {
+        "id":11695309,
+        "name":"Boe",
+        "country":"NR",
+        "admin1":"Boe District",
+        "admin2":"",
+        "lat":-0.54098,
+        "lon":166.91305,
+        "pop":950
+    },
+    {
+        "id":2110427,
+        "name":"Baiti",
+        "country":"NR",
+        "admin1":"Baiti District",
+        "admin2":"",
+        "lat":-0.50803,
+        "lon":166.92945,
+        "pop":810
+    }
+]

@@ -1,0 +1,792 @@
+[
+    {
+        "id":1248991,
+        "name":"Colombo",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Colombo District",
+        "lat":6.93548,
+        "lon":79.84868,
+        "pop":648034
+    },
+    {
+        "id":1234569,
+        "name":"Dehiwala-Mount Lavinia",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Colombo District",
+        "lat":6.84019,
+        "lon":79.87116,
+        "pop":219827
+    },
+    {
+        "id":1236854,
+        "name":"Maharagama",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Colombo District",
+        "lat":6.848,
+        "lon":79.9265,
+        "pop":195355
+    },
+    {
+        "id":1242833,
+        "name":"Jaffna",
+        "country":"LK",
+        "admin1":"Northern Province",
+        "admin2":"",
+        "lat":9.66845,
+        "lon":80.00742,
+        "pop":169102
+    },
+    {
+        "id":1234633,
+        "name":"Moratuwa",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Colombo District",
+        "lat":6.773,
+        "lon":79.8816,
+        "pop":168280
+    },
+    {
+        "id":1233369,
+        "name":"Negombo",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Gampaha District",
+        "lat":7.2083,
+        "lon":79.8358,
+        "pop":137223
+    },
+    {
+        "id":1230089,
+        "name":"Pita Kotte",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Colombo District",
+        "lat":6.8905,
+        "lon":79.9015,
+        "pop":118179
+    },
+    {
+        "id":1238992,
+        "name":"Sri Jayewardenepura Kotte",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Colombo District",
+        "lat":6.88297,
+        "lon":79.90708,
+        "pop":115826
+    },
+    {
+        "id":1241622,
+        "name":"Kandy",
+        "country":"LK",
+        "admin1":"Central Province",
+        "admin2":"",
+        "lat":7.2906,
+        "lon":80.6336,
+        "pop":111701
+    },
+    {
+        "id":1226260,
+        "name":"Trincomalee",
+        "country":"LK",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":8.5778,
+        "lon":81.2289,
+        "pop":108420
+    },
+    {
+        "id":1242110,
+        "name":"Kalmunai",
+        "country":"LK",
+        "admin1":"Eastern Province",
+        "admin2":"Ampara District",
+        "lat":7.40902,
+        "lon":81.83472,
+        "pop":100171
+    },
+    {
+        "id":1246294,
+        "name":"Galle",
+        "country":"LK",
+        "admin1":"Southern Province",
+        "admin2":"",
+        "lat":6.0461,
+        "lon":80.2103,
+        "pop":93118
+    },
+    {
+        "id":1229989,
+        "name":"Point Pedro",
+        "country":"LK",
+        "admin1":"Northern Province",
+        "admin2":"Jaffna District",
+        "lat":9.81667,
+        "lon":80.23333,
+        "pop":89810
+    },
+    {
+        "id":1250161,
+        "name":"Batticaloa",
+        "country":"LK",
+        "admin1":"Eastern Province",
+        "admin2":"Batticaloa District",
+        "lat":7.7102,
+        "lon":81.6924,
+        "pop":86742
+    },
+    {
+        "id":1240935,
+        "name":"Katunayaka",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"",
+        "lat":7.16992,
+        "lon":79.88837,
+        "pop":84643
+    },
+    {
+        "id":1225142,
+        "name":"Valvedditturai",
+        "country":"LK",
+        "admin1":"Northern Province",
+        "admin2":"Jaffna District",
+        "lat":9.81667,
+        "lon":80.16667,
+        "pop":78205
+    },
+    {
+        "id":1235846,
+        "name":"Matara",
+        "country":"LK",
+        "admin1":"Southern Province",
+        "admin2":"Matara District",
+        "lat":5.94851,
+        "lon":80.53528,
+        "pop":76254
+    },
+    {
+        "id":1250164,
+        "name":"Battaramulla South",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Colombo District",
+        "lat":6.8964,
+        "lon":79.9181,
+        "pop":75633
+    },
+    {
+        "id":1248749,
+        "name":"Dambulla",
+        "country":"LK",
+        "admin1":"Central Province",
+        "admin2":"Matale District",
+        "lat":7.86,
+        "lon":80.65167,
+        "pop":66716
+    },
+    {
+        "id":1239593,
+        "name":"Kolonnawa",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Colombo District",
+        "lat":6.9329,
+        "lon":79.8848,
+        "pop":64887
+    },
+    {
+        "id":1239047,
+        "name":"Kotikawatta",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Colombo District",
+        "lat":6.9269,
+        "lon":79.9095,
+        "pop":64565
+    },
+    {
+        "id":1251081,
+        "name":"Anuradhapura",
+        "country":"LK",
+        "admin1":"North Central Province",
+        "admin2":"",
+        "lat":8.31223,
+        "lon":80.41306,
+        "pop":60943
+    },
+    {
+        "id":1225018,
+        "name":"Vavuniya",
+        "country":"LK",
+        "admin1":"Northern Province",
+        "admin2":"Vavuniya District",
+        "lat":8.7514,
+        "lon":80.4971,
+        "pop":60176
+    },
+    {
+        "id":1244397,
+        "name":"Hendala",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Gampaha District",
+        "lat":6.9909,
+        "lon":79.883,
+        "pop":56978
+    },
+    {
+        "id":1251574,
+        "name":"Ambalangoda",
+        "country":"LK",
+        "admin1":"Southern Province",
+        "admin2":"Galle District",
+        "lat":6.2355,
+        "lon":80.0538,
+        "pop":56783
+    },
+    {
+        "id":1228730,
+        "name":"Ratnapura",
+        "country":"LK",
+        "admin1":"Sabaragamuwa Province",
+        "admin2":"",
+        "lat":6.6858,
+        "lon":80.4036,
+        "pop":47832
+    },
+    {
+        "id":1250615,
+        "name":"Badulla",
+        "country":"LK",
+        "admin1":"Uva Province",
+        "admin2":"",
+        "lat":6.9802,
+        "lon":81.0577,
+        "pop":47587
+    },
+    {
+        "id":1229293,
+        "name":"Puttalam",
+        "country":"LK",
+        "admin1":"North Western Province",
+        "admin2":"Puttalam District",
+        "lat":8.0362,
+        "lon":79.8283,
+        "pop":45661
+    },
+    {
+        "id":1248158,
+        "name":"Devinuwara",
+        "country":"LK",
+        "admin1":"Southern Province",
+        "admin2":"Matara District",
+        "lat":5.92825,
+        "lon":80.5888,
+        "pop":45000
+    },
+    {
+        "id":1251459,
+        "name":"Ampara",
+        "country":"LK",
+        "admin1":"Eastern Province",
+        "admin2":"Ampara District",
+        "lat":7.29754,
+        "lon":81.68202,
+        "pop":43720
+    },
+    {
+        "id":1223648,
+        "name":"Welisara",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Gampaha District",
+        "lat":7.0281,
+        "lon":79.9014,
+        "pop":41306
+    },
+    {
+        "id":1241964,
+        "name":"Kalutara",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Kalutara District",
+        "lat":6.5831,
+        "lon":79.9593,
+        "pop":37081
+    },
+    {
+        "id":1249978,
+        "name":"Bentota",
+        "country":"LK",
+        "admin1":"Southern Province",
+        "admin2":"Galle District",
+        "lat":6.42598,
+        "lon":79.99575,
+        "pop":37000
+    },
+    {
+        "id":1235855,
+        "name":"Matale",
+        "country":"LK",
+        "admin1":"Central Province",
+        "admin2":"Matale District",
+        "lat":7.4698,
+        "lon":80.6217,
+        "pop":36462
+    },
+    {
+        "id":1243936,
+        "name":"Homagama",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Colombo District",
+        "lat":6.844,
+        "lon":80.0024,
+        "pop":34664
+    },
+    {
+        "id":1249931,
+        "name":"Beruwala",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Kalutara District",
+        "lat":6.4788,
+        "lon":79.9828,
+        "pop":34250
+    },
+    {
+        "id":1231410,
+        "name":"Panadura",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Kalutara District",
+        "lat":6.7132,
+        "lon":79.9026,
+        "pop":33735
+    },
+    {
+        "id":1234378,
+        "name":"Mulleriyawa",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Colombo District",
+        "lat":6.933,
+        "lon":79.9297,
+        "pop":33540
+    },
+    {
+        "id":1241750,
+        "name":"Kandana",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Gampaha District",
+        "lat":7.048,
+        "lon":79.8937,
+        "pop":33424
+    },
+    {
+        "id":1242835,
+        "name":"Ja Ela",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Gampaha District",
+        "lat":7.0744,
+        "lon":79.8919,
+        "pop":32175
+    },
+    {
+        "id":1224085,
+        "name":"Wattala",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Gampaha District",
+        "lat":6.98918,
+        "lon":79.89167,
+        "pop":30725
+    },
+    {
+        "id":1240622,
+        "name":"Kelaniya",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Gampaha District",
+        "lat":6.9553,
+        "lon":79.922,
+        "pop":28846
+    },
+    {
+        "id":1230613,
+        "name":"Peliyagoda",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Gampaha District",
+        "lat":6.9685,
+        "lon":79.8836,
+        "pop":28784
+    },
+    {
+        "id":1237980,
+        "name":"Kurunegala",
+        "country":"LK",
+        "admin1":"North Western Province",
+        "admin2":"",
+        "lat":7.4839,
+        "lon":80.3683,
+        "pop":28571
+    },
+    {
+        "id":1232783,
+        "name":"Nuwara Eliya",
+        "country":"LK",
+        "admin1":"Central Province",
+        "admin2":"Nuwara Eliya District",
+        "lat":6.97078,
+        "lon":80.78286,
+        "pop":27500
+    },
+    {
+        "id":1249145,
+        "name":"Chilaw",
+        "country":"LK",
+        "admin1":"North Western Province",
+        "admin2":"Puttalam District",
+        "lat":7.57583,
+        "lon":79.79528,
+        "pop":24712
+    },
+    {
+        "id":1246000,
+        "name":"Gampola",
+        "country":"LK",
+        "admin1":"Central Province",
+        "admin2":"Kandy District",
+        "lat":7.1643,
+        "lon":80.5696,
+        "pop":24283
+    },
+    {
+        "id":1246924,
+        "name":"Eravur Town",
+        "country":"LK",
+        "admin1":"Eastern Province",
+        "admin2":"Batticaloa District",
+        "lat":7.7782,
+        "lon":81.6038,
+        "pop":22982
+    },
+    {
+        "id":1244773,
+        "name":"Hanwella Ihala",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Colombo District",
+        "lat":6.9012,
+        "lon":80.0852,
+        "pop":22918
+    },
+    {
+        "id":1223738,
+        "name":"Weligama",
+        "country":"LK",
+        "admin1":"Southern Province",
+        "admin2":"Matara District",
+        "lat":5.97501,
+        "lon":80.42968,
+        "pop":22179
+    },
+    {
+        "id":1225187,
+        "name":"Vakarai",
+        "country":"LK",
+        "admin1":"Eastern Province",
+        "admin2":"Batticaloa District",
+        "lat":8.13333,
+        "lon":81.43333,
+        "pop":21000
+    },
+    {
+        "id":1241076,
+        "name":"Kataragama",
+        "country":"LK",
+        "admin1":"Uva Province",
+        "admin2":"Moneragala District",
+        "lat":6.4134,
+        "lon":81.3346,
+        "pop":20935
+    },
+    {
+        "id":1240723,
+        "name":"Kegalle",
+        "country":"LK",
+        "admin1":"Sabaragamuwa Province",
+        "admin2":"Kegalle District",
+        "lat":7.2523,
+        "lon":80.3436,
+        "pop":17962
+    },
+    {
+        "id":1244596,
+        "name":"Hatton",
+        "country":"LK",
+        "admin1":"Central Province",
+        "admin2":"Nuwara Eliya District",
+        "lat":6.8916,
+        "lon":80.5955,
+        "pop":15073
+    },
+    {
+        "id":1229901,
+        "name":"Polonnaruwa",
+        "country":"LK",
+        "admin1":"North Central Province",
+        "admin2":"Polonnaruwa District",
+        "lat":7.93965,
+        "lon":81.00274,
+        "pop":13900
+    },
+    {
+        "id":1240372,
+        "name":"Kilinochchi",
+        "country":"LK",
+        "admin1":"Northern Province",
+        "admin2":"Kilinochchi District",
+        "lat":9.3961,
+        "lon":80.3982,
+        "pop":13006
+    },
+    {
+        "id":1227037,
+        "name":"Tangalle",
+        "country":"LK",
+        "admin1":"Southern Province",
+        "admin2":"Hambantota District",
+        "lat":6.02338,
+        "lon":80.79738,
+        "pop":10497
+    },
+    {
+        "id":1234808,
+        "name":"Monaragala",
+        "country":"LK",
+        "admin1":"Uva Province",
+        "admin2":"Moneragala District",
+        "lat":6.8714,
+        "lon":81.3487,
+        "pop":10236
+    },
+    {
+        "id":11126122,
+        "name":"Wellawaya",
+        "country":"LK",
+        "admin1":"Uva Province",
+        "admin2":"Moneragala District",
+        "lat":6.73694,
+        "lon":81.10279,
+        "pop":10000
+    },
+    {
+        "id":1246007,
+        "name":"Gampaha",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Gampaha District",
+        "lat":7.0897,
+        "lon":79.9925,
+        "pop":9350
+    },
+    {
+        "id":1243867,
+        "name":"Horana South",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Kalutara District",
+        "lat":6.7159,
+        "lon":80.0626,
+        "pop":8982
+    },
+    {
+        "id":1240506,
+        "name":"Keppapularu",
+        "country":"LK",
+        "admin1":"Northern Province",
+        "admin2":"Mullaitivu District",
+        "lat":9.2754,
+        "lon":80.7553,
+        "pop":8361
+    },
+    {
+        "id":1224061,
+        "name":"Wattegama",
+        "country":"LK",
+        "admin1":"Uva Province",
+        "admin2":"Moneragala District",
+        "lat":6.7989,
+        "lon":81.4808,
+        "pop":8000
+    },
+    {
+        "id":1235000,
+        "name":"Minuwangoda",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Gampaha District",
+        "lat":7.1663,
+        "lon":79.9533,
+        "pop":7772
+    },
+    {
+        "id":6285792,
+        "name":"Horawala Junction",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Kalutara District",
+        "lat":6.48088,
+        "lon":80.12708,
+        "pop":7500
+    },
+    {
+        "id":1238427,
+        "name":"Kuliyapitiya",
+        "country":"LK",
+        "admin1":"North Western Province",
+        "admin2":"Kurunegala District",
+        "lat":7.4688,
+        "lon":80.0401,
+        "pop":6877
+    },
+    {
+        "id":1247148,
+        "name":"Ella Town",
+        "country":"LK",
+        "admin1":"Uva Province",
+        "admin2":"Badulla District",
+        "lat":6.8756,
+        "lon":81.0463,
+        "pop":5000
+    },
+    {
+        "id":1235107,
+        "name":"Mihintale",
+        "country":"LK",
+        "admin1":"North Central Province",
+        "admin2":"Anuradhapura District",
+        "lat":8.3593,
+        "lon":80.5103,
+        "pop":5000
+    },
+    {
+        "id":1244713,
+        "name":"Haputale",
+        "country":"LK",
+        "admin1":"Uva Province",
+        "admin2":"Badulla District",
+        "lat":6.76566,
+        "lon":80.95104,
+        "pop":4721
+    },
+    {
+        "id":11979654,
+        "name":"Mirissa city",
+        "country":"LK",
+        "admin1":"Southern Province",
+        "admin2":"Matara District",
+        "lat":5.94655,
+        "lon":80.45831,
+        "pop":4695
+    },
+    {
+        "id":1227300,
+        "name":"Talawakele",
+        "country":"LK",
+        "admin1":"Central Province",
+        "admin2":"Nuwara Eliya District",
+        "lat":6.9371,
+        "lon":80.6581,
+        "pop":3545
+    },
+    {
+        "id":1239829,
+        "name":"Koggala",
+        "country":"LK",
+        "admin1":"Southern Province",
+        "admin2":"Galle District",
+        "lat":5.9886,
+        "lon":80.3286,
+        "pop":3000
+    },
+    {
+        "id":1227217,
+        "name":"Talpe",
+        "country":"LK",
+        "admin1":"Southern Province",
+        "admin2":"Galle District",
+        "lat":5.9999,
+        "lon":80.2787,
+        "pop":3000
+    },
+    {
+        "id":1235746,
+        "name":"Mawalgama",
+        "country":"LK",
+        "admin1":"Western Province",
+        "admin2":"Colombo District",
+        "lat":6.9153,
+        "lon":80.1302,
+        "pop":2033
+    },
+    {
+        "id":1225514,
+        "name":"Unawatuna",
+        "country":"LK",
+        "admin1":"Southern Province",
+        "admin2":"Galle District",
+        "lat":6.0212,
+        "lon":80.2503,
+        "pop":2000
+    },
+    {
+        "id":1249808,
+        "name":"Bogahakumbura",
+        "country":"LK",
+        "admin1":"Uva Province",
+        "admin2":"Badulla District",
+        "lat":7.0869,
+        "lon":81.022,
+        "pop":1500
+    },
+    {
+        "id":1244178,
+        "name":"Hikkaduwa",
+        "country":"LK",
+        "admin1":"Southern Province",
+        "admin2":"Galle District",
+        "lat":6.1407,
+        "lon":80.1012,
+        "pop":1300
+    },
+    {
+        "id":1242571,
+        "name":"Kadugannawa",
+        "country":"LK",
+        "admin1":"Central Province",
+        "admin2":"Kandy District",
+        "lat":7.2547,
+        "lon":80.5242,
+        "pop":1214
+    },
+    {
+        "id":1228051,
+        "name":"Sigiriya",
+        "country":"LK",
+        "admin1":"Central Province",
+        "admin2":"Matale District",
+        "lat":7.94946,
+        "lon":80.75037,
+        "pop":1001
+    }
+]

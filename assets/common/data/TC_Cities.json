@@ -1,0 +1,42 @@
+[
+    {
+        "id":11703857,
+        "name":"Providenciales",
+        "country":"TC",
+        "admin1":null,
+        "admin2":"",
+        "lat":21.78254,
+        "lon":-72.25206,
+        "pop":23769
+    },
+    {
+        "id":3576994,
+        "name":"Cockburn Town",
+        "country":"TC",
+        "admin1":null,
+        "admin2":"",
+        "lat":21.46122,
+        "lon":-71.14188,
+        "pop":3720
+    },
+    {
+        "id":11201380,
+        "name":"Wheeland",
+        "country":"TC",
+        "admin1":null,
+        "admin2":"",
+        "lat":21.814,
+        "lon":-72.28213,
+        "pop":3210
+    },
+    {
+        "id":3577027,
+        "name":"Cockburn Harbour",
+        "country":"TC",
+        "admin1":null,
+        "admin2":"",
+        "lat":21.49293,
+        "lon":-71.53304,
+        "pop":811
+    }
+]

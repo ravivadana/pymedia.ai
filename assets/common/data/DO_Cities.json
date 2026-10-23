@@ -1,0 +1,2032 @@
+[
+    {
+        "id":3492908,
+        "name":"Santo Domingo",
+        "country":"DO",
+        "admin1":"Nacional",
+        "admin2":"Santo Domingo De Guzmán",
+        "lat":18.47186,
+        "lon":-69.89232,
+        "pop":2201941
+    },
+    {
+        "id":3492914,
+        "name":"Santiago de los Caballeros",
+        "country":"DO",
+        "admin1":"Santiago Province",
+        "admin2":"Santiago de los Caballeros",
+        "lat":19.45036,
+        "lon":-70.69085,
+        "pop":1200000
+    },
+    {
+        "id":7874116,
+        "name":"Santo Domingo Oeste",
+        "country":"DO",
+        "admin1":"Santo Domingo Province",
+        "admin2":"Santo Domingo Oeste",
+        "lat":18.5,
+        "lon":-70.0,
+        "pop":701269
+    },
+    {
+        "id":8601412,
+        "name":"Santo Domingo Este",
+        "country":"DO",
+        "admin1":"Santo Domingo Province",
+        "admin2":"Santo Domingo Este",
+        "lat":18.48511,
+        "lon":-69.84757,
+        "pop":700000
+    },
+    {
+        "id":3493032,
+        "name":"San Pedro de Macorís",
+        "country":"DO",
+        "admin1":"San Pedro de Macorís",
+        "admin2":"San Pedro de Macorís",
+        "lat":18.4539,
+        "lon":-69.30864,
+        "pop":217899
+    },
+    {
+        "id":3500957,
+        "name":"La Romana",
+        "country":"DO",
+        "admin1":"La Romana",
+        "admin2":"La Romana",
+        "lat":18.42332,
+        "lon":-68.96635,
+        "pop":208437
+    },
+    {
+        "id":3511540,
+        "name":"San Cristóbal",
+        "country":"DO",
+        "admin1":"San Cristóbal",
+        "admin2":"San Cristóbal",
+        "lat":18.41713,
+        "lon":-70.10682,
+        "pop":154040
+    },
+    {
+        "id":3493175,
+        "name":"Puerto Plata",
+        "country":"DO",
+        "admin1":"Puerto Plata",
+        "admin2":"Puerto Plata",
+        "lat":19.79344,
+        "lon":-70.6884,
+        "pop":146000
+    },
+    {
+        "id":3493146,
+        "name":"San Francisco de Macorís",
+        "country":"DO",
+        "admin1":"Duarte Province",
+        "admin2":"San Francisco de Macorís",
+        "lat":19.29377,
+        "lon":-70.25285,
+        "pop":124763
+    },
+    {
+        "id":3493240,
+        "name":"Salvaleón de Higüey",
+        "country":"DO",
+        "admin1":"La Altagracia Province",
+        "admin2":"Higüey",
+        "lat":18.61501,
+        "lon":-68.70798,
+        "pop":123787
+    },
+    {
+        "id":3509382,
+        "name":"La Vega",
+        "country":"DO",
+        "admin1":"La Vega",
+        "admin2":"La Vega",
+        "lat":19.22031,
+        "lon":-70.53101,
+        "pop":102426
+    },
+    {
+        "id":3494242,
+        "name":"Punta Cana",
+        "country":"DO",
+        "admin1":"La Altagracia Province",
+        "admin2":"Higüey",
+        "lat":18.58182,
+        "lon":-68.40431,
+        "pop":100023
+    },
+    {
+        "id":3492985,
+        "name":"Santa Cruz de Barahona",
+        "country":"DO",
+        "admin1":"Barahona Province",
+        "admin2":"Barahona",
+        "lat":18.20861,
+        "lon":-71.10068,
+        "pop":77160
+    },
+    {
+        "id":3511233,
+        "name":"Bonao",
+        "country":"DO",
+        "admin1":"Monseñor Nouel",
+        "admin2":"Bonao",
+        "lat":18.94154,
+        "lon":-70.41111,
+        "pop":73269
+    },
+    {
+        "id":3493081,
+        "name":"San Juan de la Maguana",
+        "country":"DO",
+        "admin1":"San Juan Province",
+        "admin2":"San Juan de la Maguana",
+        "lat":18.8064,
+        "lon":-71.22626,
+        "pop":72950
+    },
+    {
+        "id":3512128,
+        "name":"Bajos de Haina",
+        "country":"DO",
+        "admin1":"San Cristóbal",
+        "admin2":"Bajos de Haina",
+        "lat":18.41538,
+        "lon":-70.03317,
+        "pop":66784
+    },
+    {
+        "id":3512067,
+        "name":"Baní",
+        "country":"DO",
+        "admin1":"Peravia",
+        "admin2":"Baní",
+        "lat":18.27971,
+        "lon":-70.33181,
+        "pop":66709
+    },
+    {
+        "id":3496331,
+        "name":"Moca",
+        "country":"DO",
+        "admin1":"Espaillat Province",
+        "admin2":"Moca",
+        "lat":19.39289,
+        "lon":-70.52347,
+        "pop":61834
+    },
+    {
+        "id":3512208,
+        "name":"Azua",
+        "country":"DO",
+        "admin1":"Azua Province",
+        "admin2":"Azua",
+        "lat":18.45319,
+        "lon":-70.7349,
+        "pop":59139
+    },
+    {
+        "id":3496831,
+        "name":"Mao",
+        "country":"DO",
+        "admin1":"Valverde Province",
+        "admin2":"Mao",
+        "lat":19.54908,
+        "lon":-71.07808,
+        "pop":48297
+    },
+    {
+        "id":3511336,
+        "name":"Boca Chica",
+        "country":"DO",
+        "admin1":"Santo Domingo Province",
+        "admin2":"Boca Chica",
+        "lat":18.45,
+        "lon":-69.6,
+        "pop":46300
+    },
+    {
+        "id":3493283,
+        "name":"Salcedo",
+        "country":"DO",
+        "admin1":"Hermanas Mirabal",
+        "admin2":"Salcedo",
+        "lat":19.37766,
+        "lon":-70.41719,
+        "pop":45299
+    },
+    {
+        "id":3505855,
+        "name":"Esperanza",
+        "country":"DO",
+        "admin1":"Valverde Province",
+        "admin2":"Esperanza",
+        "lat":19.58469,
+        "lon":-70.98489,
+        "pop":42169
+    },
+    {
+        "id":3509207,
+        "name":"Cotuí",
+        "country":"DO",
+        "admin1":"Sánchez Ramírez",
+        "admin2":"Cotuí",
+        "lat":19.05385,
+        "lon":-70.15116,
+        "pop":41641
+    },
+    {
+        "id":3491952,
+        "name":"Villa Altagracia",
+        "country":"DO",
+        "admin1":"San Cristóbal",
+        "admin2":"Villa Altagracia",
+        "lat":18.67297,
+        "lon":-70.17095,
+        "pop":40027
+    },
+    {
+        "id":3504765,
+        "name":"Hato Mayor del Rey",
+        "country":"DO",
+        "admin1":"Hato Mayor Province",
+        "admin2":"Hato Mayor",
+        "lat":18.76575,
+        "lon":-69.25579,
+        "pop":35999
+    },
+    {
+        "id":3496021,
+        "name":"Nagua",
+        "country":"DO",
+        "admin1":"María Trinidad Sánchez",
+        "admin2":"Nagua",
+        "lat":19.3832,
+        "lon":-69.8474,
+        "pop":33862
+    },
+    {
+        "id":3491948,
+        "name":"Villa Bisonó",
+        "country":"DO",
+        "admin1":"Santiago Province",
+        "admin2":"Bisonó",
+        "lat":19.56378,
+        "lon":-70.87582,
+        "pop":33137
+    },
+    {
+        "id":3504158,
+        "name":"Jarabacoa",
+        "country":"DO",
+        "admin1":"La Vega",
+        "admin2":"Jarabacoa",
+        "lat":19.11683,
+        "lon":-70.63595,
+        "pop":29983
+    },
+    {
+        "id":3509363,
+        "name":"Constanza",
+        "country":"DO",
+        "admin1":"La Vega",
+        "admin2":"Constanza",
+        "lat":18.90919,
+        "lon":-70.74499,
+        "pop":29481
+    },
+    {
+        "id":3492984,
+        "name":"Santa Cruz de El Seibo",
+        "country":"DO",
+        "admin1":"El Seíbo",
+        "admin2":"El Seibo",
+        "lat":18.76484,
+        "lon":-69.03991,
+        "pop":23547
+    },
+    {
+        "id":3492517,
+        "name":"Tamboril",
+        "country":"DO",
+        "admin1":"Santiago Province",
+        "admin2":"Tamboril",
+        "lat":19.48538,
+        "lon":-70.61104,
+        "pop":23304
+    },
+    {
+        "id":3500370,
+        "name":"Las Matas de Farfán",
+        "country":"DO",
+        "admin1":"San Juan Province",
+        "admin2":"Las Matas de Farfán",
+        "lat":18.87309,
+        "lon":-71.51656,
+        "pop":21802
+    },
+    {
+        "id":3493100,
+        "name":"San José de Ocoa",
+        "country":"DO",
+        "admin1":"San José de Ocoa",
+        "admin2":"San José de Ocoa",
+        "lat":18.54685,
+        "lon":-70.50692,
+        "pop":21148
+    },
+    {
+        "id":3511626,
+        "name":"Bayaguana",
+        "country":"DO",
+        "admin1":"Monte Plata Province",
+        "admin2":"Bayaguana",
+        "lat":18.75031,
+        "lon":-69.63525,
+        "pop":21055
+    },
+    {
+        "id":3493769,
+        "name":"Río Grande",
+        "country":"DO",
+        "admin1":"Puerto Plata",
+        "admin2":"Altamira",
+        "lat":19.66667,
+        "lon":-70.76667,
+        "pop":20154
+    },
+    {
+        "id":3496150,
+        "name":"Monte Llano",
+        "country":"DO",
+        "admin1":"Puerto Plata",
+        "admin2":"Villa Montellano",
+        "lat":19.7346,
+        "lon":-70.59915,
+        "pop":19029
+    },
+    {
+        "id":3495857,
+        "name":"Neiba",
+        "country":"DO",
+        "admin1":"Baoruco Province",
+        "admin2":"Neiba",
+        "lat":18.4898,
+        "lon":-71.41894,
+        "pop":18670
+    },
+    {
+        "id":3494121,
+        "name":"Quisqueya",
+        "country":"DO",
+        "admin1":"San Pedro de Macorís",
+        "admin2":"Quisqueya",
+        "lat":18.55542,
+        "lon":-69.40814,
+        "pop":17694
+    },
+    {
+        "id":3493174,
+        "name":"San Fernando de Monte Cristi",
+        "country":"DO",
+        "admin1":"Monte Cristi Province",
+        "admin2":"Monte Cristi",
+        "lat":19.84799,
+        "lon":-71.64604,
+        "pop":17001
+    },
+    {
+        "id":3493482,
+        "name":"Sabana Grande de Boyá",
+        "country":"DO",
+        "admin1":"Monte Plata Province",
+        "admin2":"Sabana Grande de Boyá",
+        "lat":18.94498,
+        "lon":-69.79331,
+        "pop":16834
+    },
+    {
+        "id":3508952,
+        "name":"Dajabón",
+        "country":"DO",
+        "admin1":"Dajabón",
+        "admin2":"Dajabón",
+        "lat":19.54811,
+        "lon":-71.70821,
+        "pop":16398
+    },
+    {
+        "id":3493383,
+        "name":"San Ignacio de Sabaneta",
+        "country":"DO",
+        "admin1":"Santiago Rodríguez",
+        "admin2":"San Ignacio de Sabaneta",
+        "lat":19.47837,
+        "lon":-71.33932,
+        "pop":16380
+    },
+    {
+        "id":3496134,
+        "name":"Monte Plata",
+        "country":"DO",
+        "admin1":"Monte Plata Province",
+        "admin2":"Monte Plata",
+        "lat":18.80748,
+        "lon":-69.78431,
+        "pop":15532
+    },
+    {
+        "id":3493568,
+        "name":"Sabana de la Mar",
+        "country":"DO",
+        "admin1":"Hato Mayor Province",
+        "admin2":"Sabana de La Mar",
+        "lat":19.05934,
+        "lon":-69.38843,
+        "pop":13977
+    },
+    {
+        "id":3508694,
+        "name":"Duvergé",
+        "country":"DO",
+        "admin1":"Independencia",
+        "admin2":"Duvergé",
+        "lat":18.37839,
+        "lon":-71.52469,
+        "pop":13405
+    },
+    {
+        "id":3510637,
+        "name":"Cambita Garabitos",
+        "country":"DO",
+        "admin1":"San Cristóbal",
+        "admin2":"Cambita Garabitos",
+        "lat":18.45458,
+        "lon":-70.19907,
+        "pop":13382
+    },
+    {
+        "id":3502052,
+        "name":"La Julia",
+        "country":"DO",
+        "admin1":"Nacional",
+        "admin2":"Santo Domingo De Guzmán",
+        "lat":18.46667,
+        "lon":-69.93333,
+        "pop":12575
+    },
+    {
+        "id":3510885,
+        "name":"Cabral",
+        "country":"DO",
+        "admin1":"Barahona Province",
+        "admin2":"Cabral",
+        "lat":18.25,
+        "lon":-71.21667,
+        "pop":12303
+    },
+    {
+        "id":3509386,
+        "name":"Comendador",
+        "country":"DO",
+        "admin1":"Elías Piña",
+        "admin2":"Comendador",
+        "lat":18.87755,
+        "lon":-71.70321,
+        "pop":12070
+    },
+    {
+        "id":3493271,
+        "name":"Salsipuedes",
+        "country":"DO",
+        "admin1":"Hermanas Mirabal",
+        "admin2":"Salcedo",
+        "lat":19.40552,
+        "lon":-70.37985,
+        "pop":11675
+    },
+    {
+        "id":3491905,
+        "name":"Villa Vásquez",
+        "country":"DO",
+        "admin1":"Monte Cristi Province",
+        "admin2":"Villa Vásquez",
+        "lat":19.7411,
+        "lon":-71.4464,
+        "pop":11642
+    },
+    {
+        "id":3491796,
+        "name":"Yamasá",
+        "country":"DO",
+        "admin1":"Monte Plata Province",
+        "admin2":"Yamasá",
+        "lat":18.77315,
+        "lon":-70.02583,
+        "pop":11595
+    },
+    {
+        "id":3493143,
+        "name":"San Gregorio de Nigua",
+        "country":"DO",
+        "admin1":"San Cristóbal",
+        "admin2":"San Gregorio De Nigua",
+        "lat":18.38336,
+        "lon":-70.05241,
+        "pop":11542
+    },
+    {
+        "id":3492997,
+        "name":"Samaná",
+        "country":"DO",
+        "admin1":"Samaná",
+        "admin2":"Samaná Municipality",
+        "lat":19.20404,
+        "lon":-69.33407,
+        "pop":11432
+    },
+    {
+        "id":3493198,
+        "name":"Sánchez",
+        "country":"DO",
+        "admin1":"Samaná",
+        "admin2":"Sánchez",
+        "lat":19.2281,
+        "lon":-69.6137,
+        "pop":11365
+    },
+    {
+        "id":3495137,
+        "name":"Pedernales",
+        "country":"DO",
+        "admin1":"Pedernales Province",
+        "admin2":"Pedernales",
+        "lat":18.03562,
+        "lon":-71.7467,
+        "pop":11072
+    },
+    {
+        "id":3492030,
+        "name":"Vicente Noble",
+        "country":"DO",
+        "admin1":"Barahona Province",
+        "admin2":"Vicente Noble",
+        "lat":18.38443,
+        "lon":-71.18009,
+        "pop":11060
+    },
+    {
+        "id":3493410,
+        "name":"Sabana Yegua",
+        "country":"DO",
+        "admin1":"Azua Province",
+        "admin2":"Padre Las Casas",
+        "lat":18.71667,
+        "lon":-71.01667,
+        "pop":10624
+    },
+    {
+        "id":3500367,
+        "name":"Las Matas de Santa Cruz",
+        "country":"DO",
+        "admin1":"Monte Cristi Province",
+        "admin2":"Las Matas de Santa Cruz",
+        "lat":19.67119,
+        "lon":-71.50471,
+        "pop":10218
+    },
+    {
+        "id":3491937,
+        "name":"Villa González",
+        "country":"DO",
+        "admin1":"Santiago Province",
+        "admin2":"Villa González",
+        "lat":19.54057,
+        "lon":-70.78853,
+        "pop":10177
+    },
+    {
+        "id":3505778,
+        "name":"Fantino",
+        "country":"DO",
+        "admin1":"Sánchez Ramírez",
+        "admin2":"Fantino",
+        "lat":19.12148,
+        "lon":-70.29972,
+        "pop":10024
+    },
+    {
+        "id":3493103,
+        "name":"San José de Las Matas",
+        "country":"DO",
+        "admin1":"Santiago Province",
+        "admin2":"San José de Las Matas",
+        "lat":19.33915,
+        "lon":-70.93819,
+        "pop":9853
+    },
+    {
+        "id":3500518,
+        "name":"Las Guáranas",
+        "country":"DO",
+        "admin1":"Duarte Province",
+        "admin2":"Las Guáranas",
+        "lat":19.1931,
+        "lon":-70.20835,
+        "pop":9586
+    },
+    {
+        "id":3494768,
+        "name":"Pimentel",
+        "country":"DO",
+        "admin1":"Duarte Province",
+        "admin2":"Pimentel",
+        "lat":19.18416,
+        "lon":-70.10884,
+        "pop":9550
+    },
+    {
+        "id":3496396,
+        "name":"Miches",
+        "country":"DO",
+        "admin1":"El Seíbo",
+        "admin2":"Miches",
+        "lat":18.98364,
+        "lon":-69.0476,
+        "pop":9273
+    },
+    {
+        "id":3491927,
+        "name":"Villa Jaragua",
+        "country":"DO",
+        "admin1":"Baoruco Province",
+        "admin2":"Villa Jaragua",
+        "lat":18.49077,
+        "lon":-71.48377,
+        "pop":9248
+    },
+    {
+        "id":3493743,
+        "name":"Río San Juan",
+        "country":"DO",
+        "admin1":"María Trinidad Sánchez",
+        "admin2":"Río San Juan",
+        "lat":19.64385,
+        "lon":-70.07635,
+        "pop":8983
+    },
+    {
+        "id":3494863,
+        "name":"Piedra Blanca",
+        "country":"DO",
+        "admin1":"Monseñor Nouel",
+        "admin2":"Piedra Blanca",
+        "lat":18.84431,
+        "lon":-70.31688,
+        "pop":8531
+    },
+    {
+        "id":3495664,
+        "name":"Padre Las Casas",
+        "country":"DO",
+        "admin1":"Azua Province",
+        "admin2":"Padre Las Casas",
+        "lat":18.73172,
+        "lon":-70.93917,
+        "pop":8485
+    },
+    {
+        "id":7290233,
+        "name":"Zona Colonial",
+        "country":"DO",
+        "admin1":"Nacional",
+        "admin2":"Santo Domingo De Guzmán",
+        "lat":18.47,
+        "lon":-69.88644,
+        "pop":8477
+    },
+    {
+        "id":3504332,
+        "name":"Imbert",
+        "country":"DO",
+        "admin1":"Puerto Plata",
+        "admin2":"Imbert",
+        "lat":19.75371,
+        "lon":-70.82906,
+        "pop":8024
+    },
+    {
+        "id":3500243,
+        "name":"Las Terrenas",
+        "country":"DO",
+        "admin1":"Samaná",
+        "admin2":"Las Terrenas",
+        "lat":19.31102,
+        "lon":-69.5428,
+        "pop":7713
+    },
+    {
+        "id":3492628,
+        "name":"Sosúa",
+        "country":"DO",
+        "admin1":"Puerto Plata",
+        "admin2":"Sosúa",
+        "lat":19.7522,
+        "lon":-70.51995,
+        "pop":7713
+    },
+    {
+        "id":3502373,
+        "name":"Laguna Salada",
+        "country":"DO",
+        "admin1":"Valverde Province",
+        "admin2":"Laguna Salada",
+        "lat":19.65043,
+        "lon":-71.08429,
+        "pop":7601
+    },
+    {
+        "id":3492477,
+        "name":"Tenares",
+        "country":"DO",
+        "admin1":"Hermanas Mirabal",
+        "admin2":"Tenares",
+        "lat":19.37439,
+        "lon":-70.35087,
+        "pop":7390
+    },
+    {
+        "id":3495020,
+        "name":"Peralta",
+        "country":"DO",
+        "admin1":"Azua Province",
+        "admin2":"Peralta",
+        "lat":18.58164,
+        "lon":-70.77029,
+        "pop":7236
+    },
+    {
+        "id":3507628,
+        "name":"El Factor",
+        "country":"DO",
+        "admin1":"María Trinidad Sánchez",
+        "admin2":"El Factor",
+        "lat":19.31834,
+        "lon":-69.88827,
+        "pop":7014
+    },
+    {
+        "id":3495159,
+        "name":"Paya",
+        "country":"DO",
+        "admin1":"Peravia",
+        "admin2":"Baní",
+        "lat":18.26196,
+        "lon":-70.2956,
+        "pop":6916
+    },
+    {
+        "id":3499602,
+        "name":"Loma de Cabrera",
+        "country":"DO",
+        "admin1":"Dajabón",
+        "admin2":"Loma de Cabrera",
+        "lat":19.43333,
+        "lon":-71.6,
+        "pop":6679
+    },
+    {
+        "id":3496284,
+        "name":"Monción",
+        "country":"DO",
+        "admin1":"Santiago Rodríguez",
+        "admin2":"Monción",
+        "lat":19.41083,
+        "lon":-71.15257,
+        "pop":6625
+    },
+    {
+        "id":3504077,
+        "name":"Jimaní",
+        "country":"DO",
+        "admin1":"Independencia",
+        "admin2":"Jimaní",
+        "lat":18.48775,
+        "lon":-71.85148,
+        "pop":6567
+    },
+    {
+        "id":3495811,
+        "name":"Nizao",
+        "country":"DO",
+        "admin1":"Peravia",
+        "admin2":"Nizao",
+        "lat":18.24697,
+        "lon":-70.21053,
+        "pop":6530
+    },
+    {
+        "id":3505488,
+        "name":"Gaspar Hernández",
+        "country":"DO",
+        "admin1":"Espaillat Province",
+        "admin2":"Gaspar Hernández",
+        "lat":19.62748,
+        "lon":-70.27772,
+        "pop":6506
+    },
+    {
+        "id":3495272,
+        "name":"Paraíso",
+        "country":"DO",
+        "admin1":"Barahona Province",
+        "admin2":"Paraíso",
+        "lat":17.99172,
+        "lon":-71.16526,
+        "pop":6490
+    },
+    {
+        "id":3499748,
+        "name":"Licey al Medio",
+        "country":"DO",
+        "admin1":"Santiago Province",
+        "admin2":"Licey al Medio",
+        "lat":19.43333,
+        "lon":-70.6,
+        "pop":6435
+    },
+    {
+        "id":3492520,
+        "name":"Tamayo",
+        "country":"DO",
+        "admin1":"Baoruco Province",
+        "admin2":"Tamayo",
+        "lat":18.3947,
+        "lon":-71.2029,
+        "pop":6429
+    },
+    {
+        "id":3510065,
+        "name":"Castillo",
+        "country":"DO",
+        "admin1":"Duarte Province",
+        "admin2":"Castillo",
+        "lat":19.20824,
+        "lon":-70.02726,
+        "pop":6328
+    },
+    {
+        "id":3504080,
+        "name":"Jima Abajo",
+        "country":"DO",
+        "admin1":"La Vega",
+        "admin2":"Jima Abajo",
+        "lat":19.13292,
+        "lon":-70.37607,
+        "pop":6299
+    },
+    {
+        "id":3504951,
+        "name":"Guaymate",
+        "country":"DO",
+        "admin1":"La Romana",
+        "admin2":"Guaymate",
+        "lat":18.58793,
+        "lon":-68.97867,
+        "pop":6224
+    },
+    {
+        "id":3495694,
+        "name":"Otra Banda",
+        "country":"DO",
+        "admin1":"La Altagracia Province",
+        "admin2":"Higüey",
+        "lat":18.65017,
+        "lon":-68.66281,
+        "pop":6071
+    },
+    {
+        "id":3505517,
+        "name":"Galván",
+        "country":"DO",
+        "admin1":"Baoruco Province",
+        "admin2":"Galván",
+        "lat":18.50228,
+        "lon":-71.34271,
+        "pop":6027
+    },
+    {
+        "id":3493873,
+        "name":"Rincón",
+        "country":"DO",
+        "admin1":"La Vega",
+        "admin2":"Jima Abajo",
+        "lat":19.11938,
+        "lon":-70.40632,
+        "pop":5909
+    },
+    {
+        "id":3492073,
+        "name":"Veragua Arriba",
+        "country":"DO",
+        "admin1":"Espaillat Province",
+        "admin2":"Gaspar Hernández",
+        "lat":19.58333,
+        "lon":-70.33333,
+        "pop":5858
+    },
+    {
+        "id":3491916,
+        "name":"Villa Riva",
+        "country":"DO",
+        "admin1":"Duarte Province",
+        "admin2":"Villa Riva",
+        "lat":19.18069,
+        "lon":-69.91319,
+        "pop":5700
+    },
+    {
+        "id":3491736,
+        "name":"Yayas de Viajama",
+        "country":"DO",
+        "admin1":"Azua Province",
+        "admin2":"Las Yayas De Viajama",
+        "lat":18.6071,
+        "lon":-70.92753,
+        "pop":5669
+    },
+    {
+        "id":3506034,
+        "name":"El Valle",
+        "country":"DO",
+        "admin1":"Hato Mayor Province",
+        "admin2":"El Valle",
+        "lat":18.97567,
+        "lon":-69.37827,
+        "pop":5666
+    },
+    {
+        "id":3492897,
+        "name":"San Víctor Arriba",
+        "country":"DO",
+        "admin1":"Espaillat Province",
+        "admin2":"Moca",
+        "lat":19.47741,
+        "lon":-70.53585,
+        "pop":5624
+    },
+    {
+        "id":3491807,
+        "name":"Yaguate",
+        "country":"DO",
+        "admin1":"San Cristóbal",
+        "admin2":"Yaguate",
+        "lat":18.3353,
+        "lon":-70.18113,
+        "pop":5610
+    },
+    {
+        "id":3505825,
+        "name":"Estebanía",
+        "country":"DO",
+        "admin1":"Azua Province",
+        "admin2":"Estebanía",
+        "lat":18.4577,
+        "lon":-70.6435,
+        "pop":5591
+    },
+    {
+        "id":3503900,
+        "name":"Juan de Herrera",
+        "country":"DO",
+        "admin1":"San Juan Province",
+        "admin2":"Juan De Herrera",
+        "lat":18.87402,
+        "lon":-71.2383,
+        "pop":5543
+    },
+    {
+        "id":3498191,
+        "name":"Los Llanos",
+        "country":"DO",
+        "admin1":"San Pedro de Macorís",
+        "admin2":"Los Llanos",
+        "lat":18.62035,
+        "lon":-69.49581,
+        "pop":5529
+    },
+    {
+        "id":3502786,
+        "name":"La Descubierta",
+        "country":"DO",
+        "admin1":"Independencia",
+        "admin2":"La Descubierta",
+        "lat":18.57053,
+        "lon":-71.72967,
+        "pop":5521
+    },
+    {
+        "id":3505861,
+        "name":"Esperalvillo",
+        "country":"DO",
+        "admin1":"Monte Plata Province",
+        "admin2":"Peralvillo",
+        "lat":18.81509,
+        "lon":-70.03557,
+        "pop":5445
+    },
+    {
+        "id":3505947,
+        "name":"Enriquillo",
+        "country":"DO",
+        "admin1":"Barahona Province",
+        "admin2":"Enriquillo",
+        "lat":17.9,
+        "lon":-71.23333,
+        "pop":5423
+    },
+    {
+        "id":3509882,
+        "name":"Cercado Abajo",
+        "country":"DO",
+        "admin1":"San Juan Province",
+        "admin2":"El Cercado",
+        "lat":18.72681,
+        "lon":-71.51742,
+        "pop":5316
+    },
+    {
+        "id":3493022,
+        "name":"San Rafael del Yuma",
+        "country":"DO",
+        "admin1":"La Altagracia Province",
+        "admin2":"San Rafael del Yuma",
+        "lat":18.42993,
+        "lon":-68.6739,
+        "pop":5285
+    },
+    {
+        "id":3492123,
+        "name":"Vallejuelo",
+        "country":"DO",
+        "admin1":"San Juan Province",
+        "admin2":"Vallejuelo",
+        "lat":18.65354,
+        "lon":-71.33431,
+        "pop":5217
+    },
+    {
+        "id":3493478,
+        "name":"Sabana Iglesia",
+        "country":"DO",
+        "admin1":"Santiago Province",
+        "admin2":"Sabana Iglesia",
+        "lat":19.32114,
+        "lon":-70.75992,
+        "pop":5135
+    },
+    {
+        "id":3510874,
+        "name":"Cabrera",
+        "country":"DO",
+        "admin1":"María Trinidad Sánchez",
+        "admin2":"Cabrera",
+        "lat":19.6426,
+        "lon":-69.90489,
+        "pop":4947
+    },
+    {
+        "id":3504193,
+        "name":"Jaibón",
+        "country":"DO",
+        "admin1":"Valverde Province",
+        "admin2":"Mao",
+        "lat":19.61169,
+        "lon":-71.14847,
+        "pop":4853
+    },
+    {
+        "id":3493480,
+        "name":"Sabana Grande de Palenque",
+        "country":"DO",
+        "admin1":"San Cristóbal",
+        "admin2":"Sabana Grande De Palenque",
+        "lat":18.26256,
+        "lon":-70.14821,
+        "pop":4809
+    },
+    {
+        "id":3500641,
+        "name":"Las Charcas",
+        "country":"DO",
+        "admin1":"Azua Province",
+        "admin2":"Las Charcas",
+        "lat":18.45026,
+        "lon":-70.61724,
+        "pop":4720
+    },
+    {
+        "id":3512795,
+        "name":"Altamira",
+        "country":"DO",
+        "admin1":"Puerto Plata",
+        "admin2":"Altamira",
+        "lat":19.6773,
+        "lon":-70.84428,
+        "pop":4563
+    },
+    {
+        "id":3500261,
+        "name":"Las Salinas",
+        "country":"DO",
+        "admin1":"Barahona Province",
+        "admin2":"Las Salinas",
+        "lat":18.27485,
+        "lon":-71.31596,
+        "pop":4513
+    },
+    {
+        "id":3497564,
+        "name":"Los Ríos",
+        "country":"DO",
+        "admin1":"Baoruco Province",
+        "admin2":"Los Ríos",
+        "lat":18.52131,
+        "lon":-71.59106,
+        "pop":4440
+    },
+    {
+        "id":3497350,
+        "name":"Luperón",
+        "country":"DO",
+        "admin1":"Puerto Plata",
+        "admin2":"Luperón",
+        "lat":19.89131,
+        "lon":-70.96204,
+        "pop":4393
+    },
+    {
+        "id":3510083,
+        "name":"Castañuelas",
+        "country":"DO",
+        "admin1":"Monte Cristi Province",
+        "admin2":"Castañuelas",
+        "lat":19.71387,
+        "lon":-71.49876,
+        "pop":4209
+    },
+    {
+        "id":3494329,
+        "name":"Pueblo Viejo",
+        "country":"DO",
+        "admin1":"Azua Province",
+        "admin2":"Pueblo Viejo",
+        "lat":18.4,
+        "lon":-70.76765,
+        "pop":4192
+    },
+    {
+        "id":3496601,
+        "name":"Matanzas",
+        "country":"DO",
+        "admin1":"Peravia",
+        "admin2":"Baní",
+        "lat":18.24297,
+        "lon":-70.41768,
+        "pop":4124
+    },
+    {
+        "id":3510969,
+        "name":"Cabarete",
+        "country":"DO",
+        "admin1":"Puerto Plata",
+        "admin2":"Sosúa",
+        "lat":19.74982,
+        "lon":-70.40829,
+        "pop":4094
+    },
+    {
+        "id":3506630,
+        "name":"El Peñón",
+        "country":"DO",
+        "admin1":"Barahona Province",
+        "admin2":"El Peñón",
+        "lat":18.29643,
+        "lon":-71.1841,
+        "pop":4088
+    },
+    {
+        "id":3509823,
+        "name":"Cevicos",
+        "country":"DO",
+        "admin1":"Sánchez Ramírez",
+        "admin2":"Cevicos",
+        "lat":19.00449,
+        "lon":-69.97896,
+        "pop":4064
+    },
+    {
+        "id":3499230,
+        "name":"Los Botados",
+        "country":"DO",
+        "admin1":"Monte Plata Province",
+        "admin2":"Yamasá",
+        "lat":18.73226,
+        "lon":-69.99536,
+        "pop":4054
+    },
+    {
+        "id":3503338,
+        "name":"La Canela",
+        "country":"DO",
+        "admin1":"Santiago Province",
+        "admin2":"Santiago de los Caballeros",
+        "lat":19.47341,
+        "lon":-70.81629,
+        "pop":4026
+    },
+    {
+        "id":3504983,
+        "name":"Guayabo Dulce",
+        "country":"DO",
+        "admin1":"Hato Mayor Province",
+        "admin2":"Hato Mayor",
+        "lat":18.65,
+        "lon":-69.28333,
+        "pop":3897
+    },
+    {
+        "id":3491929,
+        "name":"Villa Isabela",
+        "country":"DO",
+        "admin1":"Puerto Plata",
+        "admin2":"Villa Isabela",
+        "lat":19.81564,
+        "lon":-71.06056,
+        "pop":3887
+    },
+    {
+        "id":3495024,
+        "name":"Pepillo Salcedo",
+        "country":"DO",
+        "admin1":"Monte Cristi Province",
+        "admin2":"Pepillo Salcedo",
+        "lat":19.69841,
+        "lon":-71.74513,
+        "pop":3866
+    },
+    {
+        "id":3492367,
+        "name":"Tireo Arriba",
+        "country":"DO",
+        "admin1":"La Vega",
+        "admin2":"Constanza",
+        "lat":18.93537,
+        "lon":-70.6885,
+        "pop":3816
+    },
+    {
+        "id":3492557,
+        "name":"Tábara Arriba",
+        "country":"DO",
+        "admin1":"Azua Province",
+        "admin2":"Tábara Arriba",
+        "lat":18.56999,
+        "lon":-70.87978,
+        "pop":3736
+    },
+    {
+        "id":3504466,
+        "name":"Hondo Valle",
+        "country":"DO",
+        "admin1":"Elías Piña",
+        "admin2":"Hondo Valle",
+        "lat":18.71599,
+        "lon":-71.69511,
+        "pop":3713
+    },
+    {
+        "id":3495555,
+        "name":"Palmar Arriba",
+        "country":"DO",
+        "admin1":"Santiago Province",
+        "admin2":"Villa González",
+        "lat":19.53957,
+        "lon":-70.73826,
+        "pop":3700
+    },
+    {
+        "id":3493732,
+        "name":"Río Verde Arriba",
+        "country":"DO",
+        "admin1":"La Vega",
+        "admin2":"La Vega",
+        "lat":19.31583,
+        "lon":-70.56643,
+        "pop":3613
+    },
+    {
+        "id":3504793,
+        "name":"Hatillo Palma",
+        "country":"DO",
+        "admin1":"Monte Cristi Province",
+        "admin2":"Guayubín",
+        "lat":19.66256,
+        "lon":-71.19406,
+        "pop":3574
+    },
+    {
+        "id":3497204,
+        "name":"Maizal",
+        "country":"DO",
+        "admin1":"Valverde Province",
+        "admin2":"Esperanza",
+        "lat":19.63655,
+        "lon":-71.02734,
+        "pop":3384
+    },
+    {
+        "id":3506415,
+        "name":"El Puerto",
+        "country":"DO",
+        "admin1":"San Pedro de Macorís",
+        "admin2":"Los Llanos",
+        "lat":18.78333,
+        "lon":-69.46667,
+        "pop":3278
+    },
+    {
+        "id":3491908,
+        "name":"Villa Tapia",
+        "country":"DO",
+        "admin1":"Hermanas Mirabal",
+        "admin2":"Villa Tapia",
+        "lat":19.30084,
+        "lon":-70.42199,
+        "pop":3113
+    },
+    {
+        "id":3494509,
+        "name":"Postrer Río",
+        "country":"DO",
+        "admin1":"Independencia",
+        "admin2":"Postrer Río",
+        "lat":18.54374,
+        "lon":-71.63561,
+        "pop":3078
+    },
+    {
+        "id":3504160,
+        "name":"Jaquimeyes",
+        "country":"DO",
+        "admin1":"Barahona Province",
+        "admin2":"Jaquimeyes",
+        "lat":18.31173,
+        "lon":-71.16145,
+        "pop":3038
+    },
+    {
+        "id":3491914,
+        "name":"Villarpando",
+        "country":"DO",
+        "admin1":"Azua Province",
+        "admin2":"Las Yayas De Viajama",
+        "lat":18.6586,
+        "lon":-71.03916,
+        "pop":3016
+    },
+    {
+        "id":3512573,
+        "name":"Arenoso",
+        "country":"DO",
+        "admin1":"Duarte Province",
+        "admin2":"Arenoso",
+        "lat":19.18732,
+        "lon":-69.85917,
+        "pop":2897
+    },
+    {
+        "id":3503100,
+        "name":"La Ciénaga",
+        "country":"DO",
+        "admin1":"Barahona Province",
+        "admin2":"La Ciénaga",
+        "lat":18.06858,
+        "lon":-71.10651,
+        "pop":2875
+    },
+    {
+        "id":3507461,
+        "name":"El Guayabal",
+        "country":"DO",
+        "admin1":"Azua Province",
+        "admin2":"Guayabal",
+        "lat":18.7496,
+        "lon":-70.8369,
+        "pop":2835
+    },
+    {
+        "id":3498418,
+        "name":"Los Hidalgos",
+        "country":"DO",
+        "admin1":"Puerto Plata",
+        "admin2":"Los Hidalgos",
+        "lat":19.73333,
+        "lon":-71.03333,
+        "pop":2805
+    },
+    {
+        "id":3509191,
+        "name":"Cristóbal",
+        "country":"DO",
+        "admin1":"Independencia",
+        "admin2":"Cristóbal",
+        "lat":18.29405,
+        "lon":-71.29298,
+        "pop":2735
+    },
+    {
+        "id":3494655,
+        "name":"Pizarrete",
+        "country":"DO",
+        "admin1":"Peravia",
+        "admin2":"Nizao",
+        "lat":18.29935,
+        "lon":-70.22648,
+        "pop":2695
+    },
+    {
+        "id":3495684,
+        "name":"Oviedo",
+        "country":"DO",
+        "admin1":"Pedernales Province",
+        "admin2":"Oviedo",
+        "lat":17.80136,
+        "lon":-71.401,
+        "pop":2671
+    },
+    {
+        "id":3508083,
+        "name":"El Carril",
+        "country":"DO",
+        "admin1":"San Cristóbal",
+        "admin2":"Bajos de Haina",
+        "lat":18.44905,
+        "lon":-70.02785,
+        "pop":2643
+    },
+    {
+        "id":3505128,
+        "name":"Guananico",
+        "country":"DO",
+        "admin1":"Puerto Plata",
+        "admin2":"Guananico",
+        "lat":19.72693,
+        "lon":-70.92294,
+        "pop":2620
+    },
+    {
+        "id":3509989,
+        "name":"Cayetano Germosén",
+        "country":"DO",
+        "admin1":"Espaillat Province",
+        "admin2":"Cayetano Germosén",
+        "lat":19.34413,
+        "lon":-70.48342,
+        "pop":2526
+    },
+    {
+        "id":3505612,
+        "name":"Fundación",
+        "country":"DO",
+        "admin1":"Barahona Province",
+        "admin2":"Fundación",
+        "lat":18.28668,
+        "lon":-71.18147,
+        "pop":2511
+    },
+    {
+        "id":3506719,
+        "name":"El Palmar",
+        "country":"DO",
+        "admin1":"Baoruco Province",
+        "admin2":"Neiba",
+        "lat":18.41139,
+        "lon":-71.24558,
+        "pop":2445
+    },
+    {
+        "id":3507117,
+        "name":"El Llano",
+        "country":"DO",
+        "admin1":"Elías Piña",
+        "admin2":"El Llano",
+        "lat":18.81667,
+        "lon":-71.63333,
+        "pop":2438
+    },
+    {
+        "id":3508761,
+        "name":"Don Juan",
+        "country":"DO",
+        "admin1":"Monte Plata Province",
+        "admin2":"Monte Plata",
+        "lat":18.82774,
+        "lon":-69.94629,
+        "pop":2396
+    },
+    {
+        "id":3510363,
+        "name":"Canoa",
+        "country":"DO",
+        "admin1":"Barahona Province",
+        "admin2":"Vicente Noble",
+        "lat":18.35499,
+        "lon":-71.15851,
+        "pop":2371
+    },
+    {
+        "id":3511262,
+        "name":"Bohechío",
+        "country":"DO",
+        "admin1":"San Juan Province",
+        "admin2":"Bohechío",
+        "lat":18.77515,
+        "lon":-70.98889,
+        "pop":2281
+    },
+    {
+        "id":3493601,
+        "name":"Sabana Buey",
+        "country":"DO",
+        "admin1":"Peravia",
+        "admin2":"Baní",
+        "lat":18.27351,
+        "lon":-70.52352,
+        "pop":2265
+    },
+    {
+        "id":3504175,
+        "name":"Jamao al Norte",
+        "country":"DO",
+        "admin1":"Espaillat Province",
+        "admin2":"Jamao Al Norte",
+        "lat":19.63552,
+        "lon":-70.44664,
+        "pop":2216
+    },
+    {
+        "id":3500013,
+        "name":"La Uvilla",
+        "country":"DO",
+        "admin1":"Baoruco Province",
+        "admin2":"Tamayo",
+        "lat":18.36186,
+        "lon":-71.21046,
+        "pop":2178
+    },
+    {
+        "id":3494064,
+        "name":"Ramón Santana",
+        "country":"DO",
+        "admin1":"San Pedro de Macorís",
+        "admin2":"Ramón Santana",
+        "lat":18.54224,
+        "lon":-69.17979,
+        "pop":2175
+    },
+    {
+        "id":3495256,
+        "name":"Partido",
+        "country":"DO",
+        "admin1":"Dajabón",
+        "admin2":"Partido",
+        "lat":19.48403,
+        "lon":-71.5473,
+        "pop":2170
+    },
+    {
+        "id":3494584,
+        "name":"Polo",
+        "country":"DO",
+        "admin1":"Barahona Province",
+        "admin2":"Polo",
+        "lat":18.07873,
+        "lon":-71.28723,
+        "pop":2121
+    },
+    {
+        "id":3494979,
+        "name":"Pescadería",
+        "country":"DO",
+        "admin1":"Barahona Province",
+        "admin2":"Fundación",
+        "lat":18.26766,
+        "lon":-71.16612,
+        "pop":2116
+    },
+    {
+        "id":3495115,
+        "name":"Pedro Corto",
+        "country":"DO",
+        "admin1":"San Juan Province",
+        "admin2":"San Juan de la Maguana",
+        "lat":18.84856,
+        "lon":-71.41041,
+        "pop":2067
+    },
+    {
+        "id":3493887,
+        "name":"Restauración",
+        "country":"DO",
+        "admin1":"Dajabón",
+        "admin2":"Restauración",
+        "lat":19.31532,
+        "lon":-71.69239,
+        "pop":2031
+    },
+    {
+        "id":3505432,
+        "name":"Gonzalo",
+        "country":"DO",
+        "admin1":"Monte Plata Province",
+        "admin2":"Sabana Grande de Boyá",
+        "lat":18.95147,
+        "lon":-69.75114,
+        "pop":2027
+    },
+    {
+        "id":3496446,
+        "name":"Mella",
+        "country":"DO",
+        "admin1":"Independencia",
+        "admin2":"Mella",
+        "lat":18.35871,
+        "lon":-71.41716,
+        "pop":2024
+    },
+    {
+        "id":3512166,
+        "name":"Baitoa",
+        "country":"DO",
+        "admin1":"Santiago Province",
+        "admin2":"Santiago de los Caballeros",
+        "lat":19.32512,
+        "lon":-70.70357,
+        "pop":2013
+    },
+    {
+        "id":3508286,
+        "name":"El Cacao",
+        "country":"DO",
+        "admin1":"San Cristóbal",
+        "admin2":"Los Cacaos",
+        "lat":18.52719,
+        "lon":-70.29585,
+        "pop":1997
+    },
+    {
+        "id":3495546,
+        "name":"Palmar de Ocoa",
+        "country":"DO",
+        "admin1":"Azua Province",
+        "admin2":"Las Charcas",
+        "lat":18.29656,
+        "lon":-70.58635,
+        "pop":1997
+    },
+    {
+        "id":3511277,
+        "name":"Boca de Yuma",
+        "country":"DO",
+        "admin1":"La Altagracia Province",
+        "admin2":"San Rafael del Yuma",
+        "lat":18.37825,
+        "lon":-68.609,
+        "pop":1991
+    },
+    {
+        "id":3512332,
+        "name":"Arroyo Salado",
+        "country":"DO",
+        "admin1":"María Trinidad Sánchez",
+        "admin2":"Cabrera",
+        "lat":19.5,
+        "lon":-69.9,
+        "pop":1990
+    },
+    {
+        "id":3512720,
+        "name":"Amina",
+        "country":"DO",
+        "admin1":"Valverde Province",
+        "admin2":"Mao",
+        "lat":19.54813,
+        "lon":-70.99599,
+        "pop":1910
+    },
+    {
+        "id":3510822,
+        "name":"Cachón",
+        "country":"DO",
+        "admin1":"Barahona Province",
+        "admin2":"Barahona",
+        "lat":18.24833,
+        "lon":-71.18912,
+        "pop":1903
+    },
+    {
+        "id":3512902,
+        "name":"Agua Santa del Yuna",
+        "country":"DO",
+        "admin1":"Duarte Province",
+        "admin2":"Villa Riva",
+        "lat":19.15072,
+        "lon":-69.80069,
+        "pop":1830
+    },
+    {
+        "id":3504438,
+        "name":"Hostos",
+        "country":"DO",
+        "admin1":"Duarte Province",
+        "admin2":"Eugenio María De Hostos",
+        "lat":19.18043,
+        "lon":-70.02046,
+        "pop":1813
+    },
+    {
+        "id":3510553,
+        "name":"Cana Chapetón",
+        "country":"DO",
+        "admin1":"Monte Cristi Province",
+        "admin2":"Guayubín",
+        "lat":19.60703,
+        "lon":-71.25734,
+        "pop":1758
+    },
+    {
+        "id":3504097,
+        "name":"Jicomé",
+        "country":"DO",
+        "admin1":"Valverde Province",
+        "admin2":"Esperanza",
+        "lat":19.64955,
+        "lon":-70.94927,
+        "pop":1725
+    },
+    {
+        "id":3505034,
+        "name":"Guatapanal",
+        "country":"DO",
+        "admin1":"Valverde Province",
+        "admin2":"Mao",
+        "lat":19.50705,
+        "lon":-70.91713,
+        "pop":1657
+    },
+    {
+        "id":3505819,
+        "name":"Estero Hondo",
+        "country":"DO",
+        "admin1":"Puerto Plata",
+        "admin2":"Villa Isabela",
+        "lat":19.82712,
+        "lon":-71.17411,
+        "pop":1649
+    },
+    {
+        "id":3503910,
+        "name":"Juancho",
+        "country":"DO",
+        "admin1":"Pedernales Province",
+        "admin2":"Oviedo",
+        "lat":17.85782,
+        "lon":-71.29311,
+        "pop":1623
+    },
+    {
+        "id":3495102,
+        "name":"Pedro Sánchez",
+        "country":"DO",
+        "admin1":"El Seíbo",
+        "admin2":"El Seibo",
+        "lat":18.86375,
+        "lon":-69.10868,
+        "pop":1621
+    },
+    {
+        "id":3503811,
+        "name":"Juan Santiago",
+        "country":"DO",
+        "admin1":"Elías Piña",
+        "admin2":"Juan Santiago",
+        "lat":18.70342,
+        "lon":-71.58971,
+        "pop":1549
+    },
+    {
+        "id":3503845,
+        "name":"Juan López Abajo",
+        "country":"DO",
+        "admin1":"Espaillat Province",
+        "admin2":"Moca",
+        "lat":19.43333,
+        "lon":-70.5,
+        "pop":1535
+    },
+    {
+        "id":3506541,
+        "name":"El Pino",
+        "country":"DO",
+        "admin1":"Dajabón",
+        "admin2":"El Pino",
+        "lat":19.43537,
+        "lon":-71.4754,
+        "pop":1529
+    },
+    {
+        "id":3505029,
+        "name":"Guayabal",
+        "country":"DO",
+        "admin1":"Independencia",
+        "admin2":"Postrer Río",
+        "lat":18.5981,
+        "lon":-71.64184,
+        "pop":1504
+    },
+    {
+        "id":3504033,
+        "name":"Joba Arriba",
+        "country":"DO",
+        "admin1":"Espaillat Province",
+        "admin2":"Gaspar Hernández",
+        "lat":19.56667,
+        "lon":-70.26667,
+        "pop":1471
+    },
+    {
+        "id":3495111,
+        "name":"Pedro García",
+        "country":"DO",
+        "admin1":"Santiago Province",
+        "admin2":"Santiago de los Caballeros",
+        "lat":19.59202,
+        "lon":-70.65256,
+        "pop":1457
+    },
+    {
+        "id":3512064,
+        "name":"Bánica",
+        "country":"DO",
+        "admin1":"Elías Piña",
+        "admin2":"Bánica",
+        "lat":19.08239,
+        "lon":-71.7054,
+        "pop":1443
+    },
+    {
+        "id":3497176,
+        "name":"Majagual",
+        "country":"DO",
+        "admin1":"Monte Plata Province",
+        "admin2":"Sabana Grande de Boyá",
+        "lat":19.04134,
+        "lon":-69.83616,
+        "pop":1430
+    },
+    {
+        "id":3493756,
+        "name":"Río Limpio",
+        "country":"DO",
+        "admin1":"Elías Piña",
+        "admin2":"Pedro Santana",
+        "lat":19.24513,
+        "lon":-71.53077,
+        "pop":1376
+    },
+    {
+        "id":3503950,
+        "name":"Juan Adrián",
+        "country":"DO",
+        "admin1":"Monseñor Nouel",
+        "admin2":"Piedra Blanca",
+        "lat":18.76365,
+        "lon":-70.33732,
+        "pop":1371
+    },
+    {
+        "id":3503782,
+        "name":"Juncalito Abajo",
+        "country":"DO",
+        "admin1":"Santiago Province",
+        "admin2":"Jánico",
+        "lat":19.2199,
+        "lon":-70.81905,
+        "pop":1229
+    },
+    {
+        "id":3493537,
+        "name":"Sabana del Puerto",
+        "country":"DO",
+        "admin1":"Monseñor Nouel",
+        "admin2":"Bonao",
+        "lat":19.06667,
+        "lon":-70.41667,
+        "pop":1223
+    },
+    {
+        "id":3495098,
+        "name":"Pedro Santana",
+        "country":"DO",
+        "admin1":"Elías Piña",
+        "admin2":"Pedro Santana",
+        "lat":19.10515,
+        "lon":-71.69498,
+        "pop":1170
+    },
+    {
+        "id":3491943,
+        "name":"Villa Elisa",
+        "country":"DO",
+        "admin1":"Monte Cristi Province",
+        "admin2":"Guayubín",
+        "lat":19.6856,
+        "lon":-71.27007,
+        "pop":1143
+    },
+    {
+        "id":3502745,
+        "name":"La Entrada",
+        "country":"DO",
+        "admin1":"María Trinidad Sánchez",
+        "admin2":"Cabrera",
+        "lat":19.55367,
+        "lon":-69.90762,
+        "pop":1112
+    },
+    {
+        "id":3503256,
+        "name":"La Caya",
+        "country":"DO",
+        "admin1":"Valverde Province",
+        "admin2":"Laguna Salada",
+        "lat":19.69981,
+        "lon":-71.12084,
+        "pop":1005
+    },
+    {
+        "id":3496574,
+        "name":"Matayaya",
+        "country":"DO",
+        "admin1":"San Juan Province",
+        "admin2":"Las Matas de Farfán",
+        "lat":18.89036,
+        "lon":-71.59459,
+        "pop":1001
+    },
+    {
+        "id":3501329,
+        "name":"La Peña",
+        "country":"DO",
+        "admin1":"Duarte Province",
+        "admin2":"San Francisco de Macorís",
+        "lat":19.27676,
+        "lon":-70.17173,
+        "pop":976
+    },
+    {
+        "id":3506241,
+        "name":"El Rubio",
+        "country":"DO",
+        "admin1":"Santiago Province",
+        "admin2":"San José de Las Matas",
+        "lat":19.36966,
+        "lon":-71.06964,
+        "pop":758
+    },
+    {
+        "id":3503981,
+        "name":"José Contreras",
+        "country":"DO",
+        "admin1":"Espaillat Province",
+        "admin2":"Moca",
+        "lat":19.46954,
+        "lon":-70.45253,
+        "pop":749
+    },
+    {
+        "id":3509921,
+        "name":"Cenoví",
+        "country":"DO",
+        "admin1":"Duarte Province",
+        "admin2":"San Francisco de Macorís",
+        "lat":19.2545,
+        "lon":-70.368,
+        "pop":599
+    }
+]

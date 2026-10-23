@@ -1,0 +1,112 @@
+[
+    {
+        "id":13353869,
+        "name":"Warwick Parish",
+        "country":"BM",
+        "admin1":"Warwick",
+        "admin2":"",
+        "lat":32.26574,
+        "lon":-64.80922,
+        "pop":8615
+    },
+    {
+        "id":13353871,
+        "name":"Sandys Parish",
+        "country":"BM",
+        "admin1":"Sandys",
+        "admin2":"",
+        "lat":32.29637,
+        "lon":-64.86931,
+        "pop":7653
+    },
+    {
+        "id":13353864,
+        "name":"Devonshire Parish",
+        "country":"BM",
+        "admin1":"Devonshire",
+        "admin2":"",
+        "lat":32.30582,
+        "lon":-64.7575,
+        "pop":7330
+    },
+    {
+        "id":13353870,
+        "name":"Southampton Parish",
+        "country":"BM",
+        "admin1":"Southampton",
+        "admin2":"",
+        "lat":32.25164,
+        "lon":-64.85474,
+        "pop":6633
+    },
+    {
+        "id":13353866,
+        "name":"Hamilton Parish",
+        "country":"BM",
+        "admin1":"Hamilton",
+        "admin2":"",
+        "lat":32.34221,
+        "lon":-64.73019,
+        "pop":5862
+    },
+    {
+        "id":13353868,
+        "name":"Paget Parish",
+        "country":"BM",
+        "admin1":"Paget",
+        "admin2":"",
+        "lat":32.28016,
+        "lon":-64.78329,
+        "pop":5702
+    },
+    {
+        "id":13353867,
+        "name":"St George's Parish",
+        "country":"BM",
+        "admin1":"Saint Georgeʼs",
+        "admin2":"",
+        "lat":32.37249,
+        "lon":-64.69756,
+        "pop":5659
+    },
+    {
+        "id":13353865,
+        "name":"Smith's Parish",
+        "country":"BM",
+        "admin1":"Smithʼs",
+        "admin2":"",
+        "lat":32.31389,
+        "lon":-64.73897,
+        "pop":5406
+    },
+    {
+        "id":3573061,
+        "name":"Saint George",
+        "country":"BM",
+        "admin1":"Saint George",
+        "admin2":"",
+        "lat":32.38167,
+        "lon":-64.67806,
+        "pop":1896
+    },
+    {
+        "id":3573029,
+        "name":"Somerset",
+        "country":"BM",
+        "admin1":"Sandys",
+        "admin2":"",
+        "lat":32.29833,
+        "lon":-64.86833,
+        "pop":1000
+    },
+    {
+        "id":3573197,
+        "name":"Hamilton",
+        "country":"BM",
+        "admin1":"Hamilton city",
+        "admin2":"",
+        "lat":32.2949,
+        "lon":-64.78303,
+        "pop":902
+    }
+]

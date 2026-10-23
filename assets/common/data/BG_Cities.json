@@ -1,0 +1,2902 @@
+[
+    {
+        "id":727011,
+        "name":"Sofia",
+        "country":"BG",
+        "admin1":"Sofia-Capital",
+        "admin2":"Stolichna Obshtina",
+        "lat":42.69751,
+        "lon":23.32415,
+        "pop":1152556
+    },
+    {
+        "id":728193,
+        "name":"Plovdiv",
+        "country":"BG",
+        "admin1":"Plovdiv",
+        "admin2":"Obshtina Plovdiv",
+        "lat":42.15387,
+        "lon":24.75001,
+        "pop":346893
+    },
+    {
+        "id":726050,
+        "name":"Varna",
+        "country":"BG",
+        "admin1":"Varna",
+        "admin2":"Obshtina Varna",
+        "lat":43.21912,
+        "lon":27.91024,
+        "pop":312770
+    },
+    {
+        "id":732770,
+        "name":"Burgas",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Burgas",
+        "lat":42.50651,
+        "lon":27.46886,
+        "pop":195966
+    },
+    {
+        "id":726848,
+        "name":"Stara Zagora",
+        "country":"BG",
+        "admin1":"Stara Zagora",
+        "admin2":"Obshtina Stara Zagora",
+        "lat":42.43205,
+        "lon":25.64262,
+        "pop":143431
+    },
+    {
+        "id":727523,
+        "name":"Ruse",
+        "country":"BG",
+        "admin1":"Ruse",
+        "admin2":"Obshtina Ruse",
+        "lat":43.84872,
+        "lon":25.9534,
+        "pop":143417
+    },
+    {
+        "id":728203,
+        "name":"Pleven",
+        "country":"BG",
+        "admin1":"Pleven",
+        "admin2":"Obshtina Pleven",
+        "lat":43.41791,
+        "lon":24.61666,
+        "pop":100952
+    },
+    {
+        "id":727079,
+        "name":"Sliven",
+        "country":"BG",
+        "admin1":"Sliven",
+        "admin2":"Obshtina Sliven",
+        "lat":42.68607,
+        "lon":26.32558,
+        "pop":83740
+    },
+    {
+        "id":728330,
+        "name":"Pernik",
+        "country":"BG",
+        "admin1":"Pernik",
+        "admin2":"Obshtina Pernik",
+        "lat":42.59671,
+        "lon":23.03318,
+        "pop":82467
+    },
+    {
+        "id":726418,
+        "name":"Dobrich",
+        "country":"BG",
+        "admin1":"Dobrich",
+        "admin2":"Obshtina Dobrich",
+        "lat":43.56491,
+        "lon":27.83138,
+        "pop":79269
+    },
+    {
+        "id":727233,
+        "name":"Shumen",
+        "country":"BG",
+        "admin1":"Shumen",
+        "admin2":"Obshtina Shumen",
+        "lat":43.27064,
+        "lon":26.92286,
+        "pop":72342
+    },
+    {
+        "id":733191,
+        "name":"Blagoevgrad",
+        "country":"BG",
+        "admin1":"Blagoevgrad",
+        "admin2":"Obshtina Blagoevgrad",
+        "lat":42.01457,
+        "lon":23.09804,
+        "pop":67810
+    },
+    {
+        "id":730435,
+        "name":"Haskovo",
+        "country":"BG",
+        "admin1":"Haskovo",
+        "admin2":"Obshtina Haskovo",
+        "lat":41.93415,
+        "lon":25.55557,
+        "pop":67086
+    },
+    {
+        "id":725993,
+        "name":"Veliko Tŭrnovo",
+        "country":"BG",
+        "admin1":"Veliko Tarnovo",
+        "admin2":"Obshtina Veliko Tŭrnovo",
+        "lat":43.08124,
+        "lon":25.62904,
+        "pop":66217
+    },
+    {
+        "id":731549,
+        "name":"Gabrovo",
+        "country":"BG",
+        "admin1":"Gabrovo",
+        "admin2":"Obshtina Gabrovo",
+        "lat":42.87419,
+        "lon":25.31823,
+        "pop":66175
+    },
+    {
+        "id":728378,
+        "name":"Pazardzhik",
+        "country":"BG",
+        "admin1":"Pazardzhik",
+        "admin2":"Obshtina Pazardzhik",
+        "lat":42.19934,
+        "lon":24.33318,
+        "pop":65671
+    },
+    {
+        "id":725712,
+        "name":"Vratsa",
+        "country":"BG",
+        "admin1":"Vratsa",
+        "admin2":"Obshtina Vratsa",
+        "lat":43.21052,
+        "lon":23.56312,
+        "pop":64941
+    },
+    {
+        "id":725578,
+        "name":"Yambol",
+        "country":"BG",
+        "admin1":"Yambol",
+        "admin2":"Obshtina Yambol",
+        "lat":42.48243,
+        "lon":26.50006,
+        "pop":63656
+    },
+    {
+        "id":733618,
+        "name":"Asenovgrad",
+        "country":"BG",
+        "admin1":"Plovdiv",
+        "admin2":"Obshtina Asenovgrad",
+        "lat":42.01667,
+        "lon":24.86667,
+        "pop":54778
+    },
+    {
+        "id":729794,
+        "name":"Kardzhali",
+        "country":"BG",
+        "admin1":"Kardzhali",
+        "admin2":"Obshtina Kardzhali",
+        "lat":41.64502,
+        "lon":25.36578,
+        "pop":51000
+    },
+    {
+        "id":730496,
+        "name":"Kazanlak",
+        "country":"BG",
+        "admin1":"Stara Zagora",
+        "admin2":"Obshtina Kazanlŭk",
+        "lat":42.61667,
+        "lon":25.4,
+        "pop":47918
+    },
+    {
+        "id":729114,
+        "name":"Montana",
+        "country":"BG",
+        "admin1":"Montana",
+        "admin2":"Obshtina Montana",
+        "lat":43.41285,
+        "lon":23.22174,
+        "pop":47445
+    },
+    {
+        "id":725905,
+        "name":"Vidin",
+        "country":"BG",
+        "admin1":"Vidin",
+        "admin2":"Obshtina Vidin",
+        "lat":43.99159,
+        "lon":22.88236,
+        "pop":40422
+    },
+    {
+        "id":727696,
+        "name":"Razgrad",
+        "country":"BG",
+        "admin1":"Razgrad",
+        "admin2":"Obshtina Razgrad",
+        "lat":43.53331,
+        "lon":26.51849,
+        "pop":38285
+    },
+    {
+        "id":732263,
+        "name":"Dimitrovgrad",
+        "country":"BG",
+        "admin1":"Haskovo",
+        "admin2":"Obshtina Dimitrovgrad",
+        "lat":42.05,
+        "lon":25.6,
+        "pop":38015
+    },
+    {
+        "id":729730,
+        "name":"Kyustendil",
+        "country":"BG",
+        "admin1":"Kyustendil",
+        "admin2":"Obshtina Kyustendil",
+        "lat":42.28314,
+        "lon":22.69224,
+        "pop":37799
+    },
+    {
+        "id":726174,
+        "name":"Targovishte",
+        "country":"BG",
+        "admin1":"Targovishte",
+        "admin2":"Obshtina Targovishte",
+        "lat":43.2512,
+        "lon":26.57215,
+        "pop":34793
+    },
+    {
+        "id":726872,
+        "name":"Dupnitsa",
+        "country":"BG",
+        "admin1":"Kyustendil",
+        "admin2":"Obshtina Dupnitsa",
+        "lat":42.26478,
+        "lon":23.11723,
+        "pop":34764
+    },
+    {
+        "id":731233,
+        "name":"Gorna Oryahovitsa",
+        "country":"BG",
+        "admin1":"Veliko Tarnovo",
+        "admin2":"Obshtina Gorna Oryahovitsa",
+        "lat":43.12778,
+        "lon":25.70167,
+        "pop":32792
+    },
+    {
+        "id":728288,
+        "name":"Petrich",
+        "country":"BG",
+        "admin1":"Blagoevgrad",
+        "admin2":"Obshtina Petrich",
+        "lat":41.39846,
+        "lon":23.20702,
+        "pop":30722
+    },
+    {
+        "id":730565,
+        "name":"Karlovo",
+        "country":"BG",
+        "admin1":"Plovdiv",
+        "admin2":"Obshtina Karlovo",
+        "lat":42.63333,
+        "lon":24.8,
+        "pop":30340
+    },
+    {
+        "id":726534,
+        "name":"Svishtov",
+        "country":"BG",
+        "admin1":"Veliko Tarnovo",
+        "admin2":"Obshtina Svishtov",
+        "lat":43.61875,
+        "lon":25.35033,
+        "pop":30157
+    },
+    {
+        "id":729559,
+        "name":"Lovech",
+        "country":"BG",
+        "admin1":"Lovech",
+        "admin2":"Obshtina Lovech",
+        "lat":43.13227,
+        "lon":24.71763,
+        "pop":29659
+    },
+    {
+        "id":727221,
+        "name":"Silistra",
+        "country":"BG",
+        "admin1":"Silistra",
+        "admin2":"Obshtina Silistra",
+        "lat":44.1171,
+        "lon":27.26056,
+        "pop":29498
+    },
+    {
+        "id":727447,
+        "name":"Sandanski",
+        "country":"BG",
+        "admin1":"Blagoevgrad",
+        "admin2":"Obshtina Sandanski",
+        "lat":41.56667,
+        "lon":23.28333,
+        "pop":28510
+    },
+    {
+        "id":727462,
+        "name":"Samokov",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Obshtina Samokov",
+        "lat":42.33855,
+        "lon":23.55805,
+        "pop":26765
+    },
+    {
+        "id":729581,
+        "name":"Lom",
+        "country":"BG",
+        "admin1":"Montana",
+        "admin2":"Obshtina Lom",
+        "lat":43.8317,
+        "lon":23.23793,
+        "pop":26594
+    },
+    {
+        "id":727030,
+        "name":"Smolyan",
+        "country":"BG",
+        "admin1":"Smolyan",
+        "admin2":"Obshtina Smolyan",
+        "lat":41.57439,
+        "lon":24.71204,
+        "pop":26167
+    },
+    {
+        "id":727337,
+        "name":"Sevlievo",
+        "country":"BG",
+        "admin1":"Gabrovo",
+        "admin2":"Obshtina Sevlievo",
+        "lat":43.02295,
+        "lon":25.10364,
+        "pop":24582
+    },
+    {
+        "id":725988,
+        "name":"Velingrad",
+        "country":"BG",
+        "admin1":"Pazardzhik",
+        "admin2":"Obshtina Velingrad",
+        "lat":42.02754,
+        "lon":23.99155,
+        "pop":24036
+    },
+    {
+        "id":728742,
+        "name":"Nova Zagora",
+        "country":"BG",
+        "admin1":"Sliven",
+        "admin2":"Obshtina Nova Zagora",
+        "lat":42.48333,
+        "lon":26.01667,
+        "pop":23625
+    },
+    {
+        "id":726320,
+        "name":"Troyan",
+        "country":"BG",
+        "admin1":"Lovech",
+        "admin2":"Obshtina Troyan",
+        "lat":42.89427,
+        "lon":24.71589,
+        "pop":21162
+    },
+    {
+        "id":733579,
+        "name":"Aytos",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Aytos",
+        "lat":42.70322,
+        "lon":27.25464,
+        "pop":20986
+    },
+    {
+        "id":733014,
+        "name":"Botevgrad",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Obshtina Botevgrad",
+        "lat":42.90799,
+        "lon":23.79274,
+        "pop":20909
+    },
+    {
+        "id":731108,
+        "name":"Gotse Delchev",
+        "country":"BG",
+        "admin1":"Blagoevgrad",
+        "admin2":"Obshtina Gotse Delchev",
+        "lat":41.56667,
+        "lon":23.73333,
+        "pop":20522
+    },
+    {
+        "id":730559,
+        "name":"Karnobat",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Karnobat",
+        "lat":42.65,
+        "lon":26.98333,
+        "pop":19709
+    },
+    {
+        "id":728448,
+        "name":"Panagyurishte",
+        "country":"BG",
+        "admin1":"Pazardzhik",
+        "admin2":"Obshtina Panagyurishte",
+        "lat":42.49518,
+        "lon":24.19021,
+        "pop":19389
+    },
+    {
+        "id":726546,
+        "name":"Svilengrad",
+        "country":"BG",
+        "admin1":"Haskovo",
+        "admin2":"Obshtina Svilengrad",
+        "lat":41.76836,
+        "lon":26.19775,
+        "pop":19279
+    },
+    {
+        "id":730442,
+        "name":"Harmanli",
+        "country":"BG",
+        "admin1":"Haskovo",
+        "admin2":"Obshtina Harmanli",
+        "lat":41.93233,
+        "lon":25.90172,
+        "pop":18931
+    },
+    {
+        "id":728317,
+        "name":"Peshtera",
+        "country":"BG",
+        "admin1":"Pazardzhik",
+        "admin2":"Obshtina Peshtera",
+        "lat":42.03372,
+        "lon":24.29995,
+        "pop":18676
+    },
+    {
+        "id":727886,
+        "name":"Parvomay",
+        "country":"BG",
+        "admin1":"Plovdiv",
+        "admin2":"Obshtina Parvomay",
+        "lat":42.1,
+        "lon":25.21667,
+        "pop":17000
+    },
+    {
+        "id":728075,
+        "name":"Popovo",
+        "country":"BG",
+        "admin1":"Targovishte",
+        "admin2":"Obshtina Popovo",
+        "lat":43.35,
+        "lon":26.23333,
+        "pop":16571
+    },
+    {
+        "id":727791,
+        "name":"Rakovski",
+        "country":"BG",
+        "admin1":"Plovdiv",
+        "admin2":"Obshtina Rakovski",
+        "lat":42.28819,
+        "lon":24.96779,
+        "pop":15782
+    },
+    {
+        "id":732452,
+        "name":"Chirpan",
+        "country":"BG",
+        "admin1":"Stara Zagora",
+        "admin2":"Obshtina Chirpan",
+        "lat":42.2,
+        "lon":25.33333,
+        "pop":15109
+    },
+    {
+        "id":733264,
+        "name":"Berkovitsa",
+        "country":"BG",
+        "admin1":"Montana",
+        "admin2":"Obshtina Berkovitsa",
+        "lat":43.23741,
+        "lon":23.12509,
+        "pop":15027
+    },
+    {
+        "id":730013,
+        "name":"Kozloduy",
+        "country":"BG",
+        "admin1":"Vratsa",
+        "admin2":"Obshtina Kozloduy",
+        "lat":43.77691,
+        "lon":23.73001,
+        "pop":14717
+    },
+    {
+        "id":727838,
+        "name":"Radnevo",
+        "country":"BG",
+        "admin1":"Stara Zagora",
+        "admin2":"Obshtina Radnevo",
+        "lat":42.3,
+        "lon":25.93333,
+        "pop":14667
+    },
+    {
+        "id":727832,
+        "name":"Radomir",
+        "country":"BG",
+        "admin1":"Pernik",
+        "admin2":"Obshtina Radomir",
+        "lat":42.54565,
+        "lon":22.96553,
+        "pop":14494
+    },
+    {
+        "id":730919,
+        "name":"Ihtiman",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Ihtiman",
+        "lat":42.43821,
+        "lon":23.81608,
+        "pop":14154
+    },
+    {
+        "id":726287,
+        "name":"Tryavna",
+        "country":"BG",
+        "admin1":"Gabrovo",
+        "admin2":"Obshtina Tryavna",
+        "lat":42.86667,
+        "lon":25.5,
+        "pop":13818
+    },
+    {
+        "id":727921,
+        "name":"Provadia",
+        "country":"BG",
+        "admin1":"Varna",
+        "admin2":"Obshtina Provadia",
+        "lat":43.18333,
+        "lon":27.43333,
+        "pop":13755
+    },
+    {
+        "id":728108,
+        "name":"Pomorie",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Pomorie",
+        "lat":42.56326,
+        "lon":27.62986,
+        "pop":13714
+    },
+    {
+        "id":728825,
+        "name":"Nesebar",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Nesebar",
+        "lat":42.65921,
+        "lon":27.73602,
+        "pop":13347
+    },
+    {
+        "id":728734,
+        "name":"Novi Pazar",
+        "country":"BG",
+        "admin1":"Shumen",
+        "admin2":"Obshtina Novi Pazar",
+        "lat":43.35,
+        "lon":27.2,
+        "pop":13276
+    },
+    {
+        "id":733515,
+        "name":"Balchik",
+        "country":"BG",
+        "admin1":"Dobrich",
+        "admin2":"Obshtina Balchik",
+        "lat":43.42166,
+        "lon":28.15848,
+        "pop":13000
+    },
+    {
+        "id":732491,
+        "name":"Cherven Bryag",
+        "country":"BG",
+        "admin1":"Pleven",
+        "admin2":"Obshtina Cherven Bryag",
+        "lat":43.27884,
+        "lon":24.08251,
+        "pop":13000
+    },
+    {
+        "id":727689,
+        "name":"Razlog",
+        "country":"BG",
+        "admin1":"Blagoevgrad",
+        "admin2":"Obshtina Razlog",
+        "lat":41.8863,
+        "lon":23.46714,
+        "pop":12486
+    },
+    {
+        "id":730084,
+        "name":"Kostinbrod",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Obshtina Kostinbrod",
+        "lat":42.81667,
+        "lon":23.21667,
+        "pop":12175
+    },
+    {
+        "id":726890,
+        "name":"Stamboliyski",
+        "country":"BG",
+        "admin1":"Plovdiv",
+        "admin2":"Obshtina Stamboliyski",
+        "lat":42.13333,
+        "lon":24.53333,
+        "pop":12070
+    },
+    {
+        "id":729134,
+        "name":"Mezdra",
+        "country":"BG",
+        "admin1":"Vratsa",
+        "admin2":"Obshtina Mezdra",
+        "lat":43.15,
+        "lon":23.7,
+        "pop":11975
+    },
+    {
+        "id":729636,
+        "name":"Levski",
+        "country":"BG",
+        "admin1":"Pleven",
+        "admin2":"Obshtina Levski",
+        "lat":43.36667,
+        "lon":25.13333,
+        "pop":11467
+    },
+    {
+        "id":730518,
+        "name":"Kavarna",
+        "country":"BG",
+        "admin1":"Dobrich",
+        "admin2":"Obshtina Kavarna",
+        "lat":43.43601,
+        "lon":28.33953,
+        "pop":11205
+    },
+    {
+        "id":728385,
+        "name":"Pavlikeni",
+        "country":"BG",
+        "admin1":"Veliko Tarnovo",
+        "admin2":"Obshtina Pavlikeni",
+        "lat":43.24278,
+        "lon":25.32194,
+        "pop":11151
+    },
+    {
+        "id":731626,
+        "name":"Etropole",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Obshtina Etropole",
+        "lat":42.8328,
+        "lon":23.99636,
+        "pop":11031
+    },
+    {
+        "id":726464,
+        "name":"Teteven",
+        "country":"BG",
+        "admin1":"Lovech",
+        "admin2":"Obshtina Teteven",
+        "lat":42.91667,
+        "lon":24.26667,
+        "pop":10790
+    },
+    {
+        "id":731670,
+        "name":"Elhovo",
+        "country":"BG",
+        "admin1":"Yambol",
+        "admin2":"Obshtina Elhovo",
+        "lat":42.16667,
+        "lon":26.56667,
+        "pop":10424
+    },
+    {
+        "id":732704,
+        "name":"Byala Slatina",
+        "country":"BG",
+        "admin1":"Vratsa",
+        "admin2":"Obshtina Byala Slatina",
+        "lat":43.46667,
+        "lon":23.93333,
+        "pop":10282
+    },
+    {
+        "id":726141,
+        "name":"Tutrakan",
+        "country":"BG",
+        "admin1":"Silistra",
+        "admin2":"Obshtina Tutrakan",
+        "lat":44.04906,
+        "lon":26.61206,
+        "pop":10022
+    },
+    {
+        "id":729507,
+        "name":"Lukovit",
+        "country":"BG",
+        "admin1":"Lovech",
+        "admin2":"Obshtina Lukovit",
+        "lat":43.2,
+        "lon":24.16667,
+        "pop":9792
+    },
+    {
+        "id":733359,
+        "name":"Belene",
+        "country":"BG",
+        "admin1":"Pleven",
+        "admin2":"Obshtina Belene",
+        "lat":43.65062,
+        "lon":25.1343,
+        "pop":9781
+    },
+    {
+        "id":6355004,
+        "name":"Zlatni Pyasatsi",
+        "country":"BG",
+        "admin1":"Varna",
+        "admin2":"Obshtina Varna",
+        "lat":43.285,
+        "lon":28.0418,
+        "pop":9760
+    },
+    {
+        "id":730866,
+        "name":"Isperih",
+        "country":"BG",
+        "admin1":"Razgrad",
+        "admin2":"Obshtina Isperih",
+        "lat":43.71667,
+        "lon":26.83333,
+        "pop":9735
+    },
+    {
+        "id":731016,
+        "name":"Sredets",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Sredets",
+        "lat":42.34747,
+        "lon":27.17898,
+        "pop":9573
+    },
+    {
+        "id":727987,
+        "name":"Veliki Preslav",
+        "country":"BG",
+        "admin1":"Shumen",
+        "admin2":"Obshtina Veliki Preslav",
+        "lat":43.16667,
+        "lon":26.81667,
+        "pop":9425
+    },
+    {
+        "id":733462,
+        "name":"Bansko",
+        "country":"BG",
+        "admin1":"Blagoevgrad",
+        "admin2":"Obshtina Bansko",
+        "lat":41.8361,
+        "lon":23.48745,
+        "pop":9232
+    },
+    {
+        "id":728634,
+        "name":"Omurtag",
+        "country":"BG",
+        "admin1":"Targovishte",
+        "admin2":"Obshtina Omurtag",
+        "lat":43.1,
+        "lon":26.41667,
+        "pop":9070
+    },
+    {
+        "id":729839,
+        "name":"Kubrat",
+        "country":"BG",
+        "admin1":"Razgrad",
+        "admin2":"Obshtina Kubrat",
+        "lat":43.79658,
+        "lon":26.50063,
+        "pop":8980
+    },
+    {
+        "id":726524,
+        "name":"Svoge",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Obshtina Svoge",
+        "lat":42.96667,
+        "lon":23.35,
+        "pop":8964
+    },
+    {
+        "id":727354,
+        "name":"Septemvri",
+        "country":"BG",
+        "admin1":"Pazardzhik",
+        "admin2":"Obshtina Septemvri",
+        "lat":42.22016,
+        "lon":24.11854,
+        "pop":8745
+    },
+    {
+        "id":729936,
+        "name":"Krichim",
+        "country":"BG",
+        "admin1":"Plovdiv",
+        "admin2":"Obshtina Krichim",
+        "lat":42.05,
+        "lon":24.46667,
+        "pop":8580
+    },
+    {
+        "id":729489,
+        "name":"Lyaskovets",
+        "country":"BG",
+        "admin1":"Veliko Tarnovo",
+        "admin2":"Obshtina Lyaskovets",
+        "lat":43.11111,
+        "lon":25.72833,
+        "pop":8488
+    },
+    {
+        "id":730987,
+        "name":"Gŭlŭbovo",
+        "country":"BG",
+        "admin1":"Stara Zagora",
+        "admin2":"Obshtina Galabovo",
+        "lat":42.13333,
+        "lon":25.85,
+        "pop":8400
+    },
+    {
+        "id":727801,
+        "name":"Rakitovo",
+        "country":"BG",
+        "admin1":"Pazardzhik",
+        "admin2":"Obshtina Rakitovo",
+        "lat":41.99012,
+        "lon":24.0873,
+        "pop":8376
+    },
+    {
+        "id":731882,
+        "name":"Dryanovo",
+        "country":"BG",
+        "admin1":"Gabrovo",
+        "admin2":"Obshtina Dryanovo",
+        "lat":42.97897,
+        "lon":25.4785,
+        "pop":8346
+    },
+    {
+        "id":732280,
+        "name":"Devnya",
+        "country":"BG",
+        "admin1":"Varna",
+        "admin2":"Obshtina Devnya",
+        "lat":43.22222,
+        "lon":27.56944,
+        "pop":8171
+    },
+    {
+        "id":728251,
+        "name":"Pirdop",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Obshtina Pirdop",
+        "lat":42.7,
+        "lon":24.18333,
+        "pop":8136
+    },
+    {
+        "id":729466,
+        "name":"Lyubimets",
+        "country":"BG",
+        "admin1":"Haskovo",
+        "admin2":"Obshtina Lyubimets",
+        "lat":41.84432,
+        "lon":26.08115,
+        "pop":8065
+    },
+    {
+        "id":725213,
+        "name":"Beloslav",
+        "country":"BG",
+        "admin1":"Varna",
+        "admin2":"Obshtina Beloslav",
+        "lat":43.18717,
+        "lon":27.70352,
+        "pop":7989
+    },
+    {
+        "id":730419,
+        "name":"Hisarya",
+        "country":"BG",
+        "admin1":"Plovdiv",
+        "admin2":"Obshtina Hisarya",
+        "lat":42.5,
+        "lon":24.7,
+        "pop":7903
+    },
+    {
+        "id":731464,
+        "name":"General Toshevo",
+        "country":"BG",
+        "admin1":"Dobrich",
+        "admin2":"Obshtina General Toshevo",
+        "lat":43.70123,
+        "lon":28.03787,
+        "pop":7758
+    },
+    {
+        "id":727069,
+        "name":"Slivnitsa",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Obshtina Slivnitsa",
+        "lat":42.85182,
+        "lon":23.03792,
+        "pop":7545
+    },
+    {
+        "id":725623,
+        "name":"Varshets",
+        "country":"BG",
+        "admin1":"Montana",
+        "admin2":"Obshtina Varshets",
+        "lat":43.19356,
+        "lon":23.2868,
+        "pop":7512
+    },
+    {
+        "id":732285,
+        "name":"Devin",
+        "country":"BG",
+        "admin1":"Smolyan",
+        "admin2":"Obshtina Devin",
+        "lat":41.74327,
+        "lon":24.40003,
+        "pop":7393
+    },
+    {
+        "id":727217,
+        "name":"Simeonovgrad",
+        "country":"BG",
+        "admin1":"Haskovo",
+        "admin2":"Obshtina Simeonovgrad",
+        "lat":42.03333,
+        "lon":25.83333,
+        "pop":7388
+    },
+    {
+        "id":731675,
+        "name":"Elin Pelin",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Obshtina Elin Pelin",
+        "lat":42.66667,
+        "lon":23.6,
+        "pop":7373
+    },
+    {
+        "id":725271,
+        "name":"Zlatograd",
+        "country":"BG",
+        "admin1":"Smolyan",
+        "admin2":"Obshtina Zlatograd",
+        "lat":41.3795,
+        "lon":25.09605,
+        "pop":7331
+    },
+    {
+        "id":731453,
+        "name":"Dolni Chiflik",
+        "country":"BG",
+        "admin1":"Varna",
+        "admin2":"Obshtina Dolni Chiflik",
+        "lat":42.99296,
+        "lon":27.71596,
+        "pop":7169
+    },
+    {
+        "id":733716,
+        "name":"Aksakovo",
+        "country":"BG",
+        "admin1":"Varna",
+        "admin2":"Obshtina Aksakovo",
+        "lat":43.25907,
+        "lon":27.81755,
+        "pop":7132
+    },
+    {
+        "id":730287,
+        "name":"Knezha",
+        "country":"BG",
+        "admin1":"Pleven",
+        "admin2":"Obshtina Knezha",
+        "lat":43.5,
+        "lon":24.08333,
+        "pop":6889
+    },
+    {
+        "id":726474,
+        "name":"Tervel",
+        "country":"BG",
+        "admin1":"Dobrich",
+        "admin2":"Obshtina Tervel",
+        "lat":43.74789,
+        "lon":27.40911,
+        "pop":6808
+    },
+    {
+        "id":731818,
+        "name":"Dulovo",
+        "country":"BG",
+        "admin1":"Silistra",
+        "admin2":"Obshtina Dulovo",
+        "lat":43.81667,
+        "lon":27.15,
+        "pop":6788
+    },
+    {
+        "id":727212,
+        "name":"Simitli",
+        "country":"BG",
+        "admin1":"Blagoevgrad",
+        "admin2":"Obshtina Simitli",
+        "lat":41.88333,
+        "lon":23.11667,
+        "pop":6729
+    },
+    {
+        "id":726130,
+        "name":"Tvarditsa",
+        "country":"BG",
+        "admin1":"Sliven",
+        "admin2":"Obshtina Tvarditsa",
+        "lat":42.7,
+        "lon":25.9,
+        "pop":6519
+    },
+    {
+        "id":726384,
+        "name":"Topolovgrad",
+        "country":"BG",
+        "admin1":"Haskovo",
+        "admin2":"Obshtina Topolovgrad",
+        "lat":42.08333,
+        "lon":26.33333,
+        "pop":6464
+    },
+    {
+        "id":726657,
+        "name":"Saedinenie",
+        "country":"BG",
+        "admin1":"Plovdiv",
+        "admin2":"Obshtina Saedinenie",
+        "lat":42.26667,
+        "lon":24.55,
+        "pop":6427
+    },
+    {
+        "id":730073,
+        "name":"Kotel",
+        "country":"BG",
+        "admin1":"Sliven",
+        "admin2":"Obshtina Kotel",
+        "lat":42.88333,
+        "lon":26.45,
+        "pop":6421
+    },
+    {
+        "id":729543,
+        "name":"Lozen",
+        "country":"BG",
+        "admin1":"Sofia-Capital",
+        "admin2":"Stolichna Obshtina",
+        "lat":42.6027,
+        "lon":23.47589,
+        "pop":6312
+    },
+    {
+        "id":733151,
+        "name":"Bobov Dol",
+        "country":"BG",
+        "admin1":"Kyustendil",
+        "admin2":"Obshtina Bobov Dol",
+        "lat":42.36378,
+        "lon":22.99827,
+        "pop":6184
+    },
+    {
+        "id":729125,
+        "name":"Tsarevo",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Tsarevo",
+        "lat":42.16955,
+        "lon":27.84541,
+        "pop":6085
+    },
+    {
+        "id":731696,
+        "name":"Elena",
+        "country":"BG",
+        "admin1":"Veliko Tarnovo",
+        "admin2":"Obshtina Elena",
+        "lat":42.93333,
+        "lon":25.88333,
+        "pop":6042
+    },
+    {
+        "id":725586,
+        "name":"Yakoruda",
+        "country":"BG",
+        "admin1":"Blagoevgrad",
+        "admin2":"Obshtina Yakoruda",
+        "lat":42.02528,
+        "lon":23.68417,
+        "pop":6008
+    },
+    {
+        "id":726748,
+        "name":"Straldzha",
+        "country":"BG",
+        "admin1":"Yambol",
+        "admin2":"Obshtina Straldzha",
+        "lat":42.6,
+        "lon":26.68333,
+        "pop":5817
+    },
+    {
+        "id":725283,
+        "name":"Zlatitsa",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Obshtina Zlatitsa",
+        "lat":42.71667,
+        "lon":24.13333,
+        "pop":5786
+    },
+    {
+        "id":726727,
+        "name":"Strazhitsa",
+        "country":"BG",
+        "admin1":"Veliko Tarnovo",
+        "admin2":"Obshtina Strazhitsa",
+        "lat":43.23333,
+        "lon":25.96667,
+        "pop":5728
+    },
+    {
+        "id":728565,
+        "name":"Oryahovo",
+        "country":"BG",
+        "admin1":"Vratsa",
+        "admin2":"Obshtina Oryahovo",
+        "lat":43.73805,
+        "lon":23.95874,
+        "pop":5706
+    },
+    {
+        "id":733309,
+        "name":"Belogradchik",
+        "country":"BG",
+        "admin1":"Vidin",
+        "admin2":"Obshtina Belogradchik",
+        "lat":43.62722,
+        "lon":22.68361,
+        "pop":5688
+    },
+    {
+        "id":728124,
+        "name":"Polski Trambesh",
+        "country":"BG",
+        "admin1":"Veliko Tarnovo",
+        "admin2":"Obshtina Polski Trambesh",
+        "lat":43.37233,
+        "lon":25.63525,
+        "pop":5663
+    },
+    {
+        "id":729439,
+        "name":"Madan",
+        "country":"BG",
+        "admin1":"Smolyan",
+        "admin2":"Obshtina Madan",
+        "lat":41.49869,
+        "lon":24.93973,
+        "pop":5661
+    },
+    {
+        "id":732627,
+        "name":"Chepelare",
+        "country":"BG",
+        "admin1":"Smolyan",
+        "admin2":"Obshtina Chepelare",
+        "lat":41.73333,
+        "lon":24.68333,
+        "pop":5478
+    },
+    {
+        "id":728321,
+        "name":"Perushtitsa",
+        "country":"BG",
+        "admin1":"Plovdiv",
+        "admin2":"Obshtina Perushtitsa",
+        "lat":42.05,
+        "lon":24.55,
+        "pop":5350
+    },
+    {
+        "id":731822,
+        "name":"Dalgopol",
+        "country":"BG",
+        "admin1":"Varna",
+        "admin2":"Obshtina Dalgopol",
+        "lat":43.05,
+        "lon":27.35,
+        "pop":5272
+    },
+    {
+        "id":729896,
+        "name":"Krumovgrad",
+        "country":"BG",
+        "admin1":"Kardzhali",
+        "admin2":"Obshtina Krumovgrad",
+        "lat":41.47127,
+        "lon":25.65485,
+        "pop":5271
+    },
+    {
+        "id":732099,
+        "name":"Dolni Dabnik",
+        "country":"BG",
+        "admin1":"Pleven",
+        "admin2":"Obshtina Dolni Dabnik",
+        "lat":43.4,
+        "lon":24.43333,
+        "pop":5259
+    },
+    {
+        "id":725683,
+        "name":"Valchedram",
+        "country":"BG",
+        "admin1":"Montana",
+        "admin2":"Obshtina Valchedram",
+        "lat":43.69281,
+        "lon":23.44518,
+        "pop":5207
+    },
+    {
+        "id":725935,
+        "name":"Vetovo",
+        "country":"BG",
+        "admin1":"Ruse",
+        "admin2":"Obshtina Vetovo",
+        "lat":43.7,
+        "lon":26.26667,
+        "pop":5175
+    },
+    {
+        "id":731384,
+        "name":"Godech",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Obshtina Godech",
+        "lat":43.01682,
+        "lon":23.04852,
+        "pop":5154
+    },
+    {
+        "id":728851,
+        "name":"Nedelino",
+        "country":"BG",
+        "admin1":"Smolyan",
+        "admin2":"Obshtina Nedelino",
+        "lat":41.45602,
+        "lon":25.08008,
+        "pop":5017
+    },
+    {
+        "id":732145,
+        "name":"Dolna Banya",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Obshtina Dolna Banya",
+        "lat":42.31093,
+        "lon":23.76459,
+        "pop":4990
+    },
+    {
+        "id":730680,
+        "name":"Kameno",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Kameno",
+        "lat":42.57084,
+        "lon":27.29875,
+        "pop":4952
+    },
+    {
+        "id":727087,
+        "name":"Slavyanovo",
+        "country":"BG",
+        "admin1":"Pleven",
+        "admin2":"Obshtina Pleven",
+        "lat":43.46667,
+        "lon":24.86667,
+        "pop":4793
+    },
+    {
+        "id":727441,
+        "name":"Sapareva Banya",
+        "country":"BG",
+        "admin1":"Kyustendil",
+        "admin2":"Obshtina Sapareva Banya",
+        "lat":42.28923,
+        "lon":23.26313,
+        "pop":4610
+    },
+    {
+        "id":732924,
+        "name":"Bratsigovo",
+        "country":"BG",
+        "admin1":"Pazardzhik",
+        "admin2":"Obshtina Bratsigovo",
+        "lat":42.02391,
+        "lon":24.37557,
+        "pop":4577
+    },
+    {
+        "id":726591,
+        "name":"Suvorovo",
+        "country":"BG",
+        "admin1":"Varna",
+        "admin2":"Obshtina Suvorovo",
+        "lat":43.33058,
+        "lon":27.59908,
+        "pop":4563
+    },
+    {
+        "id":726723,
+        "name":"Strelcha",
+        "country":"BG",
+        "admin1":"Pazardzhik",
+        "admin2":"Obshtina Strelcha",
+        "lat":42.5,
+        "lon":24.31667,
+        "pop":4545
+    },
+    {
+        "id":731771,
+        "name":"Dve Mogili",
+        "country":"BG",
+        "admin1":"Ruse",
+        "admin2":"Obshtina Dve Mogili",
+        "lat":43.59258,
+        "lon":25.87486,
+        "pop":4526
+    },
+    {
+        "id":726963,
+        "name":"Sozopol",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Sozopol",
+        "lat":42.41801,
+        "lon":27.6956,
+        "pop":4500
+    },
+    {
+        "id":732359,
+        "name":"Debelets",
+        "country":"BG",
+        "admin1":"Veliko Tarnovo",
+        "admin2":"Obshtina Veliko Tŭrnovo",
+        "lat":43.03333,
+        "lon":25.61667,
+        "pop":4418
+    },
+    {
+        "id":728011,
+        "name":"Pravets",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Obshtina Pravets",
+        "lat":42.89163,
+        "lon":23.91525,
+        "pop":4400
+    },
+    {
+        "id":732954,
+        "name":"Bozhurishte",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Obshtina Bozhurishte",
+        "lat":42.76305,
+        "lon":23.19733,
+        "pop":4360
+    },
+    {
+        "id":728348,
+        "name":"Iskar",
+        "country":"BG",
+        "admin1":"Pleven",
+        "admin2":"Obshtina Iskar",
+        "lat":43.45963,
+        "lon":24.25739,
+        "pop":4329
+    },
+    {
+        "id":727025,
+        "name":"Smyadovo",
+        "country":"BG",
+        "admin1":"Shumen",
+        "admin2":"Obshtina Smyadovo",
+        "lat":43.06667,
+        "lon":27.01667,
+        "pop":4231
+    },
+    {
+        "id":733286,
+        "name":"Belovo",
+        "country":"BG",
+        "admin1":"Pazardzhik",
+        "admin2":"Obshtina Belovo",
+        "lat":42.21395,
+        "lon":24.01733,
+        "pop":4155
+    },
+    {
+        "id":728782,
+        "name":"Nikopol",
+        "country":"BG",
+        "admin1":"Pleven",
+        "admin2":"Obshtina Nikopol",
+        "lat":43.70528,
+        "lon":24.89521,
+        "pop":4137
+    },
+    {
+        "id":729942,
+        "name":"Kresna",
+        "country":"BG",
+        "admin1":"Blagoevgrad",
+        "admin2":"Obshtina Kresna",
+        "lat":41.73333,
+        "lon":23.15,
+        "pop":4117
+    },
+    {
+        "id":732883,
+        "name":"Breznik",
+        "country":"BG",
+        "admin1":"Pernik",
+        "admin2":"Obshtina Breznik",
+        "lat":42.74085,
+        "lon":22.90723,
+        "pop":4020
+    },
+    {
+        "id":730415,
+        "name":"Tsar Kaloyan",
+        "country":"BG",
+        "admin1":"Razgrad",
+        "admin2":"Obshtina Tsar Kaloyan",
+        "lat":43.61667,
+        "lon":26.25,
+        "pop":3994
+    },
+    {
+        "id":730837,
+        "name":"Ivaylovgrad",
+        "country":"BG",
+        "admin1":"Haskovo",
+        "admin2":"Obshtina Ivaylovgrad",
+        "lat":41.52672,
+        "lon":26.1249,
+        "pop":3969
+    },
+    {
+        "id":733433,
+        "name":"Batak",
+        "country":"BG",
+        "admin1":"Pazardzhik",
+        "admin2":"Obshtina Batak",
+        "lat":41.94307,
+        "lon":24.21833,
+        "pop":3917
+    },
+    {
+        "id":727329,
+        "name":"Shabla",
+        "country":"BG",
+        "admin1":"Dobrich",
+        "admin2":"Obshtina Shabla",
+        "lat":43.53983,
+        "lon":28.53429,
+        "pop":3901
+    },
+    {
+        "id":725816,
+        "name":"Sveti Vlas",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Nesebar",
+        "lat":42.7136,
+        "lon":27.75867,
+        "pop":3875
+    },
+    {
+        "id":733649,
+        "name":"Apriltsi",
+        "country":"BG",
+        "admin1":"Lovech",
+        "admin2":"Obshtina Apriltsi",
+        "lat":42.84142,
+        "lon":24.91759,
+        "pop":3851
+    },
+    {
+        "id":726629,
+        "name":"Sungurlare",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Sungurlare",
+        "lat":42.76667,
+        "lon":26.78333,
+        "pop":3834
+    },
+    {
+        "id":731961,
+        "name":"Dragoman",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Obshtina Dragoman",
+        "lat":42.92191,
+        "lon":22.93109,
+        "pop":3814
+    },
+    {
+        "id":725649,
+        "name":"Varbitsa",
+        "country":"BG",
+        "admin1":"Shumen",
+        "admin2":"Obshtina Varbitsa",
+        "lat":43.0,
+        "lon":26.63333,
+        "pop":3803
+    },
+    {
+        "id":727552,
+        "name":"Rudozem",
+        "country":"BG",
+        "admin1":"Smolyan",
+        "admin2":"Obshtina Rudozem",
+        "lat":41.48751,
+        "lon":24.84945,
+        "pop":3783
+    },
+    {
+        "id":729825,
+        "name":"Kula",
+        "country":"BG",
+        "admin1":"Vidin",
+        "admin2":"Obshtina Kula",
+        "lat":43.8879,
+        "lon":22.52241,
+        "pop":3738
+    },
+    {
+        "id":729040,
+        "name":"Mizia",
+        "country":"BG",
+        "admin1":"Vratsa",
+        "admin2":"Obshtina Mizia",
+        "lat":43.68623,
+        "lon":23.85371,
+        "pop":3712
+    },
+    {
+        "id":725679,
+        "name":"Valchidol",
+        "country":"BG",
+        "admin1":"Varna",
+        "admin2":"Obshtina Valchidol",
+        "lat":43.4,
+        "lon":27.55,
+        "pop":3697
+    },
+    {
+        "id":729909,
+        "name":"Krivodol",
+        "country":"BG",
+        "admin1":"Vratsa",
+        "admin2":"Obshtina Krivodol",
+        "lat":43.37444,
+        "lon":23.48444,
+        "pop":3651
+    },
+    {
+        "id":728928,
+        "name":"Maglizh",
+        "country":"BG",
+        "admin1":"Stara Zagora",
+        "admin2":"Obshtina Maglizh",
+        "lat":42.6,
+        "lon":25.55,
+        "pop":3643
+    },
+    {
+        "id":730542,
+        "name":"Kaspichan",
+        "country":"BG",
+        "admin1":"Shumen",
+        "admin2":"Obshtina Kaspichan",
+        "lat":43.31667,
+        "lon":27.16667,
+        "pop":3635
+    },
+    {
+        "id":730982,
+        "name":"Gulyantsi",
+        "country":"BG",
+        "admin1":"Pleven",
+        "admin2":"Obshtina Gulyantsi",
+        "lat":43.64109,
+        "lon":24.69368,
+        "pop":3589
+    },
+    {
+        "id":725435,
+        "name":"Zavet",
+        "country":"BG",
+        "admin1":"Razgrad",
+        "admin2":"Obshtina Zavet",
+        "lat":43.76036,
+        "lon":26.68063,
+        "pop":3589
+    },
+    {
+        "id":726863,
+        "name":"Stara Kresna",
+        "country":"BG",
+        "admin1":"Blagoevgrad",
+        "admin2":"Obshtina Kresna",
+        "lat":41.8,
+        "lon":23.18333,
+        "pop":3586
+    },
+    {
+        "id":727598,
+        "name":"Roman",
+        "country":"BG",
+        "admin1":"Vratsa",
+        "admin2":"Obshtina Roman",
+        "lat":43.15,
+        "lon":23.91667,
+        "pop":3571
+    },
+    {
+        "id":733638,
+        "name":"Ardino",
+        "country":"BG",
+        "admin1":"Kardzhali",
+        "admin2":"Obshtina Ardino",
+        "lat":41.58322,
+        "lon":25.13371,
+        "pop":3531
+    },
+    {
+        "id":729646,
+        "name":"Letnitsa",
+        "country":"BG",
+        "admin1":"Lovech",
+        "admin2":"Obshtina Letnitsa",
+        "lat":43.31167,
+        "lon":25.07333,
+        "pop":3528
+    },
+    {
+        "id":726612,
+        "name":"Sarnitsa",
+        "country":"BG",
+        "admin1":"Pazardzhik",
+        "admin2":"Obshtina Velingrad",
+        "lat":41.73835,
+        "lon":24.02435,
+        "pop":3511
+    },
+    {
+        "id":732122,
+        "name":"Dolna Mitropolia",
+        "country":"BG",
+        "admin1":"Pleven",
+        "admin2":"Obshtina Dolna Mitropolia",
+        "lat":43.46667,
+        "lon":24.53333,
+        "pop":3479
+    },
+    {
+        "id":731809,
+        "name":"Dunavtsi",
+        "country":"BG",
+        "admin1":"Vidin",
+        "admin2":"Obshtina Vidin",
+        "lat":43.92111,
+        "lon":22.82111,
+        "pop":3371
+    },
+    {
+        "id":729322,
+        "name":"Malko Tarnovo",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Malko Tarnovo",
+        "lat":41.97958,
+        "lon":27.52477,
+        "pop":3336
+    },
+    {
+        "id":731741,
+        "name":"Dzhebel",
+        "country":"BG",
+        "admin1":"Kardzhali",
+        "admin2":"Obshtina Dzhebel",
+        "lat":41.49566,
+        "lon":25.30363,
+        "pop":3329
+    },
+    {
+        "id":727434,
+        "name":"Sarafovo",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Burgas",
+        "lat":42.56079,
+        "lon":27.52195,
+        "pop":3290
+    },
+    {
+        "id":732825,
+        "name":"Buhovo",
+        "country":"BG",
+        "admin1":"Sofia-Capital",
+        "admin2":"Stolichna Obshtina",
+        "lat":42.76667,
+        "lon":23.56667,
+        "pop":3283
+    },
+    {
+        "id":729509,
+        "name":"Laki",
+        "country":"BG",
+        "admin1":"Plovdiv",
+        "admin2":"Obshtina Laki",
+        "lat":41.85,
+        "lon":24.81667,
+        "pop":3258
+    },
+    {
+        "id":727067,
+        "name":"Slivo Pole",
+        "country":"BG",
+        "admin1":"Ruse",
+        "admin2":"Obshtina Slivo Pole",
+        "lat":43.94248,
+        "lon":26.20464,
+        "pop":3252
+    },
+    {
+        "id":730744,
+        "name":"Kalofer",
+        "country":"BG",
+        "admin1":"Plovdiv",
+        "admin2":"Obshtina Karlovo",
+        "lat":42.61667,
+        "lon":24.98333,
+        "pop":3248
+    },
+    {
+        "id":725611,
+        "name":"Yablanitsa",
+        "country":"BG",
+        "admin1":"Lovech",
+        "admin2":"Obshtina Yablanitsa",
+        "lat":43.02813,
+        "lon":24.10244,
+        "pop":3237
+    },
+    {
+        "id":728389,
+        "name":"Pavel Banya",
+        "country":"BG",
+        "admin1":"Stara Zagora",
+        "admin2":"Obshtina Pavel Banya",
+        "lat":42.6,
+        "lon":25.2,
+        "pop":3212
+    },
+    {
+        "id":730464,
+        "name":"Hadzhidimovo",
+        "country":"BG",
+        "admin1":"Blagoevgrad",
+        "admin2":"Hadzhidimovo",
+        "lat":41.52222,
+        "lon":23.86861,
+        "pop":3167
+    },
+    {
+        "id":733322,
+        "name":"Belitsa",
+        "country":"BG",
+        "admin1":"Blagoevgrad",
+        "admin2":"Obshtina Belitsa",
+        "lat":41.95077,
+        "lon":23.55831,
+        "pop":3166
+    },
+    {
+        "id":728795,
+        "name":"Nikolaevo",
+        "country":"BG",
+        "admin1":"Stara Zagora",
+        "admin2":"Obshtina Nikolaevo",
+        "lat":42.63333,
+        "lon":25.8,
+        "pop":3160
+    },
+    {
+        "id":726307,
+        "name":"Tran",
+        "country":"BG",
+        "admin1":"Pernik",
+        "admin2":"Tran",
+        "lat":42.83528,
+        "lon":22.65167,
+        "pop":3102
+    },
+    {
+        "id":733067,
+        "name":"Borino",
+        "country":"BG",
+        "admin1":"Smolyan",
+        "admin2":"Obshtina Borino",
+        "lat":41.68534,
+        "lon":24.29023,
+        "pop":3084
+    },
+    {
+        "id":732717,
+        "name":"Byala Cherkva",
+        "country":"BG",
+        "admin1":"Veliko Tarnovo",
+        "admin2":"Obshtina Pavlikeni",
+        "lat":43.2,
+        "lon":25.3,
+        "pop":3010
+    },
+    {
+        "id":728631,
+        "name":"Opaka",
+        "country":"BG",
+        "admin1":"Targovishte",
+        "admin2":"Obshtina Opaka",
+        "lat":43.45,
+        "lon":26.16667,
+        "pop":3002
+    },
+    {
+        "id":727628,
+        "name":"Rila",
+        "country":"BG",
+        "admin1":"Kyustendil",
+        "admin2":"Obshtina Rila",
+        "lat":42.12625,
+        "lon":23.13283,
+        "pop":3002
+    },
+    {
+        "id":729530,
+        "name":"Loznitsa",
+        "country":"BG",
+        "admin1":"Razgrad",
+        "admin2":"Obshtina Loznitsa",
+        "lat":43.36667,
+        "lon":26.6,
+        "pop":2971
+    },
+    {
+        "id":726114,
+        "name":"Ugarchin",
+        "country":"BG",
+        "admin1":"Lovech",
+        "admin2":"Obshtina Ugarchin",
+        "lat":43.1,
+        "lon":24.41667,
+        "pop":2965
+    },
+    {
+        "id":733058,
+        "name":"Borovan",
+        "country":"BG",
+        "admin1":"Vratsa",
+        "admin2":"Obshtina Borovan",
+        "lat":43.42959,
+        "lon":23.75331,
+        "pop":2941
+    },
+    {
+        "id":730040,
+        "name":"Koynare",
+        "country":"BG",
+        "admin1":"Pleven",
+        "admin2":"Obshtina Cherven Bryag",
+        "lat":43.35,
+        "lon":24.13333,
+        "pop":2926
+    },
+    {
+        "id":732915,
+        "name":"Bregovo",
+        "country":"BG",
+        "admin1":"Vidin",
+        "admin2":"Obshtina Bregovo",
+        "lat":44.15191,
+        "lon":22.63877,
+        "pop":2892
+    },
+    {
+        "id":730969,
+        "name":"Gurkovo",
+        "country":"BG",
+        "admin1":"Stara Zagora",
+        "admin2":"Obshtina Gurkovo",
+        "lat":42.66667,
+        "lon":25.8,
+        "pop":2889
+    },
+    {
+        "id":730159,
+        "name":"Koprivshtitsa",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Obshtina Koprivshtitsa",
+        "lat":42.63333,
+        "lon":24.35,
+        "pop":2885
+    },
+    {
+        "id":730268,
+        "name":"Kocherinovo",
+        "country":"BG",
+        "admin1":"Kyustendil",
+        "admin2":"Obshtina Kocherinovo",
+        "lat":42.08439,
+        "lon":23.0571,
+        "pop":2872
+    },
+    {
+        "id":727884,
+        "name":"Parvomaytsi",
+        "country":"BG",
+        "admin1":"Veliko Tarnovo",
+        "admin2":"Obshtina Gorna Oryahovitsa",
+        "lat":43.15,
+        "lon":25.65,
+        "pop":2867
+    },
+    {
+        "id":732015,
+        "name":"Dospat",
+        "country":"BG",
+        "admin1":"Smolyan",
+        "admin2":"Obshtina Dospat",
+        "lat":41.64462,
+        "lon":24.15857,
+        "pop":2802
+    },
+    {
+        "id":727964,
+        "name":"Primorsko",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Primorsko",
+        "lat":42.26791,
+        "lon":27.75611,
+        "pop":2798
+    },
+    {
+        "id":730733,
+        "name":"Kaloyanovo",
+        "country":"BG",
+        "admin1":"Plovdiv",
+        "admin2":"Obshtina Kaloyanovo",
+        "lat":42.35,
+        "lon":24.73333,
+        "pop":2782
+    },
+    {
+        "id":729174,
+        "name":"Medkovets",
+        "country":"BG",
+        "admin1":"Montana",
+        "admin2":"Obshtina Medkovets",
+        "lat":43.62403,
+        "lon":23.16876,
+        "pop":2690
+    },
+    {
+        "id":725588,
+        "name":"Yakimovo",
+        "country":"BG",
+        "admin1":"Montana",
+        "admin2":"Obshtina Yakimovo",
+        "lat":43.63472,
+        "lon":23.3535,
+        "pop":2665
+    },
+    {
+        "id":727479,
+        "name":"Sadovo",
+        "country":"BG",
+        "admin1":"Plovdiv",
+        "admin2":"Obshtina Sadovo",
+        "lat":42.13178,
+        "lon":24.93999,
+        "pop":2656
+    },
+    {
+        "id":726381,
+        "name":"Topolovo",
+        "country":"BG",
+        "admin1":"Plovdiv",
+        "admin2":"Obshtina Asenovgrad",
+        "lat":41.9,
+        "lon":25.0,
+        "pop":2600
+    },
+    {
+        "id":727759,
+        "name":"Ravda",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Nesebar",
+        "lat":42.64185,
+        "lon":27.67713,
+        "pop":2556
+    },
+    {
+        "id":726489,
+        "name":"Batanovtsi",
+        "country":"BG",
+        "admin1":"Pernik",
+        "admin2":"Obshtina Pernik",
+        "lat":42.59692,
+        "lon":22.95634,
+        "pop":2519
+    },
+    {
+        "id":730367,
+        "name":"Kilifarevo",
+        "country":"BG",
+        "admin1":"Veliko Tarnovo",
+        "admin2":"Obshtina Veliko Tŭrnovo",
+        "lat":42.98333,
+        "lon":25.63333,
+        "pop":2497
+    },
+    {
+        "id":725295,
+        "name":"Zlataritsa",
+        "country":"BG",
+        "admin1":"Veliko Tarnovo",
+        "admin2":"Obshtina Zlataritsa",
+        "lat":43.05,
+        "lon":25.9,
+        "pop":2468
+    },
+    {
+        "id":733043,
+        "name":"Borovo",
+        "country":"BG",
+        "admin1":"Ruse",
+        "admin2":"Obshtina Borovo",
+        "lat":43.49802,
+        "lon":25.8082,
+        "pop":2467
+    },
+    {
+        "id":727423,
+        "name":"Satovcha",
+        "country":"BG",
+        "admin1":"Blagoevgrad",
+        "admin2":"Obshtina Satovcha",
+        "lat":41.61667,
+        "lon":23.98333,
+        "pop":2382
+    },
+    {
+        "id":726643,
+        "name":"Suhindol",
+        "country":"BG",
+        "admin1":"Veliko Tarnovo",
+        "admin2":"Obshtina Suhindol",
+        "lat":43.19167,
+        "lon":25.18111,
+        "pop":2364
+    },
+    {
+        "id":727547,
+        "name":"Ruen",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Ruen",
+        "lat":42.8,
+        "lon":27.28333,
+        "pop":2339
+    },
+    {
+        "id":732721,
+        "name":"Byala",
+        "country":"BG",
+        "admin1":"Varna",
+        "admin2":"Obshtina Byala",
+        "lat":42.87426,
+        "lon":27.88865,
+        "pop":2327
+    },
+    {
+        "id":727455,
+        "name":"Samuil",
+        "country":"BG",
+        "admin1":"Razgrad",
+        "admin2":"Obshtina Samuil",
+        "lat":43.51667,
+        "lon":26.75,
+        "pop":2283
+    },
+    {
+        "id":728056,
+        "name":"Pordim",
+        "country":"BG",
+        "admin1":"Pleven",
+        "admin2":"Obshtina Pordim",
+        "lat":43.38333,
+        "lon":24.85,
+        "pop":2230
+    },
+    {
+        "id":726245,
+        "name":"Tsenovo",
+        "country":"BG",
+        "admin1":"Ruse",
+        "admin2":"Obshtina Tsenovo",
+        "lat":43.53588,
+        "lon":25.65764,
+        "pop":2229
+    },
+    {
+        "id":730425,
+        "name":"Hayredin",
+        "country":"BG",
+        "admin1":"Vratsa",
+        "admin2":"Obshtina Hayredin",
+        "lat":43.60193,
+        "lon":23.66135,
+        "pop":2228
+    },
+    {
+        "id":730478,
+        "name":"Kermen",
+        "country":"BG",
+        "admin1":"Sliven",
+        "admin2":"Obshtina Sliven",
+        "lat":42.5,
+        "lon":26.25,
+        "pop":2222
+    },
+    {
+        "id":731415,
+        "name":"Glavinitsa",
+        "country":"BG",
+        "admin1":"Silistra",
+        "admin2":"Obshtina Glavinitsa",
+        "lat":43.91667,
+        "lon":26.83333,
+        "pop":2220
+    },
+    {
+        "id":732519,
+        "name":"Chernomorets",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Sozopol",
+        "lat":42.44408,
+        "lon":27.63902,
+        "pop":2194
+    },
+    {
+        "id":732986,
+        "name":"Boychinovtsi",
+        "country":"BG",
+        "admin1":"Montana",
+        "admin2":"Obshtina Boychinovtsi",
+        "lat":43.47058,
+        "lon":23.33499,
+        "pop":2181
+    },
+    {
+        "id":7874334,
+        "name":"Aheloy",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Pomorie",
+        "lat":42.64987,
+        "lon":27.64838,
+        "pop":2112
+    },
+    {
+        "id":725402,
+        "name":"Zemen",
+        "country":"BG",
+        "admin1":"Pernik",
+        "admin2":"Obshtina Zemen",
+        "lat":42.47889,
+        "lon":22.74917,
+        "pop":2107
+    },
+    {
+        "id":728674,
+        "name":"Obzor",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Nesebar",
+        "lat":42.81998,
+        "lon":27.88007,
+        "pop":2002
+    },
+    {
+        "id":732874,
+        "name":"Brezovo",
+        "country":"BG",
+        "admin1":"Plovdiv",
+        "admin2":"Obshtina Brezovo",
+        "lat":42.34666,
+        "lon":25.07618,
+        "pop":1947
+    },
+    {
+        "id":732456,
+        "name":"Chiprovtsi",
+        "country":"BG",
+        "admin1":"Montana",
+        "admin2":"Obshtina Chiprovtsi",
+        "lat":43.38417,
+        "lon":22.88083,
+        "pop":1941
+    },
+    {
+        "id":733679,
+        "name":"Alfatar",
+        "country":"BG",
+        "admin1":"Silistra",
+        "admin2":"Obshtina Alfatar",
+        "lat":43.94691,
+        "lon":27.28587,
+        "pop":1916
+    },
+    {
+        "id":729064,
+        "name":"Mirkovo",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Obshtina Mirkovo",
+        "lat":42.7,
+        "lon":23.98333,
+        "pop":1882
+    },
+    {
+        "id":731056,
+        "name":"Gramada",
+        "country":"BG",
+        "admin1":"Vidin",
+        "admin2":"Obshtina Gramada",
+        "lat":43.83738,
+        "lon":22.65279,
+        "pop":1872
+    },
+    {
+        "id":730960,
+        "name":"Garmen",
+        "country":"BG",
+        "admin1":"Blagoevgrad",
+        "admin2":"Obshtina Garmen",
+        "lat":41.6,
+        "lon":23.81667,
+        "pop":1838
+    },
+    {
+        "id":733153,
+        "name":"Boboshevo",
+        "country":"BG",
+        "admin1":"Kyustendil",
+        "admin2":"Obshtina Boboshevo",
+        "lat":42.15323,
+        "lon":23.00037,
+        "pop":1784
+    },
+    {
+        "id":732636,
+        "name":"Chelopech",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Obshtina Chelopech",
+        "lat":42.7,
+        "lon":24.08333,
+        "pop":1760
+    },
+    {
+        "id":732862,
+        "name":"Brusartsi",
+        "country":"BG",
+        "admin1":"Montana",
+        "admin2":"Obshtina Brusartsi",
+        "lat":43.66325,
+        "lon":23.06692,
+        "pop":1734
+    },
+    {
+        "id":729880,
+        "name":"Krushari",
+        "country":"BG",
+        "admin1":"Dobrich",
+        "admin2":"Obshtina Krushari",
+        "lat":43.81675,
+        "lon":27.75552,
+        "pop":1722
+    },
+    {
+        "id":733660,
+        "name":"Anton",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Obshtina Anton",
+        "lat":42.73501,
+        "lon":24.25958,
+        "pop":1697
+    },
+    {
+        "id":730241,
+        "name":"Kolarovo",
+        "country":"BG",
+        "admin1":"Blagoevgrad",
+        "admin2":"Obshtina Petrich",
+        "lat":41.36385,
+        "lon":23.10669,
+        "pop":1697
+    },
+    {
+        "id":727291,
+        "name":"Shipka",
+        "country":"BG",
+        "admin1":"Stara Zagora",
+        "admin2":"Obshtina Kazanlŭk",
+        "lat":42.71172,
+        "lon":25.3353,
+        "pop":1604
+    },
+    {
+        "id":728709,
+        "name":"Novo Selo",
+        "country":"BG",
+        "admin1":"Vidin",
+        "admin2":"Obshtina Novo Selo",
+        "lat":44.16214,
+        "lon":22.78376,
+        "pop":1574
+    },
+    {
+        "id":733657,
+        "name":"Antonovo",
+        "country":"BG",
+        "admin1":"Targovishte",
+        "admin2":"Obshtina Antonovo",
+        "lat":43.15022,
+        "lon":26.16032,
+        "pop":1543
+    },
+    {
+        "id":730651,
+        "name":"Kaolinovo",
+        "country":"BG",
+        "admin1":"Shumen",
+        "admin2":"Obshtina Kaolinovo",
+        "lat":43.61667,
+        "lon":27.11667,
+        "pop":1537
+    },
+    {
+        "id":731239,
+        "name":"Gorna Malina",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Obshtina Gorna Malina",
+        "lat":42.68333,
+        "lon":23.7,
+        "pop":1501
+    },
+    {
+        "id":730301,
+        "name":"Klisura",
+        "country":"BG",
+        "admin1":"Plovdiv",
+        "admin2":"Obshtina Karlovo",
+        "lat":42.69334,
+        "lon":24.45019,
+        "pop":1485
+    },
+    {
+        "id":732253,
+        "name":"Dimovo",
+        "country":"BG",
+        "admin1":"Vidin",
+        "admin2":"Obshtina Dimovo",
+        "lat":43.74167,
+        "lon":22.72694,
+        "pop":1461
+    },
+    {
+        "id":727358,
+        "name":"Senovo",
+        "country":"BG",
+        "admin1":"Ruse",
+        "admin2":"Obshtina Vetovo",
+        "lat":43.65,
+        "lon":26.36667,
+        "pop":1459
+    },
+    {
+        "id":725967,
+        "name":"Venets",
+        "country":"BG",
+        "admin1":"Shumen",
+        "admin2":"Obshtina Venets",
+        "lat":43.55,
+        "lon":26.93333,
+        "pop":1450
+    },
+    {
+        "id":732655,
+        "name":"Chavdar",
+        "country":"BG",
+        "admin1":"Sofia",
+        "admin2":"Obshtina Chavdar",
+        "lat":42.65,
+        "lon":24.05,
+        "pop":1398
+    },
+    {
+        "id":8604898,
+        "name":"Balgarevo",
+        "country":"BG",
+        "admin1":"Varna",
+        "admin2":"",
+        "lat":43.40296,
+        "lon":28.41189,
+        "pop":1375
+    },
+    {
+        "id":733092,
+        "name":"Bolyarovo",
+        "country":"BG",
+        "admin1":"Yambol",
+        "admin2":"Obshtina Bolyarovo",
+        "lat":42.14868,
+        "lon":26.81022,
+        "pop":1368
+    },
+    {
+        "id":725924,
+        "name":"Vetrino",
+        "country":"BG",
+        "admin1":"Varna",
+        "admin2":"Obshtina Vetrino",
+        "lat":43.31667,
+        "lon":27.43333,
+        "pop":1368
+    },
+    {
+        "id":729073,
+        "name":"Mineralni Bani",
+        "country":"BG",
+        "admin1":"Haskovo",
+        "admin2":"Obshtina Mineralni Bani",
+        "lat":41.91667,
+        "lon":25.35,
+        "pop":1367
+    },
+    {
+        "id":729428,
+        "name":"Madzharovo",
+        "country":"BG",
+        "admin1":"Haskovo",
+        "admin2":"Obshtina Madzharovo",
+        "lat":41.63461,
+        "lon":25.86439,
+        "pop":1319
+    },
+    {
+        "id":731520,
+        "name":"Gara Hitrino",
+        "country":"BG",
+        "admin1":"Shumen",
+        "admin2":"Obshtina Hitrino",
+        "lat":43.43333,
+        "lon":26.91667,
+        "pop":1302
+    },
+    {
+        "id":733474,
+        "name":"Banite",
+        "country":"BG",
+        "admin1":"Smolyan",
+        "admin2":"Obshtina Banite",
+        "lat":41.61667,
+        "lon":25.01667,
+        "pop":1279
+    },
+    {
+        "id":727495,
+        "name":"Ruzhintsi",
+        "country":"BG",
+        "admin1":"Vidin",
+        "admin2":"Obshtina Ruzhintsi",
+        "lat":43.62179,
+        "lon":22.83286,
+        "pop":1269
+    },
+    {
+        "id":728199,
+        "name":"Pliska",
+        "country":"BG",
+        "admin1":"Shumen",
+        "admin2":"Obshtina Kaspichan",
+        "lat":43.36667,
+        "lon":27.11667,
+        "pop":1263
+    },
+    {
+        "id":733434,
+        "name":"Bata",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Pomorie",
+        "lat":42.73816,
+        "lon":27.49722,
+        "pop":1235
+    },
+    {
+        "id":729667,
+        "name":"Lesichovo",
+        "country":"BG",
+        "admin1":"Pazardzhik",
+        "admin2":"Obshtina Lesichovo",
+        "lat":42.35626,
+        "lon":24.1119,
+        "pop":1206
+    },
+    {
+        "id":727175,
+        "name":"Sitovo",
+        "country":"BG",
+        "admin1":"Silistra",
+        "admin2":"Obshtina Sitovo",
+        "lat":44.0273,
+        "lon":27.01982,
+        "pop":1140
+    },
+    {
+        "id":730338,
+        "name":"Kiten",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Primorsko",
+        "lat":42.23424,
+        "lon":27.7749,
+        "pop":1115
+    },
+    {
+        "id":730337,
+        "name":"Kiten",
+        "country":"BG",
+        "admin1":"Varna",
+        "admin2":"Obshtina Provadia",
+        "lat":43.08333,
+        "lon":27.31667,
+        "pop":1115
+    },
+    {
+        "id":733722,
+        "name":"Ahtopol",
+        "country":"BG",
+        "admin1":"Burgas",
+        "admin2":"Obshtina Tsarevo",
+        "lat":42.10013,
+        "lon":27.94361,
+        "pop":1107
+    },
+    {
+        "id":730504,
+        "name":"Kaynardzha",
+        "country":"BG",
+        "admin1":"Silistra",
+        "admin2":"Obshtina Kaynardzha",
+        "lat":43.99278,
+        "lon":27.50713,
+        "pop":1107
+    },
+    {
+        "id":726693,
+        "name":"Strumyani",
+        "country":"BG",
+        "admin1":"Blagoevgrad",
+        "admin2":"Obshtina Strumyani",
+        "lat":41.63333,
+        "lon":23.2,
+        "pop":1058
+    },
+    {
+        "id":731100,
+        "name":"Gyovren",
+        "country":"BG",
+        "admin1":"Smolyan",
+        "admin2":"Obshtina Devin",
+        "lat":41.66326,
+        "lon":24.37557,
+        "pop":1040
+    },
+    {
+        "id":728923,
+        "name":"Rupite",
+        "country":"BG",
+        "admin1":"Blagoevgrad",
+        "admin2":"Obshtina Petrich",
+        "lat":41.44245,
+        "lon":23.24168,
+        "pop":1037
+    },
+    {
+        "id":730852,
+        "name":"Ivanovo",
+        "country":"BG",
+        "admin1":"Ruse",
+        "admin2":"Obshtina Ivanovo",
+        "lat":43.68568,
+        "lon":25.95565,
+        "pop":1031
+    },
+    {
+        "id":732920,
+        "name":"Bratya Daskalovi",
+        "country":"BG",
+        "admin1":"Stara Zagora",
+        "admin2":"Obshtina Bratya Daskalovi",
+        "lat":42.30155,
+        "lon":25.21205,
+        "pop":997
+    },
+    {
+        "id":728791,
+        "name":"Nikola-Kozlevo",
+        "country":"BG",
+        "admin1":"Shumen",
+        "admin2":"Obshtina Nikola-Kozlevo",
+        "lat":43.56667,
+        "lon":27.23333,
+        "pop":988
+    },
+    {
+        "id":733165,
+        "name":"Bliznatsi",
+        "country":"BG",
+        "admin1":"Varna",
+        "admin2":"Obshtina Avren",
+        "lat":43.06192,
+        "lon":27.86797,
+        "pop":940
+    },
+    {
+        "id":729984,
+        "name":"Kranevo",
+        "country":"BG",
+        "admin1":"Dobrich",
+        "admin2":"Obshtina Balchik",
+        "lat":43.34157,
+        "lon":28.05759,
+        "pop":922
+    },
+    {
+        "id":732973,
+        "name":"Boynitsa",
+        "country":"BG",
+        "admin1":"Vidin",
+        "admin2":"Obshtina Boynitsa",
+        "lat":43.9573,
+        "lon":22.53238,
+        "pop":884
+    },
+    {
+        "id":733587,
+        "name":"Avren",
+        "country":"BG",
+        "admin1":"Varna",
+        "admin2":"Obshtina Avren",
+        "lat":43.11667,
+        "lon":27.66667,
+        "pop":883
+    },
+    {
+        "id":732400,
+        "name":"Chuprene",
+        "country":"BG",
+        "admin1":"Vidin",
+        "admin2":"Obshtina Chuprene",
+        "lat":43.51806,
+        "lon":22.66611,
+        "pop":842
+    },
+    {
+        "id":733055,
+        "name":"Borovets",
+        "country":"BG",
+        "admin1":"Kyustendil",
+        "admin2":"Obshtina Kocherinovo",
+        "lat":42.10566,
+        "lon":23.02003,
+        "pop":800
+    },
+    {
+        "id":728818,
+        "name":"Nevestino",
+        "country":"BG",
+        "admin1":"Kyustendil",
+        "admin2":"Obshtina Nevestino",
+        "lat":42.25465,
+        "lon":22.84899,
+        "pop":779
+    },
+    {
+        "id":731458,
+        "name":"Georgi Damyanovo",
+        "country":"BG",
+        "admin1":"Montana",
+        "admin2":"Obshtina Georgi Damyanovo",
+        "lat":43.38611,
+        "lon":23.03056,
+        "pop":748
+    },
+    {
+        "id":730355,
+        "name":"Kirkovo",
+        "country":"BG",
+        "admin1":"Kardzhali",
+        "admin2":"Obshtina Kirkovo",
+        "lat":41.32715,
+        "lon":25.36379,
+        "pop":700
+    },
+    {
+        "id":729401,
+        "name":"Makresh",
+        "country":"BG",
+        "admin1":"Vidin",
+        "admin2":"Obshtina Makresh",
+        "lat":43.76794,
+        "lon":22.66406,
+        "pop":660
+    },
+    {
+        "id":726888,
+        "name":"Stambolovo",
+        "country":"BG",
+        "admin1":"Haskovo",
+        "admin2":"Obshtina Stambolovo",
+        "lat":41.76667,
+        "lon":25.65,
+        "pop":610
+    },
+    {
+        "id":728627,
+        "name":"Opan",
+        "country":"BG",
+        "admin1":"Stara Zagora",
+        "admin2":"Obshtina Opan",
+        "lat":42.21667,
+        "lon":25.7,
+        "pop":525
+    },
+    {
+        "id":728053,
+        "name":"Porominovo",
+        "country":"BG",
+        "admin1":"Kyustendil",
+        "admin2":"Obshtina Kocherinovo",
+        "lat":42.07641,
+        "lon":23.08592,
+        "pop":514
+    }
+]

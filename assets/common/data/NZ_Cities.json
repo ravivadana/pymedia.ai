@@ -1,0 +1,4272 @@
+[
+    {
+        "id":2193733,
+        "name":"Auckland",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.84853,
+        "lon":174.76349,
+        "pop":1530500
+    },
+    {
+        "id":2192362,
+        "name":"Christchurch",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.53333,
+        "lon":172.63333,
+        "pop":412000
+    },
+    {
+        "id":2179537,
+        "name":"Wellington",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Wellington City",
+        "lat":-41.28664,
+        "lon":174.77557,
+        "pop":381900
+    },
+    {
+        "id":2187404,
+        "name":"Manukau City",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.99282,
+        "lon":174.87986,
+        "pop":362000
+    },
+    {
+        "id":2190324,
+        "name":"Hamilton",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Hamilton City",
+        "lat":-37.78333,
+        "lon":175.28333,
+        "pop":189700
+    },
+    {
+        "id":2208032,
+        "name":"Tauranga",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Tauranga City",
+        "lat":-37.68611,
+        "lon":176.16667,
+        "pop":155200
+    },
+    {
+        "id":2191562,
+        "name":"Dunedin",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Dunedin City",
+        "lat":-45.87416,
+        "lon":170.50361,
+        "pop":131800
+    },
+    {
+        "id":2188164,
+        "name":"Lower Hutt",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Lower Hutt City",
+        "lat":-41.21667,
+        "lon":174.91667,
+        "pop":113400
+    },
+    {
+        "id":2185018,
+        "name":"Palmerston North",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Palmerston North City",
+        "lat":-40.35636,
+        "lon":175.61113,
+        "pop":91300
+    },
+    {
+        "id":2186239,
+        "name":"New Plymouth",
+        "country":"NZ",
+        "admin1":"Taranaki Region",
+        "admin2":"New Plymouth District",
+        "lat":-39.06667,
+        "lon":174.08333,
+        "pop":90300
+    },
+    {
+        "id":2190224,
+        "name":"Hastings",
+        "country":"NZ",
+        "admin1":"Hawke's Bay Region",
+        "admin2":"Hastings District",
+        "lat":-39.6381,
+        "lon":176.84918,
+        "pop":89200
+    },
+    {
+        "id":2186313,
+        "name":"Napier",
+        "country":"NZ",
+        "admin1":"Hawke's Bay Region",
+        "admin2":"Napier City",
+        "lat":-39.4926,
+        "lon":176.91233,
+        "pop":66800
+    },
+    {
+        "id":6241325,
+        "name":"Rotorua",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Rotorua District",
+        "lat":-38.13874,
+        "lon":176.24516,
+        "pop":65901
+    },
+    {
+        "id":2184397,
+        "name":"Porirua",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Porirua City",
+        "lat":-41.13333,
+        "lon":174.85,
+        "pop":61800
+    },
+    {
+        "id":2189529,
+        "name":"Invercargill",
+        "country":"NZ",
+        "admin1":"Southland",
+        "admin2":"Invercargill City",
+        "lat":-46.4,
+        "lon":168.35,
+        "pop":57600
+    },
+    {
+        "id":6232008,
+        "name":"Papatoetoe",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.9682,
+        "lon":174.84019,
+        "pop":54780
+    },
+    {
+        "id":2186280,
+        "name":"Nelson",
+        "country":"NZ",
+        "admin1":"Nelson Region",
+        "admin2":"Nelson City",
+        "lat":-41.27078,
+        "lon":173.28404,
+        "pop":54400
+    },
+    {
+        "id":6230919,
+        "name":"Whangarei",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Whangarei",
+        "lat":-35.73167,
+        "lon":174.32391,
+        "pop":50900
+    },
+    {
+        "id":2179670,
+        "name":"Whanganui",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Whanganui District",
+        "lat":-39.93333,
+        "lon":175.05,
+        "pop":48900
+    },
+    {
+        "id":6244895,
+        "name":"Upper Hutt",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Upper Hutt City",
+        "lat":-41.13827,
+        "lon":175.0502,
+        "pop":47500
+    },
+    {
+        "id":6232064,
+        "name":"Manurewa",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-37.0182,
+        "lon":174.88019,
+        "pop":40480
+    },
+    {
+        "id":2206854,
+        "name":"Gisborne",
+        "country":"NZ",
+        "admin1":"Gisborne",
+        "admin2":"Gisborne District",
+        "lat":-38.65333,
+        "lon":178.00417,
+        "pop":38300
+    },
+    {
+        "id":2208329,
+        "name":"Papakura",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-37.0646,
+        "lon":174.94212,
+        "pop":35580
+    },
+    {
+        "id":2183310,
+        "name":"Rolleston",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Selwyn District",
+        "lat":-43.58333,
+        "lon":172.38333,
+        "pop":33200
+    },
+    {
+        "id":6243926,
+        "name":"Blenheim",
+        "country":"NZ",
+        "admin1":"Marlborough",
+        "admin2":"Marlborough District",
+        "lat":-41.51603,
+        "lon":173.9528,
+        "pop":30300
+    },
+    {
+        "id":2184904,
+        "name":"Paraparaumu",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Kapiti Coast District",
+        "lat":-40.91667,
+        "lon":175.01667,
+        "pop":29900
+    },
+    {
+        "id":2181133,
+        "name":"Timaru",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Timaru District",
+        "lat":-44.39672,
+        "lon":171.25364,
+        "pop":29400
+    },
+    {
+        "id":2206890,
+        "name":"Masterton",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Masterton District",
+        "lat":-40.95972,
+        "lon":175.6575,
+        "pop":28700
+    },
+    {
+        "id":6232305,
+        "name":"Remuera",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.88041,
+        "lon":174.79819,
+        "pop":27600
+    },
+    {
+        "id":2193703,
+        "name":"Avondale",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.88333,
+        "lon":174.7,
+        "pop":26930
+    },
+    {
+        "id":2181742,
+        "name":"Taupo",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Taupo District",
+        "lat":-38.68333,
+        "lon":176.08333,
+        "pop":26600
+    },
+    {
+        "id":6232067,
+        "name":"Otara",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.9482,
+        "lon":174.87019,
+        "pop":24420
+    },
+    {
+        "id":6232192,
+        "name":"New Lynn",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.90694,
+        "lon":174.68704,
+        "pop":23910
+    },
+    {
+        "id":2187454,
+        "name":"Mangere",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.96807,
+        "lon":174.79875,
+        "pop":23790
+    },
+    {
+        "id":2184155,
+        "name":"Pukekohe East",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-37.2,
+        "lon":174.95,
+        "pop":21438
+    },
+    {
+        "id":6217081,
+        "name":"Ashburton",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Ashburton District",
+        "lat":-43.89834,
+        "lon":171.73011,
+        "pop":21300
+    },
+    {
+        "id":2180118,
+        "name":"Wainuiomata",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Lower Hutt City",
+        "lat":-41.26667,
+        "lon":174.95,
+        "pop":20250
+    },
+    {
+        "id":2182311,
+        "name":"Stoke",
+        "country":"NZ",
+        "admin1":"Nelson Region",
+        "admin2":"Nelson City",
+        "lat":-41.31667,
+        "lon":173.23333,
+        "pop":19850
+    },
+    {
+        "id":2206371,
+        "name":"Levin",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Horowhenua District",
+        "lat":-40.63333,
+        "lon":175.275,
+        "pop":19789
+    },
+    {
+        "id":2183472,
+        "name":"Richmond",
+        "country":"NZ",
+        "admin1":"Tasman District",
+        "admin2":"Tasman District",
+        "lat":-41.33333,
+        "lon":173.18333,
+        "pop":19700
+    },
+    {
+        "id":6220565,
+        "name":"Rangiora",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Waimakariri District",
+        "lat":-43.30437,
+        "lon":172.58356,
+        "pop":19150
+    },
+    {
+        "id":2208330,
+        "name":"Whakatane",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Whakatane District",
+        "lat":-37.95855,
+        "lon":176.98545,
+        "pop":18602
+    },
+    {
+        "id":6232009,
+        "name":"Otahuhu",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.9382,
+        "lon":174.84019,
+        "pop":17780
+    },
+    {
+        "id":6231568,
+        "name":"Takanini",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-37.0393,
+        "lon":174.92815,
+        "pop":17060
+    },
+    {
+        "id":6232237,
+        "name":"Mount Eden",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.88158,
+        "lon":174.76204,
+        "pop":15650
+    },
+    {
+        "id":2189028,
+        "name":"Karori",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Wellington City",
+        "lat":-41.28374,
+        "lon":174.74141,
+        "pop":15380
+    },
+    {
+        "id":6240770,
+        "name":"Cambridge",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Waipa District",
+        "lat":-37.87822,
+        "lon":175.4402,
+        "pop":15192
+    },
+    {
+        "id":2189854,
+        "name":"Homai",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-37.01667,
+        "lon":174.88333,
+        "pop":15000
+    },
+    {
+        "id":2190169,
+        "name":"Havelock North",
+        "country":"NZ",
+        "admin1":"Hawke's Bay Region",
+        "admin2":"Hastings District",
+        "lat":-39.66667,
+        "lon":176.88333,
+        "pop":14900
+    },
+    {
+        "id":2208241,
+        "name":"Mosgiel",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Dunedin City",
+        "lat":-45.875,
+        "lon":170.34722,
+        "pop":14800
+    },
+    {
+        "id":2180995,
+        "name":"Tokoroa",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"South Waikato District",
+        "lat":-38.23333,
+        "lon":175.86667,
+        "pop":14500
+    },
+    {
+        "id":6240801,
+        "name":"Te Awamutu",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Waipa District",
+        "lat":-38.00822,
+        "lon":175.3302,
+        "pop":14000
+    },
+    {
+        "id":6220587,
+        "name":"Kaiapoi",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Waimakariri District",
+        "lat":-43.37832,
+        "lon":172.64013,
+        "pop":13550
+    },
+    {
+        "id":2180320,
+        "name":"Waikanae",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Kapiti Coast District",
+        "lat":-40.88333,
+        "lon":175.06667,
+        "pop":13300
+    },
+    {
+        "id":2190329,
+        "name":"Halswell",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.58333,
+        "lon":172.56667,
+        "pop":13200
+    },
+    {
+        "id":2184707,
+        "name":"Wanaka",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Queenstown-Lakes District",
+        "lat":-44.7,
+        "lon":169.15,
+        "pop":13100
+    },
+    {
+        "id":6201424,
+        "name":"Gore",
+        "country":"NZ",
+        "admin1":"Southland",
+        "admin2":"Gore District",
+        "lat":-46.10282,
+        "lon":168.94357,
+        "pop":13050
+    },
+    {
+        "id":6215045,
+        "name":"Oamaru",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"",
+        "lat":-45.09758,
+        "lon":170.97087,
+        "pop":13000
+    },
+    {
+        "id":6232212,
+        "name":"Onehunga",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.9182,
+        "lon":174.78019,
+        "pop":12910
+    },
+    {
+        "id":2185445,
+        "name":"Orewa",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.581,
+        "lon":174.679,
+        "pop":12630
+    },
+    {
+        "id":2207740,
+        "name":"Takapuna",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.79167,
+        "lon":174.77583,
+        "pop":12470
+    },
+    {
+        "id":2194046,
+        "name":"Albany",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.71667,
+        "lon":174.7,
+        "pop":12450
+    },
+    {
+        "id":2189397,
+        "name":"Johnsonville",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Wellington City",
+        "lat":-41.22132,
+        "lon":174.80295,
+        "pop":12110
+    },
+    {
+        "id":2189715,
+        "name":"Howick",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.89359,
+        "lon":174.93174,
+        "pop":11980
+    },
+    {
+        "id":2179089,
+        "name":"Wigram",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.55,
+        "lon":172.55,
+        "pop":11900
+    },
+    {
+        "id":2191177,
+        "name":"Favona",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.93333,
+        "lon":174.8,
+        "pop":11110
+    },
+    {
+        "id":6245055,
+        "name":"Te Puke",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Western Bay of Plenty District",
+        "lat":-37.77822,
+        "lon":176.33021,
+        "pop":10500
+    },
+    {
+        "id":6204696,
+        "name":"Queenstown",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Queenstown-Lakes District",
+        "lat":-45.03023,
+        "lon":168.66271,
+        "pop":10442
+    },
+    {
+        "id":2206359,
+        "name":"Hawera",
+        "country":"NZ",
+        "admin1":"Taranaki Region",
+        "admin2":"South Taranaki District",
+        "lat":-39.59167,
+        "lon":174.28333,
+        "pop":10350
+    },
+    {
+        "id":6226000,
+        "name":"Carterton",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Carterton District",
+        "lat":-41.01827,
+        "lon":175.5302,
+        "pop":10300
+    },
+    {
+        "id":2182444,
+        "name":"Spreydon",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.5567,
+        "lon":172.61689,
+        "pop":10210
+    },
+    {
+        "id":6232082,
+        "name":"Pakuranga",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.88333,
+        "lon":174.91667,
+        "pop":10040
+    },
+    {
+        "id":2179756,
+        "name":"Waiuku",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-37.24806,
+        "lon":174.73489,
+        "pop":9860
+    },
+    {
+        "id":2185994,
+        "name":"North East Valley",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Dunedin City",
+        "lat":-45.85,
+        "lon":170.53333,
+        "pop":9830
+    },
+    {
+        "id":6235745,
+        "name":"Morrinsville",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Matamata-Piako District",
+        "lat":-37.64821,
+        "lon":175.5202,
+        "pop":9710
+    },
+    {
+        "id":2206895,
+        "name":"Greymouth",
+        "country":"NZ",
+        "admin1":"West Coast",
+        "admin2":"Grey District",
+        "lat":-42.46667,
+        "lon":171.2,
+        "pop":9419
+    },
+    {
+        "id":2193370,
+        "name":"Bethlehem",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Tauranga City",
+        "lat":-37.69496,
+        "lon":176.10861,
+        "pop":9270
+    },
+    {
+        "id":2188371,
+        "name":"Lincoln",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Selwyn District",
+        "lat":-43.65,
+        "lon":172.48333,
+        "pop":9180
+    },
+    {
+        "id":6249343,
+        "name":"Huntly",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Waikato District",
+        "lat":-37.55821,
+        "lon":175.1602,
+        "pop":8850
+    },
+    {
+        "id":2189793,
+        "name":"Hornby",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.55,
+        "lon":172.53333,
+        "pop":8790
+    },
+    {
+        "id":2188858,
+        "name":"Khandallah",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Wellington City",
+        "lat":-41.245,
+        "lon":174.79422,
+        "pop":8640
+    },
+    {
+        "id":2185213,
+        "name":"Otumoetai",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Tauranga City",
+        "lat":-37.67156,
+        "lon":176.13865,
+        "pop":8620
+    },
+    {
+        "id":2188591,
+        "name":"Kumeu",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.76667,
+        "lon":174.56667,
+        "pop":8510
+    },
+    {
+        "id":6247826,
+        "name":"Ngaruawahia",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Waikato District",
+        "lat":-37.66738,
+        "lon":175.15554,
+        "pop":8500
+    },
+    {
+        "id":2193497,
+        "name":"Beachlands",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.88333,
+        "lon":175.0,
+        "pop":8340
+    },
+    {
+        "id":2188874,
+        "name":"Kerikeri",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Far North District",
+        "lat":-35.22676,
+        "lon":173.94739,
+        "pop":8280
+    },
+    {
+        "id":2193449,
+        "name":"Bell Block",
+        "country":"NZ",
+        "admin1":"Taranaki Region",
+        "admin2":"New Plymouth District",
+        "lat":-39.03333,
+        "lon":174.15,
+        "pop":8260
+    },
+    {
+        "id":2188909,
+        "name":"Kelvin Grove",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Palmerston North City",
+        "lat":-40.32875,
+        "lon":175.64512,
+        "pop":7950
+    },
+    {
+        "id":2208091,
+        "name":"Waitara",
+        "country":"NZ",
+        "admin1":"Taranaki Region",
+        "admin2":"New Plymouth District",
+        "lat":-39.00158,
+        "lon":174.23836,
+        "pop":7730
+    },
+    {
+        "id":2184846,
+        "name":"Parnell",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.86667,
+        "lon":174.78333,
+        "pop":7720
+    },
+    {
+        "id":2188942,
+        "name":"Kawerau",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Kawerau District",
+        "lat":-38.1,
+        "lon":176.7,
+        "pop":7670
+    },
+    {
+        "id":2184361,
+        "name":"Motueka",
+        "country":"NZ",
+        "admin1":"Tasman District",
+        "admin2":"Tasman District",
+        "lat":-41.13333,
+        "lon":173.01667,
+        "pop":7485
+    },
+    {
+        "id":2185587,
+        "name":"Onekawa",
+        "country":"NZ",
+        "admin1":"Hawke's Bay Region",
+        "admin2":"Napier City",
+        "lat":-39.50914,
+        "lon":176.88958,
+        "pop":7290
+    },
+    {
+        "id":2208041,
+        "name":"Mount Maunganui",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Tauranga City",
+        "lat":-37.64167,
+        "lon":176.18611,
+        "pop":7250
+    },
+    {
+        "id":2192313,
+        "name":"Claudelands",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Hamilton City",
+        "lat":-37.78333,
+        "lon":175.28333,
+        "pop":7180
+    },
+    {
+        "id":2208333,
+        "name":"Thames",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Thames-Coromandel District",
+        "lat":-37.13832,
+        "lon":175.54011,
+        "pop":7136
+    },
+    {
+        "id":2179639,
+        "name":"Warkworth",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.4,
+        "lon":174.66667,
+        "pop":6960
+    },
+    {
+        "id":2185579,
+        "name":"Onerahi",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Whangarei",
+        "lat":-35.76667,
+        "lon":174.36667,
+        "pop":6830
+    },
+    {
+        "id":2181073,
+        "name":"Titahi Bay",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Porirua City",
+        "lat":-41.1,
+        "lon":174.83333,
+        "pop":6810
+    },
+    {
+        "id":8469227,
+        "name":"Unsworth Heights",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.75374,
+        "lon":174.7215,
+        "pop":6620
+    },
+    {
+        "id":2184943,
+        "name":"Papatowai",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Clutha District",
+        "lat":-46.56069,
+        "lon":169.47068,
+        "pop":6593
+    },
+    {
+        "id":2186255,
+        "name":"New Brighton",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.51667,
+        "lon":172.73333,
+        "pop":6480
+    },
+    {
+        "id":6223846,
+        "name":"Stratford",
+        "country":"NZ",
+        "admin1":"Taranaki Region",
+        "admin2":"Stratford District",
+        "lat":-39.33762,
+        "lon":174.28368,
+        "pop":6430
+    },
+    {
+        "id":6235764,
+        "name":"Matamata",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Matamata-Piako District",
+        "lat":-37.8106,
+        "lon":175.76237,
+        "pop":6306
+    },
+    {
+        "id":2179103,
+        "name":"Whitianga",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Thames-Coromandel District",
+        "lat":-36.83333,
+        "lon":175.7,
+        "pop":6230
+    },
+    {
+        "id":2180831,
+        "name":"Tuakau",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Waikato District",
+        "lat":-37.27047,
+        "lon":174.94384,
+        "pop":6180
+    },
+    {
+        "id":2206372,
+        "name":"Otaki",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Kapiti Coast District",
+        "lat":-40.75833,
+        "lon":175.15,
+        "pop":6086
+    },
+    {
+        "id":2189016,
+        "name":"Katikati",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Western Bay of Plenty District",
+        "lat":-37.55,
+        "lon":175.91667,
+        "pop":6000
+    },
+    {
+        "id":2185613,
+        "name":"Omokoroa",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Western Bay of Plenty District",
+        "lat":-37.64849,
+        "lon":176.03497,
+        "pop":5990
+    },
+    {
+        "id":8469230,
+        "name":"Oteha Valley",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.7201,
+        "lon":174.71824,
+        "pop":5850
+    },
+    {
+        "id":6207905,
+        "name":"Alexandra",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Central Otago District",
+        "lat":-45.24837,
+        "lon":169.37008,
+        "pop":5830
+    },
+    {
+        "id":6224624,
+        "name":"Marton",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Rangitikei District",
+        "lat":-40.0692,
+        "lon":175.37823,
+        "pop":5740
+    },
+    {
+        "id":6246205,
+        "name":"Dannevirke",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"",
+        "lat":-40.20549,
+        "lon":176.10084,
+        "pop":5680
+    },
+    {
+        "id":2186216,
+        "name":"Ngaio",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Wellington City",
+        "lat":-41.25039,
+        "lon":174.77394,
+        "pop":5660
+    },
+    {
+        "id":2180221,
+        "name":"Waikowhai",
+        "country":"NZ",
+        "admin1":"West Coast",
+        "admin2":"Westland District",
+        "lat":-43.45,
+        "lon":169.88333,
+        "pop":5550
+    },
+    {
+        "id":2178982,
+        "name":"Woodend",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Waimakariri District",
+        "lat":-43.31667,
+        "lon":172.66667,
+        "pop":5430
+    },
+    {
+        "id":2183620,
+        "name":"Raumati Beach",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Kapiti Coast District",
+        "lat":-40.91667,
+        "lon":174.98333,
+        "pop":5390
+    },
+    {
+        "id":2184297,
+        "name":"Prebbleton",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Selwyn District",
+        "lat":-43.58333,
+        "lon":172.51667,
+        "pop":5260
+    },
+    {
+        "id":2186116,
+        "name":"Ngongotaha",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Rotorua District",
+        "lat":-38.08333,
+        "lon":176.2,
+        "pop":5240
+    },
+    {
+        "id":6207775,
+        "name":"Cromwell",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Central Otago District",
+        "lat":-45.03837,
+        "lon":169.20008,
+        "pop":5160
+    },
+    {
+        "id":2191911,
+        "name":"Dargaville",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Kaipara District",
+        "lat":-35.93333,
+        "lon":173.88333,
+        "pop":5130
+    },
+    {
+        "id":2191945,
+        "name":"Dairy Flat",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.66667,
+        "lon":174.65,
+        "pop":5090
+    },
+    {
+        "id":2184459,
+        "name":"Pokeno",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Waikato District",
+        "lat":-37.24502,
+        "lon":175.02049,
+        "pop":5060
+    },
+    {
+        "id":6234582,
+        "name":"Taumarunui",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Ruapehu District",
+        "lat":-38.87823,
+        "lon":175.2602,
+        "pop":4950
+    },
+    {
+        "id":6247603,
+        "name":"Wairoa",
+        "country":"NZ",
+        "admin1":"Hawke's Bay Region",
+        "admin2":"Wairoa District",
+        "lat":-39.03823,
+        "lon":177.42022,
+        "pop":4940
+    },
+    {
+        "id":6243776,
+        "name":"Picton",
+        "country":"NZ",
+        "admin1":"Marlborough",
+        "admin2":"Marlborough District",
+        "lat":-41.29067,
+        "lon":174.00801,
+        "pop":4930
+    },
+    {
+        "id":2193452,
+        "name":"Belfast",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.45,
+        "lon":172.63333,
+        "pop":4900
+    },
+    {
+        "id":6234244,
+        "name":"Te Kuiti",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Waitomo District",
+        "lat":-38.33627,
+        "lon":175.17014,
+        "pop":4890
+    },
+    {
+        "id":6229575,
+        "name":"Kaikohe",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Far North District",
+        "lat":-35.39818,
+        "lon":173.80018,
+        "pop":4890
+    },
+    {
+        "id":2208332,
+        "name":"Opotiki",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Opotiki District",
+        "lat":-38.00915,
+        "lon":177.28706,
+        "pop":4880
+    },
+    {
+        "id":2188847,
+        "name":"Kilbirnie",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Wellington City",
+        "lat":-41.31824,
+        "lon":174.79506,
+        "pop":4860
+    },
+    {
+        "id":6217261,
+        "name":"Temuka",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Timaru District",
+        "lat":-44.22834,
+        "lon":171.2801,
+        "pop":4840
+    },
+    {
+        "id":6244819,
+        "name":"Mount Victoria",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Wellington City",
+        "lat":-41.29696,
+        "lon":174.7936,
+        "pop":4820
+    },
+    {
+        "id":2206369,
+        "name":"Foxton",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Horowhenua District",
+        "lat":-40.47277,
+        "lon":175.28601,
+        "pop":4780
+    },
+    {
+        "id":2191167,
+        "name":"Fendalton",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.51667,
+        "lon":172.6,
+        "pop":4710
+    },
+    {
+        "id":6235636,
+        "name":"Te Aroha",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Matamata-Piako District",
+        "lat":-37.52821,
+        "lon":175.71021,
+        "pop":4700
+    },
+    {
+        "id":6235878,
+        "name":"Putaruru",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"South Waikato District",
+        "lat":-38.04822,
+        "lon":175.78021,
+        "pop":4670
+    },
+    {
+        "id":2208328,
+        "name":"Waihi",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Hauraki District",
+        "lat":-37.38333,
+        "lon":175.83333,
+        "pop":4619
+    },
+    {
+        "id":2206900,
+        "name":"Westport",
+        "country":"NZ",
+        "admin1":"West Coast",
+        "admin2":"Buller District",
+        "lat":-41.75262,
+        "lon":171.6037,
+        "pop":4600
+    },
+    {
+        "id":2207714,
+        "name":"Mission Bay",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.85472,
+        "lon":174.83167,
+        "pop":4590
+    },
+    {
+        "id":2190450,
+        "name":"Greerton",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Tauranga City",
+        "lat":-37.72541,
+        "lon":176.13346,
+        "pop":4590
+    },
+    {
+        "id":2186498,
+        "name":"Moturoa",
+        "country":"NZ",
+        "admin1":"Taranaki Region",
+        "admin2":"New Plymouth District",
+        "lat":-39.06428,
+        "lon":174.03563,
+        "pop":4580
+    },
+    {
+        "id":2208248,
+        "name":"Balclutha",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Clutha District",
+        "lat":-46.23389,
+        "lon":169.75,
+        "pop":4441
+    },
+    {
+        "id":13191994,
+        "name":"Jack's Point",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Queenstown-Lakes District",
+        "lat":-45.07356,
+        "lon":168.74828,
+        "pop":4300
+    },
+    {
+        "id":8469228,
+        "name":"Schnapper Rock",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.7547,
+        "lon":174.69489,
+        "pop":4300
+    },
+    {
+        "id":2179328,
+        "name":"Whangamata",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Thames-Coromandel District",
+        "lat":-37.2,
+        "lon":175.86667,
+        "pop":4270
+    },
+    {
+        "id":2206808,
+        "name":"Wairoa",
+        "country":"NZ",
+        "admin1":"Hawke's Bay Region",
+        "admin2":"Wairoa District",
+        "lat":-39.03333,
+        "lon":177.36667,
+        "pop":4260
+    },
+    {
+        "id":6251532,
+        "name":"Pegasus",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Waimakariri District",
+        "lat":-43.30832,
+        "lon":172.69013,
+        "pop":4170
+    },
+    {
+        "id":6225241,
+        "name":"Aotea",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Porirua City",
+        "lat":-39.62824,
+        "lon":175.31021,
+        "pop":4170
+    },
+    {
+        "id":6220794,
+        "name":"Mount Pleasant",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.56276,
+        "lon":172.71525,
+        "pop":4040
+    },
+    {
+        "id":2181108,
+        "name":"Tinwald",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Ashburton District",
+        "lat":-43.91667,
+        "lon":171.71667,
+        "pop":4010
+    },
+    {
+        "id":2208327,
+        "name":"Paeroa",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Hauraki District",
+        "lat":-37.36667,
+        "lon":175.66667,
+        "pop":3994
+    },
+    {
+        "id":6223708,
+        "name":"Inglewood",
+        "country":"NZ",
+        "admin1":"Taranaki Region",
+        "admin2":"New Plymouth District",
+        "lat":-39.15824,
+        "lon":174.1802,
+        "pop":3960
+    },
+    {
+        "id":2180737,
+        "name":"Turangi",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"",
+        "lat":-38.99037,
+        "lon":175.80837,
+        "pop":3930
+    },
+    {
+        "id":2192941,
+        "name":"Brooklyn",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Wellington City",
+        "lat":-41.30586,
+        "lon":174.76257,
+        "pop":3855
+    },
+    {
+        "id":2183854,
+        "name":"Raglan",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Waikato District",
+        "lat":-37.8,
+        "lon":174.88333,
+        "pop":3840
+    },
+    {
+        "id":2179313,
+        "name":"Whangaparaoa",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.63333,
+        "lon":174.76667,
+        "pop":3786
+    },
+    {
+        "id":2190931,
+        "name":"Frankton",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Queenstown-Lakes District",
+        "lat":-45.02125,
+        "lon":168.73361,
+        "pop":3780
+    },
+    {
+        "id":6244556,
+        "name":"Snells Beach",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.40819,
+        "lon":174.72019,
+        "pop":3760
+    },
+    {
+        "id":2188853,
+        "name":"Kihikihi",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Waipa District",
+        "lat":-38.03333,
+        "lon":175.35,
+        "pop":3760
+    },
+    {
+        "id":2181511,
+        "name":"Te Kauwhata",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Waikato District",
+        "lat":-37.4,
+        "lon":175.15,
+        "pop":3740
+    },
+    {
+        "id":2183413,
+        "name":"Riverhead",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.75,
+        "lon":174.6,
+        "pop":3700
+    },
+    {
+        "id":6214808,
+        "name":"Waimate",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Waimate District",
+        "lat":-44.72836,
+        "lon":171.05009,
+        "pop":3650
+    },
+    {
+        "id":2191091,
+        "name":"Fitzroy",
+        "country":"NZ",
+        "admin1":"Taranaki Region",
+        "admin2":"New Plymouth District",
+        "lat":-39.05,
+        "lon":174.1,
+        "pop":3650
+    },
+    {
+        "id":2182715,
+        "name":"Silverstream",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Upper Hutt City",
+        "lat":-41.15,
+        "lon":175.0,
+        "pop":3570
+    },
+    {
+        "id":2188426,
+        "name":"Leigh",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.28333,
+        "lon":174.81667,
+        "pop":3525
+    },
+    {
+        "id":6221943,
+        "name":"Sumner",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.56833,
+        "lon":172.76013,
+        "pop":3519
+    },
+    {
+        "id":2185302,
+        "name":"Otatara",
+        "country":"NZ",
+        "admin1":"Southland",
+        "admin2":"Invercargill City",
+        "lat":-46.43333,
+        "lon":168.3,
+        "pop":3460
+    },
+    {
+        "id":6231124,
+        "name":"Helensville",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.67819,
+        "lon":174.45019,
+        "pop":3420
+    },
+    {
+        "id":2193767,
+        "name":"Ashhurst",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Palmerston North City",
+        "lat":-40.29108,
+        "lon":175.75471,
+        "pop":3400
+    },
+    {
+        "id":2191913,
+        "name":"Darfield",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Selwyn District",
+        "lat":-43.48333,
+        "lon":172.11667,
+        "pop":3380
+    },
+    {
+        "id":2185548,
+        "name":"Opaheke",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-37.08333,
+        "lon":174.96667,
+        "pop":3360
+    },
+    {
+        "id":2184888,
+        "name":"Paremoremo",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.76667,
+        "lon":174.66667,
+        "pop":3360
+    },
+    {
+        "id":2206894,
+        "name":"Hokitika",
+        "country":"NZ",
+        "admin1":"West Coast",
+        "admin2":"Westland District",
+        "lat":-42.71667,
+        "lon":170.96667,
+        "pop":3350
+    },
+    {
+        "id":2185245,
+        "name":"Otorohanga",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Otorohanga District",
+        "lat":-38.18333,
+        "lon":175.2,
+        "pop":3280
+    },
+    {
+        "id":2185814,
+        "name":"Ohope Beach",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Whakatane District",
+        "lat":-37.97519,
+        "lon":177.07588,
+        "pop":3250
+    },
+    {
+        "id":2207739,
+        "name":"Belmont",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.8075,
+        "lon":174.78639,
+        "pop":3240
+    },
+    {
+        "id":6220981,
+        "name":"Lyttelton",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.60314,
+        "lon":172.71765,
+        "pop":3200
+    },
+    {
+        "id":2186608,
+        "name":"Mornington",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Dunedin City",
+        "lat":-45.88333,
+        "lon":170.46667,
+        "pop":3050
+    },
+    {
+        "id":2183794,
+        "name":"Ramarama",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-37.15,
+        "lon":174.95,
+        "pop":3050
+    },
+    {
+        "id":2179104,
+        "name":"Whitford",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.93333,
+        "lon":174.96667,
+        "pop":3015
+    },
+    {
+        "id":2192676,
+        "name":"Campbells Bay",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.74645,
+        "lon":174.75978,
+        "pop":2960
+    },
+    {
+        "id":6225996,
+        "name":"Greytown",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"South Wairarapa District",
+        "lat":-41.07827,
+        "lon":175.4602,
+        "pop":2940
+    },
+    {
+        "id":2193750,
+        "name":"Atawhai",
+        "country":"NZ",
+        "admin1":"Nelson Region",
+        "admin2":"Nelson City",
+        "lat":-41.23333,
+        "lon":173.31667,
+        "pop":2920
+    },
+    {
+        "id":6231027,
+        "name":"Ruakaka",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Whangarei",
+        "lat":-35.90818,
+        "lon":174.45019,
+        "pop":2910
+    },
+    {
+        "id":2182051,
+        "name":"Tahunanui",
+        "country":"NZ",
+        "admin1":"Nelson Region",
+        "admin2":"Nelson City",
+        "lat":-41.28706,
+        "lon":173.24573,
+        "pop":2910
+    },
+    {
+        "id":2181625,
+        "name":"Te Anau",
+        "country":"NZ",
+        "admin1":"Southland",
+        "admin2":"Southland District",
+        "lat":-45.41667,
+        "lon":167.71667,
+        "pop":2910
+    },
+    {
+        "id":6227686,
+        "name":"Pahiatua",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"",
+        "lat":-40.45345,
+        "lon":175.8406,
+        "pop":2860
+    },
+    {
+        "id":6244383,
+        "name":"Mangawhai Heads",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Kaipara District",
+        "lat":-36.08819,
+        "lon":174.57019,
+        "pop":2850
+    },
+    {
+        "id":2180173,
+        "name":"Waimate North",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Far North District",
+        "lat":-35.31667,
+        "lon":173.88333,
+        "pop":2799
+    },
+    {
+        "id":2193968,
+        "name":"Amberley",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Hurunui District",
+        "lat":-43.15589,
+        "lon":172.72975,
+        "pop":2780
+    },
+    {
+        "id":2187356,
+        "name":"Maraetai",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.88333,
+        "lon":175.05,
+        "pop":2770
+    },
+    {
+        "id":6226307,
+        "name":"Featherston",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"South Wairarapa District",
+        "lat":-41.10827,
+        "lon":175.3202,
+        "pop":2760
+    },
+    {
+        "id":2206375,
+        "name":"Eastbourne",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Lower Hutt City",
+        "lat":-41.3,
+        "lon":174.9,
+        "pop":2760
+    },
+    {
+        "id":6232400,
+        "name":"Newmarket",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.86977,
+        "lon":174.77566,
+        "pop":2750
+    },
+    {
+        "id":2191224,
+        "name":"Fairfield",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Dunedin City",
+        "lat":-45.9,
+        "lon":170.4,
+        "pop":2710
+    },
+    {
+        "id":2179460,
+        "name":"West Melton",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Selwyn District",
+        "lat":-43.51667,
+        "lon":172.36667,
+        "pop":2710
+    },
+    {
+        "id":2179702,
+        "name":"Wakefield",
+        "country":"NZ",
+        "admin1":"Tasman District",
+        "admin2":"Tasman District",
+        "lat":-41.4,
+        "lon":173.05,
+        "pop":2680
+    },
+    {
+        "id":2180393,
+        "name":"Waihi Beach",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Western Bay of Plenty District",
+        "lat":-37.4,
+        "lon":175.93333,
+        "pop":2670
+    },
+    {
+        "id":2179689,
+        "name":"Wallaceville",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Upper Hutt City",
+        "lat":-41.13333,
+        "lon":175.05,
+        "pop":2590
+    },
+    {
+        "id":2191470,
+        "name":"East Taieri",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Dunedin City",
+        "lat":-45.9,
+        "lon":170.33333,
+        "pop":2570
+    },
+    {
+        "id":2183526,
+        "name":"Renwick",
+        "country":"NZ",
+        "admin1":"Marlborough",
+        "admin2":"Marlborough District",
+        "lat":-41.5,
+        "lon":173.83333,
+        "pop":2550
+    },
+    {
+        "id":2184889,
+        "name":"Paremata",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Porirua City",
+        "lat":-41.11667,
+        "lon":174.86667,
+        "pop":2540
+    },
+    {
+        "id":2190034,
+        "name":"Heretaunga",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Upper Hutt City",
+        "lat":-41.15,
+        "lon":175.03333,
+        "pop":2520
+    },
+    {
+        "id":2185423,
+        "name":"Oropi",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Western Bay of Plenty District",
+        "lat":-37.83948,
+        "lon":176.16105,
+        "pop":2520
+    },
+    {
+        "id":2180255,
+        "name":"Waikiwi",
+        "country":"NZ",
+        "admin1":"Southland",
+        "admin2":"Invercargill City",
+        "lat":-46.38333,
+        "lon":168.33333,
+        "pop":2510
+    },
+    {
+        "id":2188444,
+        "name":"Leeston",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Selwyn District",
+        "lat":-43.76667,
+        "lon":172.3,
+        "pop":2490
+    },
+    {
+        "id":2183028,
+        "name":"Saint Clair",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Dunedin City",
+        "lat":-45.91667,
+        "lon":170.48333,
+        "pop":2470
+    },
+    {
+        "id":2188277,
+        "name":"Loburn",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Waimakariri District",
+        "lat":-43.25,
+        "lon":172.53333,
+        "pop":2460
+    },
+    {
+        "id":2183113,
+        "name":"Ruawai",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Kaipara District",
+        "lat":-36.13333,
+        "lon":174.03333,
+        "pop":2436
+    },
+    {
+        "id":2193500,
+        "name":"Bay View",
+        "country":"NZ",
+        "admin1":"Hawke's Bay Region",
+        "admin2":"Napier City",
+        "lat":-39.42035,
+        "lon":176.86727,
+        "pop":2400
+    },
+    {
+        "id":2192964,
+        "name":"Brightwater",
+        "country":"NZ",
+        "admin1":"Tasman District",
+        "admin2":"Tasman District",
+        "lat":-41.38333,
+        "lon":173.11667,
+        "pop":2390
+    },
+    {
+        "id":2182720,
+        "name":"Silverdale",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.6187,
+        "lon":174.67764,
+        "pop":2370
+    },
+    {
+        "id":2180448,
+        "name":"Waiatarua",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.93333,
+        "lon":174.58333,
+        "pop":2360
+    },
+    {
+        "id":2187441,
+        "name":"Mangorei",
+        "country":"NZ",
+        "admin1":"Taranaki Region",
+        "admin2":"New Plymouth District",
+        "lat":-39.15,
+        "lon":174.08333,
+        "pop":2310
+    },
+    {
+        "id":6214317,
+        "name":"Geraldine",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Timaru District",
+        "lat":-44.09061,
+        "lon":171.24458,
+        "pop":2301
+    },
+    {
+        "id":2193687,
+        "name":"Awakeri",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Whakatane District",
+        "lat":-38.0,
+        "lon":176.9,
+        "pop":2289
+    },
+    {
+        "id":2178931,
+        "name":"Yaldhurst",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.51667,
+        "lon":172.51667,
+        "pop":2250
+    },
+    {
+        "id":2185148,
+        "name":"Oxford",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Waimakariri District",
+        "lat":-43.3,
+        "lon":172.18333,
+        "pop":2240
+    },
+    {
+        "id":2179940,
+        "name":"Wairau Valley",
+        "country":"NZ",
+        "admin1":"Marlborough",
+        "admin2":"Marlborough District",
+        "lat":-41.56667,
+        "lon":173.53333,
+        "pop":2230
+    },
+    {
+        "id":2190110,
+        "name":"Heathcote Valley",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.57787,
+        "lon":172.71224,
+        "pop":2229
+    },
+    {
+        "id":2181747,
+        "name":"Taupiri",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Waikato District",
+        "lat":-37.61667,
+        "lon":175.18333,
+        "pop":2220
+    },
+    {
+        "id":2206968,
+        "name":"Winton",
+        "country":"NZ",
+        "admin1":"Southland",
+        "admin2":"Southland District",
+        "lat":-46.15,
+        "lon":168.33333,
+        "pop":2193
+    },
+    {
+        "id":6207712,
+        "name":"Lake Hawea",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Queenstown-Lakes District",
+        "lat":-44.60836,
+        "lon":169.26008,
+        "pop":2190
+    },
+    {
+        "id":2185462,
+        "name":"Oratia",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.91667,
+        "lon":174.61667,
+        "pop":2180
+    },
+    {
+        "id":2183578,
+        "name":"Redcliffs",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.56152,
+        "lon":172.73654,
+        "pop":2180
+    },
+    {
+        "id":6206253,
+        "name":"Arrowtown",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Queenstown-Lakes District",
+        "lat":-44.93837,
+        "lon":168.81007,
+        "pop":2151
+    },
+    {
+        "id":2206358,
+        "name":"Eltham",
+        "country":"NZ",
+        "admin1":"Taranaki Region",
+        "admin2":"South Taranaki District",
+        "lat":-39.42917,
+        "lon":174.3,
+        "pop":2150
+    },
+    {
+        "id":2192828,
+        "name":"Bulls",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Rangitikei District",
+        "lat":-40.17487,
+        "lon":175.38463,
+        "pop":2150
+    },
+    {
+        "id":2190948,
+        "name":"Foxton Beach",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Horowhenua District",
+        "lat":-40.46384,
+        "lon":175.22716,
+        "pop":2150
+    },
+    {
+        "id":2184504,
+        "name":"Plimmerton",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Porirua City",
+        "lat":-41.08333,
+        "lon":174.86667,
+        "pop":2140
+    },
+    {
+        "id":2186895,
+        "name":"Methven",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Ashburton District",
+        "lat":-43.63333,
+        "lon":171.65,
+        "pop":2130
+    },
+    {
+        "id":2192282,
+        "name":"Clive",
+        "country":"NZ",
+        "admin1":"Hawke's Bay Region",
+        "admin2":"Hastings District",
+        "lat":-39.58333,
+        "lon":176.91667,
+        "pop":2120
+    },
+    {
+        "id":2185360,
+        "name":"Otaki Beach",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Kapiti Coast District",
+        "lat":-40.75,
+        "lon":175.11667,
+        "pop":2120
+    },
+    {
+        "id":2179532,
+        "name":"Wellsford",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.28333,
+        "lon":174.51667,
+        "pop":2110
+    },
+    {
+        "id":2184084,
+        "name":"Pukerua Bay",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Porirua City",
+        "lat":-41.03333,
+        "lon":174.9,
+        "pop":2070
+    },
+    {
+        "id":2183847,
+        "name":"Rahotu",
+        "country":"NZ",
+        "admin1":"Taranaki Region",
+        "admin2":"South Taranaki District",
+        "lat":-39.33333,
+        "lon":173.8,
+        "pop":2067
+    },
+    {
+        "id":6226278,
+        "name":"Martinborough",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"South Wairarapa District",
+        "lat":-41.20827,
+        "lon":175.4302,
+        "pop":2050
+    },
+    {
+        "id":2188559,
+        "name":"Ladbrooks",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Selwyn District",
+        "lat":-43.61667,
+        "lon":172.53333,
+        "pop":2030
+    },
+    {
+        "id":2208242,
+        "name":"Milton",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Clutha District",
+        "lat":-46.12083,
+        "lon":169.96944,
+        "pop":2009
+    },
+    {
+        "id":2187552,
+        "name":"Mangatainoka",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"",
+        "lat":-40.41513,
+        "lon":175.86352,
+        "pop":1990
+    },
+    {
+        "id":6233790,
+        "name":"Ostend",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.7982,
+        "lon":175.04019,
+        "pop":1950
+    },
+    {
+        "id":2206939,
+        "name":"Bluff",
+        "country":"NZ",
+        "admin1":"Southland",
+        "admin2":"Invercargill City",
+        "lat":-46.6,
+        "lon":168.33333,
+        "pop":1938
+    },
+    {
+        "id":2186722,
+        "name":"Moerewa",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Far North District",
+        "lat":-35.38333,
+        "lon":174.03333,
+        "pop":1920
+    },
+    {
+        "id":2207029,
+        "name":"Clifton",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.56435,
+        "lon":172.7492,
+        "pop":1900
+    },
+    {
+        "id":2191451,
+        "name":"Edgecumbe",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Whakatane District",
+        "lat":-37.98333,
+        "lon":176.83333,
+        "pop":1900
+    },
+    {
+        "id":2206874,
+        "name":"Waipawa",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"South Wairarapa District",
+        "lat":-41.41222,
+        "lon":175.51528,
+        "pop":1899
+    },
+    {
+        "id":2179867,
+        "name":"Waitakere",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.85126,
+        "lon":174.54477,
+        "pop":1890
+    },
+    {
+        "id":2186338,
+        "name":"Murupara",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Whakatane District",
+        "lat":-38.46667,
+        "lon":176.7,
+        "pop":1876
+    },
+    {
+        "id":6236549,
+        "name":"Acacia Bay",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Taupo District",
+        "lat":-38.70293,
+        "lon":176.03085,
+        "pop":1870
+    },
+    {
+        "id":2191610,
+        "name":"Drury",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-37.1,
+        "lon":174.95,
+        "pop":1870
+    },
+    {
+        "id":2179386,
+        "name":"Whakarongo",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Palmerston North City",
+        "lat":-40.33333,
+        "lon":175.66667,
+        "pop":1870
+    },
+    {
+        "id":2181429,
+        "name":"Templeton",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.55,
+        "lon":172.46667,
+        "pop":1840
+    },
+    {
+        "id":2183728,
+        "name":"Rangiriri",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Waikato District",
+        "lat":-37.4305,
+        "lon":175.12971,
+        "pop":1833
+    },
+    {
+        "id":2187365,
+        "name":"Mapua",
+        "country":"NZ",
+        "admin1":"Tasman District",
+        "admin2":"Tasman District",
+        "lat":-41.25,
+        "lon":173.1,
+        "pop":1819
+    },
+    {
+        "id":6227202,
+        "name":"Taihape",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Rangitikei District",
+        "lat":-39.67819,
+        "lon":175.79799,
+        "pop":1810
+    },
+    {
+        "id":2189978,
+        "name":"Hikurangi",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Whangarei",
+        "lat":-35.6,
+        "lon":174.3,
+        "pop":1800
+    },
+    {
+        "id":2181932,
+        "name":"Tangiteroria",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Kaipara District",
+        "lat":-35.81667,
+        "lon":174.05,
+        "pop":1800
+    },
+    {
+        "id":2192093,
+        "name":"Coromandel",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Thames-Coromandel District",
+        "lat":-36.7611,
+        "lon":175.49634,
+        "pop":1790
+    },
+    {
+        "id":6209526,
+        "name":"Twizel",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Mackenzie District",
+        "lat":-44.25842,
+        "lon":170.10063,
+        "pop":1780
+    },
+    {
+        "id":2187348,
+        "name":"Maramarua",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Waikato District",
+        "lat":-37.25,
+        "lon":175.23333,
+        "pop":1767
+    },
+    {
+        "id":2191524,
+        "name":"Ealing",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Ashburton District",
+        "lat":-44.05,
+        "lon":171.41667,
+        "pop":1740
+    },
+    {
+        "id":2182017,
+        "name":"Taipa",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Far North District",
+        "lat":-34.99604,
+        "lon":173.46665,
+        "pop":1731
+    },
+    {
+        "id":2185134,
+        "name":"Paekakariki",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Kapiti Coast District",
+        "lat":-40.98544,
+        "lon":174.95449,
+        "pop":1730
+    },
+    {
+        "id":6220836,
+        "name":"Diamond Harbour",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.62888,
+        "lon":172.7254,
+        "pop":1720
+    },
+    {
+        "id":2185922,
+        "name":"Oakura",
+        "country":"NZ",
+        "admin1":"Taranaki Region",
+        "admin2":"New Plymouth District",
+        "lat":-39.11667,
+        "lon":173.95,
+        "pop":1720
+    },
+    {
+        "id":2180286,
+        "name":"Waikawa",
+        "country":"NZ",
+        "admin1":"Marlborough",
+        "admin2":"Marlborough District",
+        "lat":-41.26667,
+        "lon":174.05,
+        "pop":1720
+    },
+    {
+        "id":2180127,
+        "name":"Wainui",
+        "country":"NZ",
+        "admin1":"Gisborne",
+        "admin2":"Gisborne District",
+        "lat":-38.68873,
+        "lon":178.07048,
+        "pop":1716
+    },
+    {
+        "id":2192521,
+        "name":"Castlepoint",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Masterton District",
+        "lat":-40.9,
+        "lon":176.21667,
+        "pop":1686
+    },
+    {
+        "id":6227728,
+        "name":"Woodville",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Tararua District",
+        "lat":-40.33719,
+        "lon":175.86678,
+        "pop":1680
+    },
+    {
+        "id":6206745,
+        "name":"Mataura",
+        "country":"NZ",
+        "admin1":"Southland",
+        "admin2":"Gore District",
+        "lat":-46.1784,
+        "lon":168.85009,
+        "pop":1680
+    },
+    {
+        "id":2206957,
+        "name":"Riverton",
+        "country":"NZ",
+        "admin1":"Southland",
+        "admin2":"Southland District",
+        "lat":-46.35,
+        "lon":168.01667,
+        "pop":1680
+    },
+    {
+        "id":2188089,
+        "name":"Macandrew Bay",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Dunedin City",
+        "lat":-45.86667,
+        "lon":170.6,
+        "pop":1670
+    },
+    {
+        "id":2185081,
+        "name":"Paihia",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Far North District",
+        "lat":-35.28067,
+        "lon":174.09103,
+        "pop":1670
+    },
+    {
+        "id":2183824,
+        "name":"Rakaia",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Ashburton District",
+        "lat":-43.75,
+        "lon":172.01667,
+        "pop":1670
+    },
+    {
+        "id":2179474,
+        "name":"West Eyreton",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Waimakariri District",
+        "lat":-43.35,
+        "lon":172.38333,
+        "pop":1620
+    },
+    {
+        "id":2189338,
+        "name":"Kaharoa",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Rotorua District",
+        "lat":-37.99513,
+        "lon":176.23467,
+        "pop":1617
+    },
+    {
+        "id":6225657,
+        "name":"Shannon",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Horowhenua District",
+        "lat":-40.54826,
+        "lon":175.42021,
+        "pop":1610
+    },
+    {
+        "id":2182010,
+        "name":"Tairua",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Thames-Coromandel District",
+        "lat":-37.01667,
+        "lon":175.85,
+        "pop":1588
+    },
+    {
+        "id":2192965,
+        "name":"Brighton",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Dunedin City",
+        "lat":-45.95,
+        "lon":170.33333,
+        "pop":1580
+    },
+    {
+        "id":6225082,
+        "name":"Ohakune",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Ruapehu District",
+        "lat":-39.40824,
+        "lon":175.40021,
+        "pop":1570
+    },
+    {
+        "id":12524410,
+        "name":"Clarks Beach",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-37.14173,
+        "lon":174.71463,
+        "pop":1560
+    },
+    {
+        "id":2192317,
+        "name":"Clarkville",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Waimakariri District",
+        "lat":-43.41667,
+        "lon":172.61667,
+        "pop":1550
+    },
+    {
+        "id":2181120,
+        "name":"Tiniroto",
+        "country":"NZ",
+        "admin1":"Gisborne",
+        "admin2":"Gisborne District",
+        "lat":-38.76667,
+        "lon":177.56667,
+        "pop":1539
+    },
+    {
+        "id":2180471,
+        "name":"Waharoa",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Matamata-Piako District",
+        "lat":-37.76667,
+        "lon":175.76667,
+        "pop":1521
+    },
+    {
+        "id":2192295,
+        "name":"Clevedon",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-37.0,
+        "lon":175.05,
+        "pop":1515
+    },
+    {
+        "id":2188966,
+        "name":"Kawakawa",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Far North District",
+        "lat":-35.38333,
+        "lon":174.06667,
+        "pop":1500
+    },
+    {
+        "id":2181951,
+        "name":"Taneatua",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Whakatane District",
+        "lat":-38.06667,
+        "lon":177.01667,
+        "pop":1497
+    },
+    {
+        "id":2206357,
+        "name":"Opunake",
+        "country":"NZ",
+        "admin1":"Taranaki Region",
+        "admin2":"South Taranaki District",
+        "lat":-39.45556,
+        "lon":173.85833,
+        "pop":1495
+    },
+    {
+        "id":2192182,
+        "name":"Colville",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Thames-Coromandel District",
+        "lat":-36.63333,
+        "lon":175.46667,
+        "pop":1485
+    },
+    {
+        "id":2184512,
+        "name":"Pleasant Point",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Timaru District",
+        "lat":-44.26667,
+        "lon":171.13333,
+        "pop":1470
+    },
+    {
+        "id":2208238,
+        "name":"Port Chalmers",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Dunedin City",
+        "lat":-45.81664,
+        "lon":170.62037,
+        "pop":1460
+    },
+    {
+        "id":2184778,
+        "name":"Patumahoe",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-37.18333,
+        "lon":174.83333,
+        "pop":1450
+    },
+    {
+        "id":2181997,
+        "name":"Takaka",
+        "country":"NZ",
+        "admin1":"Tasman District",
+        "admin2":"Tasman District",
+        "lat":-40.85,
+        "lon":172.8,
+        "pop":1430
+    },
+    {
+        "id":2187908,
+        "name":"Maketu",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Western Bay of Plenty District",
+        "lat":-37.76667,
+        "lon":176.45,
+        "pop":1410
+    },
+    {
+        "id":2179985,
+        "name":"Waipu",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Whangarei",
+        "lat":-35.98333,
+        "lon":174.45,
+        "pop":1410
+    },
+    {
+        "id":2190011,
+        "name":"Hicks Bay",
+        "country":"NZ",
+        "admin1":"Gisborne",
+        "admin2":"Gisborne District",
+        "lat":-37.6,
+        "lon":178.3,
+        "pop":1389
+    },
+    {
+        "id":2190262,
+        "name":"Harewood",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.48333,
+        "lon":172.58333,
+        "pop":1386
+    },
+    {
+        "id":2187476,
+        "name":"Mangawhai",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Kaipara District",
+        "lat":-36.11667,
+        "lon":174.56667,
+        "pop":1370
+    },
+    {
+        "id":2186111,
+        "name":"Ngunguru",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Whangarei",
+        "lat":-35.61667,
+        "lon":174.5,
+        "pop":1358
+    },
+    {
+        "id":6233785,
+        "name":"Oneroa",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.77819,
+        "lon":175.01019,
+        "pop":1350
+    },
+    {
+        "id":2184539,
+        "name":"Pirongia",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Waipa District",
+        "lat":-38.0,
+        "lon":175.2,
+        "pop":1340
+    },
+    {
+        "id":6212017,
+        "name":"Waikouaiti",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Dunedin City",
+        "lat":-45.58837,
+        "lon":170.6501,
+        "pop":1330
+    },
+    {
+        "id":2180167,
+        "name":"Waimauku",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.75,
+        "lon":174.5,
+        "pop":1320
+    },
+    {
+        "id":2206361,
+        "name":"Patea",
+        "country":"NZ",
+        "admin1":"Taranaki Region",
+        "admin2":"South Taranaki District",
+        "lat":-39.75833,
+        "lon":174.48333,
+        "pop":1286
+    },
+    {
+        "id":6247832,
+        "name":"Temple View",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Hamilton City",
+        "lat":-37.82077,
+        "lon":175.2255,
+        "pop":1280
+    },
+    {
+        "id":2193778,
+        "name":"Arthurs Point",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Queenstown-Lakes District",
+        "lat":-44.98333,
+        "lon":168.66667,
+        "pop":1280
+    },
+    {
+        "id":2185493,
+        "name":"Opua",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Far North District",
+        "lat":-35.31667,
+        "lon":174.11667,
+        "pop":1280
+    },
+    {
+        "id":6212566,
+        "name":"Runanga",
+        "country":"NZ",
+        "admin1":"West Coast",
+        "admin2":"Grey District",
+        "lat":-42.39828,
+        "lon":171.25013,
+        "pop":1270
+    },
+    {
+        "id":2185836,
+        "name":"Ohinemutu",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Rotorua District",
+        "lat":-38.15,
+        "lon":176.28333,
+        "pop":1260
+    },
+    {
+        "id":2192797,
+        "name":"Burnham",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Selwyn District",
+        "lat":-43.61667,
+        "lon":172.31667,
+        "pop":1239
+    },
+    {
+        "id":2183601,
+        "name":"Rawene",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Far North District",
+        "lat":-35.40217,
+        "lon":173.50317,
+        "pop":1236
+    },
+    {
+        "id":2190227,
+        "name":"Haruru",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Far North District",
+        "lat":-35.28066,
+        "lon":174.05434,
+        "pop":1230
+    },
+    {
+        "id":2183675,
+        "name":"Rapaura",
+        "country":"NZ",
+        "admin1":"Marlborough",
+        "admin2":"Marlborough District",
+        "lat":-41.46667,
+        "lon":173.9,
+        "pop":1212
+    },
+    {
+        "id":2179624,
+        "name":"Washdyke",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Timaru District",
+        "lat":-44.35,
+        "lon":171.23333,
+        "pop":1200
+    },
+    {
+        "id":2179454,
+        "name":"Weston",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"",
+        "lat":-45.08333,
+        "lon":170.91667,
+        "pop":1190
+    },
+    {
+        "id":2183609,
+        "name":"Raupunga",
+        "country":"NZ",
+        "admin1":"Hawke's Bay Region",
+        "admin2":"Wairoa District",
+        "lat":-39.03333,
+        "lon":177.21667,
+        "pop":1188
+    },
+    {
+        "id":2190299,
+        "name":"Hanmer Springs",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Hurunui District",
+        "lat":-42.51667,
+        "lon":172.81667,
+        "pop":1180
+    },
+    {
+        "id":2188796,
+        "name":"Kirwee",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Selwyn District",
+        "lat":-43.5,
+        "lon":172.21667,
+        "pop":1180
+    },
+    {
+        "id":2179794,
+        "name":"Waitoa",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Matamata-Piako District",
+        "lat":-37.61667,
+        "lon":175.63333,
+        "pop":1170
+    },
+    {
+        "id":2190202,
+        "name":"Haumoana",
+        "country":"NZ",
+        "admin1":"Hawke's Bay Region",
+        "admin2":"Hastings District",
+        "lat":-39.6037,
+        "lon":176.94571,
+        "pop":1161
+    },
+    {
+        "id":2189425,
+        "name":"Jerusalem",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Whanganui District",
+        "lat":-39.55,
+        "lon":175.06667,
+        "pop":1155
+    },
+    {
+        "id":2184359,
+        "name":"Portobello",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Dunedin City",
+        "lat":-45.85,
+        "lon":170.65,
+        "pop":1155
+    },
+    {
+        "id":2186152,
+        "name":"Ngatea",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Hauraki District",
+        "lat":-37.28333,
+        "lon":175.5,
+        "pop":1151
+    },
+    {
+        "id":7931913,
+        "name":"Cable Bay",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Far North District",
+        "lat":-34.99438,
+        "lon":173.49283,
+        "pop":1140
+    },
+    {
+        "id":6225059,
+        "name":"Raetihi",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Ruapehu District",
+        "lat":-39.42877,
+        "lon":175.27725,
+        "pop":1130
+    },
+    {
+        "id":2190311,
+        "name":"Hamurana",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Rotorua District",
+        "lat":-38.03333,
+        "lon":176.26667,
+        "pop":1130
+    },
+    {
+        "id":2188666,
+        "name":"Kopuaranga",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Masterton District",
+        "lat":-40.83333,
+        "lon":175.66667,
+        "pop":1130
+    },
+    {
+        "id":2186363,
+        "name":"Muriwai Beach",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.83659,
+        "lon":174.43298,
+        "pop":1130
+    },
+    {
+        "id":2180217,
+        "name":"Waikuku Beach",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Waimakariri District",
+        "lat":-43.28333,
+        "lon":172.71667,
+        "pop":1130
+    },
+    {
+        "id":2188993,
+        "name":"Kaukapakapa",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.61667,
+        "lon":174.5,
+        "pop":1110
+    },
+    {
+        "id":2184927,
+        "name":"Parakai",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.65,
+        "lon":174.43333,
+        "pop":1100
+    },
+    {
+        "id":2194098,
+        "name":"Ahipara",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Far North District",
+        "lat":-35.16604,
+        "lon":173.15563,
+        "pop":1093
+    },
+    {
+        "id":11876518,
+        "name":"Kennedys Bush",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.60324,
+        "lon":172.5816,
+        "pop":1090
+    },
+    {
+        "id":2184766,
+        "name":"Pauanui",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Thames-Coromandel District",
+        "lat":-37.01667,
+        "lon":175.86667,
+        "pop":1090
+    },
+    {
+        "id":2189364,
+        "name":"Judgeford",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Porirua City",
+        "lat":-41.11667,
+        "lon":174.93333,
+        "pop":1080
+    },
+    {
+        "id":2187826,
+        "name":"Manaia",
+        "country":"NZ",
+        "admin1":"Taranaki Region",
+        "admin2":"South Taranaki District",
+        "lat":-39.55,
+        "lon":174.13333,
+        "pop":1070
+    },
+    {
+        "id":2186049,
+        "name":"Normanby",
+        "country":"NZ",
+        "admin1":"Taranaki Region",
+        "admin2":"South Taranaki District",
+        "lat":-39.53333,
+        "lon":174.28333,
+        "pop":1070
+    },
+    {
+        "id":2184612,
+        "name":"Piha",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.95,
+        "lon":174.46667,
+        "pop":1070
+    },
+    {
+        "id":6215161,
+        "name":"Palmerston",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"",
+        "lat":-45.47837,
+        "lon":170.7201,
+        "pop":1050
+    },
+    {
+        "id":2182137,
+        "name":"Swannanoa",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Waimakariri District",
+        "lat":-43.38333,
+        "lon":172.46667,
+        "pop":1050
+    },
+    {
+        "id":2184763,
+        "name":"Pauatahanui",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Porirua City",
+        "lat":-41.1,
+        "lon":174.91667,
+        "pop":1030
+    },
+    {
+        "id":2179017,
+        "name":"Wingatui",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Dunedin City",
+        "lat":-45.88333,
+        "lon":170.38333,
+        "pop":1030
+    },
+    {
+        "id":2193657,
+        "name":"Awarua Plains",
+        "country":"NZ",
+        "admin1":"Southland",
+        "admin2":"Invercargill City",
+        "lat":-46.48333,
+        "lon":168.38333,
+        "pop":1020
+    },
+    {
+        "id":2182525,
+        "name":"Southbridge",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Selwyn District",
+        "lat":-43.81667,
+        "lon":172.25,
+        "pop":1010
+    },
+    {
+        "id":2187074,
+        "name":"Maungatapere",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Whangarei",
+        "lat":-35.75,
+        "lon":174.2,
+        "pop":1007
+    },
+    {
+        "id":2189819,
+        "name":"Hope",
+        "country":"NZ",
+        "admin1":"Tasman District",
+        "admin2":"Tasman District",
+        "lat":-41.36667,
+        "lon":173.15,
+        "pop":990
+    },
+    {
+        "id":2183406,
+        "name":"Riwaka",
+        "country":"NZ",
+        "admin1":"Tasman District",
+        "admin2":"Tasman District",
+        "lat":-41.08333,
+        "lon":173.0,
+        "pop":986
+    },
+    {
+        "id":2180837,
+        "name":"Tuahiwi",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Waimakariri District",
+        "lat":-43.33333,
+        "lon":172.65,
+        "pop":980
+    },
+    {
+        "id":2188424,
+        "name":"Leithfield",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Hurunui District",
+        "lat":-43.2,
+        "lon":172.73333,
+        "pop":961
+    },
+    {
+        "id":2179287,
+        "name":"Whangarei Heads",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Whangarei",
+        "lat":-35.81667,
+        "lon":174.5,
+        "pop":960
+    },
+    {
+        "id":2181002,
+        "name":"Tokomaru",
+        "country":"NZ",
+        "admin1":"Gisborne",
+        "admin2":"Gisborne District",
+        "lat":-38.13333,
+        "lon":178.3,
+        "pop":954
+    },
+    {
+        "id":8556356,
+        "name":"Governors Bay",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.62266,
+        "lon":172.64663,
+        "pop":940
+    },
+    {
+        "id":2191220,
+        "name":"Fairlie",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Mackenzie District",
+        "lat":-44.1,
+        "lon":170.83333,
+        "pop":940
+    },
+    {
+        "id":2190760,
+        "name":"Gladstone",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Carterton District",
+        "lat":-41.08333,
+        "lon":175.65,
+        "pop":940
+    },
+    {
+        "id":2187060,
+        "name":"Maungaturoto",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Kaipara District",
+        "lat":-36.1,
+        "lon":174.36667,
+        "pop":940
+    },
+    {
+        "id":2180991,
+        "name":"Tolaga Bay",
+        "country":"NZ",
+        "admin1":"Gisborne",
+        "admin2":"Gisborne District",
+        "lat":-38.36667,
+        "lon":178.3,
+        "pop":932
+    },
+    {
+        "id":2178896,
+        "name":"Arthur’s Pass",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Selwyn District",
+        "lat":-42.95,
+        "lon":171.56667,
+        "pop":930
+    },
+    {
+        "id":2183551,
+        "name":"Reefton",
+        "country":"NZ",
+        "admin1":"West Coast",
+        "admin2":"Buller District",
+        "lat":-42.11667,
+        "lon":171.86667,
+        "pop":927
+    },
+    {
+        "id":2185868,
+        "name":"Ohariu",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Wellington City",
+        "lat":-41.2,
+        "lon":174.76667,
+        "pop":920
+    },
+    {
+        "id":2190364,
+        "name":"Hakataramea",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Waimate District",
+        "lat":-44.73333,
+        "lon":170.48333,
+        "pop":910
+    },
+    {
+        "id":2185128,
+        "name":"Paengaroa",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Western Bay of Plenty District",
+        "lat":-37.81667,
+        "lon":176.41667,
+        "pop":906
+    },
+    {
+        "id":2183115,
+        "name":"Ruatoria",
+        "country":"NZ",
+        "admin1":"Gisborne",
+        "admin2":"Gisborne District",
+        "lat":-37.88333,
+        "lon":178.33333,
+        "pop":897
+    },
+    {
+        "id":2192264,
+        "name":"Clyde",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Central Otago District",
+        "lat":-45.18651,
+        "lon":169.31545,
+        "pop":890
+    },
+    {
+        "id":2193903,
+        "name":"Aokautere",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Palmerston North City",
+        "lat":-40.36667,
+        "lon":175.66667,
+        "pop":870
+    },
+    {
+        "id":2208245,
+        "name":"Kaitangata",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Clutha District",
+        "lat":-46.275,
+        "lon":169.85,
+        "pop":851
+    },
+    {
+        "id":2182524,
+        "name":"Southbrook",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Waimakariri District",
+        "lat":-43.33333,
+        "lon":172.6,
+        "pop":850
+    },
+    {
+        "id":8556355,
+        "name":"Te Puru",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Thames-Coromandel District",
+        "lat":-37.04658,
+        "lon":175.52041,
+        "pop":846
+    },
+    {
+        "id":2181385,
+        "name":"Te Poi",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Matamata-Piako District",
+        "lat":-37.88333,
+        "lon":175.83333,
+        "pop":840
+    },
+    {
+        "id":2191717,
+        "name":"Dobson",
+        "country":"NZ",
+        "admin1":"West Coast",
+        "admin2":"Grey District",
+        "lat":-42.45,
+        "lon":171.35,
+        "pop":828
+    },
+    {
+        "id":2179581,
+        "name":"Waverley",
+        "country":"NZ",
+        "admin1":"Taranaki Region",
+        "admin2":"South Taranaki District",
+        "lat":-39.76667,
+        "lon":174.63333,
+        "pop":819
+    },
+    {
+        "id":2181100,
+        "name":"Tirau",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"South Waikato District",
+        "lat":-37.98333,
+        "lon":175.75,
+        "pop":804
+    },
+    {
+        "id":2192613,
+        "name":"Cardrona",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Queenstown-Lakes District",
+        "lat":-44.88333,
+        "lon":169.0,
+        "pop":800
+    },
+    {
+        "id":2179855,
+        "name":"Waitangi",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Far North District",
+        "lat":-35.27025,
+        "lon":174.08062,
+        "pop":795
+    },
+    {
+        "id":2184355,
+        "name":"Port Waikato",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Waikato District",
+        "lat":-37.39014,
+        "lon":174.72755,
+        "pop":783
+    },
+    {
+        "id":2185183,
+        "name":"Outram",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Dunedin City",
+        "lat":-45.86667,
+        "lon":170.23333,
+        "pop":774
+    },
+    {
+        "id":2181589,
+        "name":"Te Awanga",
+        "country":"NZ",
+        "admin1":"Hawke's Bay Region",
+        "admin2":"Hastings District",
+        "lat":-39.63333,
+        "lon":176.98333,
+        "pop":768
+    },
+    {
+        "id":2180063,
+        "name":"Waiouru",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Ruapehu District",
+        "lat":-39.47753,
+        "lon":175.66834,
+        "pop":765
+    },
+    {
+        "id":2185883,
+        "name":"Ohaeawai",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Far North District",
+        "lat":-35.35,
+        "lon":173.88333,
+        "pop":764
+    },
+    {
+        "id":2183076,
+        "name":"Russell",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Far North District",
+        "lat":-35.26153,
+        "lon":174.12257,
+        "pop":762
+    },
+    {
+        "id":2187834,
+        "name":"Mamaku",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Rotorua District",
+        "lat":-38.1,
+        "lon":176.08333,
+        "pop":751
+    },
+    {
+        "id":2192822,
+        "name":"Bunnythorpe",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Palmerston North City",
+        "lat":-40.28333,
+        "lon":175.63333,
+        "pop":750
+    },
+    {
+        "id":2193111,
+        "name":"Bombay",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-37.16667,
+        "lon":174.98333,
+        "pop":740
+    },
+    {
+        "id":2183774,
+        "name":"Ranfurly",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Central Otago District",
+        "lat":-45.13333,
+        "lon":170.1,
+        "pop":726
+    },
+    {
+        "id":2180197,
+        "name":"Waimana",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Whakatane District",
+        "lat":-38.15,
+        "lon":177.08333,
+        "pop":709
+    },
+    {
+        "id":6222028,
+        "name":"Akaroa",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Christchurch City",
+        "lat":-43.80384,
+        "lon":172.96817,
+        "pop":700
+    },
+    {
+        "id":2183299,
+        "name":"Rongotea",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Manawatu District",
+        "lat":-40.29262,
+        "lon":175.42514,
+        "pop":700
+    },
+    {
+        "id":2181558,
+        "name":"Te Horo",
+        "country":"NZ",
+        "admin1":"Wellington Region",
+        "admin2":"Kapiti Coast District",
+        "lat":-40.8,
+        "lon":175.1,
+        "pop":698
+    },
+    {
+        "id":2189272,
+        "name":"Kaikoura",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Kaikoura District",
+        "lat":-42.41667,
+        "lon":173.68333,
+        "pop":685
+    },
+    {
+        "id":2187175,
+        "name":"Matata",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Whakatane District",
+        "lat":-37.88333,
+        "lon":176.75,
+        "pop":681
+    },
+    {
+        "id":2185296,
+        "name":"Otautau",
+        "country":"NZ",
+        "admin1":"Southland",
+        "admin2":"Southland District",
+        "lat":-46.15,
+        "lon":168.0,
+        "pop":672
+    },
+    {
+        "id":2194109,
+        "name":"Ahaura",
+        "country":"NZ",
+        "admin1":"West Coast",
+        "admin2":"Grey District",
+        "lat":-42.34925,
+        "lon":171.53928,
+        "pop":669
+    },
+    {
+        "id":2190358,
+        "name":"Halcombe",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Manawatu District",
+        "lat":-40.14332,
+        "lon":175.4944,
+        "pop":660
+    },
+    {
+        "id":2182968,
+        "name":"Sanson",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Manawatu District",
+        "lat":-40.22011,
+        "lon":175.42445,
+        "pop":660
+    },
+    {
+        "id":2186745,
+        "name":"Moawhango",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Rangitikei District",
+        "lat":-39.58016,
+        "lon":175.86227,
+        "pop":651
+    },
+    {
+        "id":2179362,
+        "name":"Whakatu",
+        "country":"NZ",
+        "admin1":"Hawke's Bay Region",
+        "admin2":"Hastings District",
+        "lat":-39.6,
+        "lon":176.88333,
+        "pop":639
+    },
+    {
+        "id":2179690,
+        "name":"Wallacetown",
+        "country":"NZ",
+        "admin1":"Southland",
+        "admin2":"Southland District",
+        "lat":-46.33333,
+        "lon":168.28333,
+        "pop":638
+    },
+    {
+        "id":2186377,
+        "name":"Murchison",
+        "country":"NZ",
+        "admin1":"Tasman District",
+        "admin2":"Tasman District",
+        "lat":-41.8,
+        "lon":172.33333,
+        "pop":606
+    },
+    {
+        "id":2185763,
+        "name":"Okato",
+        "country":"NZ",
+        "admin1":"Taranaki Region",
+        "admin2":"New Plymouth District",
+        "lat":-39.2,
+        "lon":173.88333,
+        "pop":606
+    },
+    {
+        "id":2183984,
+        "name":"Puniho",
+        "country":"NZ",
+        "admin1":"Taranaki Region",
+        "admin2":"South Taranaki District",
+        "lat":-39.2,
+        "lon":173.83333,
+        "pop":606
+    },
+    {
+        "id":6208093,
+        "name":"Roxburgh",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Central Otago District",
+        "lat":-45.54056,
+        "lon":169.31466,
+        "pop":600
+    },
+    {
+        "id":2183524,
+        "name":"Reporoa",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Rotorua District",
+        "lat":-38.43594,
+        "lon":176.34117,
+        "pop":595
+    },
+    {
+        "id":2191456,
+        "name":"Edendale",
+        "country":"NZ",
+        "admin1":"Southland",
+        "admin2":"Southland District",
+        "lat":-46.31667,
+        "lon":168.78333,
+        "pop":588
+    },
+    {
+        "id":2190172,
+        "name":"Havelock",
+        "country":"NZ",
+        "admin1":"Marlborough",
+        "admin2":"Marlborough District",
+        "lat":-41.28333,
+        "lon":173.76667,
+        "pop":588
+    },
+    {
+        "id":2189697,
+        "name":"Huia",
+        "country":"NZ",
+        "admin1":"Auckland",
+        "admin2":"Auckland",
+        "lat":-36.99834,
+        "lon":174.56665,
+        "pop":580
+    },
+    {
+        "id":11748304,
+        "name":"Gloriavale Christian Church",
+        "country":"NZ",
+        "admin1":"West Coast",
+        "admin2":"Grey District",
+        "lat":-42.60552,
+        "lon":171.70301,
+        "pop":570
+    },
+    {
+        "id":2183643,
+        "name":"Ratapiko",
+        "country":"NZ",
+        "admin1":"Taranaki Region",
+        "admin2":"New Plymouth District",
+        "lat":-39.2,
+        "lon":174.31667,
+        "pop":570
+    },
+    {
+        "id":2189167,
+        "name":"Kaiwaka",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Kaipara District",
+        "lat":-36.16667,
+        "lon":174.45,
+        "pop":565
+    },
+    {
+        "id":2193747,
+        "name":"Athenree",
+        "country":"NZ",
+        "admin1":"Bay of Plenty",
+        "admin2":"Western Bay of Plenty District",
+        "lat":-37.46667,
+        "lon":175.91667,
+        "pop":563
+    },
+    {
+        "id":2181001,
+        "name":"Tokomaru",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Horowhenua District",
+        "lat":-40.473,
+        "lon":175.50934,
+        "pop":563
+    },
+    {
+        "id":2180815,
+        "name":"Tuatapere",
+        "country":"NZ",
+        "admin1":"Southland",
+        "admin2":"Southland District",
+        "lat":-46.13333,
+        "lon":167.68333,
+        "pop":558
+    },
+    {
+        "id":2182871,
+        "name":"Seddon",
+        "country":"NZ",
+        "admin1":"Marlborough",
+        "admin2":"Marlborough District",
+        "lat":-41.66667,
+        "lon":174.08333,
+        "pop":552
+    },
+    {
+        "id":2178933,
+        "name":"Wyndham",
+        "country":"NZ",
+        "admin1":"Southland",
+        "admin2":"Southland District",
+        "lat":-46.33333,
+        "lon":168.85,
+        "pop":550
+    },
+    {
+        "id":2182867,
+        "name":"Sefton",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Waimakariri District",
+        "lat":-43.25,
+        "lon":172.66667,
+        "pop":546
+    },
+    {
+        "id":2188937,
+        "name":"Kawhia",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Otorohanga District",
+        "lat":-38.06667,
+        "lon":174.81667,
+        "pop":543
+    },
+    {
+        "id":2189947,
+        "name":"Himatangi",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Manawatu District",
+        "lat":-40.39146,
+        "lon":175.3153,
+        "pop":538
+    },
+    {
+        "id":2188882,
+        "name":"Kerepehi",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Hauraki District",
+        "lat":-37.3,
+        "lon":175.53333,
+        "pop":537
+    },
+    {
+        "id":2182431,
+        "name":"Springston",
+        "country":"NZ",
+        "admin1":"Canterbury",
+        "admin2":"Selwyn District",
+        "lat":-43.65,
+        "lon":172.41667,
+        "pop":534
+    },
+    {
+        "id":2179825,
+        "name":"Waitati",
+        "country":"NZ",
+        "admin1":"Otago",
+        "admin2":"Dunedin City",
+        "lat":-45.75,
+        "lon":170.56667,
+        "pop":534
+    },
+    {
+        "id":2181521,
+        "name":"Te Karaka",
+        "country":"NZ",
+        "admin1":"Gisborne",
+        "admin2":"Gisborne District",
+        "lat":-38.46667,
+        "lon":177.86667,
+        "pop":522
+    },
+    {
+        "id":2185329,
+        "name":"Otane",
+        "country":"NZ",
+        "admin1":"Hawke's Bay Region",
+        "admin2":"Central Hawke's Bay District",
+        "lat":-39.88333,
+        "lon":176.63333,
+        "pop":516
+    },
+    {
+        "id":2181988,
+        "name":"Takapau",
+        "country":"NZ",
+        "admin1":"Hawke's Bay Region",
+        "admin2":"Central Hawke's Bay District",
+        "lat":-40.03333,
+        "lon":176.35,
+        "pop":516
+    },
+    {
+        "id":2179959,
+        "name":"Wairakei",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Taupo District",
+        "lat":-38.63333,
+        "lon":176.1,
+        "pop":510
+    },
+    {
+        "id":2189343,
+        "name":"Kaeo",
+        "country":"NZ",
+        "admin1":"Northland",
+        "admin2":"Far North District",
+        "lat":-35.1,
+        "lon":173.78333,
+        "pop":508
+    },
+    {
+        "id":2184564,
+        "name":"Piopio",
+        "country":"NZ",
+        "admin1":"Waikato Region",
+        "admin2":"Waitomo District",
+        "lat":-38.46667,
+        "lon":175.01667,
+        "pop":502
+    },
+    {
+        "id":2187821,
+        "name":"Manakau",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Horowhenua District",
+        "lat":-40.71667,
+        "lon":175.21667,
+        "pop":500
+    },
+    {
+        "id":2186302,
+        "name":"National Park",
+        "country":"NZ",
+        "admin1":"Manawatu-Wanganui",
+        "admin2":"Ruapehu District",
+        "lat":-39.18333,
+        "lon":175.4,
+        "pop":500
+    }
+]

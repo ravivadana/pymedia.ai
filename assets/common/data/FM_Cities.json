@@ -1,0 +1,212 @@
+[
+    {
+        "id":2081114,
+        "name":"Weno",
+        "country":"FM",
+        "admin1":"Chuuk",
+        "admin2":"Weno Municipality",
+        "lat":7.44648,
+        "lon":151.84135,
+        "pop":13856
+    },
+    {
+        "id":2081342,
+        "name":"Tofol",
+        "country":"FM",
+        "admin1":"Kosrae",
+        "admin2":"Lelu Municipality",
+        "lat":5.32479,
+        "lon":163.00781,
+        "pop":9686
+    },
+    {
+        "id":7648112,
+        "name":"Colonia",
+        "country":"FM",
+        "admin1":"Yap State",
+        "admin2":"Weloy Municipality",
+        "lat":9.51638,
+        "lon":138.12167,
+        "pop":7371
+    },
+    {
+        "id":2081986,
+        "name":"Palikir",
+        "country":"FM",
+        "admin1":"Pohnpei State",
+        "admin2":"Sokehs Municipality",
+        "lat":6.92477,
+        "lon":158.16109,
+        "pop":6942
+    },
+    {
+        "id":4043034,
+        "name":"Kolonia",
+        "country":"FM",
+        "admin1":"Pohnpei State",
+        "admin2":"Kolonia Municipality",
+        "lat":6.964,
+        "lon":158.2062,
+        "pop":6074
+    },
+    {
+        "id":2082038,
+        "name":"Kolonia Town",
+        "country":"FM",
+        "admin1":"Pohnpei State",
+        "admin2":"Kolonia Municipality",
+        "lat":6.964,
+        "lon":158.206,
+        "pop":5681
+    },
+    {
+        "id":7648249,
+        "name":"Lelu",
+        "country":"FM",
+        "admin1":"Kosrae",
+        "admin2":"Lelu Municipality",
+        "lat":5.33359,
+        "lon":163.02248,
+        "pop":2160
+    },
+    {
+        "id":7645215,
+        "name":"Nema",
+        "country":"FM",
+        "admin1":"Chuuk",
+        "admin2":"Nema Municipality",
+        "lat":6.98922,
+        "lon":152.57377,
+        "pop":995
+    },
+    {
+        "id":7645385,
+        "name":"Satowan Village",
+        "country":"FM",
+        "admin1":"Chuuk",
+        "admin2":"Satowan Municipality",
+        "lat":5.334,
+        "lon":153.7385,
+        "pop":955
+    },
+    {
+        "id":7645370,
+        "name":"Lukunor Village",
+        "country":"FM",
+        "admin1":"Chuuk",
+        "admin2":"Lekinioch Municipality",
+        "lat":5.507,
+        "lon":153.821,
+        "pop":927
+    },
+    {
+        "id":7628249,
+        "name":"Pulap Village",
+        "country":"FM",
+        "admin1":"Chuuk",
+        "admin2":"Pollap Municipality",
+        "lat":7.63665,
+        "lon":149.42788,
+        "pop":905
+    },
+    {
+        "id":7645379,
+        "name":"Kuttu Village",
+        "country":"FM",
+        "admin1":"Chuuk",
+        "admin2":"Kuttu Municipality",
+        "lat":5.45674,
+        "lon":153.45965,
+        "pop":873
+    },
+    {
+        "id":7645376,
+        "name":"Moch Village",
+        "country":"FM",
+        "admin1":"Chuuk",
+        "admin2":"Moch Municipality",
+        "lat":5.4918,
+        "lon":153.5405,
+        "pop":854
+    },
+    {
+        "id":7644932,
+        "name":"Nomwin Village",
+        "country":"FM",
+        "admin1":"Chuuk",
+        "admin2":"Nomwin Municipality",
+        "lat":8.43269,
+        "lon":151.74628,
+        "pop":711
+    },
+    {
+        "id":7627088,
+        "name":"Ngatik",
+        "country":"FM",
+        "admin1":"Pohnpei State",
+        "admin2":"Sapwuahfik Municipality",
+        "lat":5.78849,
+        "lon":157.15954,
+        "pop":640
+    },
+    {
+        "id":7645191,
+        "name":"Murilo",
+        "country":"FM",
+        "admin1":"Chuuk",
+        "admin2":"Murilo Municipality",
+        "lat":8.69242,
+        "lon":152.33934,
+        "pop":607
+    },
+    {
+        "id":7628272,
+        "name":"Onoun",
+        "country":"FM",
+        "admin1":"Chuuk",
+        "admin2":"Onoun Municipality",
+        "lat":8.57895,
+        "lon":149.68328,
+        "pop":580
+    },
+    {
+        "id":4041810,
+        "name":"Ifalik Village",
+        "country":"FM",
+        "admin1":"Yap State",
+        "admin2":"Ifalik Municipality",
+        "lat":7.25439,
+        "lon":144.45338,
+        "pop":561
+    },
+    {
+        "id":7645725,
+        "name":"Satawal Village",
+        "country":"FM",
+        "admin1":"Yap State",
+        "admin2":"Satawal Municipality",
+        "lat":7.38035,
+        "lon":147.02598,
+        "pop":531
+    },
+    {
+        "id":7645373,
+        "name":"Oneop Village",
+        "country":"FM",
+        "admin1":"Chuuk",
+        "admin2":"Oneop Municipality",
+        "lat":5.5066,
+        "lon":153.711,
+        "pop":505
+    },
+    {
+        "id":7645723,
+        "name":"Satawal",
+        "country":"FM",
+        "admin1":"Yap State",
+        "admin2":"Satawal Municipality",
+        "lat":7.382,
+        "lon":147.0322,
+        "pop":500
+    }
+]

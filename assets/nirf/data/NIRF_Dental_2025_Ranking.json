@@ -1,0 +1,362 @@
+[
+    {
+        "Institute ID": "IR-N-N-15",
+        "Name": "All India Institute of Medical Sciences, Delhi",
+        "City": "New Delhi",
+        "State": "Delhi",
+        "Score": "89.12",
+        "Rank": "1",
+        "Official Website": "https://www.aiims.edu"
+    },
+    {
+        "Institute ID": "IR-N-I-1441",
+        "Name": "Saveetha Institute of Medical and Technical Sciences",
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Score": "85.31",
+        "Rank": "2",
+        "Official Website": "https://www.saveetha.com"
+    },
+    {
+        "Institute ID": "IR-N-C-28507",
+        "Name": "Maulana Azad Institute of Dental Sciences",
+        "City": "Delhi",
+        "State": "Delhi",
+        "Score": "72.55",
+        "Rank": "3",
+        "Official Website": "https://maids.ac.in"
+    },
+    {
+        "Institute ID": "IR-N-I-1110",
+        "Name": "Dr. D. Y. Patil Vidyapeeth",
+        "City": "Pune",
+        "State": "Maharashtra",
+        "Score": "72.36",
+        "Rank": "4",
+        "Official Website": "https://dpu.edu.in"
+    },
+    {
+        "Institute ID": "IR-N-C-7254",
+        "Name": "Manipal College of Dental Sciences, Manipal",
+        "City": "Manipal",
+        "State": "Karnataka",
+        "Score": "70.58",
+        "Rank": "5",
+        "Official Website": "https://manipal.edu/mcods-manipal.html"
+    },
+    {
+        "Institute ID": "IR-N-C-19320",
+        "Name": "A.B.Shetty Memorial Institute of Dental Sciences",
+        "City": "Mangaluru",
+        "State": "Karnataka",
+        "Score": "69.00",
+        "Rank": "6",
+        "Official Website": "https://absmids.nitte.edu.in"
+    },
+    {
+        "Institute ID": "IR-N-U-0523",
+        "Name": "King George`s Medical University",
+        "City": "Lucknow",
+        "State": "Uttar Pradesh",
+        "Score": "68.89",
+        "Rank": "7",
+        "Official Website": "https://www.kgmu.org"
+    },
+    {
+        "Institute ID": "IR-N-N-352",
+        "Name": "SRM Dental College",
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Score": "68.19",
+        "Rank": "8",
+        "Official Website": "https://srmdentalcollege.ac.in"
+    },
+    {
+        "Institute ID": "IR-N-U-0363",
+        "Name": "Siksha `O` Anusandhan",
+        "City": "Bhubaneswar",
+        "State": "Odisha",
+        "Score": "63.12",
+        "Rank": "9",
+        "Official Website": "https://www.soa.ac.in"
+    },
+    {
+        "Institute ID": "IR-N-C-35008",
+        "Name": "JSS Dental College and Hospital",
+        "City": "Mysuru",
+        "State": "Karnataka",
+        "Score": "62.59",
+        "Rank": "10",
+        "Official Website": "https://jssuni.edu.in/jssuniversity/jss-dental-college-and-hospital"
+    },
+    {
+        "Institute ID": "IR-N-C-7240",
+        "Name": "Manipal College of Dental Sciences, Mangalore",
+        "City": "Mangaluru",
+        "State": "Karnataka",
+        "Score": "62.43",
+        "Rank": "11",
+        "Official Website": "https://manipal.edu/mcods-mangalore.html"
+    },
+    {
+        "Institute ID": "IR-N-C-30756",
+        "Name": "Postgraduate Institute of Dental Sciences",
+        "City": "Rohtak",
+        "State": "Haryana",
+        "Score": "62.03",
+        "Rank": "12",
+        "Official Website": "http://pgids.ac.in"
+    },
+    {
+        "Institute ID": "IR-N-I-1486",
+        "Name": "Sri Ramachandra Institute of Higher Education and Research",
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Score": "61.28",
+        "Rank": "13",
+        "Official Website": "https://www.sriramachandra.edu.in"
+    },
+    {
+        "Institute ID": "IR-N-U-0436",
+        "Name": "Amrita Vishwa Vidyapeetham",
+        "City": "Coimbatore",
+        "State": "Tamil Nadu",
+        "Score": "60.83",
+        "Rank": "14",
+        "Official Website": "https://www.amrita.edu"
+    },
+    {
+        "Institute ID": "IR-N-U-0496",
+        "Name": "Banaras Hindu University",
+        "City": "Varanasi",
+        "State": "Uttar Pradesh",
+        "Score": "60.14",
+        "Rank": "15",
+        "Official Website": "https://www.bhu.ac.in"
+    },
+    {
+        "Institute ID": "IR-N-U-0465",
+        "Name": "Meenakshi Academy of Higher Education and Research",
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Score": "59.92",
+        "Rank": "16",
+        "Official Website": "https://maher.ac.in"
+    },
+    {
+        "Institute ID": "IR-N-U-0108",
+        "Name": "Jamia Millia Islamia",
+        "City": "New Delhi",
+        "State": "Delhi",
+        "Score": "59.50",
+        "Rank": "17",
+        "Official Website": "https://www.jmi.ac.in"
+    },
+    {
+        "Institute ID": "IR-N-N-71",
+        "Name": "Faculty of Dental Sciences, Institute of Medical Sciences",
+        "City": "Varanasi",
+        "State": "Uttar Pradesh",
+        "Score": "Rank Withdrawn*",
+        "Rank": "18",
+        "Official Website": "https://www.bhu.ac.in/Site/UnitHome/2310"
+    },
+    {
+        "Institute ID": "IR-N-N-153",
+        "Name": "Nair Hospital Dental College",
+        "City": "Mumbai",
+        "State": "Maharashtra",
+        "Score": "58.10",
+        "Rank": "19",
+        "Official Website": "http://www.nairdentalcollege.edu.in"
+    },
+    {
+        "Institute ID": "IR-N-C-14033",
+        "Name": "Govt. Dental College, Nagpur",
+        "City": "Nagpur",
+        "State": "Maharashtra",
+        "Score": "57.70",
+        "Rank": "20",
+        "Official Website": "https://gdcnagpur.edu.in"
+    },
+    {
+        "Institute ID": "IR-N-C-13829",
+        "Name": "Govt. Dental College, Mumbai",
+        "City": "Mumbai",
+        "State": "Maharashtra",
+        "Score": "57.42",
+        "Rank": "21",
+        "Official Website": "https://gdcmumbai.org"
+    },
+    {
+        "Institute ID": "IR-N-U-0724",
+        "Name": "M.S. Ramaiah University of Applied Sciences",
+        "City": "Bengaluru",
+        "State": "Karnataka",
+        "Score": "57.39",
+        "Rank": "22",
+        "Official Website": "https://www.msruas.ac.in"
+    },
+    {
+        "Institute ID": "IR-N-C-6548",
+        "Name": "Mahatma Gandhi P.G. Institute of Dental Sciences",
+        "City": "Pondicherry",
+        "State": "Pondicherry",
+        "Score": "57.05",
+        "Rank": "23",
+        "Official Website": "https://mgpgids.py.gov.in"
+    },
+    {
+        "Institute ID": "IR-N-C-29150",
+        "Name": "Christian Dental College",
+        "City": "Ludhiana",
+        "State": "Punjab",
+        "Score": "56.96",
+        "Rank": "24",
+        "Official Website": "https://cmcludhiana.in"
+    },
+    {
+        "Institute ID": "IR-N-N-238",
+        "Name": "SDM College of Dental Sciences & Hospital",
+        "City": "Dharwad",
+        "State": "Karnataka",
+        "Score": "56.49",
+        "Rank": "25",
+        "Official Website": "https://sdmcds.edu.in"
+    },
+    {
+        "Institute ID": "IR-N-U-0356",
+        "Name": "Kalinga Institute of Industrial Technology",
+        "City": "Bhubaneswar",
+        "State": "Odisha",
+        "Score": "56.34",
+        "Rank": "26",
+        "Official Website": "https://kiit.ac.in"
+    },
+    {
+        "Institute ID": "IR-N-N-91",
+        "Name": "Sree Balaji Dental College & Hospital",
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Score": "56.32",
+        "Rank": "27",
+        "Official Website": "https://sbdch.ac.in"
+    },
+    {
+        "Institute ID": "IR-N-U-0496",
+        "Name": "Aligarh Muslim University",
+        "City": "Aligarh",
+        "State": "Uttar Pradesh",
+        "Score": "55.69",
+        "Rank": "28",
+        "Official Website": "https://www.amu.ac.in"
+    },
+    {
+        "Institute ID": "IR-N-C-24504",
+        "Name": "KLE Vishwanath Katti Institute of Dental Sciences",
+        "City": "Belgaum",
+        "State": "Karnataka",
+        "Score": "55.42",
+        "Rank": "29",
+        "Official Website": "https://kledentalbgm.edu.in"
+    },
+    {
+        "Institute ID": "IR-N-U-0461",
+        "Name": "Dr. M. G. R. Educational and Research Institute",
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Score": "55.08",
+        "Rank": "30",
+        "Official Website": "https://www.drmgrdu.ac.in"
+    },
+    {
+        "Institute ID": "IR-N-C-8528",
+        "Name": "Yenepoya Dental College",
+        "City": "Mangaluru",
+        "State": "Karnataka",
+        "Score": "55.00",
+        "Rank": "31",
+        "Official Website": "https://www.yenepoya.edu.in"
+    },
+    {
+        "Institute ID": "IR-N-C-45605",
+        "Name": "Chettinad Dental College and Research Institute",
+        "City": "Kelambakkam",
+        "State": "Tamil Nadu",
+        "Score": "54.90",
+        "Rank": "32",
+        "Official Website": "https://chettinadhealthcity.com/cdcri"
+    },
+    {
+        "Institute ID": "IR-N-U-0169",
+        "Name": "Manav Rachna International Institute of Research & Studies",
+        "City": "Faridabad",
+        "State": "Haryana",
+        "Score": "54.86",
+        "Rank": "33",
+        "Official Website": "https://manavrachna.edu.in/international-institute-of-research-and-studies"
+    },
+    {
+        "Institute ID": "IR-N-C-40178",
+        "Name": "Government Dental College, Bangalore",
+        "City": "Bengaluru",
+        "State": "Karnataka",
+        "Score": "54.80",
+        "Rank": "34",
+        "Official Website": "http://gdcri.org"
+    },
+    {
+        "Institute ID": "IR-N-C-48122",
+        "Name": "Government Dental College",
+        "City": "Thiruvananthapuram",
+        "State": "Kerala",
+        "Score": "54.73",
+        "Rank": "35",
+        "Official Website": "https://gdctrivandrum.org"
+    },
+    {
+        "Institute ID": "IR-N-U-0295",
+        "Name": "Datta Meghe Institute of Higher Education and Research",
+        "City": "Wardha",
+        "State": "Maharashtra",
+        "Score": "54.29",
+        "Rank": "36",
+        "Official Website": "https://dmiher.edu.in"
+    },
+    {
+        "Institute ID": "IR-N-C-5910",
+        "Name": "Government Dental College",
+        "City": "Ahmedabad",
+        "State": "Gujarat",
+        "Score": "54.13",
+        "Rank": "37",
+        "Official Website": "https://gdchahmedabad.org"
+    },
+    {
+        "Institute ID": "IR-N-C-8121",
+        "Name": "Government Dental College",
+        "City": "Kozhikode",
+        "State": "Kerala",
+        "Score": "52.97",
+        "Rank": "38",
+        "Official Website": "http://gdccalicut.org"
+    },
+    {
+        "Institute ID": "IR-N-N-353",
+        "Name": "SRM Kattankulathur Dental College",
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Score": "52.88",
+        "Rank": "39",
+        "Official Website": "https://www.srmist.edu.in"
+    },
+    {
+        "Institute ID": "IR-N-C-40342",
+        "Name": "K L E Society's Institute of Dental Sciences",
+        "City": "Bengaluru",
+        "State": "Karnataka",
+        "Score": "52.19",
+        "Rank": "40",
+        "Official Website": "https://klesids.org"
+    }
+]

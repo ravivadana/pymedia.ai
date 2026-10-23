@@ -1,0 +1,132 @@
+[
+    {
+        "id":2108502,
+        "name":"Honiara",
+        "country":"SB",
+        "admin1":"Honiara",
+        "admin2":"",
+        "lat":-9.43333,
+        "lon":159.95,
+        "pop":56298
+    },
+    {
+        "id":13527002,
+        "name":"Tandai",
+        "country":"SB",
+        "admin1":"Guadalcanal Province",
+        "admin2":"Tandai",
+        "lat":-9.44666,
+        "lon":159.94549,
+        "pop":24592
+    },
+    {
+        "id":13527001,
+        "name":"Malango",
+        "country":"SB",
+        "admin1":"Guadalcanal Province",
+        "admin2":"Malango",
+        "lat":-9.42497,
+        "lon":160.05329,
+        "pop":15560
+    },
+    {
+        "id":2106543,
+        "name":"Malango",
+        "country":"SB",
+        "admin1":"Guadalcanal Province",
+        "admin2":"Malango",
+        "lat":-9.69523,
+        "lon":159.71734,
+        "pop":10532
+    },
+    {
+        "id":2104863,
+        "name":"Noro",
+        "country":"SB",
+        "admin1":"Western Province",
+        "admin2":"Noro",
+        "lat":-8.22274,
+        "lon":157.19978,
+        "pop":7204
+    },
+    {
+        "id":2108857,
+        "name":"Gizo",
+        "country":"SB",
+        "admin1":"Western Province",
+        "admin2":"Gizo",
+        "lat":-8.10303,
+        "lon":156.84186,
+        "pop":7177
+    },
+    {
+        "id":2109701,
+        "name":"Auki",
+        "country":"SB",
+        "admin1":"Malaita Province",
+        "admin2":"Auki",
+        "lat":-8.76778,
+        "lon":160.69778,
+        "pop":7020
+    },
+    {
+        "id":2105575,
+        "name":"Munda",
+        "country":"SB",
+        "admin1":"Western Province",
+        "admin2":"Munda",
+        "lat":-8.32799,
+        "lon":157.26652,
+        "pop":3144
+    },
+    {
+        "id":2109528,
+        "name":"Buala",
+        "country":"SB",
+        "admin1":"Isabel Province",
+        "admin2":"Buala",
+        "lat":-8.14497,
+        "lon":159.59212,
+        "pop":2700
+    },
+    {
+        "id":2178753,
+        "name":"Kirakira",
+        "country":"SB",
+        "admin1":"Makira-Ulawa Province",
+        "admin2":"Bauro Central",
+        "lat":-10.45442,
+        "lon":161.92045,
+        "pop":2107
+    },
+    {
+        "id":2102384,
+        "name":"Tulagi",
+        "country":"SB",
+        "admin1":"Central Province",
+        "admin2":"Tulagi",
+        "lat":-9.10306,
+        "lon":160.15056,
+        "pop":1750
+    },
+    {
+        "id":11423653,
+        "name":"Taro",
+        "country":"SB",
+        "admin1":"Choiseul Province",
+        "admin2":"Batava",
+        "lat":-6.71111,
+        "lon":156.39722,
+        "pop":1053
+    },
+    {
+        "id":2178750,
+        "name":"Lata",
+        "country":"SB",
+        "admin1":"Temotu Province",
+        "admin2":"Luva Station",
+        "lat":-10.725,
+        "lon":165.79722,
+        "pop":553
+    }
+]

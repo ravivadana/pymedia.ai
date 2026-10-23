@@ -1,0 +1,892 @@
+[
+    {
+        "id":3489854,
+        "name":"Kingston",
+        "country":"JM",
+        "admin1":"Kingston",
+        "admin2":"",
+        "lat":17.99702,
+        "lon":-76.79358,
+        "pop":937700
+    },
+    {
+        "id":3488465,
+        "name":"Spanish Town",
+        "country":"JM",
+        "admin1":"Saint Catherine Parish",
+        "admin2":"Spanish Town Central",
+        "lat":17.99107,
+        "lon":-76.95742,
+        "pop":145018
+    },
+    {
+        "id":3488981,
+        "name":"Portmore",
+        "country":"JM",
+        "admin1":"Saint Catherine Parish",
+        "admin2":"Naggo Head",
+        "lat":17.97102,
+        "lon":-76.88691,
+        "pop":102861
+    },
+    {
+        "id":3489460,
+        "name":"Montego Bay",
+        "country":"JM",
+        "admin1":"Saint James Parish",
+        "admin2":"Down Town Montego Bay",
+        "lat":18.47116,
+        "lon":-77.91883,
+        "pop":82867
+    },
+    {
+        "id":3489577,
+        "name":"Mandeville",
+        "country":"JM",
+        "admin1":"Manchester",
+        "admin2":"Mandeville Proper",
+        "lat":18.04168,
+        "lon":-77.50714,
+        "pop":47115
+    },
+    {
+        "id":3489523,
+        "name":"May Pen",
+        "country":"JM",
+        "admin1":"Clarendon",
+        "admin2":"May Pen Proper",
+        "lat":17.96454,
+        "lon":-77.24515,
+        "pop":44755
+    },
+    {
+        "id":3489227,
+        "name":"Old Harbour",
+        "country":"JM",
+        "admin1":"Saint Catherine Parish",
+        "admin2":"Old Harbour",
+        "lat":17.94144,
+        "lon":-77.10898,
+        "pop":26024
+    },
+    {
+        "id":3489760,
+        "name":"Linstead",
+        "country":"JM",
+        "admin1":"Saint Catherine Parish",
+        "admin2":"Linstead",
+        "lat":18.13683,
+        "lon":-77.03171,
+        "pop":20660
+    },
+    {
+        "id":3490165,
+        "name":"Half Way Tree",
+        "country":"JM",
+        "admin1":"Saint Andrew Parish",
+        "admin2":"Half-Way-Tree",
+        "lat":18.01248,
+        "lon":-76.79928,
+        "pop":18552
+    },
+    {
+        "id":3488613,
+        "name":"Savanna-la-Mar",
+        "country":"JM",
+        "admin1":"Westmoreland",
+        "admin2":"Savanna-la-mar Business Dist.",
+        "lat":18.21895,
+        "lon":-78.1332,
+        "pop":16553
+    },
+    {
+        "id":3489005,
+        "name":"Port Antonio",
+        "country":"JM",
+        "admin1":"Portland Parish",
+        "admin2":"Central Port Antonio",
+        "lat":18.17889,
+        "lon":-76.45215,
+        "pop":14400
+    },
+    {
+        "id":3488713,
+        "name":"Saint Ann’s Bay",
+        "country":"JM",
+        "admin1":"Saint Ann Parish",
+        "admin2":"St. Ann's Bay",
+        "lat":18.43581,
+        "lon":-77.20098,
+        "pop":13671
+    },
+    {
+        "id":3491293,
+        "name":"Bog Walk",
+        "country":"JM",
+        "admin1":"Saint Catherine Parish",
+        "admin2":"Bog Walk",
+        "lat":18.10205,
+        "lon":-77.00541,
+        "pop":12873
+    },
+    {
+        "id":3490880,
+        "name":"Constant Spring",
+        "country":"JM",
+        "admin1":"Saint Andrew Parish",
+        "admin2":"Constant Spring",
+        "lat":18.05078,
+        "lon":-76.79372,
+        "pop":12830
+    },
+    {
+        "id":3490539,
+        "name":"Ewarton",
+        "country":"JM",
+        "admin1":"Saint Catherine Parish",
+        "admin2":"Ewarton",
+        "lat":18.18333,
+        "lon":-77.08536,
+        "pop":12797
+    },
+    {
+        "id":3488236,
+        "name":"Tower Hill",
+        "country":"JM",
+        "admin1":"Saint Andrew Parish",
+        "admin2":"Bloxborough",
+        "lat":18.0128,
+        "lon":-76.65098,
+        "pop":12184
+    },
+    {
+        "id":3491465,
+        "name":"Barbican",
+        "country":"JM",
+        "admin1":"Hanover",
+        "admin2":"Sandy Bay",
+        "lat":18.45038,
+        "lon":-78.10142,
+        "pop":10337
+    },
+    {
+        "id":3490106,
+        "name":"Hayes",
+        "country":"JM",
+        "admin1":"Clarendon",
+        "admin2":"Hayes",
+        "lat":17.87569,
+        "lon":-77.23711,
+        "pop":9701
+    },
+    {
+        "id":3489239,
+        "name":"Ocho Rios",
+        "country":"JM",
+        "admin1":"Saint Ann Parish",
+        "admin2":"Ocho Rios",
+        "lat":18.4076,
+        "lon":-77.10312,
+        "pop":9450
+    },
+    {
+        "id":3489440,
+        "name":"Morant Bay",
+        "country":"JM",
+        "admin1":"Saint Thomas Parish",
+        "admin2":"Morant Bay",
+        "lat":17.88145,
+        "lon":-76.40927,
+        "pop":9368
+    },
+    {
+        "id":3488380,
+        "name":"Stony Hill",
+        "country":"JM",
+        "admin1":"Saint Andrew Parish",
+        "admin2":"Stony Hill",
+        "lat":18.07716,
+        "lon":-76.79,
+        "pop":8551
+    },
+    {
+        "id":3488620,
+        "name":"Santa Cruz",
+        "country":"JM",
+        "admin1":"St. Elizabeth",
+        "admin2":"Santa Cruz",
+        "lat":18.05336,
+        "lon":-77.69836,
+        "pop":8217
+    },
+    {
+        "id":3489225,
+        "name":"Old Harbour Bay",
+        "country":"JM",
+        "admin1":"Saint Catherine Parish",
+        "admin2":"Old Harbour Bay",
+        "lat":17.90918,
+        "lon":-77.09718,
+        "pop":7912
+    },
+    {
+        "id":3488985,
+        "name":"Port Maria",
+        "country":"JM",
+        "admin1":"Saint Mary Parish",
+        "admin2":"Port Maria",
+        "lat":18.36849,
+        "lon":-76.88946,
+        "pop":7906
+    },
+    {
+        "id":3490520,
+        "name":"Falmouth",
+        "country":"JM",
+        "admin1":"Trelawny Parish",
+        "admin2":"Falmouth",
+        "lat":18.49358,
+        "lon":-77.65587,
+        "pop":7779
+    },
+    {
+        "id":3487963,
+        "name":"Yallahs",
+        "country":"JM",
+        "admin1":"Saint Thomas Parish",
+        "admin2":"Yallahs",
+        "lat":17.8748,
+        "lon":-76.56245,
+        "pop":7644
+    },
+    {
+        "id":3491161,
+        "name":"Bull Savannah",
+        "country":"JM",
+        "admin1":"St. Elizabeth",
+        "admin2":"Bull Savannah",
+        "lat":17.88678,
+        "lon":-77.59022,
+        "pop":6962
+    },
+    {
+        "id":3488726,
+        "name":"Runaway Bay",
+        "country":"JM",
+        "admin1":"Saint Ann Parish",
+        "admin2":"Runaway Bay",
+        "lat":18.45962,
+        "lon":-77.3357,
+        "pop":6517
+    },
+    {
+        "id":3489657,
+        "name":"Lucea",
+        "country":"JM",
+        "admin1":"Hanover",
+        "admin2":"Lucea West",
+        "lat":18.45095,
+        "lon":-78.17356,
+        "pop":6289
+    },
+    {
+        "id":3488977,
+        "name":"Porus",
+        "country":"JM",
+        "admin1":"Manchester",
+        "admin2":"Porus",
+        "lat":18.03535,
+        "lon":-77.41166,
+        "pop":5923
+    },
+    {
+        "id":3491556,
+        "name":"Annotto Bay",
+        "country":"JM",
+        "admin1":"Saint Mary Parish",
+        "admin2":"Annotto Bay",
+        "lat":18.2717,
+        "lon":-76.76523,
+        "pop":5504
+    },
+    {
+        "id":3489758,
+        "name":"Lionel Town",
+        "country":"JM",
+        "admin1":"Clarendon",
+        "admin2":"Lionel Town",
+        "lat":17.81007,
+        "lon":-77.24061,
+        "pop":5362
+    },
+    {
+        "id":3489011,
+        "name":"Point Hill",
+        "country":"JM",
+        "admin1":"Saint Catherine Parish",
+        "admin2":"Point Hill",
+        "lat":18.08988,
+        "lon":-77.10759,
+        "pop":5344
+    },
+    {
+        "id":6690257,
+        "name":"Above Rocks",
+        "country":"JM",
+        "admin1":"Saint Catherine Parish",
+        "admin2":"Above Rocks",
+        "lat":18.10678,
+        "lon":-76.87608,
+        "pop":5261
+    },
+    {
+        "id":3488597,
+        "name":"Seaforth",
+        "country":"JM",
+        "admin1":"Saint Thomas Parish",
+        "admin2":"Seaforth",
+        "lat":17.93578,
+        "lon":-76.4573,
+        "pop":4550
+    },
+    {
+        "id":3488635,
+        "name":"Sandy Bay",
+        "country":"JM",
+        "admin1":"Hanover",
+        "admin2":"Sandy Bay",
+        "lat":18.44854,
+        "lon":-78.07321,
+        "pop":4520
+    },
+    {
+        "id":3491007,
+        "name":"Chapelton",
+        "country":"JM",
+        "admin1":"Clarendon",
+        "admin2":"Chapelton",
+        "lat":18.08333,
+        "lon":-77.26667,
+        "pop":4514
+    },
+    {
+        "id":3491487,
+        "name":"Bamboo",
+        "country":"JM",
+        "admin1":"Saint Ann Parish",
+        "admin2":"Bamboo",
+        "lat":18.39216,
+        "lon":-77.26429,
+        "pop":4264
+    },
+    {
+        "id":3491355,
+        "name":"Black River",
+        "country":"JM",
+        "admin1":"St. Elizabeth",
+        "admin2":"Black River",
+        "lat":18.02636,
+        "lon":-77.84873,
+        "pop":4229
+    },
+    {
+        "id":3491570,
+        "name":"Anchovy",
+        "country":"JM",
+        "admin1":"Saint James Parish",
+        "admin2":"Comfort Hall",
+        "lat":18.4103,
+        "lon":-77.93166,
+        "pop":4161
+    },
+    {
+        "id":3489200,
+        "name":"Oracabessa",
+        "country":"JM",
+        "admin1":"Saint Mary Parish",
+        "admin2":"Oracabessa",
+        "lat":18.40319,
+        "lon":-76.94641,
+        "pop":4100
+    },
+    {
+        "id":3488809,
+        "name":"Riversdale",
+        "country":"JM",
+        "admin1":"Saint Catherine Parish",
+        "admin2":"Riversdale",
+        "lat":18.16586,
+        "lon":-76.96417,
+        "pop":4085
+    },
+    {
+        "id":3491102,
+        "name":"Cambridge",
+        "country":"JM",
+        "admin1":"Saint James Parish",
+        "admin2":"Cambridge",
+        "lat":18.31326,
+        "lon":-77.90252,
+        "pop":3930
+    },
+    {
+        "id":3490899,
+        "name":"Coleyville",
+        "country":"JM",
+        "admin1":"Manchester",
+        "admin2":"Coleyville",
+        "lat":18.20783,
+        "lon":-77.50754,
+        "pop":3860
+    },
+    {
+        "id":3491602,
+        "name":"Albert Town",
+        "country":"JM",
+        "admin1":"Trelawny Parish",
+        "admin2":"Albert Town",
+        "lat":18.29434,
+        "lon":-77.54239,
+        "pop":3449
+    },
+    {
+        "id":3488980,
+        "name":"Port Royal",
+        "country":"JM",
+        "admin1":"Kingston",
+        "admin2":"Port Royal",
+        "lat":17.93738,
+        "lon":-76.84062,
+        "pop":3327
+    },
+    {
+        "id":3489464,
+        "name":"Moneague",
+        "country":"JM",
+        "admin1":"Saint Ann Parish",
+        "admin2":"Moneague",
+        "lat":18.27556,
+        "lon":-77.11177,
+        "pop":3319
+    },
+    {
+        "id":3490368,
+        "name":"Gayle",
+        "country":"JM",
+        "admin1":"Saint Mary Parish",
+        "admin2":"Gayle",
+        "lat":18.32642,
+        "lon":-77.00971,
+        "pop":3305
+    },
+    {
+        "id":3489603,
+        "name":"Malvern",
+        "country":"JM",
+        "admin1":"St. Elizabeth",
+        "admin2":"Malvern",
+        "lat":17.96667,
+        "lon":-77.7,
+        "pop":3291
+    },
+    {
+        "id":3488020,
+        "name":"Williamsfield",
+        "country":"JM",
+        "admin1":"Manchester",
+        "admin2":"Williamsfield",
+        "lat":18.06667,
+        "lon":-77.46667,
+        "pop":3255
+    },
+    {
+        "id":3489829,
+        "name":"Lacovia",
+        "country":"JM",
+        "admin1":"St. Elizabeth",
+        "admin2":"Lacovia",
+        "lat":18.09356,
+        "lon":-77.769,
+        "pop":3187
+    },
+    {
+        "id":3489714,
+        "name":"Lluidas Vale",
+        "country":"JM",
+        "admin1":"Saint Catherine Parish",
+        "admin2":"Lluidas Vale",
+        "lat":18.12756,
+        "lon":-77.14881,
+        "pop":3163
+    },
+    {
+        "id":3488777,
+        "name":"Rocky Point",
+        "country":"JM",
+        "admin1":"Clarendon",
+        "admin2":"Rocky Point",
+        "lat":17.774,
+        "lon":-77.26107,
+        "pop":3152
+    },
+    {
+        "id":3489555,
+        "name":"Maroon Town",
+        "country":"JM",
+        "admin1":"Saint James Parish",
+        "admin2":"Maldon",
+        "lat":18.34464,
+        "lon":-77.79544,
+        "pop":3085
+    },
+    {
+        "id":3490318,
+        "name":"Golden Grove",
+        "country":"JM",
+        "admin1":"Saint Thomas Parish",
+        "admin2":"Winchester",
+        "lat":17.93361,
+        "lon":-76.27254,
+        "pop":3058
+    },
+    {
+        "id":3491381,
+        "name":"Bethel Town",
+        "country":"JM",
+        "admin1":"Westmoreland",
+        "admin2":"Bethel Town",
+        "lat":18.29503,
+        "lon":-77.95112,
+        "pop":3053
+    },
+    {
+        "id":3490768,
+        "name":"Dalvey",
+        "country":"JM",
+        "admin1":"Saint Thomas Parish",
+        "admin2":"Dalvey",
+        "lat":17.91184,
+        "lon":-76.24864,
+        "pop":3037
+    },
+    {
+        "id":3489331,
+        "name":"Negril",
+        "country":"JM",
+        "admin1":"Westmoreland",
+        "admin2":"Negril",
+        "lat":18.26844,
+        "lon":-78.3481,
+        "pop":3000
+    },
+    {
+        "id":3488914,
+        "name":"Race Course",
+        "country":"JM",
+        "admin1":"Clarendon",
+        "admin2":"Race Course",
+        "lat":17.836,
+        "lon":-77.2855,
+        "pop":2974
+    },
+    {
+        "id":3489962,
+        "name":"Islington",
+        "country":"JM",
+        "admin1":"Saint Mary Parish",
+        "admin2":"Islington",
+        "lat":18.30922,
+        "lon":-76.85482,
+        "pop":2958
+    },
+    {
+        "id":3488217,
+        "name":"Trinity Ville",
+        "country":"JM",
+        "admin1":"Saint Thomas Parish",
+        "admin2":"Trinityville",
+        "lat":17.96076,
+        "lon":-76.51427,
+        "pop":2895
+    },
+    {
+        "id":3491501,
+        "name":"Balaclava",
+        "country":"JM",
+        "admin1":"St. Elizabeth",
+        "admin2":"Balaclava",
+        "lat":18.17228,
+        "lon":-77.64375,
+        "pop":2862
+    },
+    {
+        "id":3491327,
+        "name":"Bluefields",
+        "country":"JM",
+        "admin1":"Westmoreland",
+        "admin2":"Bluefields",
+        "lat":18.16602,
+        "lon":-78.02702,
+        "pop":2828
+    },
+    {
+        "id":3488133,
+        "name":"Wakefield",
+        "country":"JM",
+        "admin1":"Trelawny Parish",
+        "admin2":"Wakefield",
+        "lat":18.41211,
+        "lon":-77.72183,
+        "pop":2763
+    },
+    {
+        "id":3491175,
+        "name":"Buff Bay",
+        "country":"JM",
+        "admin1":"Portland Parish",
+        "admin2":"Buff Bay",
+        "lat":18.23287,
+        "lon":-76.66118,
+        "pop":2757
+    },
+    {
+        "id":3488540,
+        "name":"Siloah",
+        "country":"JM",
+        "admin1":"St. Elizabeth",
+        "admin2":"Siloah",
+        "lat":18.16709,
+        "lon":-77.70348,
+        "pop":2725
+    },
+    {
+        "id":3488479,
+        "name":"Southfield",
+        "country":"JM",
+        "admin1":"St. Elizabeth",
+        "admin2":"Southfield",
+        "lat":17.8878,
+        "lon":-77.66713,
+        "pop":2695
+    },
+    {
+        "id":3490616,
+        "name":"Easington",
+        "country":"JM",
+        "admin1":"Saint Thomas Parish",
+        "admin2":"Easington",
+        "lat":17.92397,
+        "lon":-76.58824,
+        "pop":2634
+    },
+    {
+        "id":3489888,
+        "name":"Kellits",
+        "country":"JM",
+        "admin1":"Clarendon",
+        "admin2":"Kellits",
+        "lat":18.17278,
+        "lon":-77.23083,
+        "pop":2631
+    },
+    {
+        "id":3490716,
+        "name":"Discovery Bay",
+        "country":"JM",
+        "admin1":"Saint Ann Parish",
+        "admin2":"Discovery Bay",
+        "lat":18.45873,
+        "lon":-77.39997,
+        "pop":2535
+    },
+    {
+        "id":3489344,
+        "name":"Nain",
+        "country":"JM",
+        "admin1":"St. Elizabeth",
+        "admin2":"Nain",
+        "lat":17.96526,
+        "lon":-77.60528,
+        "pop":2394
+    },
+    {
+        "id":3491448,
+        "name":"Bath",
+        "country":"JM",
+        "admin1":"Saint Thomas Parish",
+        "admin2":"Bath",
+        "lat":17.9482,
+        "lon":-76.34916,
+        "pop":2382
+    },
+    {
+        "id":8062858,
+        "name":"Limit",
+        "country":"JM",
+        "admin1":"Clarendon",
+        "admin2":"",
+        "lat":18.15287,
+        "lon":-77.47121,
+        "pop":2321
+    },
+    {
+        "id":3489582,
+        "name":"Manchioneal",
+        "country":"JM",
+        "admin1":"Portland Parish",
+        "admin2":"Manchioneal",
+        "lat":18.04444,
+        "lon":-76.27735,
+        "pop":2321
+    },
+    {
+        "id":3489062,
+        "name":"Petersfield",
+        "country":"JM",
+        "admin1":"Westmoreland",
+        "admin2":"Petersfield",
+        "lat":18.26158,
+        "lon":-78.07117,
+        "pop":2255
+    },
+    {
+        "id":3488834,
+        "name":"Richmond",
+        "country":"JM",
+        "admin1":"Saint Mary Parish",
+        "admin2":"Richmond",
+        "lat":18.25478,
+        "lon":-76.88799,
+        "pop":2046
+    },
+    {
+        "id":3491593,
+        "name":"Alexandria",
+        "country":"JM",
+        "admin1":"Saint Ann Parish",
+        "admin2":"Alexandria",
+        "lat":18.30768,
+        "lon":-77.35335,
+        "pop":1927
+    },
+    {
+        "id":3490633,
+        "name":"Duncans",
+        "country":"JM",
+        "admin1":"Trelawny Parish",
+        "admin2":"Duncans",
+        "lat":18.468,
+        "lon":-77.53633,
+        "pop":1876
+    },
+    {
+        "id":3489531,
+        "name":"Mavis Bank",
+        "country":"JM",
+        "admin1":"Saint Andrew Parish",
+        "admin2":"Mavis Bank",
+        "lat":18.03111,
+        "lon":-76.65792,
+        "pop":1821
+    },
+    {
+        "id":3491586,
+        "name":"Alligator Pond",
+        "country":"JM",
+        "admin1":"Manchester",
+        "admin2":"Alligator Pond",
+        "lat":17.86932,
+        "lon":-77.56769,
+        "pop":1793
+    },
+    {
+        "id":3490031,
+        "name":"Hope Bay",
+        "country":"JM",
+        "admin1":"Portland Parish",
+        "admin2":"Hope Bay",
+        "lat":18.19882,
+        "lon":-76.56539,
+        "pop":1666
+    },
+    {
+        "id":3490758,
+        "name":"Darliston",
+        "country":"JM",
+        "admin1":"Westmoreland",
+        "admin2":"Darliston",
+        "lat":18.23731,
+        "lon":-77.97626,
+        "pop":1583
+    },
+    {
+        "id":3488180,
+        "name":"Ulster Spring",
+        "country":"JM",
+        "admin1":"Trelawny Parish",
+        "admin2":"Ulster Spring",
+        "lat":18.31482,
+        "lon":-77.52067,
+        "pop":1411
+    },
+    {
+        "id":3489633,
+        "name":"Maggotty",
+        "country":"JM",
+        "admin1":"St. Elizabeth",
+        "admin2":"Maggotty",
+        "lat":18.16129,
+        "lon":-77.76457,
+        "pop":1371
+    },
+    {
+        "id":3491055,
+        "name":"Cascade",
+        "country":"JM",
+        "admin1":"Hanover",
+        "admin2":"Cascade",
+        "lat":18.39747,
+        "lon":-78.10337,
+        "pop":1232
+    },
+    {
+        "id":3489445,
+        "name":"Moore Town",
+        "country":"JM",
+        "admin1":"Portland Parish",
+        "admin2":"Moore Town",
+        "lat":18.07767,
+        "lon":-76.42577,
+        "pop":1119
+    },
+    {
+        "id":3490293,
+        "name":"Gordon Town",
+        "country":"JM",
+        "admin1":"Saint Andrew Parish",
+        "admin2":"Gordon Town",
+        "lat":18.03578,
+        "lon":-76.71783,
+        "pop":1088
+    },
+    {
+        "id":3490390,
+        "name":"Frome",
+        "country":"JM",
+        "admin1":"Westmoreland",
+        "admin2":"Frome",
+        "lat":18.29407,
+        "lon":-78.15469,
+        "pop":993
+    },
+    {
+        "id":3489651,
+        "name":"Lucky Hill",
+        "country":"JM",
+        "admin1":"Saint Mary Parish",
+        "admin2":"Lucky Hill",
+        "lat":18.31002,
+        "lon":-77.01491,
+        "pop":774
+    }
+]

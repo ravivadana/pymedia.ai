@@ -1,0 +1,882 @@
+[
+    {
+        "id":3352136,
+        "name":"Windhoek",
+        "country":"NA",
+        "admin1":"Khomas Region",
+        "admin2":"",
+        "lat":-22.55941,
+        "lon":17.08323,
+        "pop":386219
+    },
+    {
+        "id":3353383,
+        "name":"Rundu",
+        "country":"NA",
+        "admin1":"Kavango East",
+        "admin2":"",
+        "lat":-17.91796,
+        "lon":19.77314,
+        "pop":75180
+    },
+    {
+        "id":3359638,
+        "name":"Walvis Bay",
+        "country":"NA",
+        "admin1":"Erongo Region",
+        "admin2":"",
+        "lat":-22.9575,
+        "lon":14.50528,
+        "pop":73598
+    },
+    {
+        "id":3352844,
+        "name":"Swakopmund",
+        "country":"NA",
+        "admin1":"Erongo Region",
+        "admin2":"Swakopmund Constituency",
+        "lat":-22.67842,
+        "lon":14.52663,
+        "pop":53009
+    },
+    {
+        "id":3354021,
+        "name":"Oshakati",
+        "country":"NA",
+        "admin1":"Oshana Region",
+        "admin2":"",
+        "lat":-17.78833,
+        "lon":15.70436,
+        "pop":43309
+    },
+    {
+        "id":3353540,
+        "name":"Rehoboth",
+        "country":"NA",
+        "admin1":"Hardap Region",
+        "admin2":"",
+        "lat":-23.317,
+        "lon":17.09,
+        "pop":34185
+    },
+    {
+        "id":877178,
+        "name":"Katima Mulilo",
+        "country":"NA",
+        "admin1":"Zambezi Region",
+        "admin2":"",
+        "lat":-17.50467,
+        "lon":24.27574,
+        "pop":33615
+    },
+    {
+        "id":3353811,
+        "name":"Otjiwarongo",
+        "country":"NA",
+        "admin1":"Otjozondjupa Region",
+        "admin2":"",
+        "lat":-20.46369,
+        "lon":16.64772,
+        "pop":33481
+    },
+    {
+        "id":3354247,
+        "name":"Ondangwa",
+        "country":"NA",
+        "admin1":"Oshana Region",
+        "admin2":"",
+        "lat":-17.90824,
+        "lon":15.98037,
+        "pop":27049
+    },
+    {
+        "id":3354898,
+        "name":"Okahandja",
+        "country":"NA",
+        "admin1":"Otjozondjupa Region",
+        "admin2":"",
+        "lat":-21.98141,
+        "lon":16.9029,
+        "pop":26832
+    },
+    {
+        "id":3357114,
+        "name":"Grootfontein",
+        "country":"NA",
+        "admin1":"Otjozondjupa Region",
+        "admin2":"",
+        "lat":-19.57328,
+        "lon":18.1003,
+        "pop":24099
+    },
+    {
+        "id":3354147,
+        "name":"Ongwediva",
+        "country":"NA",
+        "admin1":"Oshana Region",
+        "admin2":"",
+        "lat":-17.77198,
+        "lon":15.76564,
+        "pop":24012
+    },
+    {
+        "id":3356264,
+        "name":"Keetmanshoop",
+        "country":"NA",
+        "admin1":"Karas Region",
+        "admin2":"",
+        "lat":-26.57654,
+        "lon":18.13359,
+        "pop":23049
+    },
+    {
+        "id":12718704,
+        "name":"Helao Nafidi",
+        "country":"NA",
+        "admin1":"Ohangwena Region",
+        "admin2":"",
+        "lat":-17.39321,
+        "lon":15.89107,
+        "pop":22963
+    },
+    {
+        "id":3352593,
+        "name":"Tsumeb",
+        "country":"NA",
+        "admin1":"Oshikoto Region",
+        "admin2":"",
+        "lat":-19.24842,
+        "lon":17.71345,
+        "pop":22845
+    },
+    {
+        "id":3357247,
+        "name":"Gobabis",
+        "country":"NA",
+        "admin1":"Omaheke Region",
+        "admin2":"",
+        "lat":-22.45338,
+        "lon":18.97159,
+        "pop":22639
+    },
+    {
+        "id":3355672,
+        "name":"Lüderitz",
+        "country":"NA",
+        "admin1":"Karas Region",
+        "admin2":"",
+        "lat":-26.64807,
+        "lon":15.15383,
+        "pop":15137
+    },
+    {
+        "id":3355595,
+        "name":"Mariental",
+        "country":"NA",
+        "admin1":"Hardap Region",
+        "admin2":"",
+        "lat":-24.62705,
+        "lon":17.96471,
+        "pop":14789
+    },
+    {
+        "id":3356213,
+        "name":"Khorixas",
+        "country":"NA",
+        "admin1":"Kunene Region",
+        "admin2":"",
+        "lat":-20.37711,
+        "lon":14.96203,
+        "pop":12021
+    },
+    {
+        "id":3354540,
+        "name":"Omaruru",
+        "country":"NA",
+        "admin1":"Erongo Region",
+        "admin2":"",
+        "lat":-21.42403,
+        "lon":15.94611,
+        "pop":11547
+    },
+    {
+        "id":3358416,
+        "name":"Bethanie",
+        "country":"NA",
+        "admin1":"Karas Region",
+        "admin2":"",
+        "lat":-26.49958,
+        "lon":17.1599,
+        "pop":10363
+    },
+    {
+        "id":3353715,
+        "name":"Outjo",
+        "country":"NA",
+        "admin1":"Kunene Region",
+        "admin2":"",
+        "lat":-20.10691,
+        "lon":16.15415,
+        "pop":10009
+    },
+    {
+        "id":3352461,
+        "name":"Usakos",
+        "country":"NA",
+        "admin1":"Erongo Region",
+        "admin2":"",
+        "lat":-22.00219,
+        "lon":15.58601,
+        "pop":9147
+    },
+    {
+        "id":3354077,
+        "name":"Opuwo",
+        "country":"NA",
+        "admin1":"Kunene Region",
+        "admin2":"",
+        "lat":-18.06068,
+        "lon":13.83998,
+        "pop":9075
+    },
+    {
+        "id":3354071,
+        "name":"Oranjemund",
+        "country":"NA",
+        "admin1":"Karas Region",
+        "admin2":"",
+        "lat":-28.55153,
+        "lon":16.42728,
+        "pop":8496
+    },
+    {
+        "id":3353871,
+        "name":"Otjimbingwe",
+        "country":"NA",
+        "admin1":"Erongo Region",
+        "admin2":"",
+        "lat":-22.35536,
+        "lon":16.12883,
+        "pop":7677
+    },
+    {
+        "id":3371197,
+        "name":"Outapi",
+        "country":"NA",
+        "admin1":"Omusati Region",
+        "admin2":"",
+        "lat":-17.50375,
+        "lon":14.98383,
+        "pop":7629
+    },
+    {
+        "id":3354897,
+        "name":"Okahao",
+        "country":"NA",
+        "admin1":"Omusati Region",
+        "admin2":"Okahao",
+        "lat":-17.88758,
+        "lon":15.06677,
+        "pop":7000
+    },
+    {
+        "id":3356332,
+        "name":"Karibib",
+        "country":"NA",
+        "admin1":"Erongo Region",
+        "admin2":"",
+        "lat":-21.93554,
+        "lon":15.85654,
+        "pop":6898
+    },
+    {
+        "id":3352263,
+        "name":"Warmbad",
+        "country":"NA",
+        "admin1":"Karas Region",
+        "admin2":"",
+        "lat":-28.44611,
+        "lon":18.73569,
+        "pop":6700
+    },
+    {
+        "id":3357804,
+        "name":"Eenhana",
+        "country":"NA",
+        "admin1":"Ohangwena Region",
+        "admin2":"",
+        "lat":-17.48535,
+        "lon":16.3294,
+        "pop":6551
+    },
+    {
+        "id":7116015,
+        "name":"Rosh Pinah",
+        "country":"NA",
+        "admin1":"Karas Region",
+        "admin2":"Oranjemund Constituency",
+        "lat":-27.96605,
+        "lon":16.76136,
+        "pop":6540
+    },
+    {
+        "id":3353934,
+        "name":"Otavi",
+        "country":"NA",
+        "admin1":"Otjozondjupa Region",
+        "admin2":"",
+        "lat":-19.63805,
+        "lon":17.33986,
+        "pop":6213
+    },
+    {
+        "id":3358670,
+        "name":"Arandis",
+        "country":"NA",
+        "admin1":"Erongo Region",
+        "admin2":"",
+        "lat":-22.41749,
+        "lon":14.97385,
+        "pop":6127
+    },
+    {
+        "id":3356343,
+        "name":"Karasburg",
+        "country":"NA",
+        "admin1":"Karas Region",
+        "admin2":"",
+        "lat":-28.01658,
+        "lon":18.74797,
+        "pop":6054
+    },
+    {
+        "id":12718706,
+        "name":"Osire",
+        "country":"NA",
+        "admin1":"Otjozondjupa Region",
+        "admin2":"",
+        "lat":-21.07391,
+        "lon":17.36599,
+        "pop":5941
+    },
+    {
+        "id":12718705,
+        "name":"Ondangwa East",
+        "country":"NA",
+        "admin1":"Oshikoto Region",
+        "admin2":"",
+        "lat":-17.93021,
+        "lon":16.0172,
+        "pop":5742
+    },
+    {
+        "id":3356832,
+        "name":"Henties Bay",
+        "country":"NA",
+        "admin1":"Erongo Region",
+        "admin2":"",
+        "lat":-22.11609,
+        "lon":14.28394,
+        "pop":5594
+    },
+    {
+        "id":3354876,
+        "name":"Okakarara",
+        "country":"NA",
+        "admin1":"Otjozondjupa Region",
+        "admin2":"",
+        "lat":-20.58755,
+        "lon":17.45942,
+        "pop":5581
+    },
+    {
+        "id":12718702,
+        "name":"Aussenkehr",
+        "country":"NA",
+        "admin1":"Karas Region",
+        "admin2":"",
+        "lat":-28.36274,
+        "lon":17.41272,
+        "pop":5359
+    },
+    {
+        "id":3354367,
+        "name":"Omuthiya",
+        "country":"NA",
+        "admin1":"Oshikoto Region",
+        "admin2":"",
+        "lat":-18.36463,
+        "lon":16.58146,
+        "pop":5000
+    },
+    {
+        "id":3358666,
+        "name":"Aranos",
+        "country":"NA",
+        "admin1":"Hardap Region",
+        "admin2":"",
+        "lat":-24.14126,
+        "lon":19.11754,
+        "pop":4365
+    },
+    {
+        "id":3353400,
+        "name":"Ruacana",
+        "country":"NA",
+        "admin1":"Kunene Region",
+        "admin2":"",
+        "lat":-17.42817,
+        "lon":14.41504,
+        "pop":3537
+    },
+    {
+        "id":3357124,
+        "name":"Groot Aub",
+        "country":"NA",
+        "admin1":"Khomas Region",
+        "admin2":"",
+        "lat":-22.9385,
+        "lon":17.19534,
+        "pop":3452
+    },
+    {
+        "id":3353989,
+        "name":"Oshikuku",
+        "country":"NA",
+        "admin1":"Omusati Region",
+        "admin2":"",
+        "lat":-17.63584,
+        "lon":15.48173,
+        "pop":3272
+    },
+    {
+        "id":3357293,
+        "name":"Gibeon",
+        "country":"NA",
+        "admin1":"Hardap Region",
+        "admin2":"",
+        "lat":-25.12213,
+        "lon":17.76935,
+        "pop":3118
+    },
+    {
+        "id":3356802,
+        "name":"Hoachanas",
+        "country":"NA",
+        "admin1":"Hardap Region",
+        "admin2":"",
+        "lat":-23.92109,
+        "lon":18.05328,
+        "pop":3000
+    },
+    {
+        "id":3355624,
+        "name":"Maltahöhe",
+        "country":"NA",
+        "admin1":"Hardap Region",
+        "admin2":"",
+        "lat":-24.83923,
+        "lon":16.9859,
+        "pop":2819
+    },
+    {
+        "id":3354178,
+        "name":"Ongandjera",
+        "country":"NA",
+        "admin1":"Omusati Region",
+        "admin2":"",
+        "lat":-17.87847,
+        "lon":15.06961,
+        "pop":2719
+    },
+    {
+        "id":3353996,
+        "name":"Oshikango",
+        "country":"NA",
+        "admin1":"Ohangwena Region",
+        "admin2":"",
+        "lat":-17.40161,
+        "lon":15.89077,
+        "pop":2658
+    },
+    {
+        "id":3354650,
+        "name":"Ekongo",
+        "country":"NA",
+        "admin1":"Ohangwena Region",
+        "admin2":"",
+        "lat":-17.56667,
+        "lon":17.21667,
+        "pop":2650
+    },
+    {
+        "id":3353863,
+        "name":"Otjinene",
+        "country":"NA",
+        "admin1":"Omaheke Region",
+        "admin2":"",
+        "lat":-21.13889,
+        "lon":18.7836,
+        "pop":2491
+    },
+    {
+        "id":3355099,
+        "name":"Noordoewer",
+        "country":"NA",
+        "admin1":"Karas Region",
+        "admin2":"",
+        "lat":-28.71817,
+        "lon":17.62147,
+        "pop":2401
+    },
+    {
+        "id":3352934,
+        "name":"Stampriet",
+        "country":"NA",
+        "admin1":"Hardap Region",
+        "admin2":"",
+        "lat":-24.34494,
+        "lon":18.40464,
+        "pop":2307
+    },
+    {
+        "id":3353962,
+        "name":"Oshivelo",
+        "country":"NA",
+        "admin1":"Oshikoto Region",
+        "admin2":"",
+        "lat":-18.61972,
+        "lon":17.16743,
+        "pop":2287
+    },
+    {
+        "id":3356469,
+        "name":"Kamanjab",
+        "country":"NA",
+        "admin1":"Kunene Region",
+        "admin2":"",
+        "lat":-19.62882,
+        "lon":14.8452,
+        "pop":2127
+    },
+    {
+        "id":3352083,
+        "name":"Witvlei",
+        "country":"NA",
+        "admin1":"Omaheke Region",
+        "admin2":"",
+        "lat":-22.41039,
+        "lon":18.49359,
+        "pop":2095
+    },
+    {
+        "id":3352609,
+        "name":"Tses",
+        "country":"NA",
+        "admin1":"Karas Region",
+        "admin2":"",
+        "lat":-25.88489,
+        "lon":18.12469,
+        "pop":2000
+    },
+    {
+        "id":877349,
+        "name":"Bagani",
+        "country":"NA",
+        "admin1":"Zambezi Region",
+        "admin2":"",
+        "lat":-18.11065,
+        "lon":21.61645,
+        "pop":2000
+    },
+    {
+        "id":3358610,
+        "name":"Aroab",
+        "country":"NA",
+        "admin1":"Karas Region",
+        "admin2":"",
+        "lat":-26.79744,
+        "lon":19.6527,
+        "pop":1967
+    },
+    {
+        "id":3356049,
+        "name":"Koës",
+        "country":"NA",
+        "admin1":"Karas Region",
+        "admin2":"",
+        "lat":-25.93091,
+        "lon":19.12814,
+        "pop":1813
+    },
+    {
+        "id":3352523,
+        "name":"Uis",
+        "country":"NA",
+        "admin1":"Erongo Region",
+        "admin2":"",
+        "lat":-21.2177,
+        "lon":14.86569,
+        "pop":1771
+    },
+    {
+        "id":876747,
+        "name":"Tsumkwe",
+        "country":"NA",
+        "admin1":"Otjozondjupa Region",
+        "admin2":"",
+        "lat":-19.59363,
+        "lon":20.50203,
+        "pop":1664
+    },
+    {
+        "id":3356487,
+        "name":"Kalkfeld",
+        "country":"NA",
+        "admin1":"Otjozondjupa Region",
+        "admin2":"",
+        "lat":-20.88719,
+        "lon":16.19038,
+        "pop":1656
+    },
+    {
+        "id":3356477,
+        "name":"Kalkrand",
+        "country":"NA",
+        "admin1":"Hardap Region",
+        "admin2":"",
+        "lat":-24.07367,
+        "lon":17.58635,
+        "pop":1467
+    },
+    {
+        "id":3355748,
+        "name":"Leonardville",
+        "country":"NA",
+        "admin1":"Omaheke Region",
+        "admin2":"",
+        "lat":-23.50462,
+        "lon":18.7912,
+        "pop":1411
+    },
+    {
+        "id":3354654,
+        "name":"Okondjatu",
+        "country":"NA",
+        "admin1":"Otjozondjupa Region",
+        "admin2":"",
+        "lat":-20.98168,
+        "lon":18.22422,
+        "pop":1386
+    },
+    {
+        "id":3357234,
+        "name":"Gochas",
+        "country":"NA",
+        "admin1":"Hardap Region",
+        "admin2":"",
+        "lat":-24.85762,
+        "lon":18.80137,
+        "pop":1378
+    },
+    {
+        "id":3354850,
+        "name":"Okalongo",
+        "country":"NA",
+        "admin1":"Omusati Region",
+        "admin2":"",
+        "lat":-17.44006,
+        "lon":15.33234,
+        "pop":1320
+    },
+    {
+        "id":3354676,
+        "name":"Okombahe",
+        "country":"NA",
+        "admin1":"Erongo Region",
+        "admin2":"",
+        "lat":-21.358,
+        "lon":15.37748,
+        "pop":1295
+    },
+    {
+        "id":3358522,
+        "name":"Aus",
+        "country":"NA",
+        "admin1":"Karas Region",
+        "admin2":"",
+        "lat":-26.66557,
+        "lon":16.26109,
+        "pop":1263
+    },
+    {
+        "id":3353231,
+        "name":"Schlip",
+        "country":"NA",
+        "admin1":"Hardap Region",
+        "admin2":"",
+        "lat":-24.04631,
+        "lon":17.12844,
+        "pop":1141
+    },
+    {
+        "id":3353172,
+        "name":"Sesfontein",
+        "country":"NA",
+        "admin1":"Kunene Region",
+        "admin2":"",
+        "lat":-19.12279,
+        "lon":13.6205,
+        "pop":1088
+    },
+    {
+        "id":877130,
+        "name":"Linyanti",
+        "country":"NA",
+        "admin1":"Zambezi Region",
+        "admin2":"",
+        "lat":-18.07229,
+        "lon":24.01566,
+        "pop":1061
+    },
+    {
+        "id":3352636,
+        "name":"Tsandi",
+        "country":"NA",
+        "admin1":"Omusati Region",
+        "admin2":"",
+        "lat":-17.74292,
+        "lon":14.88575,
+        "pop":1056
+    },
+    {
+        "id":3358422,
+        "name":"Berseba",
+        "country":"NA",
+        "admin1":"Karas Region",
+        "admin2":"",
+        "lat":-25.9969,
+        "lon":17.76817,
+        "pop":929
+    },
+    {
+        "id":3354399,
+        "name":"Omungwelume",
+        "country":"NA",
+        "admin1":"Ohangwena Region",
+        "admin2":"",
+        "lat":-17.50684,
+        "lon":15.63421,
+        "pop":911
+    },
+    {
+        "id":10175820,
+        "name":"Okanguati",
+        "country":"NA",
+        "admin1":"Kunene Region",
+        "admin2":"Epupa Constituency",
+        "lat":-17.43639,
+        "lon":13.27324,
+        "pop":856
+    },
+    {
+        "id":3354445,
+        "name":"Omitara",
+        "country":"NA",
+        "admin1":"Omaheke Region",
+        "admin2":"",
+        "lat":-22.28979,
+        "lon":18.00847,
+        "pop":833
+    },
+    {
+        "id":3358633,
+        "name":"Ariamsvlei",
+        "country":"NA",
+        "admin1":"Karas Region",
+        "admin2":"",
+        "lat":-28.11895,
+        "lon":19.83612,
+        "pop":737
+    },
+    {
+        "id":3355137,
+        "name":"Nkurenkuru",
+        "country":"NA",
+        "admin1":"Kavango West",
+        "admin2":"",
+        "lat":-17.64182,
+        "lon":18.61966,
+        "pop":732
+    },
+    {
+        "id":877338,
+        "name":"Bukalo",
+        "country":"NA",
+        "admin1":"Zambezi Region",
+        "admin2":"",
+        "lat":-17.71799,
+        "lon":24.53049,
+        "pop":711
+    },
+    {
+        "id":3354518,
+        "name":"Omawewozonyanda",
+        "country":"NA",
+        "admin1":"Omaheke Region",
+        "admin2":"",
+        "lat":-21.60065,
+        "lon":19.41752,
+        "pop":690
+    },
+    {
+        "id":3357509,
+        "name":"Fransfontein",
+        "country":"NA",
+        "admin1":"Kunene Region",
+        "admin2":"",
+        "lat":-20.21234,
+        "lon":15.01473,
+        "pop":655
+    },
+    {
+        "id":12718707,
+        "name":"Otjituuo",
+        "country":"NA",
+        "admin1":"Otjozondjupa Region",
+        "admin2":"",
+        "lat":-19.6409,
+        "lon":18.59454,
+        "pop":624
+    },
+    {
+        "id":3354965,
+        "name":"Ogongo",
+        "country":"NA",
+        "admin1":"Omusati Region",
+        "admin2":"",
+        "lat":-17.67866,
+        "lon":15.29608,
+        "pop":572
+    },
+    {
+        "id":3354170,
+        "name":"Ongenga",
+        "country":"NA",
+        "admin1":"Ohangwena Region",
+        "admin2":"",
+        "lat":-17.44165,
+        "lon":15.67389,
+        "pop":538
+    },
+    {
+        "id":3357074,
+        "name":"Grünau",
+        "country":"NA",
+        "admin1":"Karas Region",
+        "admin2":"",
+        "lat":-27.7337,
+        "lon":18.38012,
+        "pop":509
+    }
+]

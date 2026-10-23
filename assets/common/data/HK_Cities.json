@@ -1,0 +1,3182 @@
+[
+    {
+        "id":1819729,
+        "name":"Hong Kong",
+        "country":"HK",
+        "admin1":null,
+        "admin2":"",
+        "lat":22.27832,
+        "lon":114.17469,
+        "pop":7396076
+    },
+    {
+        "id":1931681,
+        "name":"Victoria",
+        "country":"HK",
+        "admin1":"Central and Western",
+        "admin2":"",
+        "lat":22.2875,
+        "lon":114.14417,
+        "pop":956800
+    },
+    {
+        "id":1818446,
+        "name":"Tuen Mun",
+        "country":"HK",
+        "admin1":"Tuen Mun",
+        "admin2":"",
+        "lat":22.39175,
+        "lon":113.97157,
+        "pop":507900
+    },
+    {
+        "id":1818920,
+        "name":"Sha Tin",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.38333,
+        "lon":114.18333,
+        "pop":495200
+    },
+    {
+        "id":1818953,
+        "name":"Sham Shui Po",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33023,
+        "lon":114.15945,
+        "pop":431090
+    },
+    {
+        "id":1818304,
+        "name":"Wong Tai Sin",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.35,
+        "lon":114.18333,
+        "pop":425235
+    },
+    {
+        "id":1819607,
+        "name":"Kowloon City",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.33047,
+        "lon":114.19222,
+        "pop":418732
+    },
+    {
+        "id":1818506,
+        "name":"Tseung Kwan O",
+        "country":"HK",
+        "admin1":"Sai Kung District",
+        "admin2":"",
+        "lat":22.32789,
+        "lon":114.24992,
+        "pop":412900
+    },
+    {
+        "id":1819595,
+        "name":"Kwai Chung",
+        "country":"HK",
+        "admin1":"Kwai Tsing District",
+        "admin2":"",
+        "lat":22.36828,
+        "lon":114.13877,
+        "pop":331600
+    },
+    {
+        "id":1818209,
+        "name":"Tsuen Wan",
+        "country":"HK",
+        "admin1":"Tsuen Wan",
+        "admin2":"",
+        "lat":22.37137,
+        "lon":114.11329,
+        "pop":318916
+    },
+    {
+        "id":1818558,
+        "name":"Tin Shui Wai",
+        "country":"HK",
+        "admin1":"Yuen Long",
+        "admin2":"",
+        "lat":22.45679,
+        "lon":114.00234,
+        "pop":282400
+    },
+    {
+        "id":1818673,
+        "name":"Tai Po",
+        "country":"HK",
+        "admin1":"Tai Po",
+        "admin2":"",
+        "lat":22.45007,
+        "lon":114.16877,
+        "pop":274100
+    },
+    {
+        "id":1819873,
+        "name":"Fanling",
+        "country":"HK",
+        "admin1":"North District",
+        "admin2":"",
+        "lat":22.49487,
+        "lon":114.13949,
+        "pop":263200
+    },
+    {
+        "id":1819400,
+        "name":"Ma On Shan",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.40613,
+        "lon":114.24079,
+        "pop":215200
+    },
+    {
+        "id":1818225,
+        "name":"Yuen Long",
+        "country":"HK",
+        "admin1":"Yuen Long",
+        "admin2":"",
+        "lat":22.44518,
+        "lon":114.02621,
+        "pop":200000
+    },
+    {
+        "id":1818222,
+        "name":"Yuen Long San Hui",
+        "country":"HK",
+        "admin1":"Yuen Long",
+        "admin2":"",
+        "lat":22.43333,
+        "lon":114.03333,
+        "pop":200000
+    },
+    {
+        "id":1818483,
+        "name":"Tsing Yi Town",
+        "country":"HK",
+        "admin1":"Kwai Tsing District",
+        "admin2":"",
+        "lat":22.35,
+        "lon":114.1,
+        "pop":182100
+    },
+    {
+        "id":1818223,
+        "name":"Yuen Long Kau Hui",
+        "country":"HK",
+        "admin1":"Yuen Long",
+        "admin2":"",
+        "lat":22.44831,
+        "lon":114.03199,
+        "pop":169600
+    },
+    {
+        "id":1818379,
+        "name":"Wan Chai",
+        "country":"HK",
+        "admin1":"Wan Chai",
+        "admin2":"",
+        "lat":22.28142,
+        "lon":114.17258,
+        "pop":166695
+    },
+    {
+        "id":1819757,
+        "name":"Aberdeen",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.24802,
+        "lon":114.15289,
+        "pop":157400
+    },
+    {
+        "id":1819283,
+        "name":"San Tung Chung Hang",
+        "country":"HK",
+        "admin1":"Islands",
+        "admin2":"",
+        "lat":22.27875,
+        "lon":113.94307,
+        "pop":116000
+    },
+    {
+        "id":11101593,
+        "name":"Tung Chung",
+        "country":"HK",
+        "admin1":"Islands",
+        "admin2":"",
+        "lat":22.28783,
+        "lon":113.94243,
+        "pop":114100
+    },
+    {
+        "id":1818916,
+        "name":"Sha Tin Wai",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.37756,
+        "lon":114.19753,
+        "pop":80000
+    },
+    {
+        "id":12719430,
+        "name":"Shap Pat Heung",
+        "country":"HK",
+        "admin1":"Yuen Long",
+        "admin2":"",
+        "lat":22.4248,
+        "lon":114.03581,
+        "pop":77775
+    },
+    {
+        "id":1819091,
+        "name":"Pok Fu Lam",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.26861,
+        "lon":114.12924,
+        "pop":77100
+    },
+    {
+        "id":12689055,
+        "name":"Nam Cheong",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.32799,
+        "lon":114.15389,
+        "pop":74780
+    },
+    {
+        "id":1819353,
+        "name":"Mong Kok",
+        "country":"HK",
+        "admin1":"Yau Tsim Mong District",
+        "admin2":"",
+        "lat":22.31935,
+        "lon":114.17136,
+        "pop":62967
+    },
+    {
+        "id":1818781,
+        "name":"Siu Lek Yuen",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.38174,
+        "lon":114.21256,
+        "pop":57349
+    },
+    {
+        "id":1818972,
+        "name":"Sau Mau Ping",
+        "country":"HK",
+        "admin1":"Kwun Tong District",
+        "admin2":"",
+        "lat":22.3202,
+        "lon":114.23497,
+        "pop":54218
+    },
+    {
+        "id":1818550,
+        "name":"Tiu Keng Leng",
+        "country":"HK",
+        "admin1":"Kwun Tong District",
+        "admin2":"",
+        "lat":22.29853,
+        "lon":114.25115,
+        "pop":51751
+    },
+    {
+        "id":12719433,
+        "name":"LOHAS Park",
+        "country":"HK",
+        "admin1":"Sai Kung District",
+        "admin2":"",
+        "lat":22.29315,
+        "lon":114.27245,
+        "pop":50000
+    },
+    {
+        "id":12640681,
+        "name":"Mei Foo",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33719,
+        "lon":114.13856,
+        "pop":45990
+    },
+    {
+        "id":1819101,
+        "name":"Ping Shan",
+        "country":"HK",
+        "admin1":"Yuen Long",
+        "admin2":"",
+        "lat":22.44111,
+        "lon":114.00608,
+        "pop":45400
+    },
+    {
+        "id":12640684,
+        "name":"Kai Tak",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.32425,
+        "lon":114.19741,
+        "pop":42552
+    },
+    {
+        "id":8224045,
+        "name":"Jordan",
+        "country":"HK",
+        "admin1":"Yau Tsim Mong District",
+        "admin2":"",
+        "lat":22.30539,
+        "lon":114.17001,
+        "pop":41537
+    },
+    {
+        "id":12689063,
+        "name":"Pat Heung",
+        "country":"HK",
+        "admin1":"Yuen Long",
+        "admin2":"",
+        "lat":22.4461,
+        "lon":114.09226,
+        "pop":40357
+    },
+    {
+        "id":12689057,
+        "name":"Whampoa",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.30504,
+        "lon":114.19021,
+        "pop":39134
+    },
+    {
+        "id":12689060,
+        "name":"Choi Wan",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.33385,
+        "lon":114.21368,
+        "pop":38405
+    },
+    {
+        "id":12719566,
+        "name":"Mei Foo Sun Chuen",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33636,
+        "lon":114.14018,
+        "pop":37299
+    },
+    {
+        "id":1818447,
+        "name":"Tsz Wan Shan",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.35247,
+        "lon":114.20016,
+        "pop":37242
+    },
+    {
+        "id":1819791,
+        "name":"Hang Hau",
+        "country":"HK",
+        "admin1":"Sai Kung District",
+        "admin2":"",
+        "lat":22.31811,
+        "lon":114.26994,
+        "pop":36529
+    },
+    {
+        "id":1819050,
+        "name":"Sai Kung",
+        "country":"HK",
+        "admin1":"Sai Kung District",
+        "admin2":"",
+        "lat":22.38333,
+        "lon":114.26667,
+        "pop":35800
+    },
+    {
+        "id":10170102,
+        "name":"Tai Koo",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.2841,
+        "lon":114.21631,
+        "pop":35373
+    },
+    {
+        "id":12719589,
+        "name":"Taikoo Shing",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28613,
+        "lon":114.2187,
+        "pop":34799
+    },
+    {
+        "id":1818266,
+        "name":"Yau Tong",
+        "country":"HK",
+        "admin1":"Kwun Tong District",
+        "admin2":"",
+        "lat":22.29569,
+        "lon":114.23599,
+        "pop":34755
+    },
+    {
+        "id":1818721,
+        "name":"Tai Kok Tsui",
+        "country":"HK",
+        "admin1":"Yau Tsim Mong District",
+        "admin2":"",
+        "lat":22.32146,
+        "lon":114.163,
+        "pop":33801
+    },
+    {
+        "id":1818892,
+        "name":"Shek Lei",
+        "country":"HK",
+        "admin1":"Kwai Tsing District",
+        "admin2":"",
+        "lat":22.36613,
+        "lon":114.13982,
+        "pop":31788
+    },
+    {
+        "id":12719843,
+        "name":"Whampoa Garden",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.30534,
+        "lon":114.18936,
+        "pop":30038
+    },
+    {
+        "id":1818268,
+        "name":"Yau Ma Tei",
+        "country":"HK",
+        "admin1":"Yau Tsim Mong District",
+        "admin2":"",
+        "lat":22.3138,
+        "lon":114.16857,
+        "pop":29644
+    },
+    {
+        "id":12746539,
+        "name":"Lower Wong Tai Sin Estate (I & II)",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.33923,
+        "lon":114.19441,
+        "pop":29542
+    },
+    {
+        "id":12719432,
+        "name":"South Horizons",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.24383,
+        "lon":114.14828,
+        "pop":29391
+    },
+    {
+        "id":12719791,
+        "name":"South Horizons (Estate)",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.24411,
+        "lon":114.14616,
+        "pop":29180
+    },
+    {
+        "id":1819529,
+        "name":"Leighton Hill",
+        "country":"HK",
+        "admin1":"Wan Chai",
+        "admin2":"",
+        "lat":22.2761,
+        "lon":114.18398,
+        "pop":29160
+    },
+    {
+        "id":1819923,
+        "name":"Chuk Yuen",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.34544,
+        "lon":114.19327,
+        "pop":28645
+    },
+    {
+        "id":12640693,
+        "name":"Lei Tung",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.24052,
+        "lon":114.15757,
+        "pop":26350
+    },
+    {
+        "id":1818385,
+        "name":"Wah Fu",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.25474,
+        "lon":114.13622,
+        "pop":26275
+    },
+    {
+        "id":1818950,
+        "name":"Sham Tseng",
+        "country":"HK",
+        "admin1":"Tsuen Wan",
+        "admin2":"",
+        "lat":22.36667,
+        "lon":114.05,
+        "pop":25893
+    },
+    {
+        "id":12719555,
+        "name":"Shek Kip Mei Estate",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33412,
+        "lon":114.16531,
+        "pop":25561
+    },
+    {
+        "id":12746532,
+        "name":"Choi Wan Estate (I & II)",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.33337,
+        "lon":114.21331,
+        "pop":25241
+    },
+    {
+        "id":1818501,
+        "name":"Tsim Sha Tsui",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.3,
+        "lon":114.16667,
+        "pop":24557
+    },
+    {
+        "id":12719443,
+        "name":"Wu Kai Sha",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.43016,
+        "lon":114.24212,
+        "pop":23511
+    },
+    {
+        "id":12689059,
+        "name":"Laguna City",
+        "country":"HK",
+        "admin1":"Kwun Tong District",
+        "admin2":"",
+        "lat":22.30554,
+        "lon":114.22861,
+        "pop":22718
+    },
+    {
+        "id":1818817,
+        "name":"Shuen Wan",
+        "country":"HK",
+        "admin1":"Tai Po",
+        "admin2":"",
+        "lat":22.46767,
+        "lon":114.20812,
+        "pop":22465
+    },
+    {
+        "id":1819855,
+        "name":"Fo Tan",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.39846,
+        "lon":114.19293,
+        "pop":22127
+    },
+    {
+        "id":1819685,
+        "name":"Kam Tin",
+        "country":"HK",
+        "admin1":"Yuen Long",
+        "admin2":"",
+        "lat":22.44123,
+        "lon":114.06019,
+        "pop":21876
+    },
+    {
+        "id":12746541,
+        "name":"Tsz Ching Estate",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.35099,
+        "lon":114.20056,
+        "pop":21845
+    },
+    {
+        "id":1819775,
+        "name":"Ha Tsuen",
+        "country":"HK",
+        "admin1":"Yuen Long",
+        "admin2":"",
+        "lat":22.44724,
+        "lon":113.9916,
+        "pop":21060
+    },
+    {
+        "id":1818614,
+        "name":"Tai Wo Hau",
+        "country":"HK",
+        "admin1":"Kwai Tsing District",
+        "admin2":"",
+        "lat":22.36718,
+        "lon":114.12347,
+        "pop":20848
+    },
+    {
+        "id":1819980,
+        "name":"Chek Chue",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.21849,
+        "lon":114.21241,
+        "pop":20683
+    },
+    {
+        "id":1818883,
+        "name":"Shek O",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.23344,
+        "lon":114.25121,
+        "pop":20683
+    },
+    {
+        "id":1818845,
+        "name":"Sheung Shui",
+        "country":"HK",
+        "admin1":"North District",
+        "admin2":"",
+        "lat":22.51667,
+        "lon":114.11667,
+        "pop":20514
+    },
+    {
+        "id":1819726,
+        "name":"Hong Lok Yuen",
+        "country":"HK",
+        "admin1":"Tai Po",
+        "admin2":"",
+        "lat":22.46315,
+        "lon":114.1552,
+        "pop":20389
+    },
+    {
+        "id":12689069,
+        "name":"Fairview Park",
+        "country":"HK",
+        "admin1":"Yuen Long",
+        "admin2":"",
+        "lat":22.46738,
+        "lon":114.04766,
+        "pop":20268
+    },
+    {
+        "id":1819394,
+        "name":"Ma Tau Wai",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.32074,
+        "lon":114.18743,
+        "pop":20185
+    },
+    {
+        "id":1818628,
+        "name":"Tai Wai",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.37286,
+        "lon":114.17897,
+        "pop":19924
+    },
+    {
+        "id":1819731,
+        "name":"Ho Man Tin",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.31584,
+        "lon":114.18181,
+        "pop":19830
+    },
+    {
+        "id":1819968,
+        "name":"Cheung Chau",
+        "country":"HK",
+        "admin1":"Islands",
+        "admin2":"",
+        "lat":22.21085,
+        "lon":114.02787,
+        "pop":19769
+    },
+    {
+        "id":12687143,
+        "name":"Shui Chuen O",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.37161,
+        "lon":114.19778,
+        "pop":19719
+    },
+    {
+        "id":1818996,
+        "name":"San Tin",
+        "country":"HK",
+        "admin1":"Yuen Long",
+        "admin2":"",
+        "lat":22.50166,
+        "lon":114.06932,
+        "pop":19617
+    },
+    {
+        "id":1818444,
+        "name":"Tuen Mun San Hui",
+        "country":"HK",
+        "admin1":"Tuen Mun",
+        "admin2":"",
+        "lat":22.39877,
+        "lon":113.97596,
+        "pop":19398
+    },
+    {
+        "id":12689056,
+        "name":"Olympic",
+        "country":"HK",
+        "admin1":"Yau Tsim Mong District",
+        "admin2":"",
+        "lat":22.31939,
+        "lon":114.15736,
+        "pop":19373
+    },
+    {
+        "id":1819894,
+        "name":"Discovery Bay",
+        "country":"HK",
+        "admin1":"Islands",
+        "admin2":"",
+        "lat":22.3,
+        "lon":114.01667,
+        "pop":19336
+    },
+    {
+        "id":12640687,
+        "name":"The Peak",
+        "country":"HK",
+        "admin1":"Central and Western",
+        "admin2":"",
+        "lat":22.26202,
+        "lon":114.15649,
+        "pop":19202
+    },
+    {
+        "id":12640671,
+        "name":"Sung Wong Toi",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.32466,
+        "lon":114.19149,
+        "pop":19078
+    },
+    {
+        "id":12640674,
+        "name":"So Uk",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.34131,
+        "lon":114.15679,
+        "pop":18956
+    },
+    {
+        "id":1819602,
+        "name":"Kowloon Tong",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.33312,
+        "lon":114.17969,
+        "pop":18849
+    },
+    {
+        "id":12719587,
+        "name":"Siu Sai Wan Estate",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.26155,
+        "lon":114.24881,
+        "pop":18803
+    },
+    {
+        "id":1819029,
+        "name":"Sai Wan Ho",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28449,
+        "lon":114.2232,
+        "pop":18771
+    },
+    {
+        "id":12719581,
+        "name":"So Uk Estate",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.34153,
+        "lon":114.15653,
+        "pop":18748
+    },
+    {
+        "id":12719848,
+        "name":"Tak Long Estate",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.3302,
+        "lon":114.20338,
+        "pop":18720
+    },
+    {
+        "id":12719547,
+        "name":"Keng Hau",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.36507,
+        "lon":114.17472,
+        "pop":18707
+    },
+    {
+        "id":12719552,
+        "name":"Un Chau Estate",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33633,
+        "lon":114.15616,
+        "pop":18670
+    },
+    {
+        "id":1819554,
+        "name":"Lam Tin",
+        "country":"HK",
+        "admin1":"Kwun Tong District",
+        "admin2":"",
+        "lat":22.30933,
+        "lon":114.23634,
+        "pop":18666
+    },
+    {
+        "id":12719787,
+        "name":"Lei Tung Estate",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.24115,
+        "lon":114.15523,
+        "pop":18575
+    },
+    {
+        "id":1819003,
+        "name":"San Po Kong",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.33546,
+        "lon":114.19669,
+        "pop":18199
+    },
+    {
+        "id":12719440,
+        "name":"Laguna Verde",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.30719,
+        "lon":114.19071,
+        "pop":18091
+    },
+    {
+        "id":12719439,
+        "name":"Hok Yuen",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.31027,
+        "lon":114.18816,
+        "pop":18091
+    },
+    {
+        "id":1818905,
+        "name":"Shek Kip Mei",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33146,
+        "lon":114.16799,
+        "pop":18078
+    },
+    {
+        "id":12719592,
+        "name":"Heng Fa Chuen",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.27668,
+        "lon":114.24077,
+        "pop":17963
+    },
+    {
+        "id":12719542,
+        "name":"Aldrich Bay",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28203,
+        "lon":114.22474,
+        "pop":17925
+    },
+    {
+        "id":12746531,
+        "name":"Choi Hung Estate",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.33636,
+        "lon":114.20581,
+        "pop":17817
+    },
+    {
+        "id":1818654,
+        "name":"Tai Shui Hang",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.40631,
+        "lon":114.22385,
+        "pop":17647
+    },
+    {
+        "id":1818349,
+        "name":"Wo Che",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.39016,
+        "lon":114.19217,
+        "pop":17572
+    },
+    {
+        "id":1818695,
+        "name":"Tai Mei Tuk",
+        "country":"HK",
+        "admin1":"Tai Po",
+        "admin2":"",
+        "lat":22.47447,
+        "lon":114.23458,
+        "pop":17544
+    },
+    {
+        "id":12640682,
+        "name":"Kadoorie",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.32247,
+        "lon":114.17556,
+        "pop":17422
+    },
+    {
+        "id":12719847,
+        "name":"Oi Man Estate",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.31197,
+        "lon":114.17853,
+        "pop":17407
+    },
+    {
+        "id":12689054,
+        "name":"Discovery Park",
+        "country":"HK",
+        "admin1":"Tsuen Wan",
+        "admin2":"",
+        "lat":22.37621,
+        "lon":114.11141,
+        "pop":17325
+    },
+    {
+        "id":1818574,
+        "name":"Ting Kau",
+        "country":"HK",
+        "admin1":"Tsuen Wan",
+        "admin2":"",
+        "lat":22.36956,
+        "lon":114.07907,
+        "pop":17009
+    },
+    {
+        "id":12746517,
+        "name":"Chuk Yuen North Estate",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.34592,
+        "lon":114.19197,
+        "pop":16989
+    },
+    {
+        "id":1818365,
+        "name":"Wang Tau Hom",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.3401,
+        "lon":114.18732,
+        "pop":16936
+    },
+    {
+        "id":12719553,
+        "name":"Pak Tin Estate",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33713,
+        "lon":114.16673,
+        "pop":16843
+    },
+    {
+        "id":1818557,
+        "name":"Tin Wan",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.25113,
+        "lon":114.14726,
+        "pop":16811
+    },
+    {
+        "id":12746547,
+        "name":"Wang Tau Hom Estate",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.34009,
+        "lon":114.18673,
+        "pop":16794
+    },
+    {
+        "id":1819577,
+        "name":"Kwun Tong",
+        "country":"HK",
+        "admin1":"Kwun Tong District",
+        "admin2":"",
+        "lat":22.31184,
+        "lon":114.22176,
+        "pop":16766
+    },
+    {
+        "id":12719445,
+        "name":"Kam Ying",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.42285,
+        "lon":114.23664,
+        "pop":16691
+    },
+    {
+        "id":12689062,
+        "name":"Sun Tin Wai",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.37058,
+        "lon":114.18696,
+        "pop":16628
+    },
+    {
+        "id":1818992,
+        "name":"San Tin",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.37193,
+        "lon":114.18385,
+        "pop":16628
+    },
+    {
+        "id":12719540,
+        "name":"Sam Shing",
+        "country":"HK",
+        "admin1":"Tuen Mun",
+        "admin2":"",
+        "lat":22.38128,
+        "lon":113.97872,
+        "pop":16423
+    },
+    {
+        "id":9172583,
+        "name":"Wong Chuk Hang",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.23981,
+        "lon":114.17001,
+        "pop":16316
+    },
+    {
+        "id":1818259,
+        "name":"Yeung Uk Tsuen",
+        "country":"HK",
+        "admin1":"Tsuen Wan",
+        "admin2":"",
+        "lat":22.45,
+        "lon":114.01667,
+        "pop":16236
+    },
+    {
+        "id":12719438,
+        "name":"Braemar Hill",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28282,
+        "lon":114.20034,
+        "pop":16171
+    },
+    {
+        "id":12719569,
+        "name":"Hoi Lai Estate",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33182,
+        "lon":114.14667,
+        "pop":16071
+    },
+    {
+        "id":1819339,
+        "name":"Mount Davis",
+        "country":"HK",
+        "admin1":"Central and Western",
+        "admin2":"",
+        "lat":22.27862,
+        "lon":114.11777,
+        "pop":16030
+    },
+    {
+        "id":12687141,
+        "name":"Pok Hong",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.37558,
+        "lon":114.19584,
+        "pop":15817
+    },
+    {
+        "id":12719572,
+        "name":"Fu Cheong Estate",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.32891,
+        "lon":114.15399,
+        "pop":15655
+    },
+    {
+        "id":1818544,
+        "name":"To Kwa Wan",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.31693,
+        "lon":114.19052,
+        "pop":15646
+    },
+    {
+        "id":12719444,
+        "name":"Lee On",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.42635,
+        "lon":114.24133,
+        "pop":15621
+    },
+    {
+        "id":12689065,
+        "name":"Butterfly",
+        "country":"HK",
+        "admin1":"Tuen Mun",
+        "admin2":"",
+        "lat":22.37591,
+        "lon":113.96251,
+        "pop":15488
+    },
+    {
+        "id":12687144,
+        "name":"Prince Edward",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.3236,
+        "lon":114.17938,
+        "pop":15481
+    },
+    {
+        "id":7778986,
+        "name":"Fortress Hill",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28858,
+        "lon":114.19417,
+        "pop":15464
+    },
+    {
+        "id":1819361,
+        "name":"Mid Levels",
+        "country":"HK",
+        "admin1":"Central and Western",
+        "admin2":"",
+        "lat":22.28399,
+        "lon":114.14958,
+        "pop":15464
+    },
+    {
+        "id":12746524,
+        "name":"Tung Tau Estate",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.33212,
+        "lon":114.19277,
+        "pop":15440
+    },
+    {
+        "id":12640679,
+        "name":"City One",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.38679,
+        "lon":114.20275,
+        "pop":15407
+    },
+    {
+        "id":12719544,
+        "name":"City Garden",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28997,
+        "lon":114.19259,
+        "pop":15212
+    },
+    {
+        "id":12719635,
+        "name":"Yiu Tung Estate",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.27849,
+        "lon":114.22299,
+        "pop":15061
+    },
+    {
+        "id":1819952,
+        "name":"Cheung Sha Wan",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33447,
+        "lon":114.1558,
+        "pop":14966
+    },
+    {
+        "id":12719442,
+        "name":"Yu Chui",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.38059,
+        "lon":114.2053,
+        "pop":14944
+    },
+    {
+        "id":1818880,
+        "name":"Shek Pai Wan Estate",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.2493,
+        "lon":114.15812,
+        "pop":14927
+    },
+    {
+        "id":1819932,
+        "name":"Choi Hung",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.33548,
+        "lon":114.20638,
+        "pop":14773
+    },
+    {
+        "id":1819983,
+        "name":"Che Ha",
+        "country":"HK",
+        "admin1":"Tai Po",
+        "admin2":"",
+        "lat":22.43021,
+        "lon":114.26264,
+        "pop":14753
+    },
+    {
+        "id":1819031,
+        "name":"Sai Wan",
+        "country":"HK",
+        "admin1":"Central and Western",
+        "admin2":"",
+        "lat":22.28124,
+        "lon":114.12554,
+        "pop":14650
+    },
+    {
+        "id":1818771,
+        "name":"So Kwun Wat",
+        "country":"HK",
+        "admin1":"Tuen Mun",
+        "admin2":"",
+        "lat":22.37594,
+        "lon":114.00682,
+        "pop":14475
+    },
+    {
+        "id":1819706,
+        "name":"Jardine's Lookout",
+        "country":"HK",
+        "admin1":"Wan Chai",
+        "admin2":"",
+        "lat":22.26857,
+        "lon":114.19252,
+        "pop":14459
+    },
+    {
+        "id":1819374,
+        "name":"Ma Wan",
+        "country":"HK",
+        "admin1":"Islands",
+        "admin2":"",
+        "lat":22.3523,
+        "lon":114.06002,
+        "pop":14409
+    },
+    {
+        "id":1819395,
+        "name":"Ma Tau Kok",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.3215,
+        "lon":114.1905,
+        "pop":14397
+    },
+    {
+        "id":12719629,
+        "name":"Hing Wah Estate (I & II)",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.26309,
+        "lon":114.23506,
+        "pop":14339
+    },
+    {
+        "id":1819652,
+        "name":"Kau Wa Keng",
+        "country":"HK",
+        "admin1":"Kwai Tsing District",
+        "admin2":"",
+        "lat":22.3459,
+        "lon":114.13684,
+        "pop":14283
+    },
+    {
+        "id":12719429,
+        "name":"Lok Fu",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.33727,
+        "lon":114.18725,
+        "pop":14170
+    },
+    {
+        "id":12689050,
+        "name":"Luk Yeung",
+        "country":"HK",
+        "admin1":"Tsuen Wan",
+        "admin2":"",
+        "lat":22.37371,
+        "lon":114.11917,
+        "pop":14154
+    },
+    {
+        "id":12746518,
+        "name":"Chuk Yuen South Estate",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.34457,
+        "lon":114.19282,
+        "pop":14147
+    },
+    {
+        "id":1818264,
+        "name":"Yau Yat Chuen",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33101,
+        "lon":114.17413,
+        "pop":14059
+    },
+    {
+        "id":1818413,
+        "name":"Tung Tau Tsuen",
+        "country":"HK",
+        "admin1":"Yuen Long",
+        "admin2":"",
+        "lat":22.45291,
+        "lon":114.02873,
+        "pop":13928
+    },
+    {
+        "id":1819718,
+        "name":"Hung Hom",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.30715,
+        "lon":114.18532,
+        "pop":13762
+    },
+    {
+        "id":6691573,
+        "name":"Tai Yuen Estate",
+        "country":"HK",
+        "admin1":"Tai Po",
+        "admin2":"",
+        "lat":22.45574,
+        "lon":114.16971,
+        "pop":13614
+    },
+    {
+        "id":1819026,
+        "name":"Sai Ying Pun",
+        "country":"HK",
+        "admin1":"Central and Western",
+        "admin2":"",
+        "lat":22.28998,
+        "lon":114.14223,
+        "pop":13600
+    },
+    {
+        "id":12719546,
+        "name":"Tin Hau",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28093,
+        "lon":114.1924,
+        "pop":13521
+    },
+    {
+        "id":12719545,
+        "name":"Victoria Park",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28464,
+        "lon":114.19051,
+        "pop":13521
+    },
+    {
+        "id":12689053,
+        "name":"Fuk Loi",
+        "country":"HK",
+        "admin1":"Tsuen Wan",
+        "admin2":"",
+        "lat":22.37405,
+        "lon":114.11352,
+        "pop":13490
+    },
+    {
+        "id":1818911,
+        "name":"Shau Kei Wan",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.27771,
+        "lon":114.22864,
+        "pop":13442
+    },
+    {
+        "id":12719541,
+        "name":"Wah Kwai",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.25097,
+        "lon":114.14005,
+        "pop":13309
+    },
+    {
+        "id":1819783,
+        "name":"Happy Valley",
+        "country":"HK",
+        "admin1":"Wan Chai",
+        "admin2":"",
+        "lat":22.26912,
+        "lon":114.18619,
+        "pop":13248
+    },
+    {
+        "id":8504415,
+        "name":"Kowloon Bay",
+        "country":"HK",
+        "admin1":"Kwun Tong District",
+        "admin2":"",
+        "lat":22.32662,
+        "lon":114.20777,
+        "pop":13200
+    },
+    {
+        "id":12719543,
+        "name":"Kornhill",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28213,
+        "lon":114.21566,
+        "pop":13083
+    },
+    {
+        "id":12689066,
+        "name":"Wu King",
+        "country":"HK",
+        "admin1":"Tuen Mun",
+        "admin2":"",
+        "lat":22.37607,
+        "lon":113.96537,
+        "pop":13070
+    },
+    {
+        "id":1818428,
+        "name":"Causeway Bay",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28189,
+        "lon":114.18515,
+        "pop":12777
+    },
+    {
+        "id":1818616,
+        "name":"Tai Wo",
+        "country":"HK",
+        "admin1":"Tai Po",
+        "admin2":"",
+        "lat":22.45151,
+        "lon":114.16115,
+        "pop":12752
+    },
+    {
+        "id":12719830,
+        "name":"Laguna Verde (Estate)",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.30767,
+        "lon":114.19288,
+        "pop":12664
+    },
+    {
+        "id":12689068,
+        "name":"Yuet Wu",
+        "country":"HK",
+        "admin1":"Tuen Mun",
+        "admin2":"",
+        "lat":22.37529,
+        "lon":113.96814,
+        "pop":12513
+    },
+    {
+        "id":12719437,
+        "name":"Mount Parker",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.26638,
+        "lon":114.21833,
+        "pop":12348
+    },
+    {
+        "id":12719822,
+        "name":"Ho Man Tin Estate",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.3149,
+        "lon":114.18252,
+        "pop":12329
+    },
+    {
+        "id":12689067,
+        "name":"Siu Hei",
+        "country":"HK",
+        "admin1":"Tuen Mun",
+        "admin2":"",
+        "lat":22.37359,
+        "lon":113.9671,
+        "pop":12206
+    },
+    {
+        "id":1818868,
+        "name":"Shek Wai Kok",
+        "country":"HK",
+        "admin1":"Tsuen Wan",
+        "admin2":"",
+        "lat":22.37546,
+        "lon":114.12411,
+        "pop":12198
+    },
+    {
+        "id":12746538,
+        "name":"Upper Wong Tai Sin Estate",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.3433,
+        "lon":114.19193,
+        "pop":12176
+    },
+    {
+        "id":12746545,
+        "name":"Fung Tak Estate",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.34432,
+        "lon":114.20087,
+        "pop":12066
+    },
+    {
+        "id":1819142,
+        "name":"Pak Shek Kok",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.42734,
+        "lon":114.20366,
+        "pop":12000
+    },
+    {
+        "id":12719431,
+        "name":"Ap Lei Chau Estate",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.24473,
+        "lon":114.15052,
+        "pop":11960
+    },
+    {
+        "id":12719838,
+        "name":"Kai Ching Estate",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.33289,
+        "lon":114.20304,
+        "pop":11876
+    },
+    {
+        "id":12640694,
+        "name":"Hung Shui Kiu",
+        "country":"HK",
+        "admin1":"Yuen Long",
+        "admin2":"",
+        "lat":22.43163,
+        "lon":113.98815,
+        "pop":11851
+    },
+    {
+        "id":12719441,
+        "name":"Kwong Yuen",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.38005,
+        "lon":114.21361,
+        "pop":11716
+    },
+    {
+        "id":1818692,
+        "name":"Tai Mong Tsai",
+        "country":"HK",
+        "admin1":"Sai Kung District",
+        "admin2":"",
+        "lat":22.40034,
+        "lon":114.30249,
+        "pop":11526
+    },
+    {
+        "id":1818734,
+        "name":"Tai Hang",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.27851,
+        "lon":114.1922,
+        "pop":11425
+    },
+    {
+        "id":12719809,
+        "name":"Charming Garden",
+        "country":"HK",
+        "admin1":"Yau Tsim Mong District",
+        "admin2":"",
+        "lat":22.31382,
+        "lon":114.1647,
+        "pop":11335
+    },
+    {
+        "id":12719557,
+        "name":"Lei Cheng Uk Estate",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33937,
+        "lon":114.15921,
+        "pop":11259
+    },
+    {
+        "id":1819064,
+        "name":"Quarry Bay",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28768,
+        "lon":114.2135,
+        "pop":11198
+    },
+    {
+        "id":8223932,
+        "name":"Central",
+        "country":"HK",
+        "admin1":"Central and Western",
+        "admin2":"",
+        "lat":22.28299,
+        "lon":114.15846,
+        "pop":11077
+    },
+    {
+        "id":12719579,
+        "name":"Lai Tsui Court",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33376,
+        "lon":114.15506,
+        "pop":10438
+    },
+    {
+        "id":12746544,
+        "name":"Tsui Chuk Garden",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.34639,
+        "lon":114.18766,
+        "pop":10071
+    },
+    {
+        "id":12746546,
+        "name":"Lok Fu Estate",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.33719,
+        "lon":114.18672,
+        "pop":9944
+    },
+    {
+        "id":12719795,
+        "name":"Chi Fu Fa Yuen",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.25582,
+        "lon":114.13928,
+        "pop":9813
+    },
+    {
+        "id":12719808,
+        "name":"Hoi Fu Court",
+        "country":"HK",
+        "admin1":"Yau Tsim Mong District",
+        "admin2":"",
+        "lat":22.31631,
+        "lon":114.16466,
+        "pop":9540
+    },
+    {
+        "id":12719630,
+        "name":"Wan Tsui Estate",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.26123,
+        "lon":114.2374,
+        "pop":9532
+    },
+    {
+        "id":12719548,
+        "name":"Jat Min Chuen",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.37609,
+        "lon":114.1914,
+        "pop":9424
+    },
+    {
+        "id":12719793,
+        "name":"Wah Kwai Estate",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.25044,
+        "lon":114.13964,
+        "pop":9321
+    },
+    {
+        "id":12719614,
+        "name":"Fullview Garden",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.26251,
+        "lon":114.25191,
+        "pop":9175
+    },
+    {
+        "id":12719616,
+        "name":"Oi Tung Estate",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28173,
+        "lon":114.22786,
+        "pop":9128
+    },
+    {
+        "id":12719632,
+        "name":"Island Resort",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.26665,
+        "lon":114.2508,
+        "pop":9025
+    },
+    {
+        "id":12746526,
+        "name":"Rhythm Garden",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.33617,
+        "lon":114.20272,
+        "pop":8980
+    },
+    {
+        "id":12719788,
+        "name":"Residence Bel-air",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.25466,
+        "lon":114.13289,
+        "pop":8795
+    },
+    {
+        "id":12719849,
+        "name":"Lok Man Sun Chuen",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.3163,
+        "lon":114.18616,
+        "pop":8696
+    },
+    {
+        "id":12719617,
+        "name":"Aldrich Garden",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28082,
+        "lon":114.22857,
+        "pop":8644
+    },
+    {
+        "id":12719785,
+        "name":"Tin Wan Estate",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.25073,
+        "lon":114.1487,
+        "pop":8491
+    },
+    {
+        "id":12719790,
+        "name":"Aberdeen Centre",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.24842,
+        "lon":114.15406,
+        "pop":8353
+    },
+    {
+        "id":12719623,
+        "name":"Yue Wan Estate",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.26592,
+        "lon":114.24129,
+        "pop":7998
+    },
+    {
+        "id":12719810,
+        "name":"Metro Harbour",
+        "country":"HK",
+        "admin1":"Yau Tsim Mong District",
+        "admin2":"",
+        "lat":22.32447,
+        "lon":114.16028,
+        "pop":7887
+    },
+    {
+        "id":1819112,
+        "name":"Peng Chau",
+        "country":"HK",
+        "admin1":"Islands",
+        "admin2":"",
+        "lat":22.28333,
+        "lon":114.03333,
+        "pop":7821
+    },
+    {
+        "id":12719584,
+        "name":"The Belcher's",
+        "country":"HK",
+        "admin1":"Central and Western",
+        "admin2":"",
+        "lat":22.28481,
+        "lon":114.13329,
+        "pop":7265
+    },
+    {
+        "id":12719551,
+        "name":"Tai Hang Estate (East & West)",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33209,
+        "lon":114.17068,
+        "pop":7263
+    },
+    {
+        "id":12719571,
+        "name":"Hoi Lok Court",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.32781,
+        "lon":114.14913,
+        "pop":7247
+    },
+    {
+        "id":12746543,
+        "name":"Tsz Hong Estate",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.34747,
+        "lon":114.20274,
+        "pop":7079
+    },
+    {
+        "id":12719603,
+        "name":"Nam Fung Sun Chuen",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28247,
+        "lon":114.21475,
+        "pop":6877
+    },
+    {
+        "id":12719836,
+        "name":"Chong Chien Court - Wyler Gardens",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.31811,
+        "lon":114.19205,
+        "pop":6746
+    },
+    {
+        "id":12719825,
+        "name":"Hung Hom Estate",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.308,
+        "lon":114.18929,
+        "pop":6744
+    },
+    {
+        "id":12719831,
+        "name":"Harbour Place",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.30323,
+        "lon":114.18619,
+        "pop":6704
+    },
+    {
+        "id":12719613,
+        "name":"Harmony Garden",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.26573,
+        "lon":114.2487,
+        "pop":6697
+    },
+    {
+        "id":12719844,
+        "name":"Whampoa Estate",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.30624,
+        "lon":114.18819,
+        "pop":6647
+    },
+    {
+        "id":12719828,
+        "name":"Ka Wai Chuen",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.30791,
+        "lon":114.18648,
+        "pop":6634
+    },
+    {
+        "id":12746519,
+        "name":"Grand View Garden",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.34132,
+        "lon":114.20779,
+        "pop":6615
+    },
+    {
+        "id":12746548,
+        "name":"Lung Poon Court",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.34239,
+        "lon":114.19987,
+        "pop":6550
+    },
+    {
+        "id":12719561,
+        "name":"Banyan Garden",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.3346,
+        "lon":114.14797,
+        "pop":6515
+    },
+    {
+        "id":12719634,
+        "name":"Lei King Wan",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28389,
+        "lon":114.22328,
+        "pop":6389
+    },
+    {
+        "id":12719624,
+        "name":"Tsui Wan Estate",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.2682,
+        "lon":114.24028,
+        "pop":6288
+    },
+    {
+        "id":12719599,
+        "name":"Tung Hei Court",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28031,
+        "lon":114.21886,
+        "pop":6262
+    },
+    {
+        "id":12719813,
+        "name":"Island Harbourview",
+        "country":"HK",
+        "admin1":"Yau Tsim Mong District",
+        "admin2":"",
+        "lat":22.31842,
+        "lon":114.15745,
+        "pop":6236
+    },
+    {
+        "id":12719586,
+        "name":"Lai Tak Tsuen",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.27789,
+        "lon":114.1947,
+        "pop":6211
+    },
+    {
+        "id":12719564,
+        "name":"Nam Shan Estate",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33477,
+        "lon":114.17182,
+        "pop":6208
+    },
+    {
+        "id":12719580,
+        "name":"Lai Kok Estate",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33227,
+        "lon":114.15691,
+        "pop":6200
+    },
+    {
+        "id":12719585,
+        "name":"Kwun Lung Lau",
+        "country":"HK",
+        "admin1":"Central and Western",
+        "admin2":"",
+        "lat":22.28044,
+        "lon":114.12758,
+        "pop":6156
+    },
+    {
+        "id":12719628,
+        "name":"Hing Tung Estate",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28151,
+        "lon":114.21943,
+        "pop":6076
+    },
+    {
+        "id":12719610,
+        "name":"Greenwood Terrace",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.26718,
+        "lon":114.23492,
+        "pop":6061
+    },
+    {
+        "id":12746516,
+        "name":"Tin Ma Court",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.34321,
+        "lon":114.18691,
+        "pop":6034
+    },
+    {
+        "id":12719560,
+        "name":"Liberte",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33465,
+        "lon":114.14886,
+        "pop":6009
+    },
+    {
+        "id":1818789,
+        "name":"Siu Chik Sha",
+        "country":"HK",
+        "admin1":"Sai Kung District",
+        "admin2":"",
+        "lat":22.30086,
+        "lon":114.27471,
+        "pop":6005
+    },
+    {
+        "id":1818211,
+        "name":"Yung Shue Wan",
+        "country":"HK",
+        "admin1":"Islands",
+        "admin2":"",
+        "lat":22.22623,
+        "lon":114.11241,
+        "pop":6000
+    },
+    {
+        "id":12719627,
+        "name":"Hing Man Estate",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.26682,
+        "lon":114.2327,
+        "pop":5990
+    },
+    {
+        "id":12746528,
+        "name":"Galaxia",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.34121,
+        "lon":114.20218,
+        "pop":5964
+    },
+    {
+        "id":12746542,
+        "name":"Tsz Man Estate",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.34816,
+        "lon":114.20287,
+        "pop":5936
+    },
+    {
+        "id":12719814,
+        "name":"Sorrento",
+        "country":"HK",
+        "admin1":"Yau Tsim Mong District",
+        "admin2":"",
+        "lat":22.30641,
+        "lon":114.16226,
+        "pop":5802
+    },
+    {
+        "id":12746540,
+        "name":"Kingsford Terrace",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.34031,
+        "lon":114.21125,
+        "pop":5698
+    },
+    {
+        "id":12719846,
+        "name":"Sky Tower",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.3235,
+        "lon":114.18982,
+        "pop":5678
+    },
+    {
+        "id":12719609,
+        "name":"Kornhill Garden",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.2853,
+        "lon":114.21601,
+        "pop":5619
+    },
+    {
+        "id":12719556,
+        "name":"The Pacifica",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33448,
+        "lon":114.14988,
+        "pop":5604
+    },
+    {
+        "id":12746536,
+        "name":"Fu Shan Estate",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.34278,
+        "lon":114.20865,
+        "pop":5572
+    },
+    {
+        "id":1819333,
+        "name":"Mui Wo Kau Tsuen",
+        "country":"HK",
+        "admin1":"Islands",
+        "admin2":"",
+        "lat":22.26886,
+        "lon":113.98609,
+        "pop":5485
+    },
+    {
+        "id":12719612,
+        "name":"Cheerful Garden",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.263,
+        "lon":114.25063,
+        "pop":5367
+    },
+    {
+        "id":12719800,
+        "name":"Baguio Villa",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.26234,
+        "lon":114.13364,
+        "pop":5339
+    },
+    {
+        "id":12719596,
+        "name":"Ming Wah Dai Ha",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.27778,
+        "lon":114.23108,
+        "pop":5299
+    },
+    {
+        "id":12746523,
+        "name":"Tung Wui Estate",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.33228,
+        "lon":114.19393,
+        "pop":5280
+    },
+    {
+        "id":12719608,
+        "name":"Healthy Village",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.29117,
+        "lon":114.20624,
+        "pop":5278
+    },
+    {
+        "id":12719574,
+        "name":"Cullinan West",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.32702,
+        "lon":114.15409,
+        "pop":5276
+    },
+    {
+        "id":12719798,
+        "name":"Yue On Court",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.24304,
+        "lon":114.15746,
+        "pop":5175
+    },
+    {
+        "id":1818770,
+        "name":"So Kwun Wat Tsuen",
+        "country":"HK",
+        "admin1":"Tuen Mun",
+        "admin2":"",
+        "lat":22.3849,
+        "lon":114.00448,
+        "pop":5172
+    },
+    {
+        "id":1818775,
+        "name":"Sok Kwu Wan",
+        "country":"HK",
+        "admin1":"Islands",
+        "admin2":"",
+        "lat":22.20453,
+        "lon":114.13159,
+        "pop":5100
+    },
+    {
+        "id":12719598,
+        "name":"Tung Yuk Court",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.2824,
+        "lon":114.22681,
+        "pop":5052
+    },
+    {
+        "id":12719550,
+        "name":"Cosmopolitan Estate",
+        "country":"HK",
+        "admin1":"Yau Tsim Mong District",
+        "admin2":"",
+        "lat":22.32161,
+        "lon":114.16162,
+        "pop":5035
+    },
+    {
+        "id":12719549,
+        "name":"Parc Oasis",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33332,
+        "lon":114.17488,
+        "pop":5005
+    },
+    {
+        "id":1819326,
+        "name":"Nai Chung",
+        "country":"HK",
+        "admin1":"Sha Tin",
+        "admin2":"",
+        "lat":22.43116,
+        "lon":114.25753,
+        "pop":5001
+    },
+    {
+        "id":1819230,
+        "name":"Ngong Ping",
+        "country":"HK",
+        "admin1":"Islands",
+        "admin2":"",
+        "lat":22.25556,
+        "lon":113.90391,
+        "pop":5001
+    },
+    {
+        "id":1819072,
+        "name":"Pui O",
+        "country":"HK",
+        "admin1":"Islands",
+        "admin2":"",
+        "lat":22.24597,
+        "lon":113.97817,
+        "pop":5001
+    },
+    {
+        "id":1818923,
+        "name":"Sha Tau Kok",
+        "country":"HK",
+        "admin1":"North District",
+        "admin2":"",
+        "lat":22.54569,
+        "lon":114.22379,
+        "pop":5001
+    },
+    {
+        "id":12719835,
+        "name":"Ma Tau Wai Estate",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.32376,
+        "lon":114.18678,
+        "pop":4942
+    },
+    {
+        "id":12719824,
+        "name":"Chun Man Court",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.31543,
+        "lon":114.17927,
+        "pop":4929
+    },
+    {
+        "id":12719595,
+        "name":"Provident Centre",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.29214,
+        "lon":114.19566,
+        "pop":4873
+    },
+    {
+        "id":12719622,
+        "name":"Grand Promenade",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28499,
+        "lon":114.225,
+        "pop":4801
+    },
+    {
+        "id":12719565,
+        "name":"Nam Cheong Estate",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.32593,
+        "lon":114.15744,
+        "pop":4684
+    },
+    {
+        "id":12719805,
+        "name":"Park Avenue",
+        "country":"HK",
+        "admin1":"Yau Tsim Mong District",
+        "admin2":"",
+        "lat":22.3163,
+        "lon":114.16295,
+        "pop":4651
+    },
+    {
+        "id":12719558,
+        "name":"Fortune Estate",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33556,
+        "lon":114.15373,
+        "pop":4587
+    },
+    {
+        "id":12719590,
+        "name":"Tai On Lau",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28274,
+        "lon":114.2221,
+        "pop":4561
+    },
+    {
+        "id":12719806,
+        "name":"The Long Beach",
+        "country":"HK",
+        "admin1":"Yau Tsim Mong District",
+        "admin2":"",
+        "lat":22.31925,
+        "lon":114.15582,
+        "pop":4472
+    },
+    {
+        "id":12719621,
+        "name":"New Jade Garden",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.26376,
+        "lon":114.23685,
+        "pop":4440
+    },
+    {
+        "id":12719626,
+        "name":"Lok Hin Terrace",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.26424,
+        "lon":114.2412,
+        "pop":4425
+    },
+    {
+        "id":12746530,
+        "name":"Mei Tung Estate",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.33314,
+        "lon":114.18986,
+        "pop":4411
+    },
+    {
+        "id":12719842,
+        "name":"Grand Waterfront",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.31921,
+        "lon":114.19375,
+        "pop":4400
+    },
+    {
+        "id":12719819,
+        "name":"Royal Peninsula",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.30469,
+        "lon":114.18452,
+        "pop":4396
+    },
+    {
+        "id":12719576,
+        "name":"Aqua Marine",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33258,
+        "lon":114.14867,
+        "pop":4367
+    },
+    {
+        "id":12719815,
+        "name":"Prosperous Garden",
+        "country":"HK",
+        "admin1":"Yau Tsim Mong District",
+        "admin2":"",
+        "lat":22.31009,
+        "lon":114.16829,
+        "pop":4090
+    },
+    {
+        "id":12719794,
+        "name":"Broadview Court",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.24269,
+        "lon":114.16566,
+        "pop":4087
+    },
+    {
+        "id":12719811,
+        "name":"The Waterfront",
+        "country":"HK",
+        "admin1":"Yau Tsim Mong District",
+        "admin2":"",
+        "lat":22.30463,
+        "lon":114.16303,
+        "pop":4002
+    },
+    {
+        "id":12746549,
+        "name":"King Shan Court",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.34195,
+        "lon":114.21019,
+        "pop":3999
+    },
+    {
+        "id":12719591,
+        "name":"Bedford Garden",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28962,
+        "lon":114.20454,
+        "pop":3950
+    },
+    {
+        "id":12746534,
+        "name":"Kai Tak Garden",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.3378,
+        "lon":114.19461,
+        "pop":3928
+    },
+    {
+        "id":12746533,
+        "name":"Choi Fai Estate",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.33539,
+        "lon":114.21811,
+        "pop":3923
+    },
+    {
+        "id":12719577,
+        "name":"Chak On Estate",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.34029,
+        "lon":114.16454,
+        "pop":3913
+    },
+    {
+        "id":12719796,
+        "name":"Ka Lung Court",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.24948,
+        "lon":114.13869,
+        "pop":3906
+    },
+    {
+        "id":12719804,
+        "name":"The Central Park",
+        "country":"HK",
+        "admin1":"Yau Tsim Mong District",
+        "admin2":"",
+        "lat":22.31715,
+        "lon":114.16182,
+        "pop":3873
+    },
+    {
+        "id":12719615,
+        "name":"Fortress Garden",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28744,
+        "lon":114.19411,
+        "pop":3860
+    },
+    {
+        "id":12719575,
+        "name":"Wing Cheong Estate",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.32928,
+        "lon":114.15548,
+        "pop":3620
+    },
+    {
+        "id":12719606,
+        "name":"Chai Wan Estate",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.26428,
+        "lon":114.2423,
+        "pop":3578
+    },
+    {
+        "id":12746537,
+        "name":"Fu Keung Court",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.34034,
+        "lon":114.18453,
+        "pop":3557
+    },
+    {
+        "id":12719578,
+        "name":"Lai On Estate",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33135,
+        "lon":114.15857,
+        "pop":3534
+    },
+    {
+        "id":12719601,
+        "name":"Tung Tao Court",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28181,
+        "lon":114.22549,
+        "pop":3506
+    },
+    {
+        "id":12719567,
+        "name":"Hoi Ying Estate",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.32853,
+        "lon":114.14825,
+        "pop":3444
+    },
+    {
+        "id":12719827,
+        "name":"Mei King Mansion",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.31606,
+        "lon":114.19047,
+        "pop":3421
+    },
+    {
+        "id":12719568,
+        "name":"Hoi Tat Estate",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33017,
+        "lon":114.14946,
+        "pop":3415
+    },
+    {
+        "id":12719594,
+        "name":"Kai Tsui Court",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.26158,
+        "lon":114.25105,
+        "pop":3379
+    },
+    {
+        "id":12719803,
+        "name":"Harbour Green",
+        "country":"HK",
+        "admin1":"Yau Tsim Mong District",
+        "admin2":"",
+        "lat":22.32127,
+        "lon":114.15931,
+        "pop":3329
+    },
+    {
+        "id":12719604,
+        "name":"Fung Wah Estate",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.26079,
+        "lon":114.23137,
+        "pop":3303
+    },
+    {
+        "id":1818684,
+        "name":"Tai O",
+        "country":"HK",
+        "admin1":"Islands",
+        "admin2":"",
+        "lat":22.25515,
+        "lon":113.86309,
+        "pop":3300
+    },
+    {
+        "id":12719818,
+        "name":"Celestial Heights",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.31922,
+        "lon":114.18556,
+        "pop":3265
+    },
+    {
+        "id":12746550,
+        "name":"The Latitude",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.33339,
+        "lon":114.19664,
+        "pop":3264
+    },
+    {
+        "id":12719602,
+        "name":"Tung Chun Court",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.27772,
+        "lon":114.22206,
+        "pop":3242
+    },
+    {
+        "id":12719563,
+        "name":"Cheung Sha Wan Estate",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33453,
+        "lon":114.15623,
+        "pop":3209
+    },
+    {
+        "id":12719841,
+        "name":"Mantin Heights",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.31926,
+        "lon":114.18187,
+        "pop":3189
+    },
+    {
+        "id":12719570,
+        "name":"Manhattan Hill",
+        "country":"HK",
+        "admin1":"Sham Shui Po District",
+        "admin2":"",
+        "lat":22.33458,
+        "lon":114.14231,
+        "pop":3140
+    },
+    {
+        "id":12746522,
+        "name":"Sha Tin Pass Estate",
+        "country":"HK",
+        "admin1":"Wong Tai Sin District",
+        "admin2":"",
+        "lat":22.34981,
+        "lon":114.19515,
+        "pop":3063
+    },
+    {
+        "id":12719631,
+        "name":"Braemar Hill Mansions",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.28543,
+        "lon":114.20114,
+        "pop":3045
+    },
+    {
+        "id":12719799,
+        "name":"Yue Fai Court",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.2498,
+        "lon":114.15678,
+        "pop":3025
+    },
+    {
+        "id":12719802,
+        "name":"Pokfulam Gardens",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.25776,
+        "lon":114.13751,
+        "pop":3005
+    },
+    {
+        "id":12719619,
+        "name":"Metropole Building",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.29056,
+        "lon":114.19942,
+        "pop":2980
+    },
+    {
+        "id":12719789,
+        "name":"South Wave Court",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.24463,
+        "lon":114.16623,
+        "pop":2939
+    },
+    {
+        "id":12719820,
+        "name":"On Wo Yuen",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.31653,
+        "lon":114.19132,
+        "pop":2781
+    },
+    {
+        "id":12719839,
+        "name":"One Kai Tak",
+        "country":"HK",
+        "admin1":"Kowloon City",
+        "admin2":"",
+        "lat":22.32971,
+        "lon":114.20049,
+        "pop":2777
+    },
+    {
+        "id":1818236,
+        "name":"Yue Kwong Chuen",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.25158,
+        "lon":114.15764,
+        "pop":2679
+    },
+    {
+        "id":12719583,
+        "name":"Queen's Terrace",
+        "country":"HK",
+        "admin1":"Central and Western",
+        "admin2":"",
+        "lat":22.28702,
+        "lon":114.14723,
+        "pop":2573
+    },
+    {
+        "id":12719607,
+        "name":"Healthy Gardens",
+        "country":"HK",
+        "admin1":"Eastern District",
+        "admin2":"",
+        "lat":22.29153,
+        "lon":114.20387,
+        "pop":2532
+    },
+    {
+        "id":12719582,
+        "name":"The Merton",
+        "country":"HK",
+        "admin1":"Central and Western",
+        "admin2":"",
+        "lat":22.28333,
+        "lon":114.12633,
+        "pop":2474
+    },
+    {
+        "id":1819535,
+        "name":"Lau Fau Shan",
+        "country":"HK",
+        "admin1":"Islands",
+        "admin2":"",
+        "lat":22.28328,
+        "lon":113.93416,
+        "pop":2230
+    },
+    {
+        "id":1818573,
+        "name":"Ting Kok",
+        "country":"HK",
+        "admin1":"Tai Po",
+        "admin2":"",
+        "lat":22.47285,
+        "lon":114.21995,
+        "pop":2000
+    },
+    {
+        "id":1818818,
+        "name":"Shouson Hill",
+        "country":"HK",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":22.24843,
+        "lon":114.17993,
+        "pop":1737
+    }
+]

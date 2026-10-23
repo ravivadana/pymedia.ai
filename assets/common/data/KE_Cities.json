@@ -1,0 +1,3262 @@
+[
+    {
+        "id":184745,
+        "name":"Nairobi",
+        "country":"KE",
+        "admin1":"Nairobi County",
+        "admin2":"",
+        "lat":-1.28333,
+        "lon":36.81667,
+        "pop":4397073
+    },
+    {
+        "id":195272,
+        "name":"Kakamega",
+        "country":"KE",
+        "admin1":"Kakamega County",
+        "admin2":"",
+        "lat":0.28422,
+        "lon":34.75229,
+        "pop":1867579
+    },
+    {
+        "id":186301,
+        "name":"Mombasa",
+        "country":"KE",
+        "admin1":"Mombasa County",
+        "admin2":"",
+        "lat":-4.05466,
+        "lon":39.66359,
+        "pop":1208333
+    },
+    {
+        "id":184622,
+        "name":"Nakuru",
+        "country":"KE",
+        "admin1":"Nakuru County",
+        "admin2":"",
+        "lat":-0.30719,
+        "lon":36.07225,
+        "pop":570674
+    },
+    {
+        "id":181032,
+        "name":"Ruiru",
+        "country":"KE",
+        "admin1":"Kiambu County",
+        "admin2":"",
+        "lat":-1.14665,
+        "lon":36.96087,
+        "pop":490120
+    },
+    {
+        "id":198629,
+        "name":"Eldoret",
+        "country":"KE",
+        "admin1":"Uasin Gishu County",
+        "admin2":"",
+        "lat":0.52036,
+        "lon":35.26993,
+        "pop":475716
+    },
+    {
+        "id":191245,
+        "name":"Kisumu",
+        "country":"KE",
+        "admin1":"Kisumu County",
+        "admin2":"",
+        "lat":-0.10221,
+        "lon":34.76171,
+        "pop":397957
+    },
+    {
+        "id":192126,
+        "name":"Kikuyu",
+        "country":"KE",
+        "admin1":"Kiambu County",
+        "admin2":"",
+        "lat":-1.24627,
+        "lon":36.66291,
+        "pop":323881
+    },
+    {
+        "id":179330,
+        "name":"Thika",
+        "country":"KE",
+        "admin1":"Nairobi County",
+        "admin2":"",
+        "lat":-1.03326,
+        "lon":37.06933,
+        "pop":251407
+    },
+    {
+        "id":184707,
+        "name":"Naivasha",
+        "country":"KE",
+        "admin1":"Nakuru County",
+        "admin2":"",
+        "lat":-0.71383,
+        "lon":36.43261,
+        "pop":198444
+    },
+    {
+        "id":193627,
+        "name":"Karuri",
+        "country":"KE",
+        "admin1":"Murang'A",
+        "admin2":"",
+        "lat":-0.7,
+        "lon":37.18333,
+        "pop":194342
+    },
+    {
+        "id":193624,
+        "name":"Karuri",
+        "country":"KE",
+        "admin1":"Kiambu County",
+        "admin2":"",
+        "lat":-1.17641,
+        "lon":36.7564,
+        "pop":194342
+    },
+    {
+        "id":189723,
+        "name":"Ongata Rongai",
+        "country":"KE",
+        "admin1":"Kajiado County",
+        "admin2":"",
+        "lat":-1.3953,
+        "lon":36.764,
+        "pop":172569
+    },
+    {
+        "id":197745,
+        "name":"Garissa",
+        "country":"KE",
+        "admin1":"Garissa County",
+        "admin2":"",
+        "lat":-0.45275,
+        "lon":39.64601,
+        "pop":163399
+    },
+    {
+        "id":191220,
+        "name":"Kitale",
+        "country":"KE",
+        "admin1":"Trans Nzoia",
+        "admin2":"",
+        "lat":1.01572,
+        "lon":35.00622,
+        "pop":162174
+    },
+    {
+        "id":189386,
+        "name":"Limuru",
+        "country":"KE",
+        "admin1":"Kiambu County",
+        "admin2":"",
+        "lat":-1.1136,
+        "lon":36.64205,
+        "pop":159314
+    },
+    {
+        "id":8299780,
+        "name":"Juja",
+        "country":"KE",
+        "admin1":"Kiambu County",
+        "admin2":"",
+        "lat":-1.10148,
+        "lon":37.0132,
+        "pop":156041
+    },
+    {
+        "id":7931934,
+        "name":"Kitengela",
+        "country":"KE",
+        "admin1":"Kajiado County",
+        "admin2":"",
+        "lat":-1.47612,
+        "lon":36.96144,
+        "pop":154436
+    },
+    {
+        "id":192710,
+        "name":"Kiambu",
+        "country":"KE",
+        "admin1":"Kiambu County",
+        "admin2":"",
+        "lat":-1.17139,
+        "lon":36.83556,
+        "pop":147870
+    },
+    {
+        "id":9166066,
+        "name":"Mlolongo",
+        "country":"KE",
+        "admin1":"Machakos County",
+        "admin2":"",
+        "lat":-1.39639,
+        "lon":36.94028,
+        "pop":136351
+    },
+    {
+        "id":187968,
+        "name":"Malindi",
+        "country":"KE",
+        "admin1":"Kilifi County",
+        "admin2":"",
+        "lat":-3.21799,
+        "lon":40.11692,
+        "pop":119859
+    },
+    {
+        "id":187896,
+        "name":"Mandera",
+        "country":"KE",
+        "admin1":"Mandera County",
+        "admin2":"",
+        "lat":3.93726,
+        "lon":41.85688,
+        "pop":114718
+    },
+    {
+        "id":192785,
+        "name":"Khwisero",
+        "country":"KE",
+        "admin1":"Kakamega County",
+        "admin2":"",
+        "lat":0.17124,
+        "lon":34.59466,
+        "pop":113294
+    },
+    {
+        "id":191299,
+        "name":"Kisii",
+        "country":"KE",
+        "admin1":"Kisii County",
+        "admin2":"",
+        "lat":-0.68174,
+        "lon":34.76666,
+        "pop":112417
+    },
+    {
+        "id":183595,
+        "name":"Ngong",
+        "country":"KE",
+        "admin1":"Kajiado County",
+        "admin2":"",
+        "lat":-1.3527,
+        "lon":36.6699,
+        "pop":102323
+    },
+    {
+        "id":11002530,
+        "name":"Mtwapa",
+        "country":"KE",
+        "admin1":"Kilifi County",
+        "admin2":"",
+        "lat":-3.93938,
+        "lon":39.74877,
+        "pop":90677
+    },
+    {
+        "id":178443,
+        "name":"Wajir",
+        "country":"KE",
+        "admin1":"Wajir County",
+        "admin2":"",
+        "lat":1.7471,
+        "lon":40.05732,
+        "pop":90116
+    },
+    {
+        "id":189280,
+        "name":"Lodwar",
+        "country":"KE",
+        "admin1":"Turkana County",
+        "admin2":"",
+        "lat":3.11988,
+        "lon":35.59642,
+        "pop":82970
+    },
+    {
+        "id":200787,
+        "name":"Athi River",
+        "country":"KE",
+        "admin1":"Machakos County",
+        "admin2":"",
+        "lat":-1.4563,
+        "lon":36.97826,
+        "pop":81302
+    },
+    {
+        "id":186827,
+        "name":"Meru",
+        "country":"KE",
+        "admin1":"Meru County",
+        "admin2":"",
+        "lat":0.04626,
+        "lon":37.65587,
+        "pop":80191
+    },
+    {
+        "id":182701,
+        "name":"Nyeri",
+        "country":"KE",
+        "admin1":"Nyeri County",
+        "admin2":"",
+        "lat":-0.42013,
+        "lon":36.94759,
+        "pop":80081
+    },
+    {
+        "id":196231,
+        "name":"Isiolo",
+        "country":"KE",
+        "admin1":"Isiolo County",
+        "admin2":"",
+        "lat":0.35462,
+        "lon":37.58218,
+        "pop":78650
+    },
+    {
+        "id":178792,
+        "name":"Ukunda",
+        "country":"KE",
+        "admin1":"Kwale County",
+        "admin2":"",
+        "lat":-4.2929,
+        "lon":39.56404,
+        "pop":77686
+    },
+    {
+        "id":191318,
+        "name":"Kiserian",
+        "country":"KE",
+        "admin1":"Kajiado County",
+        "admin2":"",
+        "lat":-1.4275,
+        "lon":36.6865,
+        "pop":76903
+    },
+    {
+        "id":192067,
+        "name":"Kilifi",
+        "country":"KE",
+        "admin1":"Kilifi County",
+        "admin2":"",
+        "lat":-3.63045,
+        "lon":39.84992,
+        "pop":74270
+    },
+    {
+        "id":184433,
+        "name":"Nanyuki",
+        "country":"KE",
+        "admin1":"Laikipia",
+        "admin2":"",
+        "lat":0.00624,
+        "lon":37.07398,
+        "pop":72813
+    },
+    {
+        "id":199989,
+        "name":"Busia",
+        "country":"KE",
+        "admin1":"Busia County",
+        "admin2":"",
+        "lat":0.46005,
+        "lon":34.11169,
+        "pop":71886
+    },
+    {
+        "id":186731,
+        "name":"Migori",
+        "country":"KE",
+        "admin1":"Migori County",
+        "admin2":"",
+        "lat":-1.06343,
+        "lon":34.47313,
+        "pop":71668
+    },
+    {
+        "id":200067,
+        "name":"Bungoma",
+        "country":"KE",
+        "admin1":"Bungoma County",
+        "admin2":"",
+        "lat":0.5635,
+        "lon":34.56055,
+        "pop":68031
+    },
+    {
+        "id":184379,
+        "name":"Narok",
+        "country":"KE",
+        "admin1":"Narok County",
+        "admin2":"",
+        "lat":-1.08083,
+        "lon":35.87111,
+        "pop":65430
+    },
+    {
+        "id":198476,
+        "name":"Embu",
+        "country":"KE",
+        "admin1":"Embu County",
+        "admin2":"",
+        "lat":-0.53987,
+        "lon":37.45743,
+        "pop":64979
+    },
+    {
+        "id":188492,
+        "name":"Machakos",
+        "country":"KE",
+        "admin1":"Machakos County",
+        "admin2":"",
+        "lat":-1.52233,
+        "lon":37.26521,
+        "pop":63767
+    },
+    {
+        "id":12718630,
+        "name":"Githunguri",
+        "country":"KE",
+        "admin1":"Machakos County",
+        "admin2":"",
+        "lat":-1.29996,
+        "lon":36.99047,
+        "pop":63319
+    },
+    {
+        "id":197226,
+        "name":"Githunguri",
+        "country":"KE",
+        "admin1":"Kiambu County",
+        "admin2":"",
+        "lat":-1.05754,
+        "lon":36.77625,
+        "pop":63319
+    },
+    {
+        "id":198547,
+        "name":"El Wak",
+        "country":"KE",
+        "admin1":"Mandera County",
+        "admin2":"",
+        "lat":2.80922,
+        "lon":40.92885,
+        "pop":60732
+    },
+    {
+        "id":197335,
+        "name":"Upper Gilgil",
+        "country":"KE",
+        "admin1":"Nyandarua County",
+        "admin2":"",
+        "lat":-0.21209,
+        "lon":36.27248,
+        "pop":60711
+    },
+    {
+        "id":197334,
+        "name":"Gilgil",
+        "country":"KE",
+        "admin1":"Nakuru County",
+        "admin2":"",
+        "lat":-0.50397,
+        "lon":36.31845,
+        "pop":60711
+    },
+    {
+        "id":187113,
+        "name":"Mbale",
+        "country":"KE",
+        "admin1":"Vihiga County",
+        "admin2":"",
+        "lat":0.08213,
+        "lon":34.72139,
+        "pop":60000
+    },
+    {
+        "id":191919,
+        "name":"Kimilili",
+        "country":"KE",
+        "admin1":"Bungoma County",
+        "admin2":"",
+        "lat":0.78775,
+        "lon":34.71562,
+        "pop":56050
+    },
+    {
+        "id":194160,
+        "name":"Kapenguria",
+        "country":"KE",
+        "admin1":"West Pokot County",
+        "admin2":"",
+        "lat":1.23889,
+        "lon":35.11194,
+        "pop":56000
+    },
+    {
+        "id":192900,
+        "name":"Kericho",
+        "country":"KE",
+        "admin1":"Kericho County",
+        "admin2":"",
+        "lat":-0.36774,
+        "lon":35.28314,
+        "pop":53804
+    },
+    {
+        "id":178522,
+        "name":"Voi",
+        "country":"KE",
+        "admin1":"Taita Taveta",
+        "admin2":"",
+        "lat":-3.39605,
+        "lon":38.55609,
+        "pop":53353
+    },
+    {
+        "id":8477754,
+        "name":"Imara Daima Estate",
+        "country":"KE",
+        "admin1":"Nairobi County",
+        "admin2":"",
+        "lat":-1.32323,
+        "lon":36.88021,
+        "pop":52837
+    },
+    {
+        "id":178323,
+        "name":"Wanguru",
+        "country":"KE",
+        "admin1":"Kirinyaga County",
+        "admin2":"",
+        "lat":-0.68393,
+        "lon":37.35701,
+        "pop":51722
+    },
+    {
+        "id":196936,
+        "name":"Habaswein",
+        "country":"KE",
+        "admin1":"Wajir County",
+        "admin2":"",
+        "lat":1.01659,
+        "lon":39.49122,
+        "pop":49599
+    },
+    {
+        "id":186315,
+        "name":"Molo",
+        "country":"KE",
+        "admin1":"Nakuru County",
+        "admin2":"",
+        "lat":-0.24849,
+        "lon":35.73194,
+        "pop":48356
+    },
+    {
+        "id":186180,
+        "name":"Moyale",
+        "country":"KE",
+        "admin1":"Marsabit County",
+        "admin2":"",
+        "lat":3.52661,
+        "lon":39.0561,
+        "pop":47850
+    },
+    {
+        "id":7931933,
+        "name":"Ol Kalou",
+        "country":"KE",
+        "admin1":"Nyandarua County",
+        "admin2":"",
+        "lat":-0.27088,
+        "lon":36.37917,
+        "pop":47795
+    },
+    {
+        "id":185702,
+        "name":"Mumias",
+        "country":"KE",
+        "admin1":"Kakamega County",
+        "admin2":"",
+        "lat":0.33474,
+        "lon":34.48796,
+        "pop":45485
+    },
+    {
+        "id":196742,
+        "name":"Homa Bay",
+        "country":"KE",
+        "admin1":"Homa Bay County",
+        "admin2":"",
+        "lat":-0.52731,
+        "lon":34.45714,
+        "pop":44949
+    },
+    {
+        "id":12718626,
+        "name":"Kenol",
+        "country":"KE",
+        "admin1":"Murang'A",
+        "admin2":"",
+        "lat":-0.9373,
+        "lon":37.12275,
+        "pop":44086
+    },
+    {
+        "id":191797,
+        "name":"Kinoi",
+        "country":"KE",
+        "admin1":"Machakos County",
+        "admin2":"",
+        "lat":-1.6558,
+        "lon":37.37454,
+        "pop":44086
+    },
+    {
+        "id":187532,
+        "name":"Masalani",
+        "country":"KE",
+        "admin1":"Tana River County",
+        "admin2":"",
+        "lat":-1.69405,
+        "lon":40.17015,
+        "pop":43642
+    },
+    {
+        "id":185579,
+        "name":"Murang’a",
+        "country":"KE",
+        "admin1":"Murang'A",
+        "admin2":"",
+        "lat":-0.72104,
+        "lon":37.15259,
+        "pop":43314
+    },
+    {
+        "id":178202,
+        "name":"Webuye",
+        "country":"KE",
+        "admin1":"Bungoma County",
+        "admin2":"",
+        "lat":0.6004,
+        "lon":34.77119,
+        "pop":42642
+    },
+    {
+        "id":183334,
+        "name":"Njoro",
+        "country":"KE",
+        "admin1":"Nakuru County",
+        "admin2":"",
+        "lat":-0.33024,
+        "lon":35.94445,
+        "pop":42173
+    },
+    {
+        "id":196185,
+        "name":"Iten",
+        "country":"KE",
+        "admin1":"Elegeyo-Marakwet",
+        "admin2":"",
+        "lat":0.67028,
+        "lon":35.50806,
+        "pop":42000
+    },
+    {
+        "id":194038,
+        "name":"Kapsabet",
+        "country":"KE",
+        "admin1":"Nandi",
+        "admin2":"",
+        "lat":0.20387,
+        "lon":35.105,
+        "pop":41997
+    },
+    {
+        "id":188657,
+        "name":"Lugulu",
+        "country":"KE",
+        "admin1":"Busia County",
+        "admin2":"",
+        "lat":0.39337,
+        "lon":34.30399,
+        "pop":40894
+    },
+    {
+        "id":183027,
+        "name":"Nyahururu",
+        "country":"KE",
+        "admin1":"Laikipia",
+        "admin2":"",
+        "lat":0.03813,
+        "lon":36.36339,
+        "pop":37650
+    },
+    {
+        "id":187585,
+        "name":"Marsabit",
+        "country":"KE",
+        "admin1":"Marsabit County",
+        "admin2":"",
+        "lat":2.33468,
+        "lon":37.99086,
+        "pop":36289
+    },
+    {
+        "id":181374,
+        "name":"Ramu",
+        "country":"KE",
+        "admin1":"Mandera County",
+        "admin2":"",
+        "lat":3.93147,
+        "lon":41.22295,
+        "pop":35644
+    },
+    {
+        "id":383388,
+        "name":"Siaya",
+        "country":"KE",
+        "admin1":"Siaya County",
+        "admin2":"",
+        "lat":0.0607,
+        "lon":34.28806,
+        "pop":33153
+    },
+    {
+        "id":187661,
+        "name":"Mariakani",
+        "country":"KE",
+        "admin1":"Kilifi County",
+        "admin2":"",
+        "lat":-3.86261,
+        "lon":39.47458,
+        "pop":31715
+    },
+    {
+        "id":187725,
+        "name":"Maralal",
+        "country":"KE",
+        "admin1":"Samburu County",
+        "admin2":"",
+        "lat":1.09667,
+        "lon":36.69806,
+        "pop":31350
+    },
+    {
+        "id":12687281,
+        "name":"Mairo Inya",
+        "country":"KE",
+        "admin1":"Nyandarua County",
+        "admin2":"",
+        "lat":0.02538,
+        "lon":36.40865,
+        "pop":30527
+    },
+    {
+        "id":181135,
+        "name":"Rongai",
+        "country":"KE",
+        "admin1":"Nakuru County",
+        "admin2":"",
+        "lat":-0.17344,
+        "lon":35.86313,
+        "pop":30471
+    },
+    {
+        "id":192859,
+        "name":"Kerugoya",
+        "country":"KE",
+        "admin1":"Kirinyaga County",
+        "admin2":"",
+        "lat":-0.49887,
+        "lon":37.28031,
+        "pop":30045
+    },
+    {
+        "id":191038,
+        "name":"Kitui",
+        "country":"KE",
+        "admin1":"Kitui County",
+        "admin2":"",
+        "lat":-1.36696,
+        "lon":38.01055,
+        "pop":29062
+    },
+    {
+        "id":188045,
+        "name":"Makutano",
+        "country":"KE",
+        "admin1":"West Pokot County",
+        "admin2":"",
+        "lat":1.25881,
+        "lon":35.09569,
+        "pop":28469
+    },
+    {
+        "id":198644,
+        "name":"Elburgon",
+        "country":"KE",
+        "admin1":"Nakuru County",
+        "admin2":"",
+        "lat":-0.30037,
+        "lon":35.80935,
+        "pop":28359
+    },
+    {
+        "id":178245,
+        "name":"Watamu",
+        "country":"KE",
+        "admin1":"Kilifi County",
+        "admin2":"",
+        "lat":-3.35335,
+        "lon":40.02095,
+        "pop":27857
+    },
+    {
+        "id":189741,
+        "name":"Lamu",
+        "country":"KE",
+        "admin1":"Lamu",
+        "admin2":"",
+        "lat":-2.27169,
+        "lon":40.90201,
+        "pop":25385
+    },
+    {
+        "id":195298,
+        "name":"Kajiado",
+        "country":"KE",
+        "admin1":"Kajiado County",
+        "admin2":"",
+        "lat":-1.85238,
+        "lon":36.77683,
+        "pop":24678
+    },
+    {
+        "id":195821,
+        "name":"Kabarnet",
+        "country":"KE",
+        "admin1":"Baringo",
+        "admin2":"",
+        "lat":0.49194,
+        "lon":35.74303,
+        "pop":24661
+    },
+    {
+        "id":182880,
+        "name":"Nyamira",
+        "country":"KE",
+        "admin1":"Nyamira county",
+        "admin2":"",
+        "lat":-0.56333,
+        "lon":34.93583,
+        "pop":24483
+    },
+    {
+        "id":196251,
+        "name":"Isebania",
+        "country":"KE",
+        "admin1":"Migori County",
+        "admin2":"",
+        "lat":-1.22511,
+        "lon":34.46385,
+        "pop":23891
+    },
+    {
+        "id":193827,
+        "name":"Karatina",
+        "country":"KE",
+        "admin1":"Nyeri County",
+        "admin2":"",
+        "lat":-0.4841,
+        "lon":37.12662,
+        "pop":23552
+    },
+    {
+        "id":195197,
+        "name":"Kakuma",
+        "country":"KE",
+        "admin1":"Turkana County",
+        "admin2":"",
+        "lat":3.71363,
+        "lon":34.8572,
+        "pop":22984
+    },
+    {
+        "id":9406963,
+        "name":"Lafey",
+        "country":"KE",
+        "admin1":"Mandera County",
+        "admin2":"",
+        "lat":3.15106,
+        "lon":41.18577,
+        "pop":22882
+    },
+    {
+        "id":200305,
+        "name":"Bondo",
+        "country":"KE",
+        "admin1":"Siaya County",
+        "admin2":"",
+        "lat":-0.0962,
+        "lon":34.27322,
+        "pop":22712
+    },
+    {
+        "id":199284,
+        "name":"Chuka",
+        "country":"KE",
+        "admin1":"Tharaka - Nithi",
+        "admin2":"",
+        "lat":-0.33316,
+        "lon":37.64587,
+        "pop":22388
+    },
+    {
+        "id":191837,
+        "name":"Kihancha",
+        "country":"KE",
+        "admin1":"Migori County",
+        "admin2":"",
+        "lat":-1.19347,
+        "lon":34.61967,
+        "pop":22194
+    },
+    {
+        "id":187231,
+        "name":"Maua",
+        "country":"KE",
+        "admin1":"Meru County",
+        "admin2":"",
+        "lat":0.2332,
+        "lon":37.94086,
+        "pop":22121
+    },
+    {
+        "id":179525,
+        "name":"Taveta",
+        "country":"KE",
+        "admin1":"Taita Taveta",
+        "admin2":"",
+        "lat":-3.39879,
+        "lon":37.68336,
+        "pop":22018
+    },
+    {
+        "id":444987,
+        "name":"Takaba",
+        "country":"KE",
+        "admin1":"Mandera County",
+        "admin2":"",
+        "lat":3.35528,
+        "lon":40.22278,
+        "pop":21517
+    },
+    {
+        "id":198636,
+        "name":"Eldama Ravine",
+        "country":"KE",
+        "admin1":"Baringo",
+        "admin2":"",
+        "lat":0.05196,
+        "lon":35.72734,
+        "pop":21385
+    },
+    {
+        "id":196752,
+        "name":"Hola",
+        "country":"KE",
+        "admin1":"Tana River County",
+        "admin2":"",
+        "lat":-1.48256,
+        "lon":40.03341,
+        "pop":20912
+    },
+    {
+        "id":12718647,
+        "name":"Mai",
+        "country":"KE",
+        "admin1":"Nakuru County",
+        "admin2":"",
+        "lat":-0.98169,
+        "lon":36.58642,
+        "pop":20823
+    },
+    {
+        "id":11834214,
+        "name":"Maai Mahiu",
+        "country":"KE",
+        "admin1":"Nakuru County",
+        "admin2":"",
+        "lat":-0.98855,
+        "lon":36.58537,
+        "pop":20823
+    },
+    {
+        "id":181122,
+        "name":"Rongo",
+        "country":"KE",
+        "admin1":"Migori County",
+        "admin2":"",
+        "lat":-0.75675,
+        "lon":34.59833,
+        "pop":20688
+    },
+    {
+        "id":188080,
+        "name":"Makueni Boma",
+        "country":"KE",
+        "admin1":"Makueni County",
+        "admin2":"",
+        "lat":-1.80388,
+        "lon":37.62405,
+        "pop":20681
+    },
+    {
+        "id":182498,
+        "name":"Ogembo",
+        "country":"KE",
+        "admin1":"Kisii County",
+        "admin2":"",
+        "lat":-0.80116,
+        "lon":34.72579,
+        "pop":20000
+    },
+    {
+        "id":181702,
+        "name":"Oyugis",
+        "country":"KE",
+        "admin1":"Homa Bay County",
+        "admin2":"",
+        "lat":-0.50974,
+        "lon":34.73067,
+        "pop":19947
+    },
+    {
+        "id":178077,
+        "name":"Wote",
+        "country":"KE",
+        "admin1":"Makueni County",
+        "admin2":"",
+        "lat":-1.78079,
+        "lon":37.62882,
+        "pop":19725
+    },
+    {
+        "id":198537,
+        "name":"Emali",
+        "country":"KE",
+        "admin1":"Makueni County",
+        "admin2":"",
+        "lat":-2.08033,
+        "lon":37.47202,
+        "pop":18325
+    },
+    {
+        "id":197768,
+        "name":"Garba Tula",
+        "country":"KE",
+        "admin1":"Isiolo County",
+        "admin2":"",
+        "lat":0.53392,
+        "lon":38.51878,
+        "pop":17443
+    },
+    {
+        "id":184921,
+        "name":"Mwingi",
+        "country":"KE",
+        "admin1":"Kitui County",
+        "admin2":"",
+        "lat":-0.93605,
+        "lon":38.05955,
+        "pop":17025
+    },
+    {
+        "id":11003038,
+        "name":"Awendo",
+        "country":"KE",
+        "admin1":"Homa Bay County",
+        "admin2":"",
+        "lat":-0.5,
+        "lon":34.4,
+        "pop":16815
+    },
+    {
+        "id":200755,
+        "name":"Awendo",
+        "country":"KE",
+        "admin1":"Migori County",
+        "admin2":"",
+        "lat":-0.90711,
+        "lon":34.52895,
+        "pop":16815
+    },
+    {
+        "id":191908,
+        "name":"Kiminini",
+        "country":"KE",
+        "admin1":"Trans Nzoia",
+        "admin2":"",
+        "lat":0.89284,
+        "lon":34.92468,
+        "pop":16560
+    },
+    {
+        "id":196761,
+        "name":"Moi‘s Bridge",
+        "country":"KE",
+        "admin1":"Uasin Gishu County",
+        "admin2":"",
+        "lat":0.87178,
+        "lon":35.12213,
+        "pop":16355
+    },
+    {
+        "id":187150,
+        "name":"Mazeras",
+        "country":"KE",
+        "admin1":"Kwale County",
+        "admin2":"",
+        "lat":-3.96426,
+        "lon":39.5498,
+        "pop":16254
+    },
+    {
+        "id":188025,
+        "name":"Malaba",
+        "country":"KE",
+        "admin1":"Busia County",
+        "admin2":"",
+        "lat":0.63513,
+        "lon":34.28165,
+        "pop":15581
+    },
+    {
+        "id":185939,
+        "name":"Muhoroni",
+        "country":"KE",
+        "admin1":"Kisumu County",
+        "admin2":"",
+        "lat":-0.15816,
+        "lon":35.19645,
+        "pop":15217
+    },
+    {
+        "id":188123,
+        "name":"Makindu",
+        "country":"KE",
+        "admin1":"Makueni County",
+        "admin2":"",
+        "lat":-2.27808,
+        "lon":37.81867,
+        "pop":15038
+    },
+    {
+        "id":10230091,
+        "name":"Banissa",
+        "country":"KE",
+        "admin1":"Mandera County",
+        "admin2":"",
+        "lat":3.94102,
+        "lon":40.34248,
+        "pop":14974
+    },
+    {
+        "id":186139,
+        "name":"Msambweni",
+        "country":"KE",
+        "admin1":"Kwale County",
+        "admin2":"",
+        "lat":-4.4619,
+        "lon":39.48265,
+        "pop":14951
+    },
+    {
+        "id":187028,
+        "name":"Mbita",
+        "country":"KE",
+        "admin1":"Homa Bay County",
+        "admin2":"",
+        "lat":-0.42492,
+        "lon":34.20736,
+        "pop":14916
+    },
+    {
+        "id":188408,
+        "name":"Magadi",
+        "country":"KE",
+        "admin1":"Kajiado County",
+        "admin2":"",
+        "lat":-1.90122,
+        "lon":36.287,
+        "pop":14529
+    },
+    {
+        "id":196234,
+        "name":"Isinya",
+        "country":"KE",
+        "admin1":"Kajiado County",
+        "admin2":"",
+        "lat":-1.6792,
+        "lon":36.85056,
+        "pop":14429
+    },
+    {
+        "id":12718632,
+        "name":"Bute",
+        "country":"KE",
+        "admin1":"Wajir County",
+        "admin2":"",
+        "lat":3.35875,
+        "lon":39.41968,
+        "pop":14108
+    },
+    {
+        "id":11428093,
+        "name":"Kawaida",
+        "country":"KE",
+        "admin1":"Kiambu County",
+        "admin2":"",
+        "lat":-1.14639,
+        "lon":36.7598,
+        "pop":14038
+    },
+    {
+        "id":195539,
+        "name":"Kagio",
+        "country":"KE",
+        "admin1":"Kirinyaga County",
+        "admin2":"",
+        "lat":-0.62482,
+        "lon":37.25551,
+        "pop":13961
+    },
+    {
+        "id":12718628,
+        "name":"Bura Tana",
+        "country":"KE",
+        "admin1":"Tana River County",
+        "admin2":"",
+        "lat":-1.19326,
+        "lon":39.84049,
+        "pop":13650
+    },
+    {
+        "id":182894,
+        "name":"Nyambunwa",
+        "country":"KE",
+        "admin1":"Kisii County",
+        "admin2":"",
+        "lat":-0.67783,
+        "lon":34.70722,
+        "pop":13405
+    },
+    {
+        "id":189367,
+        "name":"Litein",
+        "country":"KE",
+        "admin1":"Kericho County",
+        "admin2":"",
+        "lat":-0.58249,
+        "lon":35.18969,
+        "pop":13403
+    },
+    {
+        "id":186369,
+        "name":"Mogotio",
+        "country":"KE",
+        "admin1":"Baringo",
+        "admin2":"",
+        "lat":-0.02236,
+        "lon":35.96124,
+        "pop":13366
+    },
+    {
+        "id":188715,
+        "name":"Luanda",
+        "country":"KE",
+        "admin1":"Vihiga County",
+        "admin2":"",
+        "lat":0.02333,
+        "lon":34.58661,
+        "pop":13319
+    },
+    {
+        "id":11829943,
+        "name":"Ol Kalau South Settlement",
+        "country":"KE",
+        "admin1":"Nyandarua County",
+        "admin2":"",
+        "lat":-0.27444,
+        "lon":36.33999,
+        "pop":13234
+    },
+    {
+        "id":180992,
+        "name":"Rumuruti",
+        "country":"KE",
+        "admin1":"Laikipia",
+        "admin2":"",
+        "lat":0.2725,
+        "lon":36.53806,
+        "pop":13056
+    },
+    {
+        "id":180868,
+        "name":"Sagana",
+        "country":"KE",
+        "admin1":"Kirinyaga County",
+        "admin2":"",
+        "lat":-0.66806,
+        "lon":37.20875,
+        "pop":13000
+    },
+    {
+        "id":180646,
+        "name":"Sawa Sawa",
+        "country":"KE",
+        "admin1":"Kwale County",
+        "admin2":"",
+        "lat":-4.47166,
+        "lon":39.48463,
+        "pop":12975
+    },
+    {
+        "id":189190,
+        "name":"Lokichar",
+        "country":"KE",
+        "admin1":"Turkana County",
+        "admin2":"",
+        "lat":2.38116,
+        "lon":35.65123,
+        "pop":12676
+    },
+    {
+        "id":199796,
+        "name":"Chavakali",
+        "country":"KE",
+        "admin1":"Vihiga County",
+        "admin2":"",
+        "lat":0.11768,
+        "lon":34.73339,
+        "pop":12674
+    },
+    {
+        "id":178073,
+        "name":"Wundanyi",
+        "country":"KE",
+        "admin1":"Taita Taveta",
+        "admin2":"",
+        "lat":-3.39642,
+        "lon":38.35729,
+        "pop":12501
+    },
+    {
+        "id":188047,
+        "name":"Makutano",
+        "country":"KE",
+        "admin1":"Machakos County",
+        "admin2":"",
+        "lat":-1.41187,
+        "lon":37.47088,
+        "pop":12396
+    },
+    {
+        "id":12718631,
+        "name":"Eldas",
+        "country":"KE",
+        "admin1":"Wajir County",
+        "admin2":"",
+        "lat":2.49184,
+        "lon":39.56653,
+        "pop":12270
+    },
+    {
+        "id":200061,
+        "name":"Port Victoria",
+        "country":"KE",
+        "admin1":"Busia County",
+        "admin2":"",
+        "lat":0.09809,
+        "lon":33.97248,
+        "pop":12194
+    },
+    {
+        "id":178543,
+        "name":"Vipingo",
+        "country":"KE",
+        "admin1":"Kilifi County",
+        "admin2":"",
+        "lat":-3.81466,
+        "lon":39.81282,
+        "pop":12183
+    },
+    {
+        "id":187238,
+        "name":"Matuu",
+        "country":"KE",
+        "admin1":"Machakos County",
+        "admin2":"",
+        "lat":-1.1454,
+        "lon":37.54671,
+        "pop":12073
+    },
+    {
+        "id":188220,
+        "name":"Majengo",
+        "country":"KE",
+        "admin1":"Vihiga County",
+        "admin2":"",
+        "lat":0.04944,
+        "lon":34.72476,
+        "pop":11913
+    },
+    {
+        "id":188442,
+        "name":"Mado Gashi",
+        "country":"KE",
+        "admin1":"Garissa County",
+        "admin2":"",
+        "lat":0.73112,
+        "lon":39.17388,
+        "pop":11814
+    },
+    {
+        "id":187221,
+        "name":"Mau Narok",
+        "country":"KE",
+        "admin1":"Nakuru County",
+        "admin2":"",
+        "lat":-0.60661,
+        "lon":36.00836,
+        "pop":11806
+    },
+    {
+        "id":201229,
+        "name":"Ahero",
+        "country":"KE",
+        "admin1":"Kisumu County",
+        "admin2":"",
+        "lat":-0.17359,
+        "lon":34.9189,
+        "pop":11801
+    },
+    {
+        "id":196612,
+        "name":"Ijara",
+        "country":"KE",
+        "admin1":"Garissa County",
+        "admin2":"",
+        "lat":-1.59517,
+        "lon":40.51444,
+        "pop":11792
+    },
+    {
+        "id":200308,
+        "name":"Bomet",
+        "country":"KE",
+        "admin1":"Bomet County",
+        "admin2":"",
+        "lat":-0.78129,
+        "lon":35.34156,
+        "pop":11765
+    },
+    {
+        "id":189189,
+        "name":"Lokichokio",
+        "country":"KE",
+        "admin1":"Turkana County",
+        "admin2":"",
+        "lat":4.20771,
+        "lon":34.35378,
+        "pop":11626
+    },
+    {
+        "id":199209,
+        "name":"Dadaab",
+        "country":"KE",
+        "admin1":"Garissa County",
+        "admin2":"",
+        "lat":0.05244,
+        "lon":40.30855,
+        "pop":11525
+    },
+    {
+        "id":179625,
+        "name":"Tala",
+        "country":"KE",
+        "admin1":"Machakos County",
+        "admin2":"",
+        "lat":-1.26849,
+        "lon":37.32186,
+        "pop":11446
+    },
+    {
+        "id":199971,
+        "name":"Butere",
+        "country":"KE",
+        "admin1":"Kakamega County",
+        "admin2":"",
+        "lat":0.20694,
+        "lon":34.49006,
+        "pop":11205
+    },
+    {
+        "id":191800,
+        "name":"Kinna",
+        "country":"KE",
+        "admin1":"Isiolo County",
+        "admin2":"",
+        "lat":0.31883,
+        "lon":38.20499,
+        "pop":11175
+    },
+    {
+        "id":197083,
+        "name":"Gongoni",
+        "country":"KE",
+        "admin1":"Kilifi County",
+        "admin2":"",
+        "lat":-3.03668,
+        "lon":40.13748,
+        "pop":10993
+    },
+    {
+        "id":186831,
+        "name":"Merti",
+        "country":"KE",
+        "admin1":"Isiolo County",
+        "admin2":"",
+        "lat":1.06725,
+        "lon":38.6662,
+        "pop":10990
+    },
+    {
+        "id":192869,
+        "name":"Keroka",
+        "country":"KE",
+        "admin1":"Nyamira county",
+        "admin2":"",
+        "lat":-0.77612,
+        "lon":34.94678,
+        "pop":10881
+    },
+    {
+        "id":192079,
+        "name":"Kilgoris",
+        "country":"KE",
+        "admin1":"Narok County",
+        "admin2":"",
+        "lat":-1.00819,
+        "lon":34.87809,
+        "pop":10845
+    },
+    {
+        "id":187257,
+        "name":"Matunda",
+        "country":"KE",
+        "admin1":"Uasin Gishu County",
+        "admin2":"",
+        "lat":0.84443,
+        "lon":35.13716,
+        "pop":10807
+    },
+    {
+        "id":179634,
+        "name":"Takaungu",
+        "country":"KE",
+        "admin1":"Kilifi County",
+        "admin2":"",
+        "lat":-3.6835,
+        "lon":39.85687,
+        "pop":10760
+    },
+    {
+        "id":179204,
+        "name":"Timau",
+        "country":"KE",
+        "admin1":"Meru County",
+        "admin2":"",
+        "lat":0.0835,
+        "lon":37.23925,
+        "pop":10571
+    },
+    {
+        "id":182130,
+        "name":"Oloitokitok",
+        "country":"KE",
+        "admin1":"Kajiado County",
+        "admin2":"",
+        "lat":-2.92724,
+        "lon":37.5103,
+        "pop":10568
+    },
+    {
+        "id":12718646,
+        "name":"Kainuk",
+        "country":"KE",
+        "admin1":"Turkana County",
+        "admin2":"",
+        "lat":1.77442,
+        "lon":35.50641,
+        "pop":10535
+    },
+    {
+        "id":179796,
+        "name":"Subukia",
+        "country":"KE",
+        "admin1":"Nakuru County",
+        "admin2":"",
+        "lat":-0.01644,
+        "lon":36.20927,
+        "pop":10344
+    },
+    {
+        "id":180165,
+        "name":"Sindo",
+        "country":"KE",
+        "admin1":"Homa Bay County",
+        "admin2":"",
+        "lat":-0.54061,
+        "lon":34.16891,
+        "pop":10286
+    },
+    {
+        "id":194406,
+        "name":"Kangundo",
+        "country":"KE",
+        "admin1":"Machakos County",
+        "admin2":"",
+        "lat":-1.30342,
+        "lon":37.34813,
+        "pop":10258
+    },
+    {
+        "id":191963,
+        "name":"Kimana",
+        "country":"KE",
+        "admin1":"Kajiado County",
+        "admin2":"",
+        "lat":-2.79884,
+        "lon":37.53708,
+        "pop":10116
+    },
+    {
+        "id":190108,
+        "name":"Kwale",
+        "country":"KE",
+        "admin1":"Kwale County",
+        "admin2":"",
+        "lat":-4.17375,
+        "lon":39.45206,
+        "pop":10063
+    },
+    {
+        "id":188714,
+        "name":"Luanda",
+        "country":"KE",
+        "admin1":"Busia County",
+        "admin2":"",
+        "lat":0.31354,
+        "lon":34.07146,
+        "pop":10053
+    },
+    {
+        "id":199263,
+        "name":"Chwele",
+        "country":"KE",
+        "admin1":"Bungoma County",
+        "admin2":"",
+        "lat":0.76239,
+        "lon":34.54852,
+        "pop":9797
+    },
+    {
+        "id":185014,
+        "name":"Mwatate",
+        "country":"KE",
+        "admin1":"Taita Taveta",
+        "admin2":"",
+        "lat":-3.505,
+        "lon":38.37722,
+        "pop":9572
+    },
+    {
+        "id":187641,
+        "name":"Marigat",
+        "country":"KE",
+        "admin1":"Baringo",
+        "admin2":"",
+        "lat":0.47119,
+        "lon":35.98638,
+        "pop":9395
+    },
+    {
+        "id":193985,
+        "name":"Kapsowar",
+        "country":"KE",
+        "admin1":"Elegeyo-Marakwet",
+        "admin2":"",
+        "lat":0.9789,
+        "lon":35.55854,
+        "pop":9152
+    },
+    {
+        "id":190179,
+        "name":"Kutus",
+        "country":"KE",
+        "admin1":"Kirinyaga County",
+        "admin2":"",
+        "lat":-0.57534,
+        "lon":37.3269,
+        "pop":9143
+    },
+    {
+        "id":184367,
+        "name":"Naro Moru",
+        "country":"KE",
+        "admin1":"Nyeri County",
+        "admin2":"",
+        "lat":-0.16357,
+        "lon":37.01773,
+        "pop":9018
+    },
+    {
+        "id":179750,
+        "name":"Sultan Hamud",
+        "country":"KE",
+        "admin1":"Makueni County",
+        "admin2":"",
+        "lat":-2.02042,
+        "lon":37.37212,
+        "pop":8718
+    },
+    {
+        "id":200304,
+        "name":"Bondo",
+        "country":"KE",
+        "admin1":"Siaya County",
+        "admin2":"",
+        "lat":0.23522,
+        "lon":34.28086,
+        "pop":8683
+    },
+    {
+        "id":187733,
+        "name":"Maragua",
+        "country":"KE",
+        "admin1":"Murang'A",
+        "admin2":"",
+        "lat":-0.79602,
+        "lon":37.13292,
+        "pop":8597
+    },
+    {
+        "id":192372,
+        "name":"Kibwezi",
+        "country":"KE",
+        "admin1":"Makueni County",
+        "admin2":"",
+        "lat":-2.40935,
+        "lon":37.96631,
+        "pop":8143
+    },
+    {
+        "id":12718635,
+        "name":"Rodi",
+        "country":"KE",
+        "admin1":"Homa Bay County",
+        "admin2":"",
+        "lat":-0.62457,
+        "lon":34.503,
+        "pop":8122
+    },
+    {
+        "id":191833,
+        "name":"Kinango",
+        "country":"KE",
+        "admin1":"Kwale County",
+        "admin2":"",
+        "lat":-4.13723,
+        "lon":39.31528,
+        "pop":8070
+    },
+    {
+        "id":184471,
+        "name":"Nandi Hills",
+        "country":"KE",
+        "admin1":"Nandi",
+        "admin2":"",
+        "lat":0.10366,
+        "lon":35.18426,
+        "pop":8032
+    },
+    {
+        "id":8605149,
+        "name":"Usenge",
+        "country":"KE",
+        "admin1":"Siaya County",
+        "admin2":"",
+        "lat":-0.06731,
+        "lon":34.0566,
+        "pop":7976
+    },
+    {
+        "id":197557,
+        "name":"Gatundu",
+        "country":"KE",
+        "admin1":"Kiambu County",
+        "admin2":"",
+        "lat":-1.05,
+        "lon":36.9,
+        "pop":7947
+    },
+    {
+        "id":197311,
+        "name":"Giriftu",
+        "country":"KE",
+        "admin1":"Wajir County",
+        "admin2":"",
+        "lat":2.00039,
+        "lon":39.75191,
+        "pop":7935
+    },
+    {
+        "id":12718645,
+        "name":"Brooke",
+        "country":"KE",
+        "admin1":"Kericho County",
+        "admin2":"",
+        "lat":-0.33408,
+        "lon":35.32537,
+        "pop":7896
+    },
+    {
+        "id":12718644,
+        "name":"Il",
+        "country":"KE",
+        "admin1":"Kajiado County",
+        "admin2":"",
+        "lat":-2.09761,
+        "lon":36.79224,
+        "pop":7812
+    },
+    {
+        "id":179965,
+        "name":"Sololo",
+        "country":"KE",
+        "admin1":null,
+        "admin2":"",
+        "lat":3.56392,
+        "lon":38.64321,
+        "pop":7683
+    },
+    {
+        "id":183296,
+        "name":"Nkubu",
+        "country":"KE",
+        "admin1":"Meru County",
+        "admin2":"",
+        "lat":-0.06929,
+        "lon":37.66618,
+        "pop":7675
+    },
+    {
+        "id":200575,
+        "name":"Baringo",
+        "country":"KE",
+        "admin1":"Baringo",
+        "admin2":"",
+        "lat":0.46667,
+        "lon":35.96667,
+        "pop":7656
+    },
+    {
+        "id":199334,
+        "name":"Chogoria",
+        "country":"KE",
+        "admin1":"Tharaka - Nithi",
+        "admin2":"",
+        "lat":-0.22954,
+        "lon":37.62732,
+        "pop":7603
+    },
+    {
+        "id":180436,
+        "name":"Shianda",
+        "country":"KE",
+        "admin1":"Kakamega County",
+        "admin2":"",
+        "lat":0.31943,
+        "lon":34.57352,
+        "pop":7502
+    },
+    {
+        "id":197729,
+        "name":"Garsen",
+        "country":"KE",
+        "admin1":"Tana River County",
+        "admin2":"",
+        "lat":-2.26645,
+        "lon":40.10975,
+        "pop":7176
+    },
+    {
+        "id":187671,
+        "name":"Marereni",
+        "country":"KE",
+        "admin1":"Kilifi County",
+        "admin2":"",
+        "lat":-2.86041,
+        "lon":40.15057,
+        "pop":7085
+    },
+    {
+        "id":10400164,
+        "name":"Kapsokwony",
+        "country":"KE",
+        "admin1":"Bungoma County",
+        "admin2":"",
+        "lat":0.85222,
+        "lon":34.70194,
+        "pop":7077
+    },
+    {
+        "id":178814,
+        "name":"Ogunja",
+        "country":"KE",
+        "admin1":"Siaya County",
+        "admin2":"",
+        "lat":0.19019,
+        "lon":34.29916,
+        "pop":7060
+    },
+    {
+        "id":11427417,
+        "name":"Sori",
+        "country":"KE",
+        "admin1":"Migori County",
+        "admin2":"",
+        "lat":-0.8409,
+        "lon":34.15978,
+        "pop":7020
+    },
+    {
+        "id":194966,
+        "name":"Kaloleni",
+        "country":"KE",
+        "admin1":"Kilifi County",
+        "admin2":"",
+        "lat":-3.81413,
+        "lon":39.63144,
+        "pop":7016
+    },
+    {
+        "id":179949,
+        "name":"Sondu",
+        "country":"KE",
+        "admin1":"Kericho County",
+        "admin2":"",
+        "lat":-0.3906,
+        "lon":35.01266,
+        "pop":6869
+    },
+    {
+        "id":191932,
+        "name":"Kimbimbi",
+        "country":"KE",
+        "admin1":"Kirinyaga County",
+        "admin2":"",
+        "lat":-0.62233,
+        "lon":37.36482,
+        "pop":6826
+    },
+    {
+        "id":187506,
+        "name":"Maseno",
+        "country":"KE",
+        "admin1":"Kisumu County",
+        "admin2":"",
+        "lat":-0.00661,
+        "lon":34.60004,
+        "pop":6771
+    },
+    {
+        "id":181735,
+        "name":"Othaya",
+        "country":"KE",
+        "admin1":"Nyeri County",
+        "admin2":"",
+        "lat":-0.54655,
+        "lon":36.93178,
+        "pop":6650
+    },
+    {
+        "id":7732029,
+        "name":"Mukurwe-ini",
+        "country":"KE",
+        "admin1":"Nyeri County",
+        "admin2":"",
+        "lat":-0.56092,
+        "lon":37.04759,
+        "pop":6508
+    },
+    {
+        "id":200049,
+        "name":"Bura",
+        "country":"KE",
+        "admin1":"Garissa County",
+        "admin2":"",
+        "lat":-1.09431,
+        "lon":39.94185,
+        "pop":6496
+    },
+    {
+        "id":194451,
+        "name":"Kangema",
+        "country":"KE",
+        "admin1":"Murang'A",
+        "admin2":"",
+        "lat":-0.68553,
+        "lon":36.96463,
+        "pop":6424
+    },
+    {
+        "id":192967,
+        "name":"Kendu Bay",
+        "country":"KE",
+        "admin1":"Homa Bay County",
+        "admin2":"",
+        "lat":-0.3618,
+        "lon":34.65272,
+        "pop":6064
+    },
+    {
+        "id":179181,
+        "name":"Tinganga",
+        "country":"KE",
+        "admin1":"Kiambu County",
+        "admin2":"",
+        "lat":-1.13033,
+        "lon":36.81358,
+        "pop":6059
+    },
+    {
+        "id":189092,
+        "name":"Lolgorien",
+        "country":"KE",
+        "admin1":"Narok County",
+        "admin2":"",
+        "lat":-1.22906,
+        "lon":34.80711,
+        "pop":6053
+    },
+    {
+        "id":12718634,
+        "name":"Nyansiongo",
+        "country":"KE",
+        "admin1":"Nyamira county",
+        "admin2":"",
+        "lat":-0.7596,
+        "lon":35.0148,
+        "pop":5993
+    },
+    {
+        "id":12718625,
+        "name":"Chaka",
+        "country":"KE",
+        "admin1":"Nyeri County",
+        "admin2":"",
+        "lat":-0.35973,
+        "lon":37.00002,
+        "pop":5970
+    },
+    {
+        "id":10340477,
+        "name":"Mpeketoni",
+        "country":"KE",
+        "admin1":"Lamu",
+        "admin2":"",
+        "lat":-2.38913,
+        "lon":40.69812,
+        "pop":5957
+    },
+    {
+        "id":186101,
+        "name":"Mtito Andei",
+        "country":"KE",
+        "admin1":"Makueni County",
+        "admin2":"",
+        "lat":-2.68987,
+        "lon":38.16687,
+        "pop":5626
+    },
+    {
+        "id":182095,
+        "name":"Olulung’a",
+        "country":"KE",
+        "admin1":"Narok County",
+        "admin2":"",
+        "lat":-1.00268,
+        "lon":35.66336,
+        "pop":5609
+    },
+    {
+        "id":197264,
+        "name":"Githiga A",
+        "country":"KE",
+        "admin1":"Kiambu County",
+        "admin2":"",
+        "lat":-1.08693,
+        "lon":36.73405,
+        "pop":5565
+    },
+    {
+        "id":181197,
+        "name":"Rironi",
+        "country":"KE",
+        "admin1":"Kiambu County",
+        "admin2":"",
+        "lat":-1.15116,
+        "lon":36.63555,
+        "pop":5544
+    },
+    {
+        "id":198817,
+        "name":"Dundori",
+        "country":"KE",
+        "admin1":"Nakuru County",
+        "admin2":"",
+        "lat":-0.2519,
+        "lon":36.23641,
+        "pop":5392
+    },
+    {
+        "id":178093,
+        "name":"Witu",
+        "country":"KE",
+        "admin1":"Lamu",
+        "admin2":"",
+        "lat":-2.38892,
+        "lon":40.43827,
+        "pop":5380
+    },
+    {
+        "id":195977,
+        "name":"Jebilat",
+        "country":"KE",
+        "admin1":"Nyamira county",
+        "admin2":"",
+        "lat":-0.69356,
+        "lon":35.07132,
+        "pop":5373
+    },
+    {
+        "id":189702,
+        "name":"Lare",
+        "country":"KE",
+        "admin1":"Meru County",
+        "admin2":"",
+        "lat":0.33727,
+        "lon":37.93749,
+        "pop":5358
+    },
+    {
+        "id":12718624,
+        "name":"Engineer",
+        "country":"KE",
+        "admin1":"Nyandarua County",
+        "admin2":"",
+        "lat":-0.60538,
+        "lon":36.57629,
+        "pop":5324
+    },
+    {
+        "id":197514,
+        "name":"Gazi",
+        "country":"KE",
+        "admin1":"Kwale County",
+        "admin2":"",
+        "lat":-4.42402,
+        "lon":39.50588,
+        "pop":5222
+    },
+    {
+        "id":10303666,
+        "name":"Loiyangalani",
+        "country":"KE",
+        "admin1":"Marsabit County",
+        "admin2":"",
+        "lat":2.74439,
+        "lon":36.7146,
+        "pop":5193
+    },
+    {
+        "id":183231,
+        "name":"North Horr",
+        "country":"KE",
+        "admin1":"Marsabit County",
+        "admin2":"",
+        "lat":3.32205,
+        "lon":37.07032,
+        "pop":5177
+    },
+    {
+        "id":7646410,
+        "name":"Maji Mazuri",
+        "country":"KE",
+        "admin1":"Baringo",
+        "admin2":"",
+        "lat":-0.01966,
+        "lon":35.69138,
+        "pop":5138
+    },
+    {
+        "id":188005,
+        "name":"Malava",
+        "country":"KE",
+        "admin1":"Kakamega County",
+        "admin2":"",
+        "lat":0.44714,
+        "lon":34.85387,
+        "pop":5131
+    },
+    {
+        "id":11964378,
+        "name":"Katito",
+        "country":"KE",
+        "admin1":"Kisumu County",
+        "admin2":"",
+        "lat":-0.26934,
+        "lon":34.97197,
+        "pop":5098
+    },
+    {
+        "id":200758,
+        "name":"Awasi",
+        "country":"KE",
+        "admin1":"Kisumu County",
+        "admin2":"",
+        "lat":-0.16769,
+        "lon":35.08239,
+        "pop":5052
+    },
+    {
+        "id":189783,
+        "name":"Laisamis",
+        "country":"KE",
+        "admin1":"Marsabit County",
+        "admin2":"",
+        "lat":1.5932,
+        "lon":37.80595,
+        "pop":5047
+    },
+    {
+        "id":184749,
+        "name":"Nairagi Enkare",
+        "country":"KE",
+        "admin1":"Narok County",
+        "admin2":"",
+        "lat":-1.04444,
+        "lon":36.16314,
+        "pop":4954
+    },
+    {
+        "id":180981,
+        "name":"Runyenjes",
+        "country":"KE",
+        "admin1":"Embu County",
+        "admin2":"",
+        "lat":-0.42304,
+        "lon":37.57043,
+        "pop":4943
+    },
+    {
+        "id":12718633,
+        "name":"Muhuru",
+        "country":"KE",
+        "admin1":"Migori County",
+        "admin2":"",
+        "lat":-0.99862,
+        "lon":34.09614,
+        "pop":4924
+    },
+    {
+        "id":186216,
+        "name":"Mosoriot",
+        "country":"KE",
+        "admin1":"Nandi",
+        "admin2":"",
+        "lat":0.32059,
+        "lon":35.17599,
+        "pop":4916
+    },
+    {
+        "id":11947712,
+        "name":"Kiambur",
+        "country":"KE",
+        "admin1":"Laikipia",
+        "admin2":"",
+        "lat":0.40778,
+        "lon":36.29533,
+        "pop":4890
+    },
+    {
+        "id":186445,
+        "name":"Keringet",
+        "country":"KE",
+        "admin1":"Nakuru County",
+        "admin2":"",
+        "lat":-0.46758,
+        "lon":35.68185,
+        "pop":4774
+    },
+    {
+        "id":184143,
+        "name":"Ndhiwa",
+        "country":"KE",
+        "admin1":"Homa Bay County",
+        "admin2":"",
+        "lat":-0.73148,
+        "lon":34.36785,
+        "pop":4762
+    },
+    {
+        "id":188981,
+        "name":"Londiani",
+        "country":"KE",
+        "admin1":"Kericho County",
+        "admin2":"",
+        "lat":-0.16552,
+        "lon":35.59359,
+        "pop":4758
+    },
+    {
+        "id":7729812,
+        "name":"Timboroa",
+        "country":"KE",
+        "admin1":null,
+        "admin2":"",
+        "lat":0.0855,
+        "lon":35.53021,
+        "pop":4744
+    },
+    {
+        "id":200013,
+        "name":"Burnt Forest",
+        "country":"KE",
+        "admin1":"Uasin Gishu County",
+        "admin2":"",
+        "lat":0.21684,
+        "lon":35.4325,
+        "pop":4739
+    },
+    {
+        "id":11886567,
+        "name":"Maungu",
+        "country":"KE",
+        "admin1":"Taita Taveta",
+        "admin2":"",
+        "lat":-3.55813,
+        "lon":38.74908,
+        "pop":4713
+    },
+    {
+        "id":193056,
+        "name":"Kebirigo",
+        "country":"KE",
+        "admin1":"Nyamira county",
+        "admin2":"",
+        "lat":-0.60292,
+        "lon":34.96124,
+        "pop":4711
+    },
+    {
+        "id":192202,
+        "name":"Kijabe",
+        "country":"KE",
+        "admin1":"Nakuru County",
+        "admin2":"",
+        "lat":-0.948,
+        "lon":36.598,
+        "pop":4679
+    },
+    {
+        "id":12718643,
+        "name":"Illasit",
+        "country":"KE",
+        "admin1":"Kajiado County",
+        "admin2":"",
+        "lat":-2.95887,
+        "lon":37.57112,
+        "pop":4631
+    },
+    {
+        "id":200891,
+        "name":"Archers Post",
+        "country":"KE",
+        "admin1":"Samburu County",
+        "admin2":"",
+        "lat":0.63967,
+        "lon":37.66596,
+        "pop":4620
+    },
+    {
+        "id":178389,
+        "name":"Wamba",
+        "country":"KE",
+        "admin1":"Samburu County",
+        "admin2":"",
+        "lat":0.98016,
+        "lon":37.32349,
+        "pop":4580
+    },
+    {
+        "id":12718627,
+        "name":"Samburu",
+        "country":"KE",
+        "admin1":"Kwale County",
+        "admin2":"",
+        "lat":-3.7947,
+        "lon":39.26368,
+        "pop":4454
+    },
+    {
+        "id":12718642,
+        "name":"Isineti",
+        "country":"KE",
+        "admin1":"Kajiado County",
+        "admin2":"",
+        "lat":-2.73555,
+        "lon":37.50673,
+        "pop":4437
+    },
+    {
+        "id":199515,
+        "name":"Cheptai",
+        "country":"KE",
+        "admin1":"Bungoma County",
+        "admin2":"",
+        "lat":0.79975,
+        "lon":34.4778,
+        "pop":4419
+    },
+    {
+        "id":191924,
+        "name":"Kimende",
+        "country":"KE",
+        "admin1":"Kiambu County",
+        "admin2":"",
+        "lat":-0.98294,
+        "lon":36.63091,
+        "pop":4356
+    },
+    {
+        "id":8605153,
+        "name":"Ndunyu Njeru",
+        "country":"KE",
+        "admin1":"Nyandarua County",
+        "admin2":"",
+        "lat":-0.54592,
+        "lon":36.56182,
+        "pop":4354
+    },
+    {
+        "id":187977,
+        "name":"Malikisi",
+        "country":"KE",
+        "admin1":"Bungoma County",
+        "admin2":"",
+        "lat":0.67694,
+        "lon":34.42167,
+        "pop":4319
+    },
+    {
+        "id":180337,
+        "name":"Siakago",
+        "country":"KE",
+        "admin1":"Embu County",
+        "admin2":"",
+        "lat":-0.57728,
+        "lon":37.63996,
+        "pop":4315
+    },
+    {
+        "id":191131,
+        "name":"Kithii",
+        "country":"KE",
+        "admin1":"Machakos County",
+        "admin2":"",
+        "lat":-1.39897,
+        "lon":37.31378,
+        "pop":4304
+    },
+    {
+        "id":200619,
+        "name":"Baragoi",
+        "country":"KE",
+        "admin1":"Samburu County",
+        "admin2":"",
+        "lat":1.78398,
+        "lon":36.78597,
+        "pop":4254
+    },
+    {
+        "id":186325,
+        "name":"Mokowe",
+        "country":"KE",
+        "admin1":"Lamu",
+        "admin2":"",
+        "lat":-2.23679,
+        "lon":40.84555,
+        "pop":4249
+    },
+    {
+        "id":179888,
+        "name":"Sotik",
+        "country":"KE",
+        "admin1":"Bomet County",
+        "admin2":"",
+        "lat":-0.69069,
+        "lon":35.11102,
+        "pop":4194
+    },
+    {
+        "id":201044,
+        "name":"Amagoru",
+        "country":"KE",
+        "admin1":"Busia County",
+        "admin2":"",
+        "lat":0.63157,
+        "lon":34.32773,
+        "pop":4182
+    },
+    {
+        "id":180635,
+        "name":"Sega",
+        "country":"KE",
+        "admin1":"Siaya County",
+        "admin2":"",
+        "lat":0.25365,
+        "lon":34.22784,
+        "pop":4179
+    },
+    {
+        "id":191675,
+        "name":"Kipini",
+        "country":"KE",
+        "admin1":"Tana River County",
+        "admin2":"",
+        "lat":-2.52565,
+        "lon":40.5262,
+        "pop":4114
+    },
+    {
+        "id":194464,
+        "name":"Kangare",
+        "country":"KE",
+        "admin1":"Murang'A",
+        "admin2":"",
+        "lat":-0.79569,
+        "lon":36.8813,
+        "pop":4096
+    },
+    {
+        "id":182844,
+        "name":"Nyandiwa",
+        "country":"KE",
+        "admin1":"Homa Bay County",
+        "admin2":"",
+        "lat":-0.72265,
+        "lon":34.0591,
+        "pop":4033
+    },
+    {
+        "id":192295,
+        "name":"Kiganjo",
+        "country":"KE",
+        "admin1":"Nyeri County",
+        "admin2":"",
+        "lat":-0.39626,
+        "lon":37.00006,
+        "pop":4009
+    },
+    {
+        "id":184546,
+        "name":"Nambare",
+        "country":"KE",
+        "admin1":"Busia County",
+        "admin2":"",
+        "lat":0.45813,
+        "lon":34.25353,
+        "pop":3993
+    },
+    {
+        "id":180556,
+        "name":"Serem",
+        "country":"KE",
+        "admin1":"Vihiga County",
+        "admin2":"",
+        "lat":0.07717,
+        "lon":34.85473,
+        "pop":3984
+    },
+    {
+        "id":179865,
+        "name":"South Kinangop",
+        "country":"KE",
+        "admin1":"Nyandarua County",
+        "admin2":"",
+        "lat":-0.7264,
+        "lon":36.65258,
+        "pop":3929
+    },
+    {
+        "id":188469,
+        "name":"Mackinnon Road",
+        "country":"KE",
+        "admin1":"Kwale County",
+        "admin2":"",
+        "lat":-3.72332,
+        "lon":39.03019,
+        "pop":3901
+    },
+    {
+        "id":12718648,
+        "name":"Khayega",
+        "country":"KE",
+        "admin1":"Kakamega County",
+        "admin2":"",
+        "lat":0.20888,
+        "lon":34.77078,
+        "pop":3892
+    },
+    {
+        "id":181142,
+        "name":"Rombo",
+        "country":"KE",
+        "admin1":"Kajiado County",
+        "admin2":"",
+        "lat":-3.04631,
+        "lon":37.69539,
+        "pop":3854
+    },
+    {
+        "id":186226,
+        "name":"Mosocho",
+        "country":"KE",
+        "admin1":"Kisii County",
+        "admin2":"",
+        "lat":-0.58864,
+        "lon":34.73379,
+        "pop":3824
+    },
+    {
+        "id":191482,
+        "name":"Kiriaini",
+        "country":"KE",
+        "admin1":"Murang'A",
+        "admin2":"",
+        "lat":-0.87917,
+        "lon":36.88736,
+        "pop":3779
+    },
+    {
+        "id":184041,
+        "name":"Ndori",
+        "country":"KE",
+        "admin1":"Siaya County",
+        "admin2":"",
+        "lat":-0.07892,
+        "lon":34.36329,
+        "pop":3770
+    },
+    {
+        "id":195514,
+        "name":"Kagumo",
+        "country":"KE",
+        "admin1":"Kirinyaga County",
+        "admin2":"",
+        "lat":-0.47335,
+        "lon":37.23737,
+        "pop":3673
+    },
+    {
+        "id":187483,
+        "name":"Masii",
+        "country":"KE",
+        "admin1":"Machakos County",
+        "admin2":"",
+        "lat":-1.46127,
+        "lon":37.43849,
+        "pop":3653
+    },
+    {
+        "id":10377832,
+        "name":"Funyula",
+        "country":"KE",
+        "admin1":"Busia County",
+        "admin2":"",
+        "lat":0.27878,
+        "lon":34.11869,
+        "pop":3645
+    },
+    {
+        "id":186367,
+        "name":"Mogonga",
+        "country":"KE",
+        "admin1":"Kisii County",
+        "admin2":"",
+        "lat":-0.86478,
+        "lon":34.76285,
+        "pop":3628
+    },
+    {
+        "id":184983,
+        "name":"Mweiga",
+        "country":"KE",
+        "admin1":"Nyeri County",
+        "admin2":"",
+        "lat":-0.31977,
+        "lon":36.90194,
+        "pop":3609
+    },
+    {
+        "id":182791,
+        "name":"Nyangusu",
+        "country":"KE",
+        "admin1":"Kisii County",
+        "admin2":"",
+        "lat":-0.93263,
+        "lon":34.84421,
+        "pop":3590
+    },
+    {
+        "id":193994,
+        "name":"Kapsoit",
+        "country":"KE",
+        "admin1":"Kericho County",
+        "admin2":"",
+        "lat":-0.31984,
+        "lon":35.21845,
+        "pop":3545
+    },
+    {
+        "id":188380,
+        "name":"Magena Marabu",
+        "country":"KE",
+        "admin1":"Kisii County",
+        "admin2":"",
+        "lat":-0.91383,
+        "lon":34.79623,
+        "pop":3505
+    },
+    {
+        "id":184011,
+        "name":"Ntulelei",
+        "country":"KE",
+        "admin1":"Narok County",
+        "admin2":"",
+        "lat":-1.09573,
+        "lon":36.08559,
+        "pop":3390
+    },
+    {
+        "id":181802,
+        "name":"Ortum",
+        "country":"KE",
+        "admin1":"West Pokot County",
+        "admin2":"",
+        "lat":1.43735,
+        "lon":35.35629,
+        "pop":3372
+    },
+    {
+        "id":12718629,
+        "name":"Ol Donyo",
+        "country":"KE",
+        "admin1":"Machakos County",
+        "admin2":"",
+        "lat":-1.084,
+        "lon":37.25274,
+        "pop":3353
+    },
+    {
+        "id":186520,
+        "name":"Mitunguu",
+        "country":"KE",
+        "admin1":"Meru County",
+        "admin2":"",
+        "lat":-0.10886,
+        "lon":37.7826,
+        "pop":3293
+    },
+    {
+        "id":192170,
+        "name":"Kikima",
+        "country":"KE",
+        "admin1":"Makueni County",
+        "admin2":"",
+        "lat":-1.66208,
+        "lon":37.4469,
+        "pop":3269
+    },
+    {
+        "id":194184,
+        "name":"Kapcherop",
+        "country":"KE",
+        "admin1":"Trans Nzoia",
+        "admin2":"",
+        "lat":1.04026,
+        "lon":35.32121,
+        "pop":3240
+    },
+    {
+        "id":178040,
+        "name":"Yala",
+        "country":"KE",
+        "admin1":"Siaya County",
+        "admin2":"",
+        "lat":0.09438,
+        "lon":34.53602,
+        "pop":3237
+    },
+    {
+        "id":200711,
+        "name":"Bahati",
+        "country":"KE",
+        "admin1":"Nakuru County",
+        "admin2":"",
+        "lat":-0.15407,
+        "lon":36.14634,
+        "pop":3180
+    },
+    {
+        "id":185745,
+        "name":"Mulot",
+        "country":"KE",
+        "admin1":"Bomet County",
+        "admin2":"",
+        "lat":-0.93752,
+        "lon":35.42162,
+        "pop":3149
+    },
+    {
+        "id":179543,
+        "name":"Tarbaj",
+        "country":"KE",
+        "admin1":"Wajir County",
+        "admin2":"",
+        "lat":2.2085,
+        "lon":40.11812,
+        "pop":3146
+    },
+    {
+        "id":192586,
+        "name":"Kianyaga",
+        "country":"KE",
+        "admin1":"Kirinyaga County",
+        "admin2":"",
+        "lat":-0.49546,
+        "lon":37.35027,
+        "pop":2974
+    },
+    {
+        "id":188617,
+        "name":"Kipkelion",
+        "country":"KE",
+        "admin1":"Kericho County",
+        "admin2":"",
+        "lat":-0.19982,
+        "lon":35.46735,
+        "pop":2952
+    },
+    {
+        "id":181463,
+        "name":"Rabuor",
+        "country":"KE",
+        "admin1":"Kisumu County",
+        "admin2":"",
+        "lat":-0.14989,
+        "lon":34.82584,
+        "pop":2942
+    },
+    {
+        "id":191129,
+        "name":"Kithimani",
+        "country":"KE",
+        "admin1":"Machakos County",
+        "admin2":"",
+        "lat":-1.18483,
+        "lon":37.44685,
+        "pop":2923
+    },
+    {
+        "id":179659,
+        "name":"Tabaka",
+        "country":"KE",
+        "admin1":"Kisii County",
+        "admin2":"",
+        "lat":-0.74743,
+        "lon":34.66682,
+        "pop":2910
+    },
+    {
+        "id":198054,
+        "name":"Faza",
+        "country":"KE",
+        "admin1":"Lamu",
+        "admin2":"",
+        "lat":-2.05604,
+        "lon":41.11184,
+        "pop":2855
+    },
+    {
+        "id":182298,
+        "name":"Olenguruone",
+        "country":"KE",
+        "admin1":"Nakuru County",
+        "admin2":"",
+        "lat":-0.5861,
+        "lon":35.68769,
+        "pop":2787
+    },
+    {
+        "id":11964544,
+        "name":"Kampi Ya Moto",
+        "country":"KE",
+        "admin1":"Nakuru County",
+        "admin2":"",
+        "lat":-0.12429,
+        "lon":35.93957,
+        "pop":2775
+    },
+    {
+        "id":10400158,
+        "name":"Marimanti",
+        "country":"KE",
+        "admin1":"Tharaka - Nithi",
+        "admin2":"",
+        "lat":-0.15457,
+        "lon":37.97625,
+        "pop":2752
+    },
+    {
+        "id":8605151,
+        "name":"Endarasha",
+        "country":"KE",
+        "admin1":"Nyeri County",
+        "admin2":"",
+        "lat":-0.3055,
+        "lon":36.79596,
+        "pop":2743
+    },
+    {
+        "id":11886080,
+        "name":"Kiboko",
+        "country":"KE",
+        "admin1":"Makueni County",
+        "admin2":"",
+        "lat":-2.21053,
+        "lon":37.72026,
+        "pop":2708
+    },
+    {
+        "id":192942,
+        "name":"Kenyenya",
+        "country":"KE",
+        "admin1":"Kisii County",
+        "admin2":"",
+        "lat":-0.88754,
+        "lon":34.73204,
+        "pop":2698
+    },
+    {
+        "id":12718641,
+        "name":"Kinungi",
+        "country":"KE",
+        "admin1":"Nakuru County",
+        "admin2":"",
+        "lat":-0.80415,
+        "lon":36.53133,
+        "pop":2573
+    },
+    {
+        "id":178922,
+        "name":"Turbo",
+        "country":"KE",
+        "admin1":"Uasin Gishu County",
+        "admin2":"",
+        "lat":0.63367,
+        "lon":35.04815,
+        "pop":2559
+    },
+    {
+        "id":188610,
+        "name":"Lunga-Lunga",
+        "country":"KE",
+        "admin1":"Kwale County",
+        "admin2":"",
+        "lat":-4.55276,
+        "lon":39.12363,
+        "pop":2536
+    },
+    {
+        "id":196582,
+        "name":"Ikinu",
+        "country":"KE",
+        "admin1":"Kiambu County",
+        "admin2":"",
+        "lat":-1.10804,
+        "lon":36.79161,
+        "pop":2532
+    },
+    {
+        "id":180210,
+        "name":"Simba",
+        "country":"KE",
+        "admin1":"Kajiado County",
+        "admin2":"",
+        "lat":-2.15792,
+        "lon":37.59166,
+        "pop":2504
+    },
+    {
+        "id":194126,
+        "name":"Kapkatet",
+        "country":"KE",
+        "admin1":"Kericho County",
+        "admin2":"",
+        "lat":-0.62966,
+        "lon":35.19441,
+        "pop":2484
+    },
+    {
+        "id":183718,
+        "name":"Ngewa",
+        "country":"KE",
+        "admin1":"Kiambu County",
+        "admin2":"",
+        "lat":-1.09196,
+        "lon":36.8659,
+        "pop":2452
+    },
+    {
+        "id":12718640,
+        "name":"Wiyumiririe",
+        "country":"KE",
+        "admin1":"Laikipia",
+        "admin2":"",
+        "lat":-0.07732,
+        "lon":36.57959,
+        "pop":2449
+    },
+    {
+        "id":180914,
+        "name":"Saba Saba",
+        "country":"KE",
+        "admin1":"Murang'A",
+        "admin2":"",
+        "lat":-0.87592,
+        "lon":37.14324,
+        "pop":2438
+    },
+    {
+        "id":195808,
+        "name":"Kavati",
+        "country":"KE",
+        "admin1":"Kitui County",
+        "admin2":"",
+        "lat":-1.23403,
+        "lon":37.91571,
+        "pop":2420
+    },
+    {
+        "id":180389,
+        "name":"Shimoni",
+        "country":"KE",
+        "admin1":"Kwale County",
+        "admin2":"",
+        "lat":-4.64756,
+        "lon":39.38175,
+        "pop":2374
+    },
+    {
+        "id":12718639,
+        "name":"Suguta",
+        "country":"KE",
+        "admin1":"Samburu County",
+        "admin2":"",
+        "lat":0.82495,
+        "lon":36.68928,
+        "pop":2328
+    },
+    {
+        "id":12718638,
+        "name":"Karuga",
+        "country":"KE",
+        "admin1":"Laikipia",
+        "admin2":"",
+        "lat":0.03843,
+        "lon":36.29279,
+        "pop":2301
+    },
+    {
+        "id":11593572,
+        "name":"Kesses",
+        "country":"KE",
+        "admin1":"Uasin Gishu County",
+        "admin2":"",
+        "lat":0.30206,
+        "lon":35.31441,
+        "pop":2293
+    },
+    {
+        "id":183119,
+        "name":"Nunguni",
+        "country":"KE",
+        "admin1":"Makueni County",
+        "admin2":"",
+        "lat":-1.79324,
+        "lon":37.36276,
+        "pop":2266
+    },
+    {
+        "id":12718623,
+        "name":"Kasuku",
+        "country":"KE",
+        "admin1":"Nyandarua County",
+        "admin2":"",
+        "lat":-0.13103,
+        "lon":36.37886,
+        "pop":2209
+    },
+    {
+        "id":178366,
+        "name":"Wamunyu",
+        "country":"KE",
+        "admin1":"Machakos County",
+        "admin2":"",
+        "lat":-1.40983,
+        "lon":37.56358,
+        "pop":2190
+    },
+    {
+        "id":12718637,
+        "name":"Muchorwi",
+        "country":"KE",
+        "admin1":"Nakuru County",
+        "admin2":"",
+        "lat":-0.3299,
+        "lon":35.68751,
+        "pop":2162
+    },
+    {
+        "id":192207,
+        "name":"Kiirua",
+        "country":"KE",
+        "admin1":"Meru County",
+        "admin2":"",
+        "lat":0.12079,
+        "lon":37.55953,
+        "pop":2158
+    },
+    {
+        "id":12718636,
+        "name":"Ewuaso",
+        "country":"KE",
+        "admin1":"Kajiado County",
+        "admin2":"",
+        "lat":-1.14856,
+        "lon":36.49712,
+        "pop":2144
+    },
+    {
+        "id":182250,
+        "name":"Ol Joro Orok",
+        "country":"KE",
+        "admin1":"Nyandarua County",
+        "admin2":"",
+        "lat":-0.07473,
+        "lon":36.36288,
+        "pop":2116
+    },
+    {
+        "id":180085,
+        "name":"Sirisia",
+        "country":"KE",
+        "admin1":"Bungoma County",
+        "admin2":"",
+        "lat":0.75471,
+        "lon":34.50351,
+        "pop":2096
+    },
+    {
+        "id":200604,
+        "name":"Baraton",
+        "country":"KE",
+        "admin1":"Nandi",
+        "admin2":"",
+        "lat":0.25517,
+        "lon":35.0827,
+        "pop":2043
+    },
+    {
+        "id":200666,
+        "name":"Bamba",
+        "country":"KE",
+        "admin1":"Kilifi County",
+        "admin2":"",
+        "lat":-3.54099,
+        "lon":39.52268,
+        "pop":2015
+    },
+    {
+        "id":190544,
+        "name":"Konza",
+        "country":"KE",
+        "admin1":"Machakos County",
+        "admin2":"",
+        "lat":-1.73947,
+        "lon":37.13195,
+        "pop":2004
+    },
+    {
+        "id":199604,
+        "name":"Chepareria",
+        "country":"KE",
+        "admin1":"West Pokot County",
+        "admin2":"",
+        "lat":1.30583,
+        "lon":35.20365,
+        "pop":1073
+    },
+    {
+        "id":180087,
+        "name":"Sirisia",
+        "country":"KE",
+        "admin1":"Busia County",
+        "admin2":"",
+        "lat":0.11667,
+        "lon":34.0,
+        "pop":944
+    },
+    {
+        "id":194521,
+        "name":"Kandara",
+        "country":"KE",
+        "admin1":"Murang'A",
+        "admin2":"",
+        "lat":-0.89715,
+        "lon":37.00279,
+        "pop":914
+    }
+]

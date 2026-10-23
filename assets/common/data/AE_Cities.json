@@ -1,0 +1,502 @@
+[
+    {
+        "id":292223,
+        "name":"Dubai",
+        "country":"AE",
+        "admin1":"Dubai",
+        "admin2":"",
+        "lat":25.07725,
+        "lon":55.30927,
+        "pop":3790000
+    },
+    {
+        "id":292968,
+        "name":"Abu Dhabi",
+        "country":"AE",
+        "admin1":"Abu Dhabi",
+        "admin2":"Abu Dhabi Municipality",
+        "lat":24.45118,
+        "lon":54.39696,
+        "pop":1807000
+    },
+    {
+        "id":292672,
+        "name":"Sharjah",
+        "country":"AE",
+        "admin1":"Sharjah",
+        "admin2":"",
+        "lat":25.3342,
+        "lon":55.41221,
+        "pop":1800000
+    },
+    {
+        "id":292913,
+        "name":"Al Ain City",
+        "country":"AE",
+        "admin1":"Abu Dhabi",
+        "admin2":"Al Ain Municipality",
+        "lat":24.19167,
+        "lon":55.76056,
+        "pop":846747
+    },
+    {
+        "id":292932,
+        "name":"Ajman City",
+        "country":"AE",
+        "admin1":"Ajman",
+        "admin2":"",
+        "lat":25.40177,
+        "lon":55.47878,
+        "pop":490035
+    },
+    {
+        "id":291074,
+        "name":"Ras Al Khaimah City",
+        "country":"AE",
+        "admin1":"Raʼs al Khaymah",
+        "admin2":"",
+        "lat":25.78953,
+        "lon":55.9432,
+        "pop":351943
+    },
+    {
+        "id":12042053,
+        "name":"Musaffah",
+        "country":"AE",
+        "admin1":"Abu Dhabi",
+        "admin2":"Abu Dhabi Municipality",
+        "lat":24.35893,
+        "lon":54.48267,
+        "pop":243341
+    },
+    {
+        "id":11524601,
+        "name":"Jebel Ali",
+        "country":"AE",
+        "admin1":"Dubai",
+        "admin2":"",
+        "lat":25.00255,
+        "lon":55.10811,
+        "pop":210000
+    },
+    {
+        "id":292878,
+        "name":"Al Fujairah City",
+        "country":"AE",
+        "admin1":"Fujairah",
+        "admin2":"",
+        "lat":25.11641,
+        "lon":56.34141,
+        "pop":118933
+    },
+    {
+        "id":290503,
+        "name":"Warīsān",
+        "country":"AE",
+        "admin1":"Dubai",
+        "admin2":"",
+        "lat":25.16744,
+        "lon":55.40708,
+        "pop":108759
+    },
+    {
+        "id":8057551,
+        "name":"Khalifah A City",
+        "country":"AE",
+        "admin1":"Abu Dhabi",
+        "admin2":"Abu Dhabi Municipality",
+        "lat":24.42588,
+        "lon":54.605,
+        "pop":85374
+    },
+    {
+        "id":13118447,
+        "name":"Mohammed Bin Zayed City",
+        "country":"AE",
+        "admin1":"Abu Dhabi",
+        "admin2":"Abu Dhabi Municipality",
+        "lat":24.34794,
+        "lon":54.55368,
+        "pop":85000
+    },
+    {
+        "id":12047417,
+        "name":"Reef Al Fujairah City",
+        "country":"AE",
+        "admin1":"Fujairah",
+        "admin2":"",
+        "lat":25.14479,
+        "lon":56.24764,
+        "pop":82310
+    },
+    {
+        "id":12042052,
+        "name":"Bani Yas City",
+        "country":"AE",
+        "admin1":"Abu Dhabi",
+        "admin2":"Abu Dhabi Municipality",
+        "lat":24.30978,
+        "lon":54.62944,
+        "pop":80498
+    },
+    {
+        "id":291580,
+        "name":"Zayed City",
+        "country":"AE",
+        "admin1":"Abu Dhabi",
+        "admin2":"Al Dhafra",
+        "lat":23.65416,
+        "lon":53.70522,
+        "pop":63482
+    },
+    {
+        "id":12047416,
+        "name":"Al Shamkhah City",
+        "country":"AE",
+        "admin1":"Abu Dhabi",
+        "admin2":"Abu Dhabi Municipality",
+        "lat":24.39268,
+        "lon":54.70779,
+        "pop":61710
+    },
+    {
+        "id":290594,
+        "name":"Umm Al Quwain City",
+        "country":"AE",
+        "admin1":"Umm al Qaywayn",
+        "admin2":"",
+        "lat":25.56473,
+        "lon":55.55517,
+        "pop":59098
+    },
+    {
+        "id":13118439,
+        "name":"Lahbab",
+        "country":"AE",
+        "admin1":"Dubai",
+        "admin2":"Sector 7",
+        "lat":25.03763,
+        "lon":55.59135,
+        "pop":53079
+    },
+    {
+        "id":13118438,
+        "name":"Al Sajaah",
+        "country":"AE",
+        "admin1":"Sharjah",
+        "admin2":"",
+        "lat":25.31532,
+        "lon":55.63211,
+        "pop":53079
+    },
+    {
+        "id":290680,
+        "name":"Ţarīf Kalbā",
+        "country":"AE",
+        "admin1":"Fujairah",
+        "admin2":"",
+        "lat":25.0695,
+        "lon":56.33115,
+        "pop":51000
+    },
+    {
+        "id":291696,
+        "name":"Khawr Fakkān",
+        "country":"AE",
+        "admin1":"Sharjah",
+        "admin2":"",
+        "lat":25.33132,
+        "lon":56.34199,
+        "pop":40677
+    },
+    {
+        "id":291763,
+        "name":"Kalbā",
+        "country":"AE",
+        "admin1":"Sharjah",
+        "admin2":"",
+        "lat":25.0513,
+        "lon":56.35422,
+        "pop":37545
+    },
+    {
+        "id":292231,
+        "name":"Dibba Al-Fujairah",
+        "country":"AE",
+        "admin1":"Fujairah",
+        "admin2":"",
+        "lat":25.59246,
+        "lon":56.26176,
+        "pop":30000
+    },
+    {
+        "id":292239,
+        "name":"Dibba Al-Hisn",
+        "country":"AE",
+        "admin1":"Fujairah",
+        "admin2":"",
+        "lat":25.61955,
+        "lon":56.27291,
+        "pop":26395
+    },
+    {
+        "id":6691113,
+        "name":"The Palm Jumeirah",
+        "country":"AE",
+        "admin1":"Dubai",
+        "admin2":"",
+        "lat":25.11607,
+        "lon":55.13506,
+        "pop":25500
+    },
+    {
+        "id":292688,
+        "name":"Ar Ruways",
+        "country":"AE",
+        "admin1":"Abu Dhabi",
+        "admin2":"Al Dhafra",
+        "lat":24.11028,
+        "lon":52.73056,
+        "pop":25000
+    },
+    {
+        "id":292953,
+        "name":"Adh Dhayd",
+        "country":"AE",
+        "admin1":"Sharjah",
+        "admin2":"",
+        "lat":25.28812,
+        "lon":55.88157,
+        "pop":20165
+    },
+    {
+        "id":13118437,
+        "name":"Halwan",
+        "country":"AE",
+        "admin1":"Sharjah",
+        "admin2":"",
+        "lat":25.34586,
+        "lon":55.42165,
+        "pop":19389
+    },
+    {
+        "id":7289825,
+        "name":"Bur Dubai",
+        "country":"AE",
+        "admin1":"Dubai",
+        "admin2":"",
+        "lat":25.26038,
+        "lon":55.29891,
+        "pop":18698
+    },
+    {
+        "id":292862,
+        "name":"Ḩattā",
+        "country":"AE",
+        "admin1":"Dubai",
+        "admin2":"Sector 8",
+        "lat":24.80073,
+        "lon":56.12726,
+        "pop":15324
+    },
+    {
+        "id":13118448,
+        "name":"Masdar City",
+        "country":"AE",
+        "admin1":"Abu Dhabi",
+        "admin2":"Abu Dhabi Municipality",
+        "lat":24.43208,
+        "lon":54.61582,
+        "pop":15000
+    },
+    {
+        "id":291794,
+        "name":"Al Jazīrah al Ḩamrā’",
+        "country":"AE",
+        "admin1":"Raʼs al Khaymah",
+        "admin2":"",
+        "lat":25.7091,
+        "lon":55.80772,
+        "pop":10190
+    },
+    {
+        "id":291279,
+        "name":"Muzayri‘",
+        "country":"AE",
+        "admin1":"Abu Dhabi",
+        "admin2":"Al Dhafra",
+        "lat":23.14355,
+        "lon":53.7881,
+        "pop":10000
+    },
+    {
+        "id":291489,
+        "name":"Maşfūţ",
+        "country":"AE",
+        "admin1":"Ajman",
+        "admin2":"",
+        "lat":24.81089,
+        "lon":56.10657,
+        "pop":8988
+    },
+    {
+        "id":13118445,
+        "name":"Al Madam",
+        "country":"AE",
+        "admin1":"Sharjah",
+        "admin2":"",
+        "lat":24.97355,
+        "lon":55.77781,
+        "pop":8652
+    },
+    {
+        "id":13118429,
+        "name":"Dubai Motor City",
+        "country":"AE",
+        "admin1":"Dubai",
+        "admin2":"Sector 6",
+        "lat":25.04593,
+        "lon":55.24102,
+        "pop":8561
+    },
+    {
+        "id":13118430,
+        "name":"DAMAC Hills",
+        "country":"AE",
+        "admin1":"Dubai",
+        "admin2":"Sector 6",
+        "lat":25.02924,
+        "lon":55.25277,
+        "pop":8000
+    },
+    {
+        "id":292799,
+        "name":"Al Manāmah",
+        "country":"AE",
+        "admin1":"Ajman",
+        "admin2":"",
+        "lat":25.3299,
+        "lon":56.02188,
+        "pop":5823
+    },
+    {
+        "id":413256,
+        "name":"Suwayḩān",
+        "country":"AE",
+        "admin1":"Abu Dhabi",
+        "admin2":"Al Ain Municipality",
+        "lat":24.46235,
+        "lon":55.33715,
+        "pop":5403
+    },
+    {
+        "id":13117825,
+        "name":"Sha'biyyat Milе̄hah",
+        "country":"AE",
+        "admin1":"Sharjah",
+        "admin2":"",
+        "lat":25.13518,
+        "lon":55.8843,
+        "pop":4768
+    },
+    {
+        "id":400747,
+        "name":"Abū Mūsá",
+        "country":"AE",
+        "admin1":null,
+        "admin2":"",
+        "lat":25.86698,
+        "lon":55.02363,
+        "pop":4213
+    },
+    {
+        "id":292856,
+        "name":"Al Ḩamrīyah",
+        "country":"AE",
+        "admin1":"Sharjah",
+        "admin2":"",
+        "lat":25.47819,
+        "lon":55.53377,
+        "pop":3297
+    },
+    {
+        "id":13118446,
+        "name":"Al Raafah",
+        "country":"AE",
+        "admin1":"Umm al Qaywayn",
+        "admin2":"",
+        "lat":25.55073,
+        "lon":55.68619,
+        "pop":2704
+    },
+    {
+        "id":412981,
+        "name":"Al Lusaylī",
+        "country":"AE",
+        "admin1":"Dubai",
+        "admin2":"",
+        "lat":24.93138,
+        "lon":55.47531,
+        "pop":2514
+    },
+    {
+        "id":12470174,
+        "name":"Al Wiqan",
+        "country":"AE",
+        "admin1":"Abu Dhabi",
+        "admin2":"Al Ain Municipality",
+        "lat":23.75355,
+        "lon":55.32739,
+        "pop":2000
+    },
+    {
+        "id":291339,
+        "name":"Murbaḩ",
+        "country":"AE",
+        "admin1":"Sharjah",
+        "admin2":"",
+        "lat":25.27623,
+        "lon":56.36256,
+        "pop":2000
+    },
+    {
+        "id":292674,
+        "name":"Ash Sha‘m",
+        "country":"AE",
+        "admin1":"Raʼs al Khaymah",
+        "admin2":"",
+        "lat":26.0279,
+        "lon":56.08352,
+        "pop":1550
+    },
+    {
+        "id":394142,
+        "name":"Margham",
+        "country":"AE",
+        "admin1":"Dubai",
+        "admin2":"Sector 8",
+        "lat":24.89952,
+        "lon":55.62545,
+        "pop":1280
+    },
+    {
+        "id":12470177,
+        "name":"Al Araad",
+        "country":"AE",
+        "admin1":"Abu Dhabi",
+        "admin2":"Al Ain Municipality",
+        "lat":23.86471,
+        "lon":55.52341,
+        "pop":1000
+    },
+    {
+        "id":12470175,
+        "name":"Al'Arad",
+        "country":"AE",
+        "admin1":"Abu Dhabi",
+        "admin2":"Al Ain Municipality",
+        "lat":23.8472,
+        "lon":55.52719,
+        "pop":1000
+    }
+]

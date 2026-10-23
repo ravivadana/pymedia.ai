@@ -1,0 +1,1692 @@
+[
+    {
+        "id":2411989,
+        "name":"Serekunda",
+        "country":"GM",
+        "admin1":"Banjul",
+        "admin2":"",
+        "lat":13.43833,
+        "lon":-16.67806,
+        "pop":340000
+    },
+    {
+        "id":2413753,
+        "name":"Brikama",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.27136,
+        "lon":-16.64944,
+        "pop":97233
+    },
+    {
+        "id":2411880,
+        "name":"Sukuta",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.41033,
+        "lon":-16.70815,
+        "pop":56472
+    },
+    {
+        "id":12640502,
+        "name":"Talinding",
+        "country":"GM",
+        "admin1":"Banjul",
+        "admin2":"",
+        "lat":13.42558,
+        "lon":-16.67261,
+        "pop":48687
+    },
+    {
+        "id":2413525,
+        "name":"Faji Kunda",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.41778,
+        "lon":-16.66667,
+        "pop":45757
+    },
+    {
+        "id":2413920,
+        "name":"Bakau",
+        "country":"GM",
+        "admin1":"Banjul",
+        "admin2":"",
+        "lat":13.47806,
+        "lon":-16.68194,
+        "pop":43098
+    },
+    {
+        "id":2413876,
+        "name":"Banjul",
+        "country":"GM",
+        "admin1":"Banjul",
+        "admin2":"",
+        "lat":13.45274,
+        "lon":-16.57803,
+        "pop":37274
+    },
+    {
+        "id":2412452,
+        "name":"Nema Kunku",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.25,
+        "lon":-15.88333,
+        "pop":34390
+    },
+    {
+        "id":2413515,
+        "name":"Farafenni",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.56667,
+        "lon":-15.6,
+        "pop":32883
+    },
+    {
+        "id":2413696,
+        "name":"Busumbala",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.33917,
+        "lon":-16.6875,
+        "pop":28829
+    },
+    {
+        "id":2412749,
+        "name":"Lamin",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.35222,
+        "lon":-16.43389,
+        "pop":28500
+    },
+    {
+        "id":2411700,
+        "name":"Welingara",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.40361,
+        "lon":-16.67361,
+        "pop":27856
+    },
+    {
+        "id":2413745,
+        "name":"Brufut",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.38417,
+        "lon":-16.75139,
+        "pop":27664
+    },
+    {
+        "id":2412186,
+        "name":"Sanchaba",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.42222,
+        "lon":-16.70972,
+        "pop":25091
+    },
+    {
+        "id":2413419,
+        "name":"Gunjur",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.20194,
+        "lon":-16.73389,
+        "pop":22741
+    },
+    {
+        "id":2412609,
+        "name":"Manjai Kunda",
+        "country":"GM",
+        "admin1":"Banjul",
+        "admin2":"",
+        "lat":13.44528,
+        "lon":-16.70278,
+        "pop":22327
+    },
+    {
+        "id":2413565,
+        "name":"Dippa Kunda",
+        "country":"GM",
+        "admin1":"Banjul",
+        "admin2":"",
+        "lat":13.44028,
+        "lon":-16.68694,
+        "pop":21190
+    },
+    {
+        "id":12640501,
+        "name":"New Jeshwang",
+        "country":"GM",
+        "admin1":"Banjul",
+        "admin2":"Kanifing",
+        "lat":13.44735,
+        "lon":-16.665,
+        "pop":20878
+    },
+    {
+        "id":2413915,
+        "name":"Bakoti",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.43,
+        "lon":-16.69833,
+        "pop":20314
+    },
+    {
+        "id":2412786,
+        "name":"Kunkujang",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.38972,
+        "lon":-16.67278,
+        "pop":19998
+    },
+    {
+        "id":12640503,
+        "name":"Sinchu Alagi",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.37491,
+        "lon":-16.67841,
+        "pop":19672
+    },
+    {
+        "id":2412833,
+        "name":"Kotu",
+        "country":"GM",
+        "admin1":"Banjul",
+        "admin2":"",
+        "lat":13.45944,
+        "lon":-16.70528,
+        "pop":19634
+    },
+    {
+        "id":2413990,
+        "name":"Abuko",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.40417,
+        "lon":-16.65583,
+        "pop":18978
+    },
+    {
+        "id":2412737,
+        "name":"Latri Sabiji",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.41333,
+        "lon":-16.67889,
+        "pop":18747
+    },
+    {
+        "id":2411805,
+        "name":"Tanji",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.34889,
+        "lon":-16.79083,
+        "pop":17441
+    },
+    {
+        "id":2413106,
+        "name":"Kanifing",
+        "country":"GM",
+        "admin1":"Banjul",
+        "admin2":"",
+        "lat":13.44639,
+        "lon":-16.67444,
+        "pop":17159
+    },
+    {
+        "id":2411905,
+        "name":"Soma",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.43333,
+        "lon":-15.53333,
+        "pop":15210
+    },
+    {
+        "id":2412141,
+        "name":"Sanyang",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.26667,
+        "lon":-16.76056,
+        "pop":15090
+    },
+    {
+        "id":2413511,
+        "name":"Farato",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.4,
+        "lon":-14.21667,
+        "pop":15017
+    },
+    {
+        "id":2413818,
+        "name":"Basse Santa Su",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.30995,
+        "lon":-14.21373,
+        "pop":14380
+    },
+    {
+        "id":2413450,
+        "name":"Gambissar",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.31667,
+        "lon":-13.95,
+        "pop":13371
+    },
+    {
+        "id":2411653,
+        "name":"Yundum",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.34556,
+        "lon":-16.67278,
+        "pop":13162
+    },
+    {
+        "id":2411652,
+        "name":"Old Yundum",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.3625,
+        "lon":-16.68611,
+        "pop":12042
+    },
+    {
+        "id":2413533,
+        "name":"Essau",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.48389,
+        "lon":-16.53472,
+        "pop":11758
+    },
+    {
+        "id":7282416,
+        "name":"Kerr Serign",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.43247,
+        "lon":-16.7203,
+        "pop":11524
+    },
+    {
+        "id":2413445,
+        "name":"Garawol",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.41667,
+        "lon":-13.95,
+        "pop":10547
+    },
+    {
+        "id":2412625,
+        "name":"Mandinari",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.37278,
+        "lon":-16.60278,
+        "pop":10273
+    },
+    {
+        "id":2413300,
+        "name":"Jamisa",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.41667,
+        "lon":-16.71667,
+        "pop":9962
+    },
+    {
+        "id":2413866,
+        "name":"Bansang",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.43333,
+        "lon":-14.65,
+        "pop":9528
+    },
+    {
+        "id":2413147,
+        "name":"Kaimbujae NDing",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.285,
+        "lon":-16.62139,
+        "pop":9161
+    },
+    {
+        "id":2412331,
+        "name":"Old Jeswang",
+        "country":"GM",
+        "admin1":"Banjul",
+        "admin2":"",
+        "lat":13.45861,
+        "lon":-16.66333,
+        "pop":9064
+    },
+    {
+        "id":2411727,
+        "name":"Tujering",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.31889,
+        "lon":-16.78548,
+        "pop":8866
+    },
+    {
+        "id":2412855,
+        "name":"Kololi",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.45,
+        "lon":-16.71667,
+        "pop":8710
+    },
+    {
+        "id":2413788,
+        "name":"Bijilo",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.41806,
+        "lon":-16.73,
+        "pop":8231
+    },
+    {
+        "id":2413564,
+        "name":"Djalabango",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.28056,
+        "lon":-16.67861,
+        "pop":8139
+    },
+    {
+        "id":2411949,
+        "name":"Sinchu Balla",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.6,
+        "lon":-15.03333,
+        "pop":8008
+    },
+    {
+        "id":2412248,
+        "name":"Sabi",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.23333,
+        "lon":-14.2,
+        "pop":7738
+    },
+    {
+        "id":12640504,
+        "name":"Sinchu Sorry",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.38753,
+        "lon":-16.6855,
+        "pop":7687
+    },
+    {
+        "id":2412868,
+        "name":"Koina",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.48333,
+        "lon":-13.86667,
+        "pop":7462
+    },
+    {
+        "id":2413955,
+        "name":"Badja Kunda",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.46667,
+        "lon":-14.05,
+        "pop":7403
+    },
+    {
+        "id":2412815,
+        "name":"Kulari",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.4,
+        "lon":-14.08333,
+        "pop":7227
+    },
+    {
+        "id":2413874,
+        "name":"Banjul NDing",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.37333,
+        "lon":-16.65722,
+        "pop":7110
+    },
+    {
+        "id":2413971,
+        "name":"Alohungari",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.31667,
+        "lon":-14.23333,
+        "pop":6726
+    },
+    {
+        "id":2413304,
+        "name":"Jambanjali",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.28028,
+        "lon":-16.72944,
+        "pop":6343
+    },
+    {
+        "id":2412703,
+        "name":"Madiana",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.51667,
+        "lon":-14.53333,
+        "pop":6069
+    },
+    {
+        "id":2413827,
+        "name":"Barra",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.48278,
+        "lon":-16.54556,
+        "pop":6020
+    },
+    {
+        "id":2411976,
+        "name":"Sifoe",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.18361,
+        "lon":-16.6975,
+        "pop":6015
+    },
+    {
+        "id":2412992,
+        "name":"Kerewan",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.4898,
+        "lon":-16.08879,
+        "pop":5485
+    },
+    {
+        "id":2413061,
+        "name":"Kartung",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.09472,
+        "lon":-16.76222,
+        "pop":5213
+    },
+    {
+        "id":2413749,
+        "name":"Brikama Ba",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.53333,
+        "lon":-14.93333,
+        "pop":5086
+    },
+    {
+        "id":2413598,
+        "name":"Demba Kunda",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.25,
+        "lon":-14.26667,
+        "pop":4817
+    },
+    {
+        "id":2413437,
+        "name":"Janjanbureh",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"Janjanbureh",
+        "lat":13.54039,
+        "lon":-14.76374,
+        "pop":4547
+    },
+    {
+        "id":12640500,
+        "name":"Bakau Wasulun",
+        "country":"GM",
+        "admin1":null,
+        "admin2":"",
+        "lat":13.48373,
+        "lon":-16.66892,
+        "pop":4255
+    },
+    {
+        "id":2413580,
+        "name":"Diabugu",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.38333,
+        "lon":-14.4,
+        "pop":3722
+    },
+    {
+        "id":2412229,
+        "name":"Salikene",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.48333,
+        "lon":-15.96667,
+        "pop":3403
+    },
+    {
+        "id":2412199,
+        "name":"Sami",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.58333,
+        "lon":-15.2,
+        "pop":2794
+    },
+    {
+        "id":2413265,
+        "name":"Jarreng",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.61667,
+        "lon":-15.18333,
+        "pop":2705
+    },
+    {
+        "id":2411863,
+        "name":"Sutukoba",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.5,
+        "lon":-14.01667,
+        "pop":2693
+    },
+    {
+        "id":2411903,
+        "name":"Somita",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.20583,
+        "lon":-16.30556,
+        "pop":2541
+    },
+    {
+        "id":2412315,
+        "name":"Pakali Nding",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.46667,
+        "lon":-15.55,
+        "pop":2537
+    },
+    {
+        "id":2412778,
+        "name":"Kuntaur",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.67085,
+        "lon":-14.88977,
+        "pop":2534
+    },
+    {
+        "id":2412344,
+        "name":"Nyamanari",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.33333,
+        "lon":-13.86667,
+        "pop":2090
+    },
+    {
+        "id":2413830,
+        "name":"Baro Kunda",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.48333,
+        "lon":-15.26667,
+        "pop":1991
+    },
+    {
+        "id":2413926,
+        "name":"Bakadagy",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.3,
+        "lon":-14.38333,
+        "pop":1979
+    },
+    {
+        "id":2412605,
+        "name":"Mansa Konko",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.44325,
+        "lon":-15.5357,
+        "pop":1978
+    },
+    {
+        "id":2412252,
+        "name":"Saba",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.51639,
+        "lon":-16.04917,
+        "pop":1974
+    },
+    {
+        "id":2411999,
+        "name":"Saruja",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.55,
+        "lon":-14.91667,
+        "pop":1959
+    },
+    {
+        "id":2412355,
+        "name":"No Kunda",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.56667,
+        "lon":-15.83333,
+        "pop":1913
+    },
+    {
+        "id":2413456,
+        "name":"Galleh Manda",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.43333,
+        "lon":-14.78333,
+        "pop":1872
+    },
+    {
+        "id":2412158,
+        "name":"Sankwia",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.46667,
+        "lon":-15.51667,
+        "pop":1831
+    },
+    {
+        "id":2413160,
+        "name":"Kaiaf",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.4,
+        "lon":-15.61667,
+        "pop":1819
+    },
+    {
+        "id":2413365,
+        "name":"Jakhaly",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.55,
+        "lon":-14.96667,
+        "pop":1793
+    },
+    {
+        "id":2413023,
+        "name":"Keneba",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.32889,
+        "lon":-16.015,
+        "pop":1775
+    },
+    {
+        "id":2412807,
+        "name":"Kumbija",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.26667,
+        "lon":-14.18333,
+        "pop":1760
+    },
+    {
+        "id":2411765,
+        "name":"Toniataba",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.43333,
+        "lon":-15.58333,
+        "pop":1755
+    },
+    {
+        "id":2413070,
+        "name":"Karantaba",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.66667,
+        "lon":-15.03333,
+        "pop":1753
+    },
+    {
+        "id":2412408,
+        "name":"Nioro",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.35,
+        "lon":-15.75,
+        "pop":1746
+    },
+    {
+        "id":2413041,
+        "name":"Katchang",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.5,
+        "lon":-15.75,
+        "pop":1741
+    },
+    {
+        "id":2413588,
+        "name":"Denton",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.5,
+        "lon":-14.93333,
+        "pop":1712
+    },
+    {
+        "id":2413645,
+        "name":"Dankunku",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.56667,
+        "lon":-15.31667,
+        "pop":1641
+    },
+    {
+        "id":2413417,
+        "name":"Gunjur Kuta",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.53333,
+        "lon":-14.11667,
+        "pop":1566
+    },
+    {
+        "id":2411862,
+        "name":"Sutukung",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.46667,
+        "lon":-15.26667,
+        "pop":1506
+    },
+    {
+        "id":2411885,
+        "name":"Sudowol",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.36667,
+        "lon":-13.96667,
+        "pop":1502
+    },
+    {
+        "id":2411692,
+        "name":"Wellingara Ba",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.41667,
+        "lon":-15.4,
+        "pop":1476
+    },
+    {
+        "id":2413703,
+        "name":"Bureng",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.41667,
+        "lon":-15.28333,
+        "pop":1472
+    },
+    {
+        "id":2411703,
+        "name":"Wassu",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.69094,
+        "lon":-14.87884,
+        "pop":1380
+    },
+    {
+        "id":2413073,
+        "name":"Karantaba",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.43333,
+        "lon":-15.51667,
+        "pop":1372
+    },
+    {
+        "id":2411877,
+        "name":"Sukuta",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.61667,
+        "lon":-14.91667,
+        "pop":1364
+    },
+    {
+        "id":2411970,
+        "name":"Si Kunda",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.43333,
+        "lon":-15.56667,
+        "pop":1344
+    },
+    {
+        "id":2413418,
+        "name":"Gunjur",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.52278,
+        "lon":-16.02778,
+        "pop":1327
+    },
+    {
+        "id":2412135,
+        "name":"Sara Kunda",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.53333,
+        "lon":-15.41667,
+        "pop":1316
+    },
+    {
+        "id":2411866,
+        "name":"Sun Kunda",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.38333,
+        "lon":-13.85,
+        "pop":1306
+    },
+    {
+        "id":2413653,
+        "name":"Daba Kunda",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.31667,
+        "lon":-14.3,
+        "pop":1302
+    },
+    {
+        "id":2413755,
+        "name":"Brifu",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.5,
+        "lon":-13.93333,
+        "pop":1292
+    },
+    {
+        "id":2413895,
+        "name":"Bambali",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.48333,
+        "lon":-15.33333,
+        "pop":1255
+    },
+    {
+        "id":2413246,
+        "name":"Jenoi",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.48333,
+        "lon":-15.56667,
+        "pop":1254
+    },
+    {
+        "id":2413660,
+        "name":"Chilla",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.55,
+        "lon":-16.28333,
+        "pop":1249
+    },
+    {
+        "id":2412775,
+        "name":"Kunting",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.53333,
+        "lon":-14.66667,
+        "pop":1204
+    },
+    {
+        "id":2413579,
+        "name":"Diabugu Basilla",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.33333,
+        "lon":-13.95,
+        "pop":1199
+    },
+    {
+        "id":2412279,
+        "name":"Pateh Sam",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.61667,
+        "lon":-15.06667,
+        "pop":1164
+    },
+    {
+        "id":2413052,
+        "name":"Kass Wollof",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.78333,
+        "lon":-14.93333,
+        "pop":1109
+    },
+    {
+        "id":2413746,
+        "name":"Brikama Nding",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.53333,
+        "lon":-14.93333,
+        "pop":1092
+    },
+    {
+        "id":2413623,
+        "name":"Daru Rilwan",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.55,
+        "lon":-15.98333,
+        "pop":1045
+    },
+    {
+        "id":2413235,
+        "name":"Jifarong",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.3,
+        "lon":-15.86667,
+        "pop":1038
+    },
+    {
+        "id":2412272,
+        "name":"Perai",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.38333,
+        "lon":-14.03333,
+        "pop":1026
+    },
+    {
+        "id":2413344,
+        "name":"Jali",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.35,
+        "lon":-15.96667,
+        "pop":1024
+    },
+    {
+        "id":2413839,
+        "name":"Banto Nding",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.46667,
+        "lon":-14.08333,
+        "pop":999
+    },
+    {
+        "id":2411915,
+        "name":"Sintet",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.23333,
+        "lon":-15.81667,
+        "pop":979
+    },
+    {
+        "id":2412142,
+        "name":"Sanunding",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.28333,
+        "lon":-14.11667,
+        "pop":945
+    },
+    {
+        "id":2412593,
+        "name":"Massembe",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.41667,
+        "lon":-15.63333,
+        "pop":938
+    },
+    {
+        "id":2411798,
+        "name":"Tankular",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.41778,
+        "lon":-16.03694,
+        "pop":913
+    },
+    {
+        "id":2413935,
+        "name":"Bajana",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.31667,
+        "lon":-15.88333,
+        "pop":907
+    },
+    {
+        "id":2412217,
+        "name":"Sambang",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.53333,
+        "lon":-15.33333,
+        "pop":899
+    },
+    {
+        "id":2413368,
+        "name":"Jakaba",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.65,
+        "lon":-14.88333,
+        "pop":837
+    },
+    {
+        "id":2413498,
+        "name":"Fass",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.8,
+        "lon":-15.06667,
+        "pop":826
+    },
+    {
+        "id":2413544,
+        "name":"Dumbutu",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.35,
+        "lon":-15.83333,
+        "pop":825
+    },
+    {
+        "id":2413810,
+        "name":"Bati Ndar",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.7,
+        "lon":-15.2,
+        "pop":822
+    },
+    {
+        "id":2412664,
+        "name":"Madina Tunjang",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.43333,
+        "lon":-14.75,
+        "pop":797
+    },
+    {
+        "id":2413282,
+        "name":"Janneh Kunda",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.38028,
+        "lon":-16.13833,
+        "pop":795
+    },
+    {
+        "id":2413861,
+        "name":"Bantang Killing",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.58333,
+        "lon":-15.7,
+        "pop":792
+    },
+    {
+        "id":2413264,
+        "name":"Jarrol",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.24412,
+        "lon":-15.84546,
+        "pop":788
+    },
+    {
+        "id":2411876,
+        "name":"Sulolor",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.45,
+        "lon":-14.66667,
+        "pop":787
+    },
+    {
+        "id":2411816,
+        "name":"Tambana",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.50528,
+        "lon":-16.17444,
+        "pop":773
+    },
+    {
+        "id":2413716,
+        "name":"Buniadu",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.55,
+        "lon":-15.33333,
+        "pop":766
+    },
+    {
+        "id":2412688,
+        "name":"Madina",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.7,
+        "lon":-14.88333,
+        "pop":765
+    },
+    {
+        "id":2412547,
+        "name":"Medina Kanuma",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.49278,
+        "lon":-16.52333,
+        "pop":764
+    },
+    {
+        "id":2413260,
+        "name":"Jassong",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.4,
+        "lon":-15.31667,
+        "pop":742
+    },
+    {
+        "id":2413232,
+        "name":"Jiffin",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.41667,
+        "lon":-15.58333,
+        "pop":729
+    },
+    {
+        "id":2413561,
+        "name":"Dobbo",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.46667,
+        "lon":-14.63333,
+        "pop":723
+    },
+    {
+        "id":2412600,
+        "name":"Mara Magai",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.51667,
+        "lon":-14.91667,
+        "pop":709
+    },
+    {
+        "id":2413573,
+        "name":"Diganteh",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.36667,
+        "lon":-15.43333,
+        "pop":701
+    },
+    {
+        "id":2413684,
+        "name":"Cha Kunda",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.38333,
+        "lon":-14.53333,
+        "pop":700
+    },
+    {
+        "id":2411730,
+        "name":"Tuba-Wuli",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.43333,
+        "lon":-14.25,
+        "pop":697
+    },
+    {
+        "id":2411977,
+        "name":"Sibito",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.38333,
+        "lon":-15.73333,
+        "pop":680
+    },
+    {
+        "id":2411746,
+        "name":"Tuba Koto",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.63333,
+        "lon":-14.9,
+        "pop":667
+    },
+    {
+        "id":2411707,
+        "name":"Walliba Kunda",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.36667,
+        "lon":-14.01667,
+        "pop":646
+    },
+    {
+        "id":2413552,
+        "name":"Dongoro Ba",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.38333,
+        "lon":-15.28333,
+        "pop":629
+    },
+    {
+        "id":2412804,
+        "name":"Kumbijae",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.53333,
+        "lon":-15.43333,
+        "pop":623
+    },
+    {
+        "id":2413221,
+        "name":"Jiroff",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.41667,
+        "lon":-15.7,
+        "pop":613
+    },
+    {
+        "id":2413243,
+        "name":"Jeriko",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.58333,
+        "lon":-15.66667,
+        "pop":603
+    },
+    {
+        "id":2413956,
+        "name":"Badari",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.33333,
+        "lon":-14.1,
+        "pop":600
+    },
+    {
+        "id":2412877,
+        "name":"Kinteh Kunda",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.50722,
+        "lon":-16.06722,
+        "pop":592
+    },
+    {
+        "id":2412692,
+        "name":"Madina",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.5,
+        "lon":-15.25,
+        "pop":589
+    },
+    {
+        "id":2412996,
+        "name":"Kerewan",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.36667,
+        "lon":-14.21667,
+        "pop":585
+    },
+    {
+        "id":2411754,
+        "name":"Tuba",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.46667,
+        "lon":-14.68333,
+        "pop":582
+    },
+    {
+        "id":2412163,
+        "name":"Sankandi",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.3,
+        "lon":-15.83333,
+        "pop":581
+    },
+    {
+        "id":2413042,
+        "name":"Katamina",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.55,
+        "lon":-15.28333,
+        "pop":573
+    },
+    {
+        "id":2412814,
+        "name":"Kuli Kunda",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.33333,
+        "lon":-15.91667,
+        "pop":556
+    },
+    {
+        "id":2411878,
+        "name":"Sukuta",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.53333,
+        "lon":-15.2,
+        "pop":552
+    },
+    {
+        "id":2413386,
+        "name":"Jababa",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.36667,
+        "lon":-14.36667,
+        "pop":549
+    },
+    {
+        "id":2413560,
+        "name":"Dobo",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.55,
+        "lon":-15.96667,
+        "pop":535
+    },
+    {
+        "id":2411668,
+        "name":"Wurokang",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.38333,
+        "lon":-15.81667,
+        "pop":532
+    },
+    {
+        "id":2413391,
+        "name":"India",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.56667,
+        "lon":-15.75,
+        "pop":529
+    },
+    {
+        "id":2412589,
+        "name":"Mayork",
+        "country":"GM",
+        "admin1":"Western",
+        "admin2":"",
+        "lat":13.23333,
+        "lon":-15.96667,
+        "pop":528
+    },
+    {
+        "id":2413881,
+        "name":"Bani",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.55,
+        "lon":-14.73333,
+        "pop":524
+    },
+    {
+        "id":2413427,
+        "name":"Giroba Kunda",
+        "country":"GM",
+        "admin1":"Upper River",
+        "admin2":"",
+        "lat":13.3,
+        "lon":-14.2,
+        "pop":513
+    },
+    {
+        "id":2413570,
+        "name":"Dingirie",
+        "country":"GM",
+        "admin1":"Central River",
+        "admin2":"",
+        "lat":13.76667,
+        "lon":-14.91667,
+        "pop":512
+    },
+    {
+        "id":2411667,
+        "name":"Yallal",
+        "country":"GM",
+        "admin1":"North Bank",
+        "admin2":"",
+        "lat":13.55,
+        "lon":-15.7,
+        "pop":512
+    },
+    {
+        "id":2413734,
+        "name":"Buiba Mandinka",
+        "country":"GM",
+        "admin1":"Lower River",
+        "admin2":"",
+        "lat":13.43333,
+        "lon":-15.45,
+        "pop":503
+    }
+]

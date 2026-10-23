@@ -1,0 +1,392 @@
+[
+    {
+        "id":2088122,
+        "name":"Port Moresby",
+        "country":"PG",
+        "admin1":"National Capital",
+        "admin2":"",
+        "lat":-9.47723,
+        "lon":147.15089,
+        "pop":283733
+    },
+    {
+        "id":2092740,
+        "name":"Lae",
+        "country":"PG",
+        "admin1":"Morobe Province",
+        "admin2":"",
+        "lat":-6.72333,
+        "lon":146.99611,
+        "pop":76255
+    },
+    {
+        "id":2100633,
+        "name":"Arawa",
+        "country":"PG",
+        "admin1":"Bougainville",
+        "admin2":"",
+        "lat":-6.22977,
+        "lon":155.56598,
+        "pop":40266
+    },
+    {
+        "id":2090409,
+        "name":"Mount Hagen",
+        "country":"PG",
+        "admin1":"Western Highlands Province",
+        "admin2":"Hagen",
+        "lat":-5.85746,
+        "lon":144.23058,
+        "pop":33623
+    },
+    {
+        "id":2088163,
+        "name":"Popondetta",
+        "country":"PG",
+        "admin1":"Oro Province",
+        "admin2":"Sohe",
+        "lat":-8.76536,
+        "lon":148.23252,
+        "pop":28198
+    },
+    {
+        "id":2091996,
+        "name":"Madang",
+        "country":"PG",
+        "admin1":"Madang Province",
+        "admin2":"",
+        "lat":-5.22152,
+        "lon":145.78695,
+        "pop":27419
+    },
+    {
+        "id":2093685,
+        "name":"Kokopo",
+        "country":"PG",
+        "admin1":"East New Britain Province",
+        "admin2":"",
+        "lat":-4.3432,
+        "lon":152.26867,
+        "pop":26273
+    },
+    {
+        "id":2090990,
+        "name":"Mendi",
+        "country":"PG",
+        "admin1":"Southern Highlands Province",
+        "admin2":"",
+        "lat":-6.14755,
+        "lon":143.65633,
+        "pop":26252
+    },
+    {
+        "id":2093967,
+        "name":"Kimbe",
+        "country":"PG",
+        "admin1":"West New Britain Province",
+        "admin2":"",
+        "lat":-5.55085,
+        "lon":150.13766,
+        "pop":18847
+    },
+    {
+        "id":2096742,
+        "name":"Goroka",
+        "country":"PG",
+        "admin1":"Eastern Highlands Province",
+        "admin2":"",
+        "lat":-6.085,
+        "lon":145.38667,
+        "pop":18503
+    },
+    {
+        "id":2083537,
+        "name":"Wewak",
+        "country":"PG",
+        "admin1":"East Sepik Province",
+        "admin2":"Wewak",
+        "lat":-3.54964,
+        "lon":143.63229,
+        "pop":18230
+    },
+    {
+        "id":2098869,
+        "name":"Bulolo",
+        "country":"PG",
+        "admin1":"Morobe Province",
+        "admin2":"Bulolo",
+        "lat":-7.2036,
+        "lon":146.64014,
+        "pop":16042
+    },
+    {
+        "id":2098329,
+        "name":"Daru",
+        "country":"PG",
+        "admin1":"Western Province",
+        "admin2":"",
+        "lat":-9.07786,
+        "lon":143.20893,
+        "pop":15214
+    },
+    {
+        "id":2083653,
+        "name":"Wau",
+        "country":"PG",
+        "admin1":"Morobe Province",
+        "admin2":"Bulolo",
+        "lat":-7.342,
+        "lon":146.724,
+        "pop":14629
+    },
+    {
+        "id":2094342,
+        "name":"Kavieng",
+        "country":"PG",
+        "admin1":"New Ireland",
+        "admin2":"Kavieng",
+        "lat":-2.57337,
+        "lon":150.79516,
+        "pop":14490
+    },
+    {
+        "id":2093846,
+        "name":"Kiunga",
+        "country":"PG",
+        "admin1":"Western Province",
+        "admin2":"",
+        "lat":-6.12193,
+        "lon":141.29061,
+        "pop":11536
+    },
+    {
+        "id":2084442,
+        "name":"Vanimo",
+        "country":"PG",
+        "admin1":"Sandaun Province",
+        "admin2":"",
+        "lat":-2.68372,
+        "lon":141.30195,
+        "pop":11204
+    },
+    {
+        "id":2133990,
+        "name":"Alotau",
+        "country":"PG",
+        "admin1":"Milne Bay Province",
+        "admin2":"",
+        "lat":-10.31509,
+        "lon":150.45742,
+        "pop":10025
+    },
+    {
+        "id":2093059,
+        "name":"Kundiawa",
+        "country":"PG",
+        "admin1":"Chimbu Province",
+        "admin2":"",
+        "lat":-6.01972,
+        "lon":144.96917,
+        "pop":9383
+    },
+    {
+        "id":2095038,
+        "name":"Kainantu",
+        "country":"PG",
+        "admin1":"Eastern Highlands Province",
+        "admin2":"",
+        "lat":-6.28872,
+        "lon":145.86548,
+        "pop":8509
+    },
+    {
+        "id":2085772,
+        "name":"Tari",
+        "country":"PG",
+        "admin1":"Hela Province",
+        "admin2":"",
+        "lat":-5.845,
+        "lon":142.94667,
+        "pop":8186
+    },
+    {
+        "id":2087894,
+        "name":"Rabaul",
+        "country":"PG",
+        "admin1":"East New Britain Province",
+        "admin2":"Rabaul",
+        "lat":-4.20037,
+        "lon":152.16297,
+        "pop":8074
+    },
+    {
+        "id":2095925,
+        "name":"Ialibu",
+        "country":"PG",
+        "admin1":"Southern Highlands Province",
+        "admin2":"",
+        "lat":-6.28208,
+        "lon":143.99354,
+        "pop":6915
+    },
+    {
+        "id":2093691,
+        "name":"Kokoda",
+        "country":"PG",
+        "admin1":"Oro Province",
+        "admin2":"Sohe",
+        "lat":-8.87778,
+        "lon":147.73642,
+        "pop":6199
+    },
+    {
+        "id":2092164,
+        "name":"Lorengau",
+        "country":"PG",
+        "admin1":"Manus Province",
+        "admin2":"",
+        "lat":-2.0341,
+        "lon":147.27173,
+        "pop":5806
+    },
+    {
+        "id":2094144,
+        "name":"Kerema",
+        "country":"PG",
+        "admin1":"Gulf Province",
+        "admin2":"",
+        "lat":-7.96028,
+        "lon":145.77278,
+        "pop":5646
+    },
+    {
+        "id":2101169,
+        "name":"Aitape",
+        "country":"PG",
+        "admin1":"Sandaun Province",
+        "admin2":"",
+        "lat":-3.13697,
+        "lon":142.34913,
+        "pop":5547
+    },
+    {
+        "id":2084246,
+        "name":"Wabag",
+        "country":"PG",
+        "admin1":"Enga Province",
+        "admin2":"",
+        "lat":-5.49119,
+        "lon":143.72151,
+        "pop":3958
+    },
+    {
+        "id":2094027,
+        "name":"Kieta",
+        "country":"PG",
+        "admin1":"Bougainville",
+        "admin2":"",
+        "lat":-6.21462,
+        "lon":155.63251,
+        "pop":3611
+    },
+    {
+        "id":2088659,
+        "name":"Panguna",
+        "country":"PG",
+        "admin1":"Bougainville",
+        "admin2":"",
+        "lat":-6.31639,
+        "lon":155.48483,
+        "pop":2916
+    },
+    {
+        "id":2090495,
+        "name":"Morehead",
+        "country":"PG",
+        "admin1":"Western Province",
+        "admin2":"",
+        "lat":-8.71065,
+        "lon":141.63668,
+        "pop":2246
+    },
+    {
+        "id":2100933,
+        "name":"Ambunti",
+        "country":"PG",
+        "admin1":"East Sepik Province",
+        "admin2":"",
+        "lat":-4.21717,
+        "lon":142.81832,
+        "pop":2073
+    },
+    {
+        "id":2132606,
+        "name":"Samarai",
+        "country":"PG",
+        "admin1":"Milne Bay Province",
+        "admin2":"",
+        "lat":-10.61038,
+        "lon":150.66207,
+        "pop":1638
+    },
+    {
+        "id":2088143,
+        "name":"Porgera",
+        "country":"PG",
+        "admin1":"Enga Province",
+        "admin2":"",
+        "lat":-5.463,
+        "lon":143.148,
+        "pop":1578
+    },
+    {
+        "id":2097418,
+        "name":"Finschhafen",
+        "country":"PG",
+        "admin1":"Morobe Province",
+        "admin2":"",
+        "lat":-6.604,
+        "lon":147.848,
+        "pop":1054
+    },
+    {
+        "id":2094746,
+        "name":"Kandrian",
+        "country":"PG",
+        "admin1":"West New Britain Province",
+        "admin2":"",
+        "lat":-6.20655,
+        "lon":149.54744,
+        "pop":1014
+    },
+    {
+        "id":2089137,
+        "name":"Olsobip",
+        "country":"PG",
+        "admin1":"Western Province",
+        "admin2":"",
+        "lat":-5.38729,
+        "lon":141.51666,
+        "pop":1000
+    },
+    {
+        "id":2092705,
+        "name":"Laiagam",
+        "country":"PG",
+        "admin1":"Enga Province",
+        "admin2":"",
+        "lat":-5.33105,
+        "lon":143.79052,
+        "pop":921
+    },
+    {
+        "id":2098923,
+        "name":"Buin",
+        "country":"PG",
+        "admin1":"Bougainville",
+        "admin2":"South Bougainville",
+        "lat":-6.74864,
+        "lon":155.69147,
+        "pop":750
+    }
+]

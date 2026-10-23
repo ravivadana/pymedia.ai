@@ -1,0 +1,152 @@
+[
+    {
+        "id":3383330,
+        "name":"Paramaribo",
+        "country":"SR",
+        "admin1":"Paramaribo District",
+        "admin2":"",
+        "lat":5.86638,
+        "lon":-55.16682,
+        "pop":223757
+    },
+    {
+        "id":3383714,
+        "name":"Lelydorp",
+        "country":"SR",
+        "admin1":"Wanica District",
+        "admin2":"",
+        "lat":5.7,
+        "lon":-55.23333,
+        "pop":18223
+    },
+    {
+        "id":3384482,
+        "name":"Brokopondo",
+        "country":"SR",
+        "admin1":"Brokopondo District",
+        "admin2":"",
+        "lat":5.05594,
+        "lon":-54.98043,
+        "pop":14662
+    },
+    {
+        "id":3383427,
+        "name":"Nieuw Nickerie",
+        "country":"SR",
+        "admin1":"Nickerie District",
+        "admin2":"",
+        "lat":5.92606,
+        "lon":-56.97297,
+        "pop":13143
+    },
+    {
+        "id":3383527,
+        "name":"Meerzorg",
+        "country":"SR",
+        "admin1":"Commewijne District",
+        "admin2":"",
+        "lat":5.80789,
+        "lon":-55.1408,
+        "pop":12405
+    },
+    {
+        "id":3383494,
+        "name":"Moengo",
+        "country":"SR",
+        "admin1":"Marowijne District",
+        "admin2":"",
+        "lat":5.61411,
+        "lon":-54.40121,
+        "pop":7074
+    },
+    {
+        "id":3383434,
+        "name":"Nieuw Amsterdam",
+        "country":"SR",
+        "admin1":"Commewijne District",
+        "admin2":"",
+        "lat":5.88573,
+        "lon":-55.08871,
+        "pop":4935
+    },
+    {
+        "id":3383570,
+        "name":"Mariënburg",
+        "country":"SR",
+        "admin1":"Commewijne District",
+        "admin2":"",
+        "lat":5.87722,
+        "lon":-55.04322,
+        "pop":4427
+    },
+    {
+        "id":3382783,
+        "name":"Wageningen",
+        "country":"SR",
+        "admin1":"Nickerie District",
+        "admin2":"",
+        "lat":5.7601,
+        "lon":-56.66523,
+        "pop":4145
+    },
+    {
+        "id":3384792,
+        "name":"Albina",
+        "country":"SR",
+        "admin1":"Marowijne District",
+        "admin2":"Albina",
+        "lat":5.49788,
+        "lon":-54.05522,
+        "pop":3985
+    },
+    {
+        "id":3384125,
+        "name":"Groningen",
+        "country":"SR",
+        "admin1":"Saramacca District",
+        "admin2":"",
+        "lat":5.8,
+        "lon":-55.46667,
+        "pop":3216
+    },
+    {
+        "id":3384475,
+        "name":"Brownsweg",
+        "country":"SR",
+        "admin1":"Brokopondo District",
+        "admin2":"",
+        "lat":5.00435,
+        "lon":-55.15333,
+        "pop":2696
+    },
+    {
+        "id":3383384,
+        "name":"Onverwacht",
+        "country":"SR",
+        "admin1":"Para District",
+        "admin2":"",
+        "lat":5.58983,
+        "lon":-55.19462,
+        "pop":2105
+    },
+    {
+        "id":3382867,
+        "name":"Totness",
+        "country":"SR",
+        "admin1":"Coronie District",
+        "admin2":"",
+        "lat":5.87618,
+        "lon":-56.32572,
+        "pop":1685
+    },
+    {
+        "id":6692148,
+        "name":"Benzdorp (Monte Hermon)",
+        "country":"SR",
+        "admin1":"Sipaliwini District",
+        "admin2":"",
+        "lat":3.67207,
+        "lon":-54.10355,
+        "pop":600
+    }
+]

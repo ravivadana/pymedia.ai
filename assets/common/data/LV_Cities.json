@@ -1,0 +1,1212 @@
+[
+    {
+        "id":456172,
+        "name":"Riga",
+        "country":"LV",
+        "admin1":"Riga",
+        "admin2":"Rīga",
+        "lat":56.946,
+        "lon":24.10589,
+        "pop":742572
+    },
+    {
+        "id":460413,
+        "name":"Daugavpils",
+        "country":"LV",
+        "admin1":"Daugavpils",
+        "admin2":"",
+        "lat":55.88333,
+        "lon":26.53333,
+        "pop":78126
+    },
+    {
+        "id":457954,
+        "name":"Liepāja",
+        "country":"LV",
+        "admin1":"Liepāja",
+        "admin2":"Liepāja",
+        "lat":56.50474,
+        "lon":21.01085,
+        "pop":67421
+    },
+    {
+        "id":459279,
+        "name":"Jelgava",
+        "country":"LV",
+        "admin1":"Jelgava",
+        "admin2":"Jelgava",
+        "lat":56.65,
+        "lon":23.71278,
+        "pop":54834
+    },
+    {
+        "id":459201,
+        "name":"Jūrmala",
+        "country":"LV",
+        "admin1":"Jūrmala",
+        "admin2":"Jūrmala",
+        "lat":56.968,
+        "lon":23.77038,
+        "pop":52001
+    },
+    {
+        "id":454310,
+        "name":"Ventspils",
+        "country":"LV",
+        "admin1":"Ventspils",
+        "admin2":"Ventspils",
+        "lat":57.39485,
+        "lon":21.56121,
+        "pop":32723
+    },
+    {
+        "id":456202,
+        "name":"Rēzekne",
+        "country":"LV",
+        "admin1":"Rēzekne",
+        "admin2":"Rēzekne",
+        "lat":56.51028,
+        "lon":27.34,
+        "pop":26429
+    },
+    {
+        "id":453754,
+        "name":"Valmiera",
+        "country":"LV",
+        "admin1":"Valmiera",
+        "admin2":"Valmiera",
+        "lat":57.54108,
+        "lon":25.42751,
+        "pop":22812
+    },
+    {
+        "id":457065,
+        "name":"Ogre",
+        "country":"LV",
+        "admin1":"Ogre",
+        "admin2":"Ogre",
+        "lat":56.8162,
+        "lon":24.61401,
+        "pop":22767
+    },
+    {
+        "id":459283,
+        "name":"Jēkabpils",
+        "country":"LV",
+        "admin1":"Jēkabpils Municipality",
+        "admin2":"",
+        "lat":56.49903,
+        "lon":25.85735,
+        "pop":21014
+    },
+    {
+        "id":864723,
+        "name":"Mārupe",
+        "country":"LV",
+        "admin1":"Mārupe",
+        "admin2":"Mārupes novads",
+        "lat":56.90544,
+        "lon":24.05113,
+        "pop":19096
+    },
+    {
+        "id":455898,
+        "name":"Salaspils",
+        "country":"LV",
+        "admin1":"Salaspils Municipality",
+        "admin2":"Salaspils",
+        "lat":56.86014,
+        "lon":24.36544,
+        "pop":17826
+    },
+    {
+        "id":454768,
+        "name":"Tukums",
+        "country":"LV",
+        "admin1":"Tukums Municipality",
+        "admin2":"Tukums",
+        "lat":56.96764,
+        "lon":23.15554,
+        "pop":16182
+    },
+    {
+        "id":460570,
+        "name":"Cēsis",
+        "country":"LV",
+        "admin1":"Cēsis Municipality",
+        "admin2":"Cēsis",
+        "lat":57.31188,
+        "lon":25.27456,
+        "pop":15020
+    },
+    {
+        "id":455718,
+        "name":"Sigulda",
+        "country":"LV",
+        "admin1":"Sigulda Municipality",
+        "admin2":"Sigulda",
+        "lat":57.15375,
+        "lon":24.85953,
+        "pop":14757
+    },
+    {
+        "id":458460,
+        "name":"Kuldīga",
+        "country":"LV",
+        "admin1":"Kuldīga Municipality",
+        "admin2":"Kuldīga",
+        "lat":56.97399,
+        "lon":21.95721,
+        "pop":9863
+    },
+    {
+        "id":461114,
+        "name":"Bauska",
+        "country":"LV",
+        "admin1":"Bauska Municipality",
+        "admin2":"Bauska",
+        "lat":56.4071,
+        "lon":24.18733,
+        "pop":9709
+    },
+    {
+        "id":457052,
+        "name":"Olaine",
+        "country":"LV",
+        "admin1":"Olaine",
+        "admin2":"Olaine",
+        "lat":56.79583,
+        "lon":23.93726,
+        "pop":9654
+    },
+    {
+        "id":456530,
+        "name":"Preiļi",
+        "country":"LV",
+        "admin1":"Preiļu novads",
+        "admin2":"Preiļi",
+        "lat":56.29444,
+        "lon":26.72459,
+        "pop":9553
+    },
+    {
+        "id":455890,
+        "name":"Saldus",
+        "country":"LV",
+        "admin1":"Saldus Rajons",
+        "admin2":"Saldus",
+        "lat":56.66363,
+        "lon":22.48807,
+        "pop":9553
+    },
+    {
+        "id":454970,
+        "name":"Talsi",
+        "country":"LV",
+        "admin1":"Talsi Municipality",
+        "admin2":"Talsi",
+        "lat":57.24562,
+        "lon":22.58137,
+        "pop":8673
+    },
+    {
+        "id":460312,
+        "name":"Dobele",
+        "country":"LV",
+        "admin1":"Dobele Municipality",
+        "admin2":"Dobele",
+        "lat":56.62372,
+        "lon":23.2751,
+        "pop":8536
+    },
+    {
+        "id":461602,
+        "name":"Aizpute",
+        "country":"LV",
+        "admin1":"South Kurzeme Municipality",
+        "admin2":"Aizpute",
+        "lat":56.72108,
+        "lon":21.60156,
+        "pop":8083
+    },
+    {
+        "id":459598,
+        "name":"Ikšķile",
+        "country":"LV",
+        "admin1":"Ogre",
+        "admin2":"Ikšķile",
+        "lat":56.83399,
+        "lon":24.49679,
+        "pop":7448
+    },
+    {
+        "id":457776,
+        "name":"Ludza",
+        "country":"LV",
+        "admin1":"Ludza Municipality",
+        "admin2":"Ludza",
+        "lat":56.53373,
+        "lon":27.72155,
+        "pop":7332
+    },
+    {
+        "id":458623,
+        "name":"Krāslava",
+        "country":"LV",
+        "admin1":"Krāslava Municipality",
+        "admin2":"Krāslava",
+        "lat":55.89514,
+        "lon":27.16799,
+        "pop":6797
+    },
+    {
+        "id":457860,
+        "name":"Līvāni",
+        "country":"LV",
+        "admin1":"Līvāni",
+        "admin2":"Līvāni",
+        "lat":56.35431,
+        "lon":26.17579,
+        "pop":6790
+    },
+    {
+        "id":864721,
+        "name":"Baloži",
+        "country":"LV",
+        "admin1":"Ķekava",
+        "admin2":"Baloži",
+        "lat":56.87643,
+        "lon":24.11825,
+        "pop":6780
+    },
+    {
+        "id":461650,
+        "name":"Ādaži",
+        "country":"LV",
+        "admin1":"Ādaži",
+        "admin2":"Ādažu novads",
+        "lat":57.0708,
+        "lon":24.33678,
+        "pop":6734
+    },
+    {
+        "id":459668,
+        "name":"Gulbene",
+        "country":"LV",
+        "admin1":"Gulbene Municipality",
+        "admin2":"Gulbene",
+        "lat":57.17767,
+        "lon":26.75291,
+        "pop":6722
+    },
+    {
+        "id":461615,
+        "name":"Aizkraukle",
+        "country":"LV",
+        "admin1":"Aizkraukle Municipality",
+        "admin2":"Aizkraukle",
+        "lat":56.60477,
+        "lon":25.25534,
+        "pop":6689
+    },
+    {
+        "id":458511,
+        "name":"Krustpils",
+        "country":"LV",
+        "admin1":"Jēkabpils Municipality",
+        "admin2":"",
+        "lat":56.51068,
+        "lon":25.86117,
+        "pop":6680
+    },
+    {
+        "id":457714,
+        "name":"Madona",
+        "country":"LV",
+        "admin1":"Madona Municipality",
+        "admin2":"Madona",
+        "lat":56.85329,
+        "lon":26.21698,
+        "pop":6575
+    },
+    {
+        "id":457890,
+        "name":"Limbaži",
+        "country":"LV",
+        "admin1":"Limbaži Municipality",
+        "admin2":"Limbaži",
+        "lat":57.51287,
+        "lon":24.71941,
+        "pop":6517
+    },
+    {
+        "id":461528,
+        "name":"Alūksne",
+        "country":"LV",
+        "admin1":"Alūksne Municipality",
+        "admin2":"Alūksne",
+        "lat":57.4215,
+        "lon":27.04672,
+        "pop":6188
+    },
+    {
+        "id":454714,
+        "name":"Ulbroka",
+        "country":"LV",
+        "admin1":"Ropaži Municipality",
+        "admin2":"Stopiņu pagasts",
+        "lat":56.9363,
+        "lon":24.30387,
+        "pop":5893
+    },
+    {
+        "id":457965,
+        "name":"Lielvārde",
+        "country":"LV",
+        "admin1":"Ogre",
+        "admin2":"Lielvārde",
+        "lat":56.72066,
+        "lon":24.80743,
+        "pop":5873
+    },
+    {
+        "id":461163,
+        "name":"Balvi",
+        "country":"LV",
+        "admin1":"Balvi Municipality",
+        "admin2":"Balvi",
+        "lat":57.1313,
+        "lon":27.26583,
+        "pop":5652
+    },
+    {
+        "id":458880,
+        "name":"Ķekava",
+        "country":"LV",
+        "admin1":"Ķekava",
+        "admin2":"Ķekavas pagasts",
+        "lat":56.82662,
+        "lon":24.23,
+        "pop":5446
+    },
+    {
+        "id":458972,
+        "name":"Kārsava",
+        "country":"LV",
+        "admin1":"Ludza Municipality",
+        "admin2":"Kārsava",
+        "lat":56.78405,
+        "lon":27.68829,
+        "pop":5127
+    },
+    {
+        "id":455406,
+        "name":"Smiltene",
+        "country":"LV",
+        "admin1":"Smiltene Municipality",
+        "admin2":"Smiltene",
+        "lat":57.42444,
+        "lon":25.90164,
+        "pop":5073
+    },
+    {
+        "id":454572,
+        "name":"Valka",
+        "country":"LV",
+        "admin1":"Valka",
+        "admin2":"Valka",
+        "lat":57.7752,
+        "lon":26.01013,
+        "pop":4615
+    },
+    {
+        "id":461539,
+        "name":"Aloja",
+        "country":"LV",
+        "admin1":"Limbaži Municipality",
+        "admin2":"Aloja",
+        "lat":57.76723,
+        "lon":24.87743,
+        "pop":4520
+    },
+    {
+        "id":459624,
+        "name":"Iecava",
+        "country":"LV",
+        "admin1":"Bauska Municipality",
+        "admin2":"Iecavas novads",
+        "lat":56.59766,
+        "lon":24.20763,
+        "pop":4000
+    },
+    {
+        "id":459692,
+        "name":"Grobiņa",
+        "country":"LV",
+        "admin1":"South Kurzeme Municipality",
+        "admin2":"Grobiņa",
+        "lat":56.53521,
+        "lon":21.16782,
+        "pop":3674
+    },
+    {
+        "id":461224,
+        "name":"Baldone",
+        "country":"LV",
+        "admin1":"Ķekava",
+        "admin2":"Baldone",
+        "lat":56.74451,
+        "lon":24.40078,
+        "pop":3664
+    },
+    {
+        "id":456954,
+        "name":"Ozolnieki",
+        "country":"LV",
+        "admin1":"Jelgava Municipality",
+        "admin2":"Ozolnieku pagasts",
+        "lat":56.68986,
+        "lon":23.7761,
+        "pop":3400
+    },
+    {
+        "id":454910,
+        "name":"Tērvete",
+        "country":"LV",
+        "admin1":"Dobele Municipality",
+        "admin2":"Tērvetes pagasts",
+        "lat":56.47989,
+        "lon":23.38895,
+        "pop":3273
+    },
+    {
+        "id":459031,
+        "name":"Kandava",
+        "country":"LV",
+        "admin1":"Tukums Municipality",
+        "admin2":"Kandava",
+        "lat":57.04087,
+        "lon":22.77466,
+        "pop":3232
+    },
+    {
+        "id":454537,
+        "name":"Vangaži",
+        "country":"LV",
+        "admin1":"Ropaži Municipality",
+        "admin2":"Vangaži",
+        "lat":57.09358,
+        "lon":24.54468,
+        "pop":3192
+    },
+    {
+        "id":455812,
+        "name":"Saulkrasti",
+        "country":"LV",
+        "admin1":"Saulkrasti Municipality",
+        "admin2":"Saulkrasti",
+        "lat":57.26224,
+        "lon":24.41471,
+        "pop":3124
+    },
+    {
+        "id":457142,
+        "name":"Nīca",
+        "country":"LV",
+        "admin1":"South Kurzeme Municipality",
+        "admin2":"Nīcas pagasts",
+        "lat":56.34601,
+        "lon":21.06401,
+        "pop":3113
+    },
+    {
+        "id":456685,
+        "name":"Piņķi",
+        "country":"LV",
+        "admin1":"Mārupe",
+        "admin2":"Babītes pagasts",
+        "lat":56.94189,
+        "lon":23.91365,
+        "pop":3033
+    },
+    {
+        "id":461064,
+        "name":"Berģi",
+        "country":"LV",
+        "admin1":"Riga",
+        "admin2":"Rīga",
+        "lat":56.98639,
+        "lon":24.29917,
+        "pop":2950
+    },
+    {
+        "id":458687,
+        "name":"Koknese",
+        "country":"LV",
+        "admin1":"Aizkraukle Municipality",
+        "admin2":"Kokneses pagasts",
+        "lat":56.65163,
+        "lon":25.43637,
+        "pop":2906
+    },
+    {
+        "id":456635,
+        "name":"Pļaviņas",
+        "country":"LV",
+        "admin1":"Aizkraukle Municipality",
+        "admin2":"Pļaviņas",
+        "lat":56.6178,
+        "lon":25.72552,
+        "pop":2864
+    },
+    {
+        "id":460786,
+        "name":"Brocēni",
+        "country":"LV",
+        "admin1":"Saldus Rajons",
+        "admin2":"Cieceres pagasts",
+        "lat":56.6789,
+        "lon":22.56945,
+        "pop":2834
+    },
+    {
+        "id":454178,
+        "name":"Viļāni",
+        "country":"LV",
+        "admin1":"Rēzekne Municipality",
+        "admin2":"Viļāni",
+        "lat":56.55253,
+        "lon":26.92449,
+        "pop":2696
+    },
+    {
+        "id":456008,
+        "name":"Rūjiena",
+        "country":"LV",
+        "admin1":"Valmiera",
+        "admin2":"Rūjiena",
+        "lat":57.89752,
+        "lon":25.33155,
+        "pop":2633
+    },
+    {
+        "id":459102,
+        "name":"Kalnciems",
+        "country":"LV",
+        "admin1":"Jelgava Municipality",
+        "admin2":"Kalnciema pagasts",
+        "lat":56.79908,
+        "lon":23.61503,
+        "pop":2548
+    },
+    {
+        "id":461566,
+        "name":"Aknīste",
+        "country":"LV",
+        "admin1":"Jēkabpils Municipality",
+        "admin2":"Aknīste",
+        "lat":56.16152,
+        "lon":25.74783,
+        "pop":2546
+    },
+    {
+        "id":455910,
+        "name":"Salacgrīva",
+        "country":"LV",
+        "admin1":"Limbaži Municipality",
+        "admin2":"Salacgrīva",
+        "lat":57.75312,
+        "lon":24.35895,
+        "pop":2480
+    },
+    {
+        "id":455523,
+        "name":"Skrīveri",
+        "country":"LV",
+        "admin1":"Aizkraukle Municipality",
+        "admin2":"Skrīveru pagasts",
+        "lat":56.645,
+        "lon":25.12058,
+        "pop":2424
+    },
+    {
+        "id":459419,
+        "name":"Jaunciems",
+        "country":"LV",
+        "admin1":"Riga",
+        "admin2":"Rīga",
+        "lat":57.0391,
+        "lon":24.17413,
+        "pop":2339
+    },
+    {
+        "id":460285,
+        "name":"Drabeši",
+        "country":"LV",
+        "admin1":"Cēsis Municipality",
+        "admin2":"Drabešu pagasts",
+        "lat":57.24316,
+        "lon":25.27748,
+        "pop":2323
+    },
+    {
+        "id":460001,
+        "name":"Ērgļi",
+        "country":"LV",
+        "admin1":"Madona Municipality",
+        "admin2":"Ērgļu pagasts",
+        "lat":56.89752,
+        "lon":25.63668,
+        "pop":2186
+    },
+    {
+        "id":459220,
+        "name":"Jumprava",
+        "country":"LV",
+        "admin1":"Ogre",
+        "admin2":"",
+        "lat":56.67613,
+        "lon":24.9721,
+        "pop":2177
+    },
+    {
+        "id":461336,
+        "name":"Auce",
+        "country":"LV",
+        "admin1":"Dobele Municipality",
+        "admin2":"Auce",
+        "lat":56.45981,
+        "lon":22.90169,
+        "pop":2154
+    },
+    {
+        "id":6615326,
+        "name":"Vecrīga",
+        "country":"LV",
+        "admin1":"Riga",
+        "admin2":"Rīga",
+        "lat":56.94966,
+        "lon":24.10418,
+        "pop":2140
+    },
+    {
+        "id":456503,
+        "name":"Priekuļi",
+        "country":"LV",
+        "admin1":"Cēsis Municipality",
+        "admin2":"Priekuļu pagasts",
+        "lat":57.315,
+        "lon":25.36147,
+        "pop":2136
+    },
+    {
+        "id":454848,
+        "name":"Tīreļi",
+        "country":"LV",
+        "admin1":"Jelgava Municipality",
+        "admin2":"Valgundes pagasts",
+        "lat":56.83991,
+        "lon":23.58902,
+        "pop":2103
+    },
+    {
+        "id":454273,
+        "name":"Vecumnieki",
+        "country":"LV",
+        "admin1":"Bauska Municipality",
+        "admin2":"Vecumnieku pagasts",
+        "lat":56.60608,
+        "lon":24.52232,
+        "pop":2103
+    },
+    {
+        "id":458892,
+        "name":"Ķegums",
+        "country":"LV",
+        "admin1":"Ogre",
+        "admin2":"Ķegums",
+        "lat":56.7451,
+        "lon":24.72439,
+        "pop":2065
+    },
+    {
+        "id":459586,
+        "name":"Ilūkste",
+        "country":"LV",
+        "admin1":"Augšdaugava Municipality",
+        "admin2":"Ilūkste",
+        "lat":55.97754,
+        "lon":26.29655,
+        "pop":2036
+    },
+    {
+        "id":459563,
+        "name":"Inčukalns",
+        "country":"LV",
+        "admin1":"Sigulda Municipality",
+        "admin2":"Inčukalna pagasts",
+        "lat":57.09867,
+        "lon":24.6863,
+        "pop":2028
+    },
+    {
+        "id":459402,
+        "name":"Jaunjelgava",
+        "country":"LV",
+        "admin1":"Aizkraukle Municipality",
+        "admin2":"Jaunjelgava",
+        "lat":56.61319,
+        "lon":25.08316,
+        "pop":1938
+    },
+    {
+        "id":457799,
+        "name":"Lubāna",
+        "country":"LV",
+        "admin1":"Madona Municipality",
+        "admin2":"Lubāna",
+        "lat":56.90425,
+        "lon":26.71606,
+        "pop":1918
+    },
+    {
+        "id":453850,
+        "name":"Zilupe",
+        "country":"LV",
+        "admin1":"Ludza Municipality",
+        "admin2":"Zilupe",
+        "lat":56.38616,
+        "lon":28.12165,
+        "pop":1897
+    },
+    {
+        "id":457408,
+        "name":"Mērsrags",
+        "country":"LV",
+        "admin1":"Talsi Municipality",
+        "admin2":"Mērsraga novads",
+        "lat":57.33535,
+        "lon":23.12455,
+        "pop":1860
+    },
+    {
+        "id":456506,
+        "name":"Priekule",
+        "country":"LV",
+        "admin1":"South Kurzeme Municipality",
+        "admin2":"Priekule",
+        "lat":56.44679,
+        "lon":21.58968,
+        "pop":1843
+    },
+    {
+        "id":456107,
+        "name":"Roja",
+        "country":"LV",
+        "admin1":"Talsi Municipality",
+        "admin2":"Rojas novads",
+        "lat":57.50146,
+        "lon":22.80881,
+        "pop":1800
+    },
+    {
+        "id":460474,
+        "name":"Dagda",
+        "country":"LV",
+        "admin1":"Krāslava Municipality",
+        "admin2":"Dagda",
+        "lat":56.09512,
+        "lon":27.53723,
+        "pop":1773
+    },
+    {
+        "id":455520,
+        "name":"Skrunda",
+        "country":"LV",
+        "admin1":"Kuldīga Municipality",
+        "admin2":"Skrunda",
+        "lat":56.67749,
+        "lon":22.01649,
+        "pop":1767
+    },
+    {
+        "id":454530,
+        "name":"Varakļāni",
+        "country":"LV",
+        "admin1":"Varakļāni Municipality",
+        "admin2":"Varakļāni",
+        "lat":56.60826,
+        "lon":26.75377,
+        "pop":1619
+    },
+    {
+        "id":460019,
+        "name":"Engure",
+        "country":"LV",
+        "admin1":"Tukums Municipality",
+        "admin2":"",
+        "lat":57.16061,
+        "lon":23.22527,
+        "pop":1600
+    },
+    {
+        "id":455260,
+        "name":"Stende",
+        "country":"LV",
+        "admin1":"Talsi Municipality",
+        "admin2":"Stende",
+        "lat":57.14497,
+        "lon":22.53482,
+        "pop":1532
+    },
+    {
+        "id":454722,
+        "name":"Ugāle",
+        "country":"LV",
+        "admin1":"Ventspils Municipality",
+        "admin2":"Ugāles pagasts",
+        "lat":57.27464,
+        "lon":22.03211,
+        "pop":1500
+    },
+    {
+        "id":454216,
+        "name":"Viesīte",
+        "country":"LV",
+        "admin1":"Jēkabpils Municipality",
+        "admin2":"Viesīte",
+        "lat":56.34751,
+        "lon":25.55514,
+        "pop":1473
+    },
+    {
+        "id":454173,
+        "name":"Vilce",
+        "country":"LV",
+        "admin1":"Jelgava Municipality",
+        "admin2":"Vilces pagasts",
+        "lat":56.42032,
+        "lon":23.54781,
+        "pop":1455
+    },
+    {
+        "id":455937,
+        "name":"Sabile",
+        "country":"LV",
+        "admin1":"Talsi Municipality",
+        "admin2":"Sabile",
+        "lat":57.04577,
+        "lon":22.57261,
+        "pop":1369
+    },
+    {
+        "id":457148,
+        "name":"Nereta",
+        "country":"LV",
+        "admin1":"Aizkraukle Municipality",
+        "admin2":"Neretas pagasts",
+        "lat":56.20279,
+        "lon":25.30752,
+        "pop":1282
+    },
+    {
+        "id":461628,
+        "name":"Ainaži",
+        "country":"LV",
+        "admin1":"Limbaži Municipality",
+        "admin2":"Ainaži",
+        "lat":57.86348,
+        "lon":24.35853,
+        "pop":1278
+    },
+    {
+        "id":460568,
+        "name":"Cesvaine",
+        "country":"LV",
+        "admin1":"Madona Municipality",
+        "admin2":"Cesvaine",
+        "lat":56.96754,
+        "lon":26.30764,
+        "pop":1210
+    },
+    {
+        "id":454130,
+        "name":"Viļaka",
+        "country":"LV",
+        "admin1":"Balvi Municipality",
+        "admin2":"Viļaka",
+        "lat":57.18458,
+        "lon":27.6722,
+        "pop":1139
+    },
+    {
+        "id":454584,
+        "name":"Valdemārpils",
+        "country":"LV",
+        "admin1":"Talsi Municipality",
+        "admin2":"Valdemārpils",
+        "lat":57.37068,
+        "lon":22.59188,
+        "pop":1135
+    },
+    {
+        "id":457533,
+        "name":"Mazsalaca",
+        "country":"LV",
+        "admin1":"Valmiera",
+        "admin2":"Mazsalaca",
+        "lat":57.86329,
+        "lon":25.05475,
+        "pop":1092
+    },
+    {
+        "id":455786,
+        "name":"Seda",
+        "country":"LV",
+        "admin1":"Valmiera",
+        "admin2":"Seda",
+        "lat":57.65042,
+        "lon":25.75089,
+        "pop":1092
+    },
+    {
+        "id":459448,
+        "name":"Jaunaglona",
+        "country":"LV",
+        "admin1":"Preiļu novads",
+        "admin2":"",
+        "lat":56.16066,
+        "lon":27.00714,
+        "pop":1053
+    },
+    {
+        "id":457915,
+        "name":"Liezēre",
+        "country":"LV",
+        "admin1":"Madona Municipality",
+        "admin2":"Liezēres pagasts",
+        "lat":57.01823,
+        "lon":26.06395,
+        "pop":1041
+    },
+    {
+        "id":459357,
+        "name":"Jaunpils",
+        "country":"LV",
+        "admin1":"Tukums Municipality",
+        "admin2":"Jaunpils pagasts",
+        "lat":56.73137,
+        "lon":23.01247,
+        "pop":1029
+    },
+    {
+        "id":457912,
+        "name":"Līgatne",
+        "country":"LV",
+        "admin1":"Cēsis Municipality",
+        "admin2":"Līgatne",
+        "lat":57.23429,
+        "lon":25.04059,
+        "pop":1017
+    },
+    {
+        "id":460071,
+        "name":"Ēdole",
+        "country":"LV",
+        "admin1":"Kuldīga Municipality",
+        "admin2":"Ēdoles pagasts",
+        "lat":57.02065,
+        "lon":21.69113,
+        "pop":980
+    },
+    {
+        "id":455166,
+        "name":"Strenči",
+        "country":"LV",
+        "admin1":"Valmiera",
+        "admin2":"Strenči",
+        "lat":57.62574,
+        "lon":25.68535,
+        "pop":973
+    },
+    {
+        "id":454002,
+        "name":"Zaķumuiža",
+        "country":"LV",
+        "admin1":"Ropaži Municipality",
+        "admin2":"Ropažu pagasts",
+        "lat":56.97033,
+        "lon":24.47894,
+        "pop":973
+    },
+    {
+        "id":461534,
+        "name":"Alsunga",
+        "country":"LV",
+        "admin1":"Kuldīga Municipality",
+        "admin2":"Alsungas novads",
+        "lat":56.98194,
+        "lon":21.55938,
+        "pop":940
+    },
+    {
+        "id":455976,
+        "name":"Pilsrundāle",
+        "country":"LV",
+        "admin1":"Bauska Municipality",
+        "admin2":"Rundāles pagasts",
+        "lat":56.42503,
+        "lon":23.987,
+        "pop":900
+    },
+    {
+        "id":461631,
+        "name":"Aglona",
+        "country":"LV",
+        "admin1":"Preiļu novads",
+        "admin2":"Aglonas pagasts",
+        "lat":56.13274,
+        "lon":27.00682,
+        "pop":874
+    },
+    {
+        "id":457004,
+        "name":"Ošupe",
+        "country":"LV",
+        "admin1":"Madona Municipality",
+        "admin2":"Ošupes pagasts",
+        "lat":56.85331,
+        "lon":26.74199,
+        "pop":871
+    },
+    {
+        "id":456827,
+        "name":"Pāvilosta",
+        "country":"LV",
+        "admin1":"South Kurzeme Municipality",
+        "admin2":"Pāvilosta",
+        "lat":56.88791,
+        "lon":21.18593,
+        "pop":858
+    },
+    {
+        "id":456696,
+        "name":"Piltene",
+        "country":"LV",
+        "admin1":"Ventspils Municipality",
+        "admin2":"Piltene",
+        "lat":57.22426,
+        "lon":21.67439,
+        "pop":821
+    },
+    {
+        "id":455677,
+        "name":"Silene",
+        "country":"LV",
+        "admin1":"Augšdaugava Municipality",
+        "admin2":"Skrudalienas pagasts",
+        "lat":55.75284,
+        "lon":26.78508,
+        "pop":821
+    },
+    {
+        "id":455298,
+        "name":"Staicele",
+        "country":"LV",
+        "admin1":"Limbaži Municipality",
+        "admin2":"Staicele",
+        "lat":57.83579,
+        "lon":24.74706,
+        "pop":808
+    },
+    {
+        "id":459099,
+        "name":"Kalngale",
+        "country":"LV",
+        "admin1":"Ādaži",
+        "admin2":"Carnikavas novads",
+        "lat":57.07909,
+        "lon":24.15924,
+        "pop":775
+    },
+    {
+        "id":461442,
+        "name":"Ape",
+        "country":"LV",
+        "admin1":"Smiltene Municipality",
+        "admin2":"Ape",
+        "lat":57.53928,
+        "lon":26.69291,
+        "pop":773
+    },
+    {
+        "id":455427,
+        "name":"Smārde",
+        "country":"LV",
+        "admin1":"Tukums Municipality",
+        "admin2":"Smārdes pagasts",
+        "lat":56.9542,
+        "lon":23.33736,
+        "pop":734
+    },
+    {
+        "id":457297,
+        "name":"Milzkalne",
+        "country":"LV",
+        "admin1":"Tukums Municipality",
+        "admin2":"Smārdes pagasts",
+        "lat":56.97752,
+        "lon":23.22583,
+        "pop":689
+    },
+    {
+        "id":456344,
+        "name":"Ragaciems",
+        "country":"LV",
+        "admin1":"Tukums Municipality",
+        "admin2":"Lapmežciema pagasts",
+        "lat":57.02226,
+        "lon":23.49561,
+        "pop":670
+    },
+    {
+        "id":455102,
+        "name":"Subate",
+        "country":"LV",
+        "admin1":"Augšdaugava Municipality",
+        "admin2":"",
+        "lat":56.0062,
+        "lon":25.90756,
+        "pop":596
+    },
+    {
+        "id":454408,
+        "name":"Vecpiebalga",
+        "country":"LV",
+        "admin1":"Cēsis Municipality",
+        "admin2":"Vecpiebalgas pagasts",
+        "lat":57.0609,
+        "lon":25.81624,
+        "pop":596
+    },
+    {
+        "id":456550,
+        "name":"Pope",
+        "country":"LV",
+        "admin1":"Ventspils Municipality",
+        "admin2":"Popes pagasts",
+        "lat":57.39799,
+        "lon":21.85241,
+        "pop":508
+    },
+    {
+        "id":460171,
+        "name":"Durbe",
+        "country":"LV",
+        "admin1":"South Kurzeme Municipality",
+        "admin2":"Durbe",
+        "lat":56.5887,
+        "lon":21.36978,
+        "pop":505
+    }
+]

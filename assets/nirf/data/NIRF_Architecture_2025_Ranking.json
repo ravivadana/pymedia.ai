@@ -1,0 +1,362 @@
+[
+    {
+        "Institute ID": "IR-A-U-0560",
+        "Name": "Indian Institute of Technology Roorkee",
+        "City": "Roorkee",
+        "State": "Uttarakhand",
+        "Score": "83.95",
+        "Rank": "1",
+        "Official Website": "https://iitr.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0263",
+        "Name": "National Institute of Technology Calicut",
+        "City": "Kozhikode",
+        "State": "Kerala",
+        "Score": "77.89",
+        "Rank": "2",
+        "Official Website": "https://nitc.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0573",
+        "Name": "Indian Institute of Technology Kharagpur",
+        "City": "Kharagpur",
+        "State": "West Bengal",
+        "Score": "77.38",
+        "Rank": "3",
+        "Official Website": "https://www.iitkgp.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0584",
+        "Name": "Indian Institute of Engineering Science and Technology, Shibpur",
+        "City": "Howrah",
+        "State": "West Bengal",
+        "Score": "68.37",
+        "Rank": "4",
+        "Official Website": "https://www.iiests.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0108",
+        "Name": "Jamia Millia Islamia",
+        "City": "New Delhi",
+        "State": "Delhi",
+        "Score": "67.15",
+        "Rank": "5",
+        "Official Website": "https://www.jmi.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0127",
+        "Name": "Centre for Environmental Planning and Technology University",
+        "City": "Ahmedabad",
+        "State": "Gujarat",
+        "Score": "65.73",
+        "Rank": "6",
+        "Official Website": "https://cept.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0357",
+        "Name": "National Institute of Technology Rourkela",
+        "City": "Rourkela",
+        "State": "Odisha",
+        "Score": "65.72",
+        "Rank": "7",
+        "Official Website": "https://www.nitrkl.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0116",
+        "Name": "School of Planning and Architecture New Delhi",
+        "City": "New Delhi",
+        "State": "Delhi",
+        "Score": "65.11",
+        "Rank": "8",
+        "Official Website": "https://spa.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0467",
+        "Name": "National Institute of Technology Tiruchirappalli",
+        "City": "Tiruchirappalli",
+        "State": "Tamil Nadu",
+        "Score": "64.30",
+        "Rank": "9",
+        "Official Website": "https://www.nitt.edu"
+    },
+    {
+        "Institute ID": "IR-A-U-0334",
+        "Name": "Visvesvaraya National Institute of Technology, Nagpur",
+        "City": "Nagpur",
+        "State": "Maharashtra",
+        "Score": "61.22",
+        "Rank": "10",
+        "Official Website": "https://vnit.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0626",
+        "Name": "School of Planning and Architecture Bhopal",
+        "City": "Bhopal",
+        "State": "Madhya Pradesh",
+        "Score": "60.69",
+        "Rank": "11",
+        "Official Website": "https://spabhopal.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0410",
+        "Name": "Malaviya National Institute of Technology",
+        "City": "Jaipur",
+        "State": "Rajasthan",
+        "Score": "60.48",
+        "Rank": "12",
+        "Official Website": "https://mnit.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0072",
+        "Name": "National Institute of Technology Patna",
+        "City": "Patna",
+        "State": "Bihar",
+        "Score": "60.16",
+        "Rank": "13",
+        "Official Website": "https://www.nitp.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0747",
+        "Name": "Chandigarh University",
+        "City": "Mohali",
+        "State": "Punjab",
+        "Score": "59.70",
+        "Rank": "14",
+        "Official Website": "https://www.cuchd.in"
+    },
+    {
+        "Institute ID": "IR-A-C-43708",
+        "Name": "College of Engineering Trivandrum",
+        "City": "Thiruvananthapuram",
+        "State": "Kerala",
+        "Score": "59.63",
+        "Rank": "15",
+        "Official Website": "https://www.cet.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0575",
+        "Name": "Jadavpur University",
+        "City": "Kolkata",
+        "State": "West Bengal",
+        "Score": "59.30",
+        "Rank": "16",
+        "Official Website": "https://jadavpuruniversity.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0284",
+        "Name": "Maulana Azad National Institute of Technology",
+        "City": "Bhopal",
+        "State": "Madhya Pradesh",
+        "Score": "58.80",
+        "Rank": "17",
+        "Official Website": "https://www.manit.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0473",
+        "Name": "S.R.M. Institute of Science and Technology",
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Score": "58.63",
+        "Rank": "18",
+        "Official Website": "https://www.srmist.edu.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0627",
+        "Name": "School of Planning & Architecture, Vijayawada",
+        "City": "Vijayawada",
+        "State": "Andhra Pradesh",
+        "Score": "58.49",
+        "Rank": "19",
+        "Official Website": "https://www.spav.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-C-57952",
+        "Name": "BMS College of Architecture",
+        "City": "Bengaluru",
+        "State": "Karnataka",
+        "Score": "58.10",
+        "Rank": "20",
+        "Official Website": "https://bmsca.org"
+    },
+    {
+        "Institute ID": "IR-A-U-0749",
+        "Name": "Manipal University Jaipur",
+        "City": "Jaipur",
+        "State": "Rajasthan",
+        "Score": "56.83",
+        "Rank": "21",
+        "Official Website": "https://jaipur.manipal.edu"
+    },
+    {
+        "Institute ID": "IR-A-U-0202",
+        "Name": "Birla Institute of Technology",
+        "City": "Ranchi",
+        "State": "Jharkhand",
+        "Score": "56.76",
+        "Rank": "22",
+        "Official Website": "https://www.bitmesra.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0201",
+        "Name": "Shri Mata Vaishno Devi University",
+        "City": "Katra",
+        "State": "Jammu and Kashmir",
+        "Score": "56.47",
+        "Rank": "23",
+        "Official Website": "https://www.smvdu.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0379",
+        "Name": "Lovely Professional University",
+        "City": "Phagwara",
+        "State": "Punjab",
+        "Score": "56.11",
+        "Rank": "24",
+        "Official Website": "https://www.lpu.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0779",
+        "Name": "Amity University",
+        "City": "North Twenty Four Parganas",
+        "State": "West Bengal",
+        "Score": "55.49",
+        "Rank": "25",
+        "Official Website": "https://www.amity.edu/kolkata"
+    },
+    {
+        "Institute ID": "IR-A-U-0496",
+        "Name": "Aligarh Muslim University",
+        "City": "Aligarh",
+        "State": "Uttar Pradesh",
+        "Score": "55.11",
+        "Rank": "26",
+        "Official Website": "https://www.amu.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-C-46330",
+        "Name": "Manipal School of Architecture and Planning, MAHE",
+        "City": "Udupi",
+        "State": "Karnataka",
+        "Score": "54.68",
+        "Rank": "27",
+        "Official Website": "https://www.manipal.edu/msap.html"
+    },
+    {
+        "Institute ID": "IR-A-U-0439",
+        "Name": "Anna University",
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Score": "54.60",
+        "Rank": "28",
+        "Official Website": "https://www.annauniv.edu"
+    },
+    {
+        "Institute ID": "IR-A-U-0146",
+        "Name": "Nirma University",
+        "City": "Ahmedabad",
+        "State": "Gujarat",
+        "Score": "54.24",
+        "Rank": "29",
+        "Official Website": "https://nirmauni.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0189",
+        "Name": "National Institute of Technology Hamirpur",
+        "City": "Hamirpur",
+        "State": "Himachal Pradesh",
+        "Score": "54.00",
+        "Rank": "30",
+        "Official Website": "https://nith.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-C-1331",
+        "Name": "M. S. Ramaiah Institute of Technology",
+        "City": "Bengaluru",
+        "State": "Karnataka",
+        "Score": "53.54",
+        "Rank": "31",
+        "Official Website": "https://www.msrit.edu"
+    },
+    {
+        "Institute ID": "IR-A-U-0461",
+        "Name": "Dr. M. G. R. Educational and Research Institute",
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Score": "53.26",
+        "Rank": "32",
+        "Official Website": "https://www.drmgrdu.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-C-26794",
+        "Name": "Thiagarajar College of Engineering",
+        "City": "Madurai",
+        "State": "Tamil Nadu",
+        "Score": "52.56",
+        "Rank": "33",
+        "Official Website": "https://www.tce.edu"
+    },
+    {
+        "Institute ID": "IR-A-U-0217",
+        "Name": "Christ University",
+        "City": "Bengaluru",
+        "State": "Karnataka",
+        "Score": "51.79",
+        "Rank": "34",
+        "Official Website": "https://christuniversity.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0092",
+        "Name": "National Institute of Technology, Raipur",
+        "City": "Raipur",
+        "State": "Chhattisgarh",
+        "Score": "51.30",
+        "Rank": "35",
+        "Official Website": "http://www.nitrr.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0099",
+        "Name": "Guru Gobind Singh Indraprastha University",
+        "City": "New Delhi",
+        "State": "Delhi",
+        "Score": "51.00",
+        "Rank": "36",
+        "Official Website": "http://www.ipu.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-C-47256",
+        "Name": "BMS School of Architecture, Yelahanka",
+        "City": "Bengaluru",
+        "State": "Karnataka",
+        "Score": "48.45",
+        "Rank": "37",
+        "Official Website": "https://bmssa.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0373",
+        "Name": "Chitkara  University",
+        "City": "Rajpura",
+        "State": "Punjab",
+        "Score": "48.16",
+        "Rank": "38",
+        "Official Website": "https://www.chitkara.edu.in"
+    },
+    {
+        "Institute ID": "IR-A-C-46873",
+        "Name": "Faculty of Architecture and Planning, Dr APJ Abbdul Kalam Technical University, Lucknow",
+        "City": "Lucknow",
+        "State": "Uttar Pradesh",
+        "Score": "47.94",
+        "Rank": "39",
+        "Official Website": "https://foaaktu.ac.in"
+    },
+    {
+        "Institute ID": "IR-A-U-0830",
+        "Name": "Anant National University",
+        "City": "Ahmedabad",
+        "State": "Gujarat",
+        "Score": "47.61",
+        "Rank": "40",
+        "Official Website": "https://anu.edu.in"
+    }
+]

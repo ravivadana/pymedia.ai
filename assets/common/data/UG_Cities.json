@@ -1,0 +1,1632 @@
+[
+    {
+        "id":232422,
+        "name":"Kampala",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Kampala District",
+        "lat":0.31628,
+        "lon":32.58219,
+        "pop":1680600
+    },
+    {
+        "id":10943053,
+        "name":"Nansana",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Wakiso District",
+        "lat":0.36389,
+        "lon":32.52861,
+        "pop":532800
+    },
+    {
+        "id":231165,
+        "name":"Kira",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Wakiso District",
+        "lat":0.4,
+        "lon":32.63333,
+        "pop":462900
+    },
+    {
+        "id":234179,
+        "name":"Bunamwaya",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Wakiso District",
+        "lat":0.25344,
+        "lon":32.55723,
+        "pop":413400
+    },
+    {
+        "id":10858926,
+        "name":"Kyengera",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Wakiso District",
+        "lat":0.29517,
+        "lon":32.50159,
+        "pop":285400
+    },
+    {
+        "id":229268,
+        "name":"Mbarara",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Mbarara District",
+        "lat":-0.60467,
+        "lon":30.64851,
+        "pop":221300
+    },
+    {
+        "id":232110,
+        "name":"Kasangati",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Wakiso District",
+        "lat":0.43803,
+        "lon":32.60246,
+        "pop":207800
+    },
+    {
+        "id":228853,
+        "name":"Mukono",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Mukono District",
+        "lat":0.35333,
+        "lon":32.75528,
+        "pop":191300
+    },
+    {
+        "id":227812,
+        "name":"Njeru",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Buikwe District",
+        "lat":0.44166,
+        "lon":33.17917,
+        "pop":178800
+    },
+    {
+        "id":233346,
+        "name":"Gulu",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Gulu District",
+        "lat":2.77457,
+        "lon":32.29899,
+        "pop":177400
+    },
+    {
+        "id":231954,
+        "name":"Katabi",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Wakiso District",
+        "lat":0.08411,
+        "lon":32.46972,
+        "pop":154300
+    },
+    {
+        "id":232713,
+        "name":"Kajansi",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Wakiso District",
+        "lat":0.21548,
+        "lon":32.53453,
+        "pop":135600
+    },
+    {
+        "id":229911,
+        "name":"Lugazi",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Buikwe District",
+        "lat":0.36788,
+        "lon":32.9376,
+        "pop":128400
+    },
+    {
+        "id":233312,
+        "name":"Hoima",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Hoima District",
+        "lat":1.43314,
+        "lon":31.35241,
+        "pop":122700
+    },
+    {
+        "id":228971,
+        "name":"Mubende",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Mubende District",
+        "lat":0.55849,
+        "lon":31.39489,
+        "pop":121600
+    },
+    {
+        "id":230166,
+        "name":"Lira",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Lira District",
+        "lat":2.2499,
+        "lon":32.89985,
+        "pop":119323
+    },
+    {
+        "id":233299,
+        "name":"Ibanda",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Ibanda District",
+        "lat":-0.13398,
+        "lon":30.49616,
+        "pop":117700
+    },
+    {
+        "id":229380,
+        "name":"Masaka",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Masaka District",
+        "lat":-0.33379,
+        "lon":31.73409,
+        "pop":116600
+    },
+    {
+        "id":232066,
+        "name":"Kasese",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kasese District",
+        "lat":0.18333,
+        "lon":30.08333,
+        "pop":115400
+    },
+    {
+        "id":229278,
+        "name":"Mbale",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Mbale District",
+        "lat":1.08209,
+        "lon":34.17503,
+        "pop":111300
+    },
+    {
+        "id":229362,
+        "name":"Masindi",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Masindi District",
+        "lat":1.67444,
+        "lon":31.715,
+        "pop":110500
+    },
+    {
+        "id":229139,
+        "name":"Mityana",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Mityana District",
+        "lat":0.4175,
+        "lon":32.02278,
+        "pop":105200
+    },
+    {
+        "id":233508,
+        "name":"Entebbe",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Wakiso District",
+        "lat":0.05621,
+        "lon":32.47949,
+        "pop":102600
+    },
+    {
+        "id":233114,
+        "name":"Jinja",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Jinja District",
+        "lat":0.43902,
+        "lon":33.20317,
+        "pop":93061
+    },
+    {
+        "id":225964,
+        "name":"Wakiso",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Wakiso District",
+        "lat":0.40444,
+        "lon":32.45944,
+        "pop":87900
+    },
+    {
+        "id":226554,
+        "name":"Rutoma",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Sheema District",
+        "lat":-0.56667,
+        "lon":30.38333,
+        "pop":86100
+    },
+    {
+        "id":233730,
+        "name":"Bwizibwera",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Mbarara District",
+        "lat":-0.59167,
+        "lon":30.62861,
+        "pop":79157
+    },
+    {
+        "id":230617,
+        "name":"Kotido",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Kotido District",
+        "lat":2.98056,
+        "lon":34.13306,
+        "pop":75700
+    },
+    {
+        "id":235039,
+        "name":"Arua",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Arua District",
+        "lat":3.02013,
+        "lon":30.91105,
+        "pop":72400
+    },
+    {
+        "id":8581615,
+        "name":"Nakivale Refugee Camp",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Isingiro District",
+        "lat":-0.74064,
+        "lon":30.99632,
+        "pop":68400
+    },
+    {
+        "id":232397,
+        "name":"Kamuli",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Kamuli District",
+        "lat":0.94722,
+        "lon":33.11972,
+        "pop":67800
+    },
+    {
+        "id":235130,
+        "name":"Apac",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Apac District",
+        "lat":1.97556,
+        "lon":32.53861,
+        "pop":67700
+    },
+    {
+        "id":233275,
+        "name":"Iganga",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Iganga District",
+        "lat":0.60917,
+        "lon":33.46861,
+        "pop":65500
+    },
+    {
+        "id":234077,
+        "name":"Busia",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Busia District",
+        "lat":0.46588,
+        "lon":34.09221,
+        "pop":64900
+    },
+    {
+        "id":230725,
+        "name":"Koboko",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Koboko District",
+        "lat":3.41364,
+        "lon":30.95994,
+        "pop":64500
+    },
+    {
+        "id":226234,
+        "name":"Soroti",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Soroti District",
+        "lat":1.71464,
+        "lon":33.61113,
+        "pop":60900
+    },
+    {
+        "id":233476,
+        "name":"Fort Portal",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kabarole District",
+        "lat":0.66174,
+        "lon":30.2748,
+        "pop":60800
+    },
+    {
+        "id":229006,
+        "name":"Mpondwe",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kasese District",
+        "lat":0.04008,
+        "lon":29.7248,
+        "pop":58600
+    },
+    {
+        "id":230893,
+        "name":"Kitgum",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Kitgum District",
+        "lat":3.27833,
+        "lon":32.88667,
+        "pop":56891
+    },
+    {
+        "id":233070,
+        "name":"Kabale",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kabale District",
+        "lat":-1.24857,
+        "lon":29.98993,
+        "pop":53200
+    },
+    {
+        "id":232235,
+        "name":"Kapchorwa",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Kapchorwa District",
+        "lat":1.40096,
+        "lon":34.45038,
+        "pop":51200
+    },
+    {
+        "id":13132719,
+        "name":"Rwamwanja Refugee Camp",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kamwenge District",
+        "lat":0.34801,
+        "lon":30.65427,
+        "pop":49700
+    },
+    {
+        "id":229024,
+        "name":"Mpigi",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Mpigi District",
+        "lat":0.225,
+        "lon":32.31361,
+        "pop":49500
+    },
+    {
+        "id":229746,
+        "name":"Luwero",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Luwero District",
+        "lat":0.84917,
+        "lon":32.47306,
+        "pop":49100
+    },
+    {
+        "id":226110,
+        "name":"Tororo",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Tororo District",
+        "lat":0.69299,
+        "lon":34.18085,
+        "pop":48500
+    },
+    {
+        "id":225835,
+        "name":"Yumbe",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Yumbe District",
+        "lat":3.46506,
+        "lon":31.24689,
+        "pop":47600
+    },
+    {
+        "id":234578,
+        "name":"Bugembe",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Jinja District",
+        "lat":0.48213,
+        "lon":33.24065,
+        "pop":45600
+    },
+    {
+        "id":448001,
+        "name":"Ishaka",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Bushenyi District",
+        "lat":-0.54306,
+        "lon":30.13694,
+        "pop":43700
+    },
+    {
+        "id":230584,
+        "name":"Kumi",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Kumi District",
+        "lat":1.46083,
+        "lon":33.93611,
+        "pop":43500
+    },
+    {
+        "id":232107,
+        "name":"Kasanje",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Wakiso District",
+        "lat":0.15334,
+        "lon":32.40088,
+        "pop":42300
+    },
+    {
+        "id":226823,
+        "name":"Pallisa",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Pallisa District",
+        "lat":1.145,
+        "lon":33.70944,
+        "pop":42300
+    },
+    {
+        "id":227904,
+        "name":"Nebbi",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Nebbi District",
+        "lat":2.47826,
+        "lon":31.08893,
+        "pop":41400
+    },
+    {
+        "id":226853,
+        "name":"Paidha",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Zombo District",
+        "lat":2.41669,
+        "lon":30.98551,
+        "pop":37500
+    },
+    {
+        "id":226600,
+        "name":"Rukungiri",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Rukungiri District",
+        "lat":-0.84111,
+        "lon":29.94194,
+        "pop":37200
+    },
+    {
+        "id":235489,
+        "name":"Adjumani",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Adjumani District",
+        "lat":3.37786,
+        "lon":31.7909,
+        "pop":37100
+    },
+    {
+        "id":8261621,
+        "name":"Buyale",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kiryandongo District",
+        "lat":1.93421,
+        "lon":32.11643,
+        "pop":36700
+    },
+    {
+        "id":234565,
+        "name":"Bugiri",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Namayingo District",
+        "lat":0.57139,
+        "lon":33.74167,
+        "pop":36000
+    },
+    {
+        "id":232661,
+        "name":"Kakira",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Jinja District",
+        "lat":0.50833,
+        "lon":33.28778,
+        "pop":35800
+    },
+    {
+        "id":7911405,
+        "name":"Isingiro",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Isingiro District",
+        "lat":-0.86864,
+        "lon":30.83019,
+        "pop":34300
+    },
+    {
+        "id":228448,
+        "name":"Nakaloke",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Mbale District",
+        "lat":1.15,
+        "lon":34.15,
+        "pop":33700
+    },
+    {
+        "id":234088,
+        "name":"Busesa",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Iganga District",
+        "lat":0.62631,
+        "lon":33.60027,
+        "pop":32900
+    },
+    {
+        "id":225858,
+        "name":"Wobulenzi",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Luwero District",
+        "lat":0.72833,
+        "lon":32.51222,
+        "pop":31000
+    },
+    {
+        "id":227528,
+        "name":"Nyachera",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Ntungamo District",
+        "lat":-0.9,
+        "lon":30.41667,
+        "pop":30509
+    },
+    {
+        "id":231696,
+        "name":"Kayunga",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Kayunga District",
+        "lat":0.7025,
+        "lon":32.88861,
+        "pop":30000
+    },
+    {
+        "id":233840,
+        "name":"Buyende",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Buyende District",
+        "lat":1.15167,
+        "lon":33.155,
+        "pop":29700
+    },
+    {
+        "id":234717,
+        "name":"Bombo",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Luwero District",
+        "lat":0.57387,
+        "lon":32.51545,
+        "pop":29600
+    },
+    {
+        "id":230331,
+        "name":"Kyegegwa",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kyegegwa District",
+        "lat":0.50222,
+        "lon":31.04139,
+        "pop":29400
+    },
+    {
+        "id":234658,
+        "name":"Budaka",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Budaka District",
+        "lat":1.00389,
+        "lon":33.92556,
+        "pop":29100
+    },
+    {
+        "id":232146,
+        "name":"Kasaali",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Kyotera District",
+        "lat":-0.61667,
+        "lon":31.55,
+        "pop":29000
+    },
+    {
+        "id":226835,
+        "name":"Pakwach",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Pakwach District",
+        "lat":2.46335,
+        "lon":31.49832,
+        "pop":28700
+    },
+    {
+        "id":230299,
+        "name":"Kyenjojo",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kyenjojo District",
+        "lat":0.63278,
+        "lon":30.62139,
+        "pop":28600
+    },
+    {
+        "id":232652,
+        "name":"Kakiri",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Wakiso District",
+        "lat":0.41989,
+        "lon":32.39127,
+        "pop":28100
+    },
+    {
+        "id":232834,
+        "name":"Kagadi",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kagadi District",
+        "lat":0.93778,
+        "lon":30.80889,
+        "pop":28000
+    },
+    {
+        "id":11496345,
+        "name":"Muhorro",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kagadi District",
+        "lat":0.91513,
+        "lon":30.75078,
+        "pop":27400
+    },
+    {
+        "id":13132715,
+        "name":"Kyaka II Refugee Camp",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kyegegwa District",
+        "lat":0.36738,
+        "lon":31.10817,
+        "pop":27300
+    },
+    {
+        "id":229872,
+        "name":"Lukaya",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Kalungu District",
+        "lat":-0.11306,
+        "lon":31.85389,
+        "pop":25600
+    },
+    {
+        "id":231990,
+        "name":"Kasozi",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Ibanda District",
+        "lat":0.02,
+        "lon":30.49861,
+        "pop":24500
+    },
+    {
+        "id":235574,
+        "name":"Abim",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Abim District",
+        "lat":2.70167,
+        "lon":33.67611,
+        "pop":24400
+    },
+    {
+        "id":233886,
+        "name":"Buwenge",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Jinja District",
+        "lat":0.64996,
+        "lon":33.17128,
+        "pop":24200
+    },
+    {
+        "id":235178,
+        "name":"Anaka",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Nwoya District",
+        "lat":2.60114,
+        "lon":31.94749,
+        "pop":24000
+    },
+    {
+        "id":234004,
+        "name":"Butaleja",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Butaleja District",
+        "lat":0.91194,
+        "lon":33.95111,
+        "pop":24000
+    },
+    {
+        "id":232371,
+        "name":"Kamwenge",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kamwenge District",
+        "lat":0.1866,
+        "lon":30.45393,
+        "pop":23900
+    },
+    {
+        "id":13132716,
+        "name":"Kyangwali Refugee Camp",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Hoima District",
+        "lat":1.18807,
+        "lon":30.78281,
+        "pop":23847
+    },
+    {
+        "id":233563,
+        "name":"Dokolo",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Dokolo District",
+        "lat":1.89833,
+        "lon":33.1775,
+        "pop":23700
+    },
+    {
+        "id":8198328,
+        "name":"Opit",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Omoro District",
+        "lat":2.61112,
+        "lon":32.47559,
+        "pop":23200
+    },
+    {
+        "id":226690,
+        "name":"Rubanda",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Rubanda District",
+        "lat":-1.18833,
+        "lon":29.84611,
+        "pop":22800
+    },
+    {
+        "id":228094,
+        "name":"Namutumba",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Namutumba District",
+        "lat":0.83611,
+        "lon":33.68611,
+        "pop":22600
+    },
+    {
+        "id":228227,
+        "name":"Namasuba",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Nakaseke District",
+        "lat":0.68944,
+        "lon":32.42139,
+        "pop":22507
+    },
+    {
+        "id":231550,
+        "name":"Kiboga",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Kiboga District",
+        "lat":0.91611,
+        "lon":31.77417,
+        "pop":22400
+    },
+    {
+        "id":234178,
+        "name":"Bundibugyo",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Bundibugyo District",
+        "lat":0.71117,
+        "lon":30.06469,
+        "pop":22300
+    },
+    {
+        "id":228214,
+        "name":"Namayumba",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Wakiso District",
+        "lat":0.52889,
+        "lon":32.24861,
+        "pop":22100
+    },
+    {
+        "id":231406,
+        "name":"Kigumba",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kiryandongo District",
+        "lat":1.80838,
+        "lon":32.00502,
+        "pop":22000
+    },
+    {
+        "id":231383,
+        "name":"Kihihi",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kanungu District",
+        "lat":-0.75,
+        "lon":29.7,
+        "pop":21800
+    },
+    {
+        "id":230753,
+        "name":"Kiziba",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Wakiso District",
+        "lat":0.51389,
+        "lon":32.35056,
+        "pop":21300
+    },
+    {
+        "id":227593,
+        "name":"Ntungamo",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Ntungamo District",
+        "lat":-0.87944,
+        "lon":30.26417,
+        "pop":20900
+    },
+    {
+        "id":8629414,
+        "name":"Malaba",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Tororo District",
+        "lat":0.64444,
+        "lon":34.26056,
+        "pop":20800
+    },
+    {
+        "id":229292,
+        "name":"Mayuge",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Mayuge District",
+        "lat":0.45972,
+        "lon":33.48028,
+        "pop":20800
+    },
+    {
+        "id":232526,
+        "name":"Kaliro",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Kaliro District",
+        "lat":0.89444,
+        "lon":33.49944,
+        "pop":20500
+    },
+    {
+        "id":229708,
+        "name":"Lwakyomba",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kakumiro District",
+        "lat":1.11667,
+        "lon":31.4,
+        "pop":20500
+    },
+    {
+        "id":229580,
+        "name":"Mabare",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Ntungamo District",
+        "lat":-0.96667,
+        "lon":30.45,
+        "pop":20100
+    },
+    {
+        "id":233194,
+        "name":"Iryango",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Isingiro District",
+        "lat":-0.96667,
+        "lon":30.6,
+        "pop":20000
+    },
+    {
+        "id":227525,
+        "name":"Nyahuka",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Bundibugyo District",
+        "lat":0.675,
+        "lon":29.9926,
+        "pop":19600
+    },
+    {
+        "id":234496,
+        "name":"Buhimba",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Hoima District",
+        "lat":1.34722,
+        "lon":31.30806,
+        "pop":19500
+    },
+    {
+        "id":229530,
+        "name":"Magamaga",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Mayuge District",
+        "lat":0.5196,
+        "lon":33.34687,
+        "pop":19500
+    },
+    {
+        "id":231197,
+        "name":"Kinoni",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Mbarara District",
+        "lat":-0.70111,
+        "lon":30.49389,
+        "pop":19400
+    },
+    {
+        "id":226267,
+        "name":"Sironko",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Sironko District",
+        "lat":1.23132,
+        "lon":34.24773,
+        "pop":19300
+    },
+    {
+        "id":234660,
+        "name":"Budadiri",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Sironko District",
+        "lat":1.14806,
+        "lon":34.32611,
+        "pop":19200
+    },
+    {
+        "id":233975,
+        "name":"Butemba",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Kiboga District",
+        "lat":1.15944,
+        "lon":31.61083,
+        "pop":18800
+    },
+    {
+        "id":229059,
+        "name":"Moyo",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Moyo District",
+        "lat":3.66088,
+        "lon":31.72474,
+        "pop":18800
+    },
+    {
+        "id":8642874,
+        "name":"Rwiimi",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Bunyangabu District",
+        "lat":0.37957,
+        "lon":30.23039,
+        "pop":18600
+    },
+    {
+        "id":234480,
+        "name":"Buikwe",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Buikwe District",
+        "lat":0.3375,
+        "lon":33.01056,
+        "pop":18500
+    },
+    {
+        "id":8629023,
+        "name":"Kisinga",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kasese District",
+        "lat":0.07684,
+        "lon":29.86832,
+        "pop":18300
+    },
+    {
+        "id":231848,
+        "name":"Katoke",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kyenjojo District",
+        "lat":0.75833,
+        "lon":30.6825,
+        "pop":18200
+    },
+    {
+        "id":231280,
+        "name":"Kikube",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Hoima District",
+        "lat":1.35639,
+        "lon":31.22222,
+        "pop":18100
+    },
+    {
+        "id":231139,
+        "name":"Kireka",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Wakiso District",
+        "lat":0.3475,
+        "lon":32.64917,
+        "pop":17947
+    },
+    {
+        "id":230993,
+        "name":"Kisoro",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kisoro District",
+        "lat":-1.28538,
+        "lon":29.68497,
+        "pop":17700
+    },
+    {
+        "id":227843,
+        "name":"Ngora",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Ngora District",
+        "lat":1.43139,
+        "lon":33.77722,
+        "pop":17700
+    },
+    {
+        "id":13132713,
+        "name":"Butunduzi",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kyenjojo District",
+        "lat":0.55473,
+        "lon":30.85485,
+        "pop":17600
+    },
+    {
+        "id":11259341,
+        "name":"Namavundu",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Namayingo District",
+        "lat":0.36402,
+        "lon":33.81759,
+        "pop":17300
+    },
+    {
+        "id":232115,
+        "name":"Kasanda",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Mubende District",
+        "lat":0.55667,
+        "lon":31.80222,
+        "pop":17000
+    },
+    {
+        "id":227592,
+        "name":"Ntungamo",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kanungu District",
+        "lat":-0.88333,
+        "lon":29.65,
+        "pop":16915
+    },
+    {
+        "id":13132717,
+        "name":"Nyamunuka",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Ntungamo District",
+        "lat":-0.83487,
+        "lon":30.09216,
+        "pop":16800
+    },
+    {
+        "id":234043,
+        "name":"Busolwe",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Butaleja District",
+        "lat":0.85007,
+        "lon":33.92624,
+        "pop":16800
+    },
+    {
+        "id":13132714,
+        "name":"Kiryandongo Refugee Camp",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kiryandongo District",
+        "lat":1.9399,
+        "lon":32.16605,
+        "pop":16600
+    },
+    {
+        "id":233382,
+        "name":"Gombe",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Gomba District",
+        "lat":0.20333,
+        "lon":32.08806,
+        "pop":16600
+    },
+    {
+        "id":232287,
+        "name":"Kanungu",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kanungu District",
+        "lat":-0.9575,
+        "lon":29.78972,
+        "pop":16600
+    },
+    {
+        "id":234368,
+        "name":"Bukomero",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Kiboga District",
+        "lat":0.6975,
+        "lon":32.02861,
+        "pop":16400
+    },
+    {
+        "id":230370,
+        "name":"Kyarusozi",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kyenjojo District",
+        "lat":0.78417,
+        "lon":30.53111,
+        "pop":16300
+    },
+    {
+        "id":229599,
+        "name":"Lyantonde",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Lyantonde District",
+        "lat":-0.40306,
+        "lon":31.15722,
+        "pop":16300
+    },
+    {
+        "id":229112,
+        "name":"Moroto",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Moroto District",
+        "lat":2.53453,
+        "lon":34.66659,
+        "pop":16300
+    },
+    {
+        "id":7911406,
+        "name":"Manafwa",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Manafwa District",
+        "lat":0.952,
+        "lon":34.27,
+        "pop":16000
+    },
+    {
+        "id":234497,
+        "name":"Buhesi",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kabarole District",
+        "lat":0.58105,
+        "lon":30.21011,
+        "pop":16000
+    },
+    {
+        "id":230348,
+        "name":"Kyazanga",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Lwengo District",
+        "lat":-0.38333,
+        "lon":31.35,
+        "pop":16000
+    },
+    {
+        "id":232619,
+        "name":"Kakumiro",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kakumiro District",
+        "lat":0.78056,
+        "lon":31.32361,
+        "pop":15900
+    },
+    {
+        "id":231670,
+        "name":"Kazo",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kiruhura District",
+        "lat":-0.07444,
+        "lon":30.78528,
+        "pop":15900
+    },
+    {
+        "id":234092,
+        "name":"Busembatia",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Iganga District",
+        "lat":0.77725,
+        "lon":33.62364,
+        "pop":15889
+    },
+    {
+        "id":230476,
+        "name":"Kyamahungu",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Bushenyi District",
+        "lat":-0.45139,
+        "lon":30.11333,
+        "pop":15800
+    },
+    {
+        "id":232137,
+        "name":"Kasambya",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Mubende District",
+        "lat":0.43333,
+        "lon":31.23333,
+        "pop":15700
+    },
+    {
+        "id":232522,
+        "name":"Kalisizo",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Kyotera District",
+        "lat":-0.53639,
+        "lon":31.62139,
+        "pop":15200
+    },
+    {
+        "id":229630,
+        "name":"Lwengo",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Lwengo District",
+        "lat":-0.41611,
+        "lon":31.40806,
+        "pop":15100
+    },
+    {
+        "id":235191,
+        "name":"Amudat",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Amudat District",
+        "lat":1.95,
+        "lon":34.95,
+        "pop":15000
+    },
+    {
+        "id":233315,
+        "name":"Hima",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kasese District",
+        "lat":0.34889,
+        "lon":30.16222,
+        "pop":15000
+    },
+    {
+        "id":231667,
+        "name":"Kebisoni",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Rukungiri District",
+        "lat":-0.92111,
+        "lon":30.03667,
+        "pop":15000
+    },
+    {
+        "id":226695,
+        "name":"Rubaare",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Ntungamo District",
+        "lat":-1.08389,
+        "lon":30.20167,
+        "pop":14900
+    },
+    {
+        "id":13132718,
+        "name":"Pader",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Pader District",
+        "lat":2.88,
+        "lon":33.08714,
+        "pop":14800
+    },
+    {
+        "id":231562,
+        "name":"Kibiito",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Bunyangabu District",
+        "lat":0.47722,
+        "lon":30.1925,
+        "pop":14700
+    },
+    {
+        "id":227778,
+        "name":"Nkoma",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kamwenge District",
+        "lat":0.3,
+        "lon":30.61667,
+        "pop":14400
+    },
+    {
+        "id":228502,
+        "name":"Nagongera",
+        "country":"UG",
+        "admin1":"Eastern Region",
+        "admin2":"Tororo District",
+        "lat":0.7616,
+        "lon":34.02623,
+        "pop":14300
+    },
+    {
+        "id":231103,
+        "name":"Kiruhura",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kiruhura District",
+        "lat":-0.19664,
+        "lon":30.84446,
+        "pop":14000
+    },
+    {
+        "id":448227,
+        "name":"Pader",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Agago District",
+        "lat":3.05,
+        "lon":33.21667,
+        "pop":11600
+    },
+    {
+        "id":233738,
+        "name":"Bweyogerere",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Wakiso District",
+        "lat":0.35773,
+        "lon":32.66332,
+        "pop":11473
+    },
+    {
+        "id":226866,
+        "name":"Pader Palwo",
+        "country":"UG",
+        "admin1":"Northern Region",
+        "admin2":"Agago District",
+        "lat":2.80056,
+        "lon":33.135,
+        "pop":11152
+    },
+    {
+        "id":234259,
+        "name":"Buliisa",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Buliisa District",
+        "lat":2.11781,
+        "lon":31.41163,
+        "pop":9500
+    },
+    {
+        "id":230256,
+        "name":"Kyotera",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Kyotera District",
+        "lat":-0.61556,
+        "lon":31.5175,
+        "pop":8472
+    },
+    {
+        "id":231250,
+        "name":"Kilembe",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kasese District",
+        "lat":0.19835,
+        "lon":30.01302,
+        "pop":7914
+    },
+    {
+        "id":229361,
+        "name":"Masindi Port",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kiryandongo District",
+        "lat":1.69606,
+        "lon":32.08608,
+        "pop":7828
+    },
+    {
+        "id":233725,
+        "name":"Byakabanda",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Rakai District",
+        "lat":-0.7425,
+        "lon":31.40639,
+        "pop":7608
+    },
+    {
+        "id":228418,
+        "name":"Nakasongola",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Nakasongola District",
+        "lat":1.30889,
+        "lon":32.45639,
+        "pop":6921
+    },
+    {
+        "id":231426,
+        "name":"Kigorobya",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Hoima District",
+        "lat":1.6162,
+        "lon":31.3089,
+        "pop":5420
+    },
+    {
+        "id":231617,
+        "name":"Kibale",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kibale District",
+        "lat":0.8,
+        "lon":31.06667,
+        "pop":5200
+    },
+    {
+        "id":226361,
+        "name":"Sembabule",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Sembabule District",
+        "lat":-0.07722,
+        "lon":31.45667,
+        "pop":4320
+    },
+    {
+        "id":228894,
+        "name":"Muhororo",
+        "country":"UG",
+        "admin1":"Western Region",
+        "admin2":"Kagadi District",
+        "lat":0.93806,
+        "lon":30.75944,
+        "pop":1567
+    },
+    {
+        "id":8436310,
+        "name":"Lweeza",
+        "country":"UG",
+        "admin1":"Central Region",
+        "admin2":"Wakiso District",
+        "lat":0.20994,
+        "lon":32.58511,
+        "pop":1000
+    }
+]

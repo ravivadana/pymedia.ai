@@ -1,0 +1,62 @@
+[
+    {
+        "id":2411397,
+        "name":"Georgetown",
+        "country":"SH",
+        "admin1":"Ascension",
+        "admin2":"",
+        "lat":-7.92861,
+        "lon":-14.41194,
+        "pop":5012
+    },
+    {
+        "id":3370726,
+        "name":"Edinburgh of the Seven Seas",
+        "country":"SH",
+        "admin1":"Tristan da Cunha",
+        "admin2":"",
+        "lat":-37.06757,
+        "lon":-12.31155,
+        "pop":2860
+    },
+    {
+        "id":3370936,
+        "name":"Half Tree Hollow",
+        "country":"SH",
+        "admin1":"Saint Helena",
+        "admin2":"",
+        "lat":-15.93723,
+        "lon":-5.71996,
+        "pop":1034
+    },
+    {
+        "id":12718715,
+        "name":"St. Paul's",
+        "country":"SH",
+        "admin1":"Saint Helena",
+        "admin2":"",
+        "lat":-15.94453,
+        "lon":-5.72467,
+        "pop":928
+    },
+    {
+        "id":3370867,
+        "name":"Longwood",
+        "country":"SH",
+        "admin1":"Saint Helena",
+        "admin2":"",
+        "lat":-15.94916,
+        "lon":-5.68571,
+        "pop":765
+    },
+    {
+        "id":3370903,
+        "name":"Jamestown",
+        "country":"SH",
+        "admin1":"Saint Helena",
+        "admin2":"",
+        "lat":-15.92488,
+        "lon":-5.71816,
+        "pop":637
+    }
+]

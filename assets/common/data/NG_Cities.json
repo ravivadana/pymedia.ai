@@ -1,0 +1,4702 @@
+[
+    {
+        "id":2332459,
+        "name":"Lagos",
+        "country":"NG",
+        "admin1":"Lagos",
+        "admin2":"",
+        "lat":6.45407,
+        "lon":3.39467,
+        "pop":15388000
+    },
+    {
+        "id":2335204,
+        "name":"Kano",
+        "country":"NG",
+        "admin1":"Kano State",
+        "admin2":"Kano Municipal",
+        "lat":12.00012,
+        "lon":8.51672,
+        "pop":4910000
+    },
+    {
+        "id":2339354,
+        "name":"Ibadan",
+        "country":"NG",
+        "admin1":"Oyo State",
+        "admin2":"Ibadan North West",
+        "lat":7.37756,
+        "lon":3.90591,
+        "pop":3649000
+    },
+    {
+        "id":2352778,
+        "name":"Abuja",
+        "country":"NG",
+        "admin1":"FCT",
+        "admin2":"Municipal Area Council",
+        "lat":9.05785,
+        "lon":7.49508,
+        "pop":2690000
+    },
+    {
+        "id":2324774,
+        "name":"Port Harcourt",
+        "country":"NG",
+        "admin1":"Rivers State",
+        "admin2":"Port-Harcourt",
+        "lat":4.77742,
+        "lon":7.0134,
+        "pop":2120000
+    },
+    {
+        "id":2335727,
+        "name":"Kaduna",
+        "country":"NG",
+        "admin1":"Kaduna State",
+        "admin2":"Kaduna North",
+        "lat":10.52641,
+        "lon":7.43879,
+        "pop":1850000
+    },
+    {
+        "id":2347283,
+        "name":"Benin City",
+        "country":"NG",
+        "admin1":"Edo State",
+        "admin2":"Oredo",
+        "lat":6.33815,
+        "lon":5.62575,
+        "pop":1782000
+    },
+    {
+        "id":2326016,
+        "name":"Onitsha",
+        "country":"NG",
+        "admin1":"Anambra",
+        "admin2":"Onitsha North",
+        "lat":6.14978,
+        "lon":6.78569,
+        "pop":1553000
+    },
+    {
+        "id":2353151,
+        "name":"Aba",
+        "country":"NG",
+        "admin1":"Abia State",
+        "admin2":"Aba South",
+        "lat":5.10658,
+        "lon":7.36667,
+        "pop":1160000
+    },
+    {
+        "id":2331447,
+        "name":"Maiduguri",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Maiduguri",
+        "lat":11.84692,
+        "lon":13.15712,
+        "pop":1110000
+    },
+    {
+        "id":2337639,
+        "name":"Ilorin",
+        "country":"NG",
+        "admin1":"Kwara State",
+        "admin2":"Ilorin East",
+        "lat":8.49664,
+        "lon":4.54214,
+        "pop":1080000
+    },
+    {
+        "id":2335953,
+        "name":"Jos",
+        "country":"NG",
+        "admin1":"Plateau State",
+        "admin2":"Jos North",
+        "lat":9.92849,
+        "lon":8.89212,
+        "pop":1040000
+    },
+    {
+        "id":2322911,
+        "name":"Sokoto",
+        "country":"NG",
+        "admin1":"Sokoto",
+        "admin2":"Sokoto North",
+        "lat":13.06269,
+        "lon":5.24322,
+        "pop":1040000
+    },
+    {
+        "id":2317765,
+        "name":"Zaria",
+        "country":"NG",
+        "admin1":"Kaduna State",
+        "admin2":"Sabon Gari",
+        "lat":11.11128,
+        "lon":7.7227,
+        "pop":980000
+    },
+    {
+        "id":2343279,
+        "name":"Enugu",
+        "country":"NG",
+        "admin1":"Enugu State",
+        "admin2":"Enugu North",
+        "lat":6.44132,
+        "lon":7.49883,
+        "pop":950000
+    },
+    {
+        "id":2319133,
+        "name":"Warri",
+        "country":"NG",
+        "admin1":"Delta",
+        "admin2":"Warri South",
+        "lat":5.51737,
+        "lon":5.75006,
+        "pop":910000
+    },
+    {
+        "id":2325200,
+        "name":"Oyo",
+        "country":"NG",
+        "admin1":"Oyo State",
+        "admin2":"Oyo West",
+        "lat":7.85367,
+        "lon":3.93235,
+        "pop":736072
+    },
+    {
+        "id":2352947,
+        "name":"Abeokuta",
+        "country":"NG",
+        "admin1":"Ogun State",
+        "admin2":"Abeokuta South",
+        "lat":7.15571,
+        "lon":3.34509,
+        "pop":735000
+    },
+    {
+        "id":2350841,
+        "name":"Akure",
+        "country":"NG",
+        "admin1":"Ondo State",
+        "admin2":"Akure South",
+        "lat":7.25256,
+        "lon":5.19312,
+        "pop":730000
+    },
+    {
+        "id":2347470,
+        "name":"Bauchi",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Bauchi",
+        "lat":10.31032,
+        "lon":9.84388,
+        "pop":693700
+    },
+    {
+        "id":2334802,
+        "name":"Katsina",
+        "country":"NG",
+        "admin1":"Katsina State",
+        "admin2":"Katsina",
+        "lat":12.99082,
+        "lon":7.60177,
+        "pop":670000
+    },
+    {
+        "id":2325590,
+        "name":"Osogbo",
+        "country":"NG",
+        "admin1":"Osun State",
+        "admin2":"Osogbo",
+        "lat":7.77104,
+        "lon":4.55698,
+        "pop":645000
+    },
+    {
+        "id":2340451,
+        "name":"Gombe",
+        "country":"NG",
+        "admin1":"Gombe State",
+        "admin2":"Gombe",
+        "lat":10.28969,
+        "lon":11.16729,
+        "pop":560000
+    },
+    {
+        "id":2338900,
+        "name":"Ile-Ife",
+        "country":"NG",
+        "admin1":"Osun State",
+        "admin2":"Ife Central",
+        "lat":7.4824,
+        "lon":4.56032,
+        "pop":560000
+    },
+    {
+        "id":2566636,
+        "name":"Ajegunle",
+        "country":"NG",
+        "admin1":"Lagos",
+        "admin2":"Ajeromi\/Ifelodun",
+        "lat":6.45197,
+        "lon":3.33115,
+        "pop":550000
+    },
+    {
+        "id":2325330,
+        "name":"Owerri",
+        "country":"NG",
+        "admin1":"Imo State",
+        "admin2":"Owerri Municipal",
+        "lat":5.48363,
+        "lon":7.03325,
+        "pop":545000
+    },
+    {
+        "id":2346229,
+        "name":"Calabar",
+        "country":"NG",
+        "admin1":"Cross River State",
+        "admin2":"Calabar Municipal",
+        "lat":4.95893,
+        "lon":8.32695,
+        "pop":540000
+    },
+    {
+        "id":2344082,
+        "name":"Ebute Ikorodu",
+        "country":"NG",
+        "admin1":"Lagos",
+        "admin2":"Ikorodu",
+        "lat":6.60086,
+        "lon":3.48818,
+        "pop":535619
+    },
+    {
+        "id":2327220,
+        "name":"Okene",
+        "country":"NG",
+        "admin1":"Kogi State",
+        "admin2":"Okene",
+        "lat":7.55122,
+        "lon":6.23589,
+        "pop":479178
+    },
+    {
+        "id":2338325,
+        "name":"Ikare",
+        "country":"NG",
+        "admin1":"Ondo State",
+        "admin2":"Akoko North East",
+        "lat":7.52591,
+        "lon":5.75342,
+        "pop":465000
+    },
+    {
+        "id":2318044,
+        "name":"Yola",
+        "country":"NG",
+        "admin1":"Adamawa",
+        "admin2":"Yola North",
+        "lat":9.20839,
+        "lon":12.48146,
+        "pop":460000
+    },
+    {
+        "id":2319480,
+        "name":"Uyo",
+        "country":"NG",
+        "admin1":"Akwa Ibom State",
+        "admin2":"Uyo",
+        "lat":5.05127,
+        "lon":7.9335,
+        "pop":436606
+    },
+    {
+        "id":2352379,
+        "name":"Ado-Ekiti",
+        "country":"NG",
+        "admin1":"Ekiti State",
+        "admin2":"Ado-Ekiti",
+        "lat":7.62329,
+        "lon":5.22087,
+        "pop":435000
+    },
+    {
+        "id":2327735,
+        "name":"Ogbomoso",
+        "country":"NG",
+        "admin1":"Oyo State",
+        "admin2":"Ogbomosho North",
+        "lat":8.13373,
+        "lon":4.24014,
+        "pop":433030
+    },
+    {
+        "id":2330100,
+        "name":"Minna",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Chanchaga",
+        "lat":9.61524,
+        "lon":6.54776,
+        "pop":425000
+    },
+    {
+        "id":2332121,
+        "name":"Lekki",
+        "country":"NG",
+        "admin1":"Lagos",
+        "admin2":"Ibeju Lekki",
+        "lat":6.41222,
+        "lon":4.0947,
+        "pop":401272
+    },
+    {
+        "id":2347209,
+        "name":"Bida",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Bida",
+        "lat":9.08044,
+        "lon":6.0099,
+        "pop":400000
+    },
+    {
+        "id":2331140,
+        "name":"Makurdi",
+        "country":"NG",
+        "admin1":"Benue State",
+        "admin2":"Markurdi",
+        "lat":7.73375,
+        "lon":8.52139,
+        "pop":390000
+    },
+    {
+        "id":2326171,
+        "name":"Ondo",
+        "country":"NG",
+        "admin1":"Ondo State",
+        "admin2":"Ondo West",
+        "lat":7.09316,
+        "lon":4.83528,
+        "pop":375000
+    },
+    {
+        "id":2320576,
+        "name":"Umuahia",
+        "country":"NG",
+        "admin1":"Abia State",
+        "admin2":"Umuahia North",
+        "lat":5.52491,
+        "lon":7.49461,
+        "pop":370000
+    },
+    {
+        "id":2337181,
+        "name":"Iseyin",
+        "country":"NG",
+        "admin1":"Oyo State",
+        "admin2":"Iseyin",
+        "lat":7.97022,
+        "lon":3.59626,
+        "pop":365300
+    },
+    {
+        "id":2341374,
+        "name":"Gboko",
+        "country":"NG",
+        "admin1":"Benue State",
+        "admin2":"Gboko",
+        "lat":7.32275,
+        "lon":9.00108,
+        "pop":365000
+    },
+    {
+        "id":2318123,
+        "name":"Yenagoa",
+        "country":"NG",
+        "admin1":"Bayelsa State",
+        "admin2":"Yenegoa",
+        "lat":4.92675,
+        "lon":6.26764,
+        "pop":365000
+    },
+    {
+        "id":2338400,
+        "name":"Ijebu Ode",
+        "country":"NG",
+        "admin1":"Ogun State",
+        "admin2":"Ijebu Ode",
+        "lat":6.81944,
+        "lon":3.91731,
+        "pop":360000
+    },
+    {
+        "id":2566633,
+        "name":"Obalende",
+        "country":"NG",
+        "admin1":"Lagos",
+        "admin2":"Eti Osa",
+        "lat":6.44694,
+        "lon":3.41528,
+        "pop":342000
+    },
+    {
+        "id":2337704,
+        "name":"Ilesa",
+        "country":"NG",
+        "admin1":"Osun State",
+        "admin2":"Ilesha West",
+        "lat":7.62789,
+        "lon":4.74161,
+        "pop":325000
+    },
+    {
+        "id":2338313,
+        "name":"Ikeja",
+        "country":"NG",
+        "admin1":"Lagos",
+        "admin2":"Ikeja",
+        "lat":6.59651,
+        "lon":3.34205,
+        "pop":313196
+    },
+    {
+        "id":2566696,
+        "name":"Akowonjo",
+        "country":"NG",
+        "admin1":"Lagos",
+        "admin2":"Agege",
+        "lat":6.61012,
+        "lon":3.30968,
+        "pop":308900
+    },
+    {
+        "id":2566676,
+        "name":"Alimosho",
+        "country":"NG",
+        "admin1":"Lagos",
+        "admin2":"Alimosho",
+        "lat":6.60656,
+        "lon":3.30235,
+        "pop":308290
+    },
+    {
+        "id":2323675,
+        "name":"Sapele",
+        "country":"NG",
+        "admin1":"Delta",
+        "admin2":"Sapele",
+        "lat":5.89405,
+        "lon":5.67666,
+        "pop":305000
+    },
+    {
+        "id":2343983,
+        "name":"Efon-Alaaye",
+        "country":"NG",
+        "admin1":"Ekiti State",
+        "admin2":"Efon",
+        "lat":7.65649,
+        "lon":4.92235,
+        "pop":279319
+    },
+    {
+        "id":2325314,
+        "name":"Owo",
+        "country":"NG",
+        "admin1":"Ondo State",
+        "admin2":"Owo",
+        "lat":7.1962,
+        "lon":5.58681,
+        "pop":276574
+    },
+    {
+        "id":2338106,
+        "name":"Ikot Ekpene",
+        "country":"NG",
+        "admin1":"Akwa Ibom State",
+        "admin2":"Ikot Ekpene",
+        "lat":5.18194,
+        "lon":7.71481,
+        "pop":254806
+    },
+    {
+        "id":2336905,
+        "name":"Iwo",
+        "country":"NG",
+        "admin1":"Osun State",
+        "admin2":"Iwo",
+        "lat":7.63527,
+        "lon":4.18156,
+        "pop":250443
+    },
+    {
+        "id":2336056,
+        "name":"Jimeta",
+        "country":"NG",
+        "admin1":"Adamawa",
+        "admin2":"Girei",
+        "lat":9.27949,
+        "lon":12.45819,
+        "pop":248148
+    },
+    {
+        "id":2349019,
+        "name":"Atani",
+        "country":"NG",
+        "admin1":"Anambra",
+        "admin2":"Ogbaru",
+        "lat":6.01277,
+        "lon":6.74768,
+        "pop":230000
+    },
+    {
+        "id":2350434,
+        "name":"Aliayabiagba",
+        "country":"NG",
+        "admin1":"Lagos",
+        "admin2":"Ajeromi\/Ifelodun",
+        "lat":6.45,
+        "lon":3.33333,
+        "pop":228000
+    },
+    {
+        "id":2339937,
+        "name":"Gusau",
+        "country":"NG",
+        "admin1":"Zamfara State",
+        "admin2":"Gusau",
+        "lat":12.17024,
+        "lon":6.66412,
+        "pop":226857
+    },
+    {
+        "id":2329821,
+        "name":"Mubi",
+        "country":"NG",
+        "admin1":"Adamawa",
+        "admin2":"Mubi North",
+        "lat":10.26858,
+        "lon":13.26701,
+        "pop":225705
+    },
+    {
+        "id":2338273,
+        "name":"Ikire",
+        "country":"NG",
+        "admin1":"Osun State",
+        "admin2":"Irewole",
+        "lat":7.36983,
+        "lon":4.1863,
+        "pop":222160
+    },
+    {
+        "id":2323411,
+        "name":"Shagamu",
+        "country":"NG",
+        "admin1":"Ogun State",
+        "admin2":"Shagamu",
+        "lat":6.8485,
+        "lon":3.64633,
+        "pop":214558
+    },
+    {
+        "id":2320831,
+        "name":"Ugep",
+        "country":"NG",
+        "admin1":"Cross River State",
+        "admin2":"Yakurr",
+        "lat":5.80865,
+        "lon":8.08098,
+        "pop":200276
+    },
+    {
+        "id":12129605,
+        "name":"Chakwama",
+        "country":"NG",
+        "admin1":"Jigawa State",
+        "admin2":"Buji",
+        "lat":11.55965,
+        "lon":9.66407,
+        "pop":200000
+    },
+    {
+        "id":2329660,
+        "name":"Mushin",
+        "country":"NG",
+        "admin1":"Lagos",
+        "admin2":"Mushin",
+        "lat":6.52799,
+        "lon":3.35411,
+        "pop":199000
+    },
+    {
+        "id":2328765,
+        "name":"Nnewi",
+        "country":"NG",
+        "admin1":"Anambra",
+        "admin2":"Nnewi North",
+        "lat":6.01962,
+        "lon":6.91729,
+        "pop":193987
+    },
+    {
+        "id":2322733,
+        "name":"Surulere",
+        "country":"NG",
+        "admin1":"Lagos",
+        "admin2":"Surulere",
+        "lat":6.50153,
+        "lon":3.35808,
+        "pop":191920
+    },
+    {
+        "id":2337207,
+        "name":"Ise-Ekiti",
+        "country":"NG",
+        "admin1":"Ekiti State",
+        "admin2":"Ise\/Orun",
+        "lat":7.46478,
+        "lon":5.42333,
+        "pop":190063
+    },
+    {
+        "id":2337765,
+        "name":"Ila Orangun",
+        "country":"NG",
+        "admin1":"Osun State",
+        "admin2":"Ila",
+        "lat":8.01714,
+        "lon":4.90421,
+        "pop":179192
+    },
+    {
+        "id":2323390,
+        "name":"Saki",
+        "country":"NG",
+        "admin1":"Oyo State",
+        "admin2":"Saki West",
+        "lat":8.66762,
+        "lon":3.39393,
+        "pop":178677
+    },
+    {
+        "id":2325592,
+        "name":"Oshodi",
+        "country":"NG",
+        "admin1":"Lagos",
+        "admin2":"Oshodi\/Isolo",
+        "lat":6.55504,
+        "lon":3.34363,
+        "pop":170870
+    },
+    {
+        "id":2348773,
+        "name":"Awka",
+        "country":"NG",
+        "admin1":"Anambra",
+        "admin2":"Awka South",
+        "lat":6.21269,
+        "lon":7.07199,
+        "pop":167738
+    },
+    {
+        "id":2338385,
+        "name":"Ijero-Ekiti",
+        "country":"NG",
+        "admin1":"Ekiti State",
+        "admin2":"Ijero",
+        "lat":7.81514,
+        "lon":5.06716,
+        "pop":167632
+    },
+    {
+        "id":2337490,
+        "name":"Inisa",
+        "country":"NG",
+        "admin1":"Osun State",
+        "admin2":"Ejigbo",
+        "lat":7.84855,
+        "lon":4.32981,
+        "pop":164161
+    },
+    {
+        "id":2322794,
+        "name":"Suleja",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Suleja",
+        "lat":9.18059,
+        "lon":7.17939,
+        "pop":162135
+    },
+    {
+        "id":2334327,
+        "name":"Kisi",
+        "country":"NG",
+        "admin1":"Oyo State",
+        "admin2":"Irepo",
+        "lat":9.08297,
+        "lon":3.85196,
+        "pop":155510
+    },
+    {
+        "id":2323090,
+        "name":"Shomolu",
+        "country":"NG",
+        "admin1":"Lagos",
+        "admin2":"Shomolu",
+        "lat":6.53891,
+        "lon":3.3742,
+        "pop":154390
+    },
+    {
+        "id":2337313,
+        "name":"Irewe",
+        "country":"NG",
+        "admin1":"Lagos",
+        "admin2":"Ojo",
+        "lat":6.41692,
+        "lon":3.14058,
+        "pop":139494
+    },
+    {
+        "id":2341355,
+        "name":"Gbongan",
+        "country":"NG",
+        "admin1":"Osun State",
+        "admin2":"Aiyedade",
+        "lat":7.47734,
+        "lon":4.35351,
+        "pop":139485
+    },
+    {
+        "id":2343784,
+        "name":"Ejigbo",
+        "country":"NG",
+        "admin1":"Osun State",
+        "admin2":"Ejigbo",
+        "lat":7.90303,
+        "lon":4.31364,
+        "pop":138357
+    },
+    {
+        "id":2342490,
+        "name":"Funtua",
+        "country":"NG",
+        "admin1":"Katsina State",
+        "admin2":"Funtua",
+        "lat":11.52351,
+        "lon":7.31174,
+        "pop":136811
+    },
+    {
+        "id":2338711,
+        "name":"Igboho",
+        "country":"NG",
+        "admin1":"Oyo State",
+        "admin2":"Orelope",
+        "lat":8.83784,
+        "lon":3.75628,
+        "pop":136764
+    },
+    {
+        "id":2346615,
+        "name":"Buguma",
+        "country":"NG",
+        "admin1":"Rivers State",
+        "admin2":"Asari-Toru",
+        "lat":4.73614,
+        "lon":6.86236,
+        "pop":135404
+    },
+    {
+        "id":2338269,
+        "name":"Ikirun",
+        "country":"NG",
+        "admin1":"Osun State",
+        "admin2":"Ifelodun",
+        "lat":7.91283,
+        "lon":4.66741,
+        "pop":134240
+    },
+    {
+        "id":2353099,
+        "name":"Abakaliki",
+        "country":"NG",
+        "admin1":"Ebonyi State",
+        "admin2":"Ebonyi",
+        "lat":6.32485,
+        "lon":8.11368,
+        "pop":134102
+    },
+    {
+        "id":2326899,
+        "name":"Okrika",
+        "country":"NG",
+        "admin1":"Rivers State",
+        "admin2":"Okrika",
+        "lat":4.74215,
+        "lon":7.08368,
+        "pop":133271
+    },
+    {
+        "id":2350249,
+        "name":"Amaigbo",
+        "country":"NG",
+        "admin1":"Abia State",
+        "admin2":"",
+        "lat":5.78917,
+        "lon":7.83829,
+        "pop":127300
+    },
+    {
+        "id":2332515,
+        "name":"Lafia",
+        "country":"NG",
+        "admin1":"Nasarawa State",
+        "admin2":"Lafia",
+        "lat":8.4939,
+        "lon":8.51532,
+        "pop":127236
+    },
+    {
+        "id":2341656,
+        "name":"Gashua",
+        "country":"NG",
+        "admin1":"Yobe State",
+        "admin2":"Barde",
+        "lat":12.87398,
+        "lon":11.04057,
+        "pop":125817
+    },
+    {
+        "id":2330028,
+        "name":"Modakeke",
+        "country":"NG",
+        "admin1":"Osun State",
+        "admin2":"Irewole",
+        "lat":7.38299,
+        "lon":4.26031,
+        "pop":119529
+    },
+    {
+        "id":2347954,
+        "name":"Bama",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Bama",
+        "lat":11.52134,
+        "lon":13.68952,
+        "pop":118121
+    },
+    {
+        "id":2337659,
+        "name":"Ilobu",
+        "country":"NG",
+        "admin1":"Osun State",
+        "admin2":"Irepodun",
+        "lat":7.83879,
+        "lon":4.48672,
+        "pop":118089
+    },
+    {
+        "id":2336589,
+        "name":"Jalingo",
+        "country":"NG",
+        "admin1":"Taraba State",
+        "admin2":"Jalingo",
+        "lat":8.89367,
+        "lon":11.3596,
+        "pop":117757
+    },
+    {
+        "id":2327143,
+        "name":"Okigwe",
+        "country":"NG",
+        "admin1":"Imo State",
+        "admin2":"Okigwe",
+        "lat":5.82917,
+        "lon":7.35056,
+        "pop":115499
+    },
+    {
+        "id":2327879,
+        "name":"Offa",
+        "country":"NG",
+        "admin1":"Kwara State",
+        "admin2":"Offa",
+        "lat":8.14911,
+        "lon":4.72074,
+        "pop":113830
+    },
+    {
+        "id":2343093,
+        "name":"Esuk Oron",
+        "country":"NG",
+        "admin1":"Akwa Ibom State",
+        "admin2":"Oron",
+        "lat":4.80293,
+        "lon":8.25341,
+        "pop":112033
+    },
+    {
+        "id":2328684,
+        "name":"Nsukka",
+        "country":"NG",
+        "admin1":"Enugu State",
+        "admin2":"Nsukka",
+        "lat":6.85783,
+        "lon":7.39577,
+        "pop":111017
+    },
+    {
+        "id":2328952,
+        "name":"Nguru",
+        "country":"NG",
+        "admin1":"Yobe State",
+        "admin2":"Nguru",
+        "lat":12.87695,
+        "lon":10.45536,
+        "pop":111014
+    },
+    {
+        "id":2339631,
+        "name":"Hadejia",
+        "country":"NG",
+        "admin1":"Jigawa State",
+        "admin2":"Hadejia",
+        "lat":12.45347,
+        "lon":10.04115,
+        "pop":110753
+    },
+    {
+        "id":2338403,
+        "name":"Ijebu-Igbo",
+        "country":"NG",
+        "admin1":"Ogun State",
+        "admin2":"Ijebu North",
+        "lat":6.97198,
+        "lon":3.99938,
+        "pop":109261
+    },
+    {
+        "id":2319668,
+        "name":"Uromi",
+        "country":"NG",
+        "admin1":"Edo State",
+        "admin2":"Esan North-East",
+        "lat":6.7,
+        "lon":6.33333,
+        "pop":108608
+    },
+    {
+        "id":2347059,
+        "name":"Birnin Kebbi",
+        "country":"NG",
+        "admin1":"Kebbi",
+        "admin2":"Birnin Kebbi",
+        "lat":12.45389,
+        "lon":4.1975,
+        "pop":108164
+    },
+    {
+        "id":2324857,
+        "name":"Pindiga",
+        "country":"NG",
+        "admin1":"Gombe State",
+        "admin2":"Akko",
+        "lat":9.98433,
+        "lon":10.95229,
+        "pop":106322
+    },
+    {
+        "id":2348595,
+        "name":"Azare",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Katagum",
+        "lat":11.67478,
+        "lon":10.19069,
+        "pop":105687
+    },
+    {
+        "id":2328811,
+        "name":"Nkpor",
+        "country":"NG",
+        "admin1":"Anambra",
+        "admin2":"Idemili North",
+        "lat":6.15038,
+        "lon":6.83042,
+        "pop":103733
+    },
+    {
+        "id":2338287,
+        "name":"Ikere-Ekiti",
+        "country":"NG",
+        "admin1":"Ekiti State",
+        "admin2":"Ikere",
+        "lat":7.49748,
+        "lon":5.23041,
+        "pop":103054
+    },
+    {
+        "id":2332504,
+        "name":"Lafiagi",
+        "country":"NG",
+        "admin1":"Kwara State",
+        "admin2":"Edu",
+        "lat":8.85299,
+        "lon":5.41641,
+        "pop":102779
+    },
+    {
+        "id":2334008,
+        "name":"Kontagora",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Kontagora",
+        "lat":10.40319,
+        "lon":5.4708,
+        "pop":98754
+    },
+    {
+        "id":2333604,
+        "name":"Kuje",
+        "country":"NG",
+        "admin1":"FCT",
+        "admin2":"Kuje",
+        "lat":8.87952,
+        "lon":7.22756,
+        "pop":97367
+    },
+    {
+        "id":2346995,
+        "name":"Biu",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Biu",
+        "lat":10.61285,
+        "lon":12.19458,
+        "pop":95005
+    },
+    {
+        "id":2326302,
+        "name":"Olupona",
+        "country":"NG",
+        "admin1":"Osun State",
+        "admin2":"Aiyedire",
+        "lat":7.60039,
+        "lon":4.19264,
+        "pop":95002
+    },
+    {
+        "id":2332079,
+        "name":"Lere",
+        "country":"NG",
+        "admin1":"Kaduna State",
+        "admin2":"Lere",
+        "lat":10.38584,
+        "lon":8.57286,
+        "pop":93290
+    },
+    {
+        "id":2318921,
+        "name":"Wukari",
+        "country":"NG",
+        "admin1":"Taraba State",
+        "admin2":"Wukari",
+        "lat":7.87139,
+        "lon":9.77786,
+        "pop":92933
+    },
+    {
+        "id":2338669,
+        "name":"Igbo-Ora",
+        "country":"NG",
+        "admin1":"Oyo State",
+        "admin2":"Ibarapa Central",
+        "lat":7.43383,
+        "lon":3.28788,
+        "pop":92719
+    },
+    {
+        "id":2343299,
+        "name":"Emure-Ekiti",
+        "country":"NG",
+        "admin1":"Ekiti State",
+        "admin2":"Emure",
+        "lat":7.43636,
+        "lon":5.45925,
+        "pop":90645
+    },
+    {
+        "id":2337148,
+        "name":"Isieke",
+        "country":"NG",
+        "admin1":"Ebonyi State",
+        "admin2":"Ohaukwu",
+        "lat":6.38186,
+        "lon":8.03736,
+        "pop":89990
+    },
+    {
+        "id":2338876,
+        "name":"Ifo",
+        "country":"NG",
+        "admin1":"Ogun State",
+        "admin2":"Ifo",
+        "lat":6.81491,
+        "lon":3.19518,
+        "pop":88272
+    },
+    {
+        "id":2338630,
+        "name":"Igede-Ekiti",
+        "country":"NG",
+        "admin1":"Ekiti State",
+        "admin2":"Irepodun\/Ifelodun",
+        "lat":7.6685,
+        "lon":5.12627,
+        "pop":87282
+    },
+    {
+        "id":2343985,
+        "name":"Effium",
+        "country":"NG",
+        "admin1":"Ebonyi State",
+        "admin2":"Ohaukwu",
+        "lat":6.63105,
+        "lon":8.05814,
+        "pop":86945
+    },
+    {
+        "id":2339150,
+        "name":"Idanre",
+        "country":"NG",
+        "admin1":"Ondo State",
+        "admin2":"Idanre",
+        "lat":7.1127,
+        "lon":5.1159,
+        "pop":86468
+    },
+    {
+        "id":2324767,
+        "name":"Potiskum",
+        "country":"NG",
+        "admin1":"Yobe State",
+        "admin2":"Potiskum",
+        "lat":11.71391,
+        "lon":11.08108,
+        "pop":86002
+    },
+    {
+        "id":2334652,
+        "name":"Keffi",
+        "country":"NG",
+        "admin1":"Nasarawa State",
+        "admin2":"Keffi",
+        "lat":8.84651,
+        "lon":7.87354,
+        "pop":85911
+    },
+    {
+        "id":2343252,
+        "name":"Epe",
+        "country":"NG",
+        "admin1":"Lagos",
+        "admin2":"Epe",
+        "lat":6.58412,
+        "lon":3.98336,
+        "pop":84711
+    },
+    {
+        "id":2342192,
+        "name":"Gamboru",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Ngala",
+        "lat":12.37299,
+        "lon":14.2069,
+        "pop":84672
+    },
+    {
+        "id":2327827,
+        "name":"Ogaminana",
+        "country":"NG",
+        "admin1":"Kogi State",
+        "admin2":"Adavi",
+        "lat":7.59383,
+        "lon":6.21798,
+        "pop":84373
+    },
+    {
+        "id":2338497,
+        "name":"Ihiala",
+        "country":"NG",
+        "admin1":"Anambra",
+        "admin2":"Ihiala",
+        "lat":5.85475,
+        "lon":6.85944,
+        "pop":83265
+    },
+    {
+        "id":2337352,
+        "name":"Ipoti",
+        "country":"NG",
+        "admin1":"Ekiti State",
+        "admin2":"Ijero",
+        "lat":7.87377,
+        "lon":5.07691,
+        "pop":82113
+    },
+    {
+        "id":2332357,
+        "name":"Lalupon",
+        "country":"NG",
+        "admin1":"Oyo State",
+        "admin2":"Lagelu",
+        "lat":7.46791,
+        "lon":4.06594,
+        "pop":81130
+    },
+    {
+        "id":2320829,
+        "name":"Ughelli",
+        "country":"NG",
+        "admin1":"Delta",
+        "admin2":"Ughelli North",
+        "lat":5.48956,
+        "lon":6.00407,
+        "pop":79986
+    },
+    {
+        "id":2347303,
+        "name":"Bende",
+        "country":"NG",
+        "admin1":"Abia State",
+        "admin2":"Bende",
+        "lat":5.55874,
+        "lon":7.63359,
+        "pop":79618
+    },
+    {
+        "id":2327223,
+        "name":"Oke Mesi",
+        "country":"NG",
+        "admin1":"Osun State",
+        "admin2":"",
+        "lat":7.81667,
+        "lon":4.91667,
+        "pop":79563
+    },
+    {
+        "id":2335713,
+        "name":"Kafanchan",
+        "country":"NG",
+        "admin1":"Kaduna State",
+        "admin2":"Jema'A",
+        "lat":9.58126,
+        "lon":8.2926,
+        "pop":79522
+    },
+    {
+        "id":2338242,
+        "name":"Ikom",
+        "country":"NG",
+        "admin1":"Cross River State",
+        "admin2":"Ikom",
+        "lat":5.96669,
+        "lon":8.70632,
+        "pop":79103
+    },
+    {
+        "id":2351740,
+        "name":"Agulu",
+        "country":"NG",
+        "admin1":"Anambra",
+        "admin2":"Anaocha",
+        "lat":6.10045,
+        "lon":7.061,
+        "pop":79021
+    },
+    {
+        "id":2345096,
+        "name":"Daura",
+        "country":"NG",
+        "admin1":"Yobe State",
+        "admin2":"Fune",
+        "lat":11.5541,
+        "lon":11.406,
+        "pop":78277
+    },
+    {
+        "id":2328617,
+        "name":"Numan",
+        "country":"NG",
+        "admin1":"Adamawa",
+        "admin2":"Numan",
+        "lat":9.46374,
+        "lon":12.03062,
+        "pop":77617
+    },
+    {
+        "id":2335614,
+        "name":"Kagoro",
+        "country":"NG",
+        "admin1":"Kaduna State",
+        "admin2":"Kaura",
+        "lat":9.60776,
+        "lon":8.39043,
+        "pop":77008
+    },
+    {
+        "id":2328090,
+        "name":"Ode",
+        "country":"NG",
+        "admin1":"Ondo State",
+        "admin2":"",
+        "lat":7.7899,
+        "lon":5.7117,
+        "pop":75463
+    },
+    {
+        "id":2338640,
+        "name":"Igbo-Ukwu",
+        "country":"NG",
+        "admin1":"Anambra",
+        "admin2":"Aguata",
+        "lat":6.01798,
+        "lon":7.02027,
+        "pop":75224
+    },
+    {
+        "id":2349529,
+        "name":"Aramoko-Ekiti",
+        "country":"NG",
+        "admin1":"Ekiti State",
+        "admin2":"Ekiti West",
+        "lat":7.70483,
+        "lon":5.04054,
+        "pop":74491
+    },
+    {
+        "id":2338810,
+        "name":"Igbara-Odo",
+        "country":"NG",
+        "admin1":"Ekiti State",
+        "admin2":"Ekiti South-West",
+        "lat":7.50251,
+        "lon":5.06258,
+        "pop":74121
+    },
+    {
+        "id":2325161,
+        "name":"Ozubulu",
+        "country":"NG",
+        "admin1":"Anambra",
+        "admin2":"Ekwusigo",
+        "lat":5.95753,
+        "lon":6.85305,
+        "pop":73812
+    },
+    {
+        "id":2350886,
+        "name":"Aku",
+        "country":"NG",
+        "admin1":"Enugu State",
+        "admin2":"Igbo-Etiti",
+        "lat":6.70902,
+        "lon":7.31826,
+        "pop":73742
+    },
+    {
+        "id":2325249,
+        "name":"Oyan",
+        "country":"NG",
+        "admin1":"Osun State",
+        "admin2":"Odo Otin",
+        "lat":8.05,
+        "lon":4.76667,
+        "pop":73622
+    },
+    {
+        "id":2336237,
+        "name":"Jega",
+        "country":"NG",
+        "admin1":"Kebbi",
+        "admin2":"Jega",
+        "lat":12.22336,
+        "lon":4.37971,
+        "pop":73495
+    },
+    {
+        "id":2349276,
+        "name":"Asaba",
+        "country":"NG",
+        "admin1":"Delta",
+        "admin2":"Oshimili South",
+        "lat":6.19824,
+        "lon":6.73187,
+        "pop":73374
+    },
+    {
+        "id":2327494,
+        "name":"Ohafia-Ifigh",
+        "country":"NG",
+        "admin1":"Abia State",
+        "admin2":"Ohafia",
+        "lat":5.61455,
+        "lon":7.81191,
+        "pop":73355
+    },
+    {
+        "id":2352250,
+        "name":"Afikpo",
+        "country":"NG",
+        "admin1":"Ebonyi State",
+        "admin2":"Afikpo North",
+        "lat":5.89258,
+        "lon":7.93534,
+        "pop":71866
+    },
+    {
+        "id":2349558,
+        "name":"Apomu",
+        "country":"NG",
+        "admin1":"Osun State",
+        "admin2":"Isokan",
+        "lat":7.35156,
+        "lon":4.18335,
+        "pop":71656
+    },
+    {
+        "id":2342628,
+        "name":"Fiditi",
+        "country":"NG",
+        "admin1":"Oyo State",
+        "admin2":"Afijio",
+        "lat":7.71393,
+        "lon":3.91665,
+        "pop":71461
+    },
+    {
+        "id":2325733,
+        "name":"Orita-Eruwa",
+        "country":"NG",
+        "admin1":"Oyo State",
+        "admin2":"Ibarapa East",
+        "lat":7.55632,
+        "lon":3.44107,
+        "pop":71027
+    },
+    {
+        "id":2343822,
+        "name":"Eha Amufu",
+        "country":"NG",
+        "admin1":"Enugu State",
+        "admin2":"Isi-Uzo",
+        "lat":6.65915,
+        "lon":7.75961,
+        "pop":70779
+    },
+    {
+        "id":2331005,
+        "name":"Malumfashi",
+        "country":"NG",
+        "admin1":"Katsina State",
+        "admin2":"Malumfashi",
+        "lat":11.78935,
+        "lon":7.62061,
+        "pop":70709
+    },
+    {
+        "id":2334756,
+        "name":"Kaura Namoda",
+        "country":"NG",
+        "admin1":"Zamfara State",
+        "admin2":"Kaura Namoda",
+        "lat":12.59371,
+        "lon":6.58648,
+        "pop":69725
+    },
+    {
+        "id":2343270,
+        "name":"Enugu-Ukwu",
+        "country":"NG",
+        "admin1":"Anambra",
+        "admin2":"Njikoka",
+        "lat":6.17146,
+        "lon":7.00525,
+        "pop":68785
+    },
+    {
+        "id":2339156,
+        "name":"Idah",
+        "country":"NG",
+        "admin1":"Kogi State",
+        "admin2":"Idah",
+        "lat":7.11345,
+        "lon":6.73866,
+        "pop":68703
+    },
+    {
+        "id":2328185,
+        "name":"Obonoma",
+        "country":"NG",
+        "admin1":"Rivers State",
+        "admin2":"Degema",
+        "lat":4.71131,
+        "lon":6.79084,
+        "pop":68584
+    },
+    {
+        "id":2351979,
+        "name":"Agbor",
+        "country":"NG",
+        "admin1":"Delta",
+        "admin2":"Ika South",
+        "lat":6.25375,
+        "lon":6.1942,
+        "pop":67610
+    },
+    {
+        "id":2342883,
+        "name":"Ezza-Ohu",
+        "country":"NG",
+        "admin1":"Ebonyi State",
+        "admin2":"Ebonyi",
+        "lat":6.44094,
+        "lon":8.08432,
+        "pop":67414
+    },
+    {
+        "id":2320920,
+        "name":"Uga",
+        "country":"NG",
+        "admin1":"Anambra",
+        "admin2":"Aguata",
+        "lat":5.93576,
+        "lon":7.0793,
+        "pop":64179
+    },
+    {
+        "id":2328790,
+        "name":"Nkwerre",
+        "country":"NG",
+        "admin1":"Imo State",
+        "admin2":"Nkwerre",
+        "lat":5.75917,
+        "lon":7.10384,
+        "pop":62973
+    },
+    {
+        "id":2348892,
+        "name":"Auchi",
+        "country":"NG",
+        "admin1":"Edo State",
+        "admin2":"Etsako West",
+        "lat":7.06756,
+        "lon":6.2636,
+        "pop":62907
+    },
+    {
+        "id":2331939,
+        "name":"Lokoja",
+        "country":"NG",
+        "admin1":"Kogi State",
+        "admin2":"Lokoja",
+        "lat":7.79688,
+        "lon":6.74048,
+        "pop":60579
+    },
+    {
+        "id":2343641,
+        "name":"Ekpoma",
+        "country":"NG",
+        "admin1":"Edo State",
+        "admin2":"Esan West",
+        "lat":6.743,
+        "lon":6.14029,
+        "pop":59618
+    },
+    {
+        "id":2338401,
+        "name":"Ijebu-Jesa",
+        "country":"NG",
+        "admin1":"Osun State",
+        "admin2":"Oriade",
+        "lat":7.68287,
+        "lon":4.81769,
+        "pop":51730
+    },
+    {
+        "id":2335843,
+        "name":"Kabba",
+        "country":"NG",
+        "admin1":"Kogi State",
+        "admin2":"Kabba\/Bunu",
+        "lat":7.82719,
+        "lon":6.07502,
+        "pop":49869
+    },
+    {
+        "id":2337759,
+        "name":"Ilaro",
+        "country":"NG",
+        "admin1":"Ogun State",
+        "admin2":"Egbado South",
+        "lat":6.88901,
+        "lon":3.01416,
+        "pop":46999
+    },
+    {
+        "id":2345521,
+        "name":"Damaturu",
+        "country":"NG",
+        "admin1":"Yobe State",
+        "admin2":"Damaturu",
+        "lat":11.74697,
+        "lon":11.96083,
+        "pop":46000
+    },
+    {
+        "id":2349431,
+        "name":"Argungu",
+        "country":"NG",
+        "admin1":"Kebbi",
+        "admin2":"Argungu",
+        "lat":12.74482,
+        "lon":4.52514,
+        "pop":45584
+    },
+    {
+        "id":2340091,
+        "name":"Gumel",
+        "country":"NG",
+        "admin1":"Jigawa State",
+        "admin2":"Gumel",
+        "lat":12.6269,
+        "lon":9.38807,
+        "pop":42742
+    },
+    {
+        "id":2341294,
+        "name":"Geidam",
+        "country":"NG",
+        "admin1":"Yobe State",
+        "admin2":"Geidam",
+        "lat":12.89439,
+        "lon":11.92649,
+        "pop":41367
+    },
+    {
+        "id":2322529,
+        "name":"Talata Mafara",
+        "country":"NG",
+        "admin1":"Zamfara State",
+        "admin2":"Talata Mafara",
+        "lat":12.56841,
+        "lon":6.06225,
+        "pop":39045
+    },
+    {
+        "id":2340086,
+        "name":"Gummi",
+        "country":"NG",
+        "admin1":"Zamfara State",
+        "admin2":"Gummi",
+        "lat":12.14484,
+        "lon":5.11776,
+        "pop":38744
+    },
+    {
+        "id":2325506,
+        "name":"Otan Ayegbaju",
+        "country":"NG",
+        "admin1":"Osun State",
+        "admin2":"Boluwaduro",
+        "lat":7.94783,
+        "lon":4.78836,
+        "pop":37783
+    },
+    {
+        "id":2327650,
+        "name":"Ogoja",
+        "country":"NG",
+        "admin1":"Cross River State",
+        "admin2":"Ogoja",
+        "lat":6.6584,
+        "lon":8.79923,
+        "pop":37466
+    },
+    {
+        "id":2334801,
+        "name":"Katsina-Ala",
+        "country":"NG",
+        "admin1":"Benue State",
+        "admin2":"Katsina-Ala",
+        "lat":7.16938,
+        "lon":9.28465,
+        "pop":36722
+    },
+    {
+        "id":2336985,
+        "name":"Itu",
+        "country":"NG",
+        "admin1":"Akwa Ibom State",
+        "admin2":"Itu",
+        "lat":5.20131,
+        "lon":7.98373,
+        "pop":36358
+    },
+    {
+        "id":2333451,
+        "name":"Kumo",
+        "country":"NG",
+        "admin1":"Gombe State",
+        "admin2":"Akko",
+        "lat":10.04807,
+        "lon":11.21055,
+        "pop":35712
+    },
+    {
+        "id":2327233,
+        "name":"Oke Ila",
+        "country":"NG",
+        "admin1":"Ekiti State",
+        "admin2":"",
+        "lat":7.95,
+        "lon":4.98333,
+        "pop":35000
+    },
+    {
+        "id":2325060,
+        "name":"Pankshin",
+        "country":"NG",
+        "admin1":"Plateau State",
+        "admin2":"Pankshin",
+        "lat":9.32541,
+        "lon":9.4352,
+        "pop":31516
+    },
+    {
+        "id":2329451,
+        "name":"Nasarawa",
+        "country":"NG",
+        "admin1":"Nasarawa State",
+        "admin2":"Nasarawa",
+        "lat":8.53895,
+        "lon":7.70821,
+        "pop":30949
+    },
+    {
+        "id":2335798,
+        "name":"Kachia",
+        "country":"NG",
+        "admin1":"Kaduna State",
+        "admin2":"Kachia",
+        "lat":9.87342,
+        "lon":7.95407,
+        "pop":30893
+    },
+    {
+        "id":2344854,
+        "name":"Dikwa",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Dikwa",
+        "lat":12.03609,
+        "lon":13.91815,
+        "pop":29026
+    },
+    {
+        "id":2329920,
+        "name":"Moriki",
+        "country":"NG",
+        "admin1":"Zamfara State",
+        "admin2":"Zurmi",
+        "lat":12.87405,
+        "lon":6.48754,
+        "pop":28735
+    },
+    {
+        "id":2324960,
+        "name":"Patigi",
+        "country":"NG",
+        "admin1":"Kwara State",
+        "admin2":"Pategi",
+        "lat":8.72851,
+        "lon":5.75561,
+        "pop":28285
+    },
+    {
+        "id":2319257,
+        "name":"Wamba",
+        "country":"NG",
+        "admin1":"Nasarawa State",
+        "admin2":"Wamba",
+        "lat":8.94153,
+        "lon":8.60315,
+        "pop":27137
+    },
+    {
+        "id":2347592,
+        "name":"Baro",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Lapai",
+        "lat":8.61565,
+        "lon":6.4185,
+        "pop":26821
+    },
+    {
+        "id":2326811,
+        "name":"Okuta",
+        "country":"NG",
+        "admin1":"Kwara State",
+        "admin2":"Baruten",
+        "lat":9.21866,
+        "lon":3.20117,
+        "pop":26589
+    },
+    {
+        "id":2347057,
+        "name":"Birnin Kudu",
+        "country":"NG",
+        "admin1":"Jigawa State",
+        "admin2":"Birnin Kudu",
+        "lat":11.45207,
+        "lon":9.47856,
+        "pop":26565
+    },
+    {
+        "id":2348395,
+        "name":"Badagry",
+        "country":"NG",
+        "admin1":"Lagos",
+        "admin2":"Badagry",
+        "lat":6.41502,
+        "lon":2.88132,
+        "pop":26383
+    },
+    {
+        "id":2327513,
+        "name":"Ogwashi-Uku",
+        "country":"NG",
+        "admin1":"Delta",
+        "admin2":"Aniocha South",
+        "lat":6.17811,
+        "lon":6.52461,
+        "pop":26137
+    },
+    {
+        "id":2343720,
+        "name":"Eket",
+        "country":"NG",
+        "admin1":"Akwa Ibom State",
+        "admin2":"Eket",
+        "lat":4.64231,
+        "lon":7.92438,
+        "pop":25569
+    },
+    {
+        "id":2335333,
+        "name":"Kamba",
+        "country":"NG",
+        "admin1":"Kebbi",
+        "admin2":"Dandi",
+        "lat":11.85172,
+        "lon":3.65478,
+        "pop":25568
+    },
+    {
+        "id":2345094,
+        "name":"Daura",
+        "country":"NG",
+        "admin1":"Katsina State",
+        "admin2":"Daura",
+        "lat":13.03299,
+        "lon":8.32351,
+        "pop":25289
+    },
+    {
+        "id":2322552,
+        "name":"Takum",
+        "country":"NG",
+        "admin1":"Benue State",
+        "admin2":"",
+        "lat":7.26667,
+        "lon":9.98333,
+        "pop":24822
+    },
+    {
+        "id":2338772,
+        "name":"Igbeti",
+        "country":"NG",
+        "admin1":"Oyo State",
+        "admin2":"Olorunsogo",
+        "lat":8.74921,
+        "lon":4.13113,
+        "pop":24690
+    },
+    {
+        "id":2317569,
+        "name":"Zungeru",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Wushishi",
+        "lat":9.80726,
+        "lon":6.15238,
+        "pop":24447
+    },
+    {
+        "id":2317548,
+        "name":"Zuru",
+        "country":"NG",
+        "admin1":"Kebbi",
+        "admin2":"Zuru",
+        "lat":11.43522,
+        "lon":5.23494,
+        "pop":24338
+    },
+    {
+        "id":2322263,
+        "name":"Tegina",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Rafi",
+        "lat":10.0706,
+        "lon":6.1906,
+        "pop":24037
+    },
+    {
+        "id":2348783,
+        "name":"Awgu",
+        "country":"NG",
+        "admin1":"Enugu State",
+        "admin2":"Awgu",
+        "lat":6.07278,
+        "lon":7.47739,
+        "pop":23175
+    },
+    {
+        "id":2318933,
+        "name":"Wudil",
+        "country":"NG",
+        "admin1":"Kano State",
+        "admin2":"Wudil",
+        "lat":11.80937,
+        "lon":8.84422,
+        "pop":23066
+    },
+    {
+        "id":2329562,
+        "name":"Nafada",
+        "country":"NG",
+        "admin1":"Gombe State",
+        "admin2":"Nafada",
+        "lat":11.09596,
+        "lon":11.33261,
+        "pop":22920
+    },
+    {
+        "id":2339287,
+        "name":"Ibi",
+        "country":"NG",
+        "admin1":"Taraba State",
+        "admin2":"Ibi",
+        "lat":8.18122,
+        "lon":9.74431,
+        "pop":22757
+    },
+    {
+        "id":2347061,
+        "name":"Sofo-Birnin-Gwari",
+        "country":"NG",
+        "admin1":"Kaduna State",
+        "admin2":"Birnin Gwari",
+        "lat":11.01537,
+        "lon":6.78036,
+        "pop":22380
+    },
+    {
+        "id":2344229,
+        "name":"Dutsen Wai",
+        "country":"NG",
+        "admin1":"Kaduna State",
+        "admin2":"Kuban",
+        "lat":10.85009,
+        "lon":8.199,
+        "pop":22062
+    },
+    {
+        "id":2335596,
+        "name":"Kaiama",
+        "country":"NG",
+        "admin1":"Kwara State",
+        "admin2":"Kaiama",
+        "lat":9.6053,
+        "lon":3.94101,
+        "pop":21897
+    },
+    {
+        "id":2321031,
+        "name":"Ubiaja",
+        "country":"NG",
+        "admin1":"Edo State",
+        "admin2":"Esan South-East",
+        "lat":6.65581,
+        "lon":6.38494,
+        "pop":21782
+    },
+    {
+        "id":2325437,
+        "name":"Otukpa",
+        "country":"NG",
+        "admin1":"Benue State",
+        "admin2":"Ogbadibo",
+        "lat":7.10168,
+        "lon":7.65945,
+        "pop":21686
+    },
+    {
+        "id":2327521,
+        "name":"Oguta",
+        "country":"NG",
+        "admin1":"Imo State",
+        "admin2":"Oguta",
+        "lat":5.71044,
+        "lon":6.80936,
+        "pop":21639
+    },
+    {
+        "id":2345498,
+        "name":"Damboa",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Damboa",
+        "lat":11.15534,
+        "lon":12.75638,
+        "pop":21571
+    },
+    {
+        "id":2336251,
+        "name":"Jebba",
+        "country":"NG",
+        "admin1":"Kwara State",
+        "admin2":"Moro",
+        "lat":9.11972,
+        "lon":4.8236,
+        "pop":21488
+    },
+    {
+        "id":2341758,
+        "name":"Garko",
+        "country":"NG",
+        "admin1":"Gombe State",
+        "admin2":"Akko",
+        "lat":10.17506,
+        "lon":11.16458,
+        "pop":21141
+    },
+    {
+        "id":2329981,
+        "name":"Mokwa",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Mokwa",
+        "lat":9.29482,
+        "lon":5.05412,
+        "pop":21128
+    },
+    {
+        "id":2341580,
+        "name":"Gaya",
+        "country":"NG",
+        "admin1":"Kano State",
+        "admin2":"Gaya",
+        "lat":11.86064,
+        "lon":9.0027,
+        "pop":20959
+    },
+    {
+        "id":2322495,
+        "name":"Tambuwal",
+        "country":"NG",
+        "admin1":"Sokoto",
+        "admin2":"Tambuwal",
+        "lat":12.40592,
+        "lon":4.64605,
+        "pop":20932
+    },
+    {
+        "id":2343512,
+        "name":"Elele",
+        "country":"NG",
+        "admin1":"Rivers State",
+        "admin2":"Ikwerre",
+        "lat":5.1009,
+        "lon":6.81411,
+        "pop":20620
+    },
+    {
+        "id":2329946,
+        "name":"Monguno",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Monguno",
+        "lat":12.67059,
+        "lon":13.61224,
+        "pop":20297
+    },
+    {
+        "id":2332871,
+        "name":"Kwale",
+        "country":"NG",
+        "admin1":"Delta",
+        "admin2":"Ndokwa West",
+        "lat":5.70773,
+        "lon":6.43402,
+        "pop":20226
+    },
+    {
+        "id":2341275,
+        "name":"Gembu",
+        "country":"NG",
+        "admin1":"Taraba State",
+        "admin2":"Sardauna",
+        "lat":6.72556,
+        "lon":11.25652,
+        "pop":19881
+    },
+    {
+        "id":2328151,
+        "name":"Obudu",
+        "country":"NG",
+        "admin1":"Cross River State",
+        "admin2":"Obudu",
+        "lat":6.66819,
+        "lon":9.16453,
+        "pop":19668
+    },
+    {
+        "id":2340446,
+        "name":"Gombi",
+        "country":"NG",
+        "admin1":"Adamawa",
+        "admin2":"Gombi",
+        "lat":10.16756,
+        "lon":12.73684,
+        "pop":19616
+    },
+    {
+        "id":2331528,
+        "name":"Magumeri",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Magumeri",
+        "lat":12.11451,
+        "lon":12.8262,
+        "pop":19363
+    },
+    {
+        "id":2591159,
+        "name":"Degema Hulk",
+        "country":"NG",
+        "admin1":"Rivers State",
+        "admin2":"Abua\/Odual",
+        "lat":4.76145,
+        "lon":6.74957,
+        "pop":19223
+    },
+    {
+        "id":2343273,
+        "name":"Enugu-Ezike",
+        "country":"NG",
+        "admin1":"Enugu State",
+        "admin2":"Igbo-Eze-North",
+        "lat":6.9827,
+        "lon":7.45534,
+        "pop":18989
+    },
+    {
+        "id":2335015,
+        "name":"Kari",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Darazo",
+        "lat":11.2471,
+        "lon":10.561,
+        "pop":18812
+    },
+    {
+        "id":2345152,
+        "name":"Darazo",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Darazo",
+        "lat":10.9992,
+        "lon":10.41062,
+        "pop":18415
+    },
+    {
+        "id":2324575,
+        "name":"Rano",
+        "country":"NG",
+        "admin1":"Kano State",
+        "admin2":"Rano",
+        "lat":11.55684,
+        "lon":8.58065,
+        "pop":17972
+    },
+    {
+        "id":2334306,
+        "name":"Kiyawa",
+        "country":"NG",
+        "admin1":"Jigawa State",
+        "admin2":"Kiyawa",
+        "lat":11.78442,
+        "lon":9.6069,
+        "pop":17704
+    },
+    {
+        "id":2345029,
+        "name":"Deba",
+        "country":"NG",
+        "admin1":"Gombe State",
+        "admin2":"Yamaltu\/Deba",
+        "lat":10.21187,
+        "lon":11.3871,
+        "pop":17671
+    },
+    {
+        "id":2338660,
+        "name":"Igbor",
+        "country":"NG",
+        "admin1":"Benue State",
+        "admin2":"Gwer East",
+        "lat":7.45123,
+        "lon":8.60805,
+        "pop":17666
+    },
+    {
+        "id":2348507,
+        "name":"Babana",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Borgu",
+        "lat":10.42949,
+        "lon":3.81495,
+        "pop":17617
+    },
+    {
+        "id":2343943,
+        "name":"Egbe",
+        "country":"NG",
+        "admin1":"Kogi State",
+        "admin2":"Yagba West",
+        "lat":8.21896,
+        "lon":5.50757,
+        "pop":17612
+    },
+    {
+        "id":2339892,
+        "name":"Gwadabawa",
+        "country":"NG",
+        "admin1":"Sokoto",
+        "admin2":"Gwadabawa",
+        "lat":13.35819,
+        "lon":5.23812,
+        "pop":17486
+    },
+    {
+        "id":2347330,
+        "name":"Beli",
+        "country":"NG",
+        "admin1":"Taraba State",
+        "admin2":"Bali",
+        "lat":7.85868,
+        "lon":10.97187,
+        "pop":17467
+    },
+    {
+        "id":2337680,
+        "name":"Illela",
+        "country":"NG",
+        "admin1":"Sokoto",
+        "admin2":"Illela",
+        "lat":13.73064,
+        "lon":5.29777,
+        "pop":17461
+    },
+    {
+        "id":2344245,
+        "name":"Dutse",
+        "country":"NG",
+        "admin1":"Jigawa State",
+        "admin2":"Dutse",
+        "lat":11.75618,
+        "lon":9.33896,
+        "pop":17129
+    },
+    {
+        "id":2344418,
+        "name":"Dukku",
+        "country":"NG",
+        "admin1":"Gombe State",
+        "admin2":"Dukku",
+        "lat":10.82379,
+        "lon":10.77221,
+        "pop":16961
+    },
+    {
+        "id":2346812,
+        "name":"Bonny",
+        "country":"NG",
+        "admin1":"Rivers State",
+        "admin2":"",
+        "lat":4.4516,
+        "lon":7.17074,
+        "pop":16868
+    },
+    {
+        "id":2346951,
+        "name":"Bode Saadu",
+        "country":"NG",
+        "admin1":"Kwara State",
+        "admin2":"Moro",
+        "lat":8.939,
+        "lon":4.78227,
+        "pop":16619
+    },
+    {
+        "id":2324504,
+        "name":"Rijau",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Rijau",
+        "lat":11.10389,
+        "lon":5.25556,
+        "pop":16613
+    },
+    {
+        "id":2333490,
+        "name":"Kumagunnam",
+        "country":"NG",
+        "admin1":"Yobe State",
+        "admin2":"Yusufari",
+        "lat":13.15498,
+        "lon":10.63468,
+        "pop":16557
+    },
+    {
+        "id":2332249,
+        "name":"Lapai",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Lapai",
+        "lat":9.04439,
+        "lon":6.57089,
+        "pop":16442
+    },
+    {
+        "id":2346317,
+        "name":"Burutu",
+        "country":"NG",
+        "admin1":"Delta",
+        "admin2":"Burutu",
+        "lat":5.35328,
+        "lon":5.50826,
+        "pop":16410
+    },
+    {
+        "id":2339756,
+        "name":"Gwarzo",
+        "country":"NG",
+        "admin1":"Kano State",
+        "admin2":"Gwarzo",
+        "lat":11.91597,
+        "lon":7.9337,
+        "pop":16303
+    },
+    {
+        "id":2333563,
+        "name":"Kukawa",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Guzamala",
+        "lat":12.92475,
+        "lon":13.56617,
+        "pop":16077
+    },
+    {
+        "id":2350806,
+        "name":"Akwanga",
+        "country":"NG",
+        "admin1":"Nasarawa State",
+        "admin2":"Akwanga",
+        "lat":8.91077,
+        "lon":8.40655,
+        "pop":15985
+    },
+    {
+        "id":2347155,
+        "name":"Biliri",
+        "country":"NG",
+        "admin1":"Gombe State",
+        "admin2":"Billiri",
+        "lat":9.86709,
+        "lon":11.22594,
+        "pop":15976
+    },
+    {
+        "id":2337379,
+        "name":"Iperu",
+        "country":"NG",
+        "admin1":"Ogun State",
+        "admin2":"Ikenne",
+        "lat":6.91002,
+        "lon":3.66557,
+        "pop":15935
+    },
+    {
+        "id":2339786,
+        "name":"Gwaram",
+        "country":"NG",
+        "admin1":"Jigawa State",
+        "admin2":"Gwaram",
+        "lat":11.27727,
+        "lon":9.88385,
+        "pop":15806
+    },
+    {
+        "id":2322957,
+        "name":"Soba",
+        "country":"NG",
+        "admin1":"Kaduna State",
+        "admin2":"Soba",
+        "lat":10.98133,
+        "lon":8.05749,
+        "pop":15715
+    },
+    {
+        "id":2330719,
+        "name":"Marte",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Marte",
+        "lat":12.36532,
+        "lon":13.8293,
+        "pop":15707
+    },
+    {
+        "id":2339293,
+        "name":"Ibeto",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Magama",
+        "lat":10.48536,
+        "lon":5.14501,
+        "pop":15565
+    },
+    {
+        "id":2346561,
+        "name":"Bukuru",
+        "country":"NG",
+        "admin1":"Plateau State",
+        "admin2":"Jos South",
+        "lat":9.79399,
+        "lon":8.86397,
+        "pop":15540
+    },
+    {
+        "id":2349951,
+        "name":"Anchau",
+        "country":"NG",
+        "admin1":"Kaduna State",
+        "admin2":"Kuban",
+        "lat":10.96245,
+        "lon":8.39233,
+        "pop":15538
+    },
+    {
+        "id":2352356,
+        "name":"Ado-Odo",
+        "country":"NG",
+        "admin1":"Ogun State",
+        "admin2":"Ado Odo\/Ota",
+        "lat":6.59546,
+        "lon":2.94176,
+        "pop":15442
+    },
+    {
+        "id":2341955,
+        "name":"Ganye",
+        "country":"NG",
+        "admin1":"Adamawa",
+        "admin2":"Ganye",
+        "lat":8.43497,
+        "lon":12.05107,
+        "pop":15178
+    },
+    {
+        "id":2339665,
+        "name":"Gwoza",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Gwoza",
+        "lat":11.08313,
+        "lon":13.69595,
+        "pop":15176
+    },
+    {
+        "id":2351470,
+        "name":"Ajaokuta",
+        "country":"NG",
+        "admin1":"Kogi State",
+        "admin2":"Ajaokuta",
+        "lat":7.56229,
+        "lon":6.65497,
+        "pop":15144
+    },
+    {
+        "id":2344600,
+        "name":"Doma",
+        "country":"NG",
+        "admin1":"Nasarawa State",
+        "admin2":"Doma",
+        "lat":8.39307,
+        "lon":8.35544,
+        "pop":15097
+    },
+    {
+        "id":2337235,
+        "name":"Isanlu-Itedoijowa",
+        "country":"NG",
+        "admin1":"Kogi State",
+        "admin2":"Yagba East",
+        "lat":8.27338,
+        "lon":5.83526,
+        "pop":15087
+    },
+    {
+        "id":2320966,
+        "name":"Udi",
+        "country":"NG",
+        "admin1":"Enugu State",
+        "admin2":"Udi",
+        "lat":6.31592,
+        "lon":7.42086,
+        "pop":14998
+    },
+    {
+        "id":2339170,
+        "name":"Icheu",
+        "country":"NG",
+        "admin1":"Kogi State",
+        "admin2":"Bassa",
+        "lat":7.7067,
+        "lon":6.7718,
+        "pop":14704
+    },
+    {
+        "id":2338840,
+        "name":"Igarra",
+        "country":"NG",
+        "admin1":"Edo State",
+        "admin2":"Akoko-Edo",
+        "lat":7.29366,
+        "lon":6.10432,
+        "pop":14647
+    },
+    {
+        "id":2349788,
+        "name":"Ankpa",
+        "country":"NG",
+        "admin1":"Kogi State",
+        "admin2":"Ankpa",
+        "lat":7.40249,
+        "lon":7.63196,
+        "pop":14630
+    },
+    {
+        "id":2332080,
+        "name":"Lere",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Tafawa-Balewa",
+        "lat":9.71052,
+        "lon":9.34029,
+        "pop":14620
+    },
+    {
+        "id":2326200,
+        "name":"Omu-Aran",
+        "country":"NG",
+        "admin1":"Kwara State",
+        "admin2":"Irepodun",
+        "lat":8.13385,
+        "lon":5.10029,
+        "pop":14477
+    },
+    {
+        "id":2324460,
+        "name":"Ringim",
+        "country":"NG",
+        "admin1":"Jigawa State",
+        "admin2":"Ringim",
+        "lat":12.15143,
+        "lon":9.16216,
+        "pop":14463
+    },
+    {
+        "id":2318238,
+        "name":"Yashikira",
+        "country":"NG",
+        "admin1":"Kwara State",
+        "admin2":"Baruten",
+        "lat":9.76794,
+        "lon":3.398,
+        "pop":14454
+    },
+    {
+        "id":2336137,
+        "name":"Jibia",
+        "country":"NG",
+        "admin1":"Katsina State",
+        "admin2":"Jibia",
+        "lat":13.09378,
+        "lon":7.22624,
+        "pop":14424
+    },
+    {
+        "id":2335500,
+        "name":"Kajuru",
+        "country":"NG",
+        "admin1":"Kaduna State",
+        "admin2":"Kajuru",
+        "lat":10.32281,
+        "lon":7.68462,
+        "pop":14389
+    },
+    {
+        "id":2341641,
+        "name":"Gassol",
+        "country":"NG",
+        "admin1":"Taraba State",
+        "admin2":"Gassol",
+        "lat":8.53535,
+        "lon":10.44615,
+        "pop":14326
+    },
+    {
+        "id":2323344,
+        "name":"Shani",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Shani",
+        "lat":10.21824,
+        "lon":12.06059,
+        "pop":14305
+    },
+    {
+        "id":2346805,
+        "name":"Ugbokpo",
+        "country":"NG",
+        "admin1":"Benue State",
+        "admin2":"Apa",
+        "lat":7.65321,
+        "lon":7.8841,
+        "pop":14218
+    },
+    {
+        "id":2345172,
+        "name":"Dapchi",
+        "country":"NG",
+        "admin1":"Yobe State",
+        "admin2":"Borsari",
+        "lat":12.49536,
+        "lon":11.49977,
+        "pop":14077
+    },
+    {
+        "id":2329087,
+        "name":"Ngala",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Ngala",
+        "lat":12.34053,
+        "lon":14.1867,
+        "pop":14031
+    },
+    {
+        "id":2330082,
+        "name":"Misau",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Misau",
+        "lat":11.3137,
+        "lon":10.46664,
+        "pop":13957
+    },
+    {
+        "id":2342125,
+        "name":"Gandi",
+        "country":"NG",
+        "admin1":"Sokoto",
+        "admin2":"Rabah",
+        "lat":12.96358,
+        "lon":5.74337,
+        "pop":13940
+    },
+    {
+        "id":2351850,
+        "name":"Ago-Are",
+        "country":"NG",
+        "admin1":"Oyo State",
+        "admin2":"Atisbo",
+        "lat":8.50498,
+        "lon":3.42125,
+        "pop":13919
+    },
+    {
+        "id":2325821,
+        "name":"Ore",
+        "country":"NG",
+        "admin1":"Ondo State",
+        "admin2":"Odigbo",
+        "lat":6.74716,
+        "lon":4.8761,
+        "pop":13905
+    },
+    {
+        "id":2319642,
+        "name":"Uruobo-Okija",
+        "country":"NG",
+        "admin1":"Anambra",
+        "admin2":"Ihiala",
+        "lat":5.90016,
+        "lon":6.84312,
+        "pop":13898
+    },
+    {
+        "id":2345526,
+        "name":"Damasak",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Mobbar",
+        "lat":13.10518,
+        "lon":12.50854,
+        "pop":13874
+    },
+    {
+        "id":2342199,
+        "name":"Gamawa",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Gamawa",
+        "lat":12.13379,
+        "lon":10.53785,
+        "pop":13549
+    },
+    {
+        "id":2323579,
+        "name":"Sauri",
+        "country":"NG",
+        "admin1":"Zamfara State",
+        "admin2":"Tsafe",
+        "lat":11.72655,
+        "lon":6.78374,
+        "pop":13445
+    },
+    {
+        "id":2334044,
+        "name":"Konduga",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Konduga",
+        "lat":11.65331,
+        "lon":13.41787,
+        "pop":13400
+    },
+    {
+        "id":2344804,
+        "name":"Dindima",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Bauchi",
+        "lat":10.22629,
+        "lon":10.15132,
+        "pop":13356
+    },
+    {
+        "id":2338334,
+        "name":"Ikang",
+        "country":"NG",
+        "admin1":"Cross River State",
+        "admin2":"Akpabuyo",
+        "lat":4.78978,
+        "lon":8.5316,
+        "pop":13305
+    },
+    {
+        "id":2318166,
+        "name":"Yelwa",
+        "country":"NG",
+        "admin1":"Plateau State",
+        "admin2":"Shendam",
+        "lat":8.83333,
+        "lon":9.63333,
+        "pop":13234
+    },
+    {
+        "id":2332280,
+        "name":"Langtang",
+        "country":"NG",
+        "admin1":"Plateau State",
+        "admin2":"Langtang North",
+        "lat":9.14164,
+        "lon":9.79101,
+        "pop":13172
+    },
+    {
+        "id":2334674,
+        "name":"Kazaure",
+        "country":"NG",
+        "admin1":"Jigawa State",
+        "admin2":"Kazaure",
+        "lat":12.64846,
+        "lon":8.41178,
+        "pop":13169
+    },
+    {
+        "id":2318858,
+        "name":"Wurno",
+        "country":"NG",
+        "admin1":"Sokoto",
+        "admin2":"Wurno",
+        "lat":13.29048,
+        "lon":5.42373,
+        "pop":13087
+    },
+    {
+        "id":2333606,
+        "name":"Kujama",
+        "country":"NG",
+        "admin1":"Kaduna State",
+        "admin2":"Chikun",
+        "lat":10.45767,
+        "lon":7.63808,
+        "pop":12967
+    },
+    {
+        "id":2327236,
+        "name":"Okeho",
+        "country":"NG",
+        "admin1":"Oyo State",
+        "admin2":"Kajola",
+        "lat":8.03453,
+        "lon":3.34759,
+        "pop":12964
+    },
+    {
+        "id":2331715,
+        "name":"Madagali",
+        "country":"NG",
+        "admin1":"Adamawa",
+        "admin2":"Madagali",
+        "lat":10.88942,
+        "lon":13.62832,
+        "pop":12919
+    },
+    {
+        "id":2328153,
+        "name":"Obubra",
+        "country":"NG",
+        "admin1":"Cross River State",
+        "admin2":"Obubra",
+        "lat":6.07672,
+        "lon":8.33241,
+        "pop":12885
+    },
+    {
+        "id":2351657,
+        "name":"Ahoada",
+        "country":"NG",
+        "admin1":"Rivers State",
+        "admin2":"Ahoada East",
+        "lat":5.0828,
+        "lon":6.64981,
+        "pop":12848
+    },
+    {
+        "id":2346896,
+        "name":"Boju",
+        "country":"NG",
+        "admin1":"Benue State",
+        "admin2":"Ohimini",
+        "lat":7.35572,
+        "lon":7.89303,
+        "pop":12814
+    },
+    {
+        "id":2351927,
+        "name":"Agenebode",
+        "country":"NG",
+        "admin1":"Edo State",
+        "admin2":"Etsako East",
+        "lat":7.10512,
+        "lon":6.69381,
+        "pop":12730
+    },
+    {
+        "id":2351461,
+        "name":"Ajasse Ipo",
+        "country":"NG",
+        "admin1":"Kwara State",
+        "admin2":"Irepodun",
+        "lat":8.23333,
+        "lon":4.81667,
+        "pop":12718
+    },
+    {
+        "id":2324281,
+        "name":"Runka",
+        "country":"NG",
+        "admin1":"Katsina State",
+        "admin2":"Safana",
+        "lat":12.44788,
+        "lon":7.30918,
+        "pop":12665
+    },
+    {
+        "id":2332197,
+        "name":"Lau",
+        "country":"NG",
+        "admin1":"Taraba State",
+        "admin2":"Lau",
+        "lat":9.20827,
+        "lon":11.27541,
+        "pop":12657
+    },
+    {
+        "id":2334649,
+        "name":"Kafin Hausa",
+        "country":"NG",
+        "admin1":"Jigawa State",
+        "admin2":"Kafin Hausa",
+        "lat":12.23933,
+        "lon":9.91105,
+        "pop":12609
+    },
+    {
+        "id":2348118,
+        "name":"Bakori",
+        "country":"NG",
+        "admin1":"Katsina State",
+        "admin2":"Bakori",
+        "lat":11.55559,
+        "lon":7.42419,
+        "pop":12604
+    },
+    {
+        "id":2344217,
+        "name":"Dutsin-Ma",
+        "country":"NG",
+        "admin1":"Katsina State",
+        "admin2":"Dutsin Ma",
+        "lat":12.45392,
+        "lon":7.49723,
+        "pop":12595
+    },
+    {
+        "id":2353100,
+        "name":"Abak",
+        "country":"NG",
+        "admin1":"Akwa Ibom State",
+        "admin2":"Abak",
+        "lat":4.98236,
+        "lon":7.78922,
+        "pop":12562
+    },
+    {
+        "id":2345643,
+        "name":"Dakingari",
+        "country":"NG",
+        "admin1":"Kebbi",
+        "admin2":"Suru",
+        "lat":11.64809,
+        "lon":4.06177,
+        "pop":12558
+    },
+    {
+        "id":2346887,
+        "name":"Bokkos",
+        "country":"NG",
+        "admin1":"Plateau State",
+        "admin2":"Bokkos",
+        "lat":9.29921,
+        "lon":8.99467,
+        "pop":12538
+    },
+    {
+        "id":2340350,
+        "name":"Gorgoram",
+        "country":"NG",
+        "admin1":"Yobe State",
+        "admin2":"Jakusko",
+        "lat":12.63958,
+        "lon":10.70422,
+        "pop":12470
+    },
+    {
+        "id":2317818,
+        "name":"Zango",
+        "country":"NG",
+        "admin1":"Katsina State",
+        "admin2":"Zango",
+        "lat":13.05313,
+        "lon":8.48574,
+        "pop":12371
+    },
+    {
+        "id":2345349,
+        "name":"Dange",
+        "country":"NG",
+        "admin1":"Sokoto",
+        "admin2":"Dange-Shuni",
+        "lat":12.85313,
+        "lon":5.34572,
+        "pop":12369
+    },
+    {
+        "id":2335369,
+        "name":"Kaltungo",
+        "country":"NG",
+        "admin1":"Gombe State",
+        "admin2":"Kaltungo",
+        "lat":9.81998,
+        "lon":11.30871,
+        "pop":12357
+    },
+    {
+        "id":2350027,
+        "name":"Amper",
+        "country":"NG",
+        "admin1":"Plateau State",
+        "admin2":"Kanke",
+        "lat":9.35509,
+        "lon":9.70121,
+        "pop":12212
+    },
+    {
+        "id":2330087,
+        "name":"Miringa",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Biu",
+        "lat":10.73115,
+        "lon":12.14626,
+        "pop":12117
+    },
+    {
+        "id":2317887,
+        "name":"Zalanga",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Ganjuwa",
+        "lat":10.61432,
+        "lon":10.17647,
+        "pop":12070
+    },
+    {
+        "id":2319407,
+        "name":"Vom",
+        "country":"NG",
+        "admin1":"Plateau State",
+        "admin2":"Jos South",
+        "lat":9.7291,
+        "lon":8.79138,
+        "pop":12000
+    },
+    {
+        "id":2328276,
+        "name":"Obiaruku",
+        "country":"NG",
+        "admin1":"Delta",
+        "admin2":"Ukwuani",
+        "lat":5.84672,
+        "lon":6.1529,
+        "pop":11936
+    },
+    {
+        "id":2331694,
+        "name":"Madala",
+        "country":"NG",
+        "admin1":"FCT",
+        "admin2":"Gwagwalada",
+        "lat":9.10444,
+        "lon":7.21333,
+        "pop":11771
+    },
+    {
+        "id":2321926,
+        "name":"Toungo",
+        "country":"NG",
+        "admin1":"Adamawa",
+        "admin2":"Teungo",
+        "lat":8.11733,
+        "lon":12.04611,
+        "pop":11759
+    },
+    {
+        "id":2352175,
+        "name":"Agaie",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Agaie",
+        "lat":9.0085,
+        "lon":6.31821,
+        "pop":11742
+    },
+    {
+        "id":2330589,
+        "name":"Machina",
+        "country":"NG",
+        "admin1":"Yobe State",
+        "admin2":"Machina",
+        "lat":13.13639,
+        "lon":10.04924,
+        "pop":11707
+    },
+    {
+        "id":2329639,
+        "name":"Mutum Biyu",
+        "country":"NG",
+        "admin1":"Taraba State",
+        "admin2":"Gassol",
+        "lat":8.64138,
+        "lon":10.77355,
+        "pop":11702
+    },
+    {
+        "id":2335568,
+        "name":"Kangiwa",
+        "country":"NG",
+        "admin1":"Kebbi",
+        "admin2":"Arewa Dandi",
+        "lat":12.55339,
+        "lon":3.81814,
+        "pop":11701
+    },
+    {
+        "id":2346800,
+        "name":"Bori",
+        "country":"NG",
+        "admin1":"Rivers State",
+        "admin2":"Khana",
+        "lat":4.67629,
+        "lon":7.36519,
+        "pop":11693
+    },
+    {
+        "id":2346322,
+        "name":"Burumburum",
+        "country":"NG",
+        "admin1":"Kaduna State",
+        "admin2":"",
+        "lat":11.39106,
+        "lon":8.72341,
+        "pop":11689
+    },
+    {
+        "id":2347758,
+        "name":"Bara",
+        "country":"NG",
+        "admin1":"Gombe State",
+        "admin2":"",
+        "lat":10.37444,
+        "lon":10.72884,
+        "pop":11673
+    },
+    {
+        "id":2340404,
+        "name":"Goniri",
+        "country":"NG",
+        "admin1":"Yobe State",
+        "admin2":"Gujba",
+        "lat":11.48451,
+        "lon":12.31264,
+        "pop":11673
+    },
+    {
+        "id":2321057,
+        "name":"Uba",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Askira-Uba",
+        "lat":10.45509,
+        "lon":13.22233,
+        "pop":11648
+    },
+    {
+        "id":2349797,
+        "name":"Anka",
+        "country":"NG",
+        "admin1":"Zamfara State",
+        "admin2":"Anka",
+        "lat":12.11347,
+        "lon":5.92681,
+        "pop":11641
+    },
+    {
+        "id":2326221,
+        "name":"Omoku",
+        "country":"NG",
+        "admin1":"Rivers State",
+        "admin2":"Ogba\/Egbema\/Ndoni",
+        "lat":5.34388,
+        "lon":6.65684,
+        "pop":11625
+    },
+    {
+        "id":2335709,
+        "name":"Kafarati",
+        "country":"NG",
+        "admin1":"Gombe State",
+        "admin2":"Kwami",
+        "lat":10.38304,
+        "lon":11.09567,
+        "pop":11535
+    },
+    {
+        "id":2347109,
+        "name":"Bin Yauri",
+        "country":"NG",
+        "admin1":"Kebbi",
+        "admin2":"Ngaski",
+        "lat":10.7823,
+        "lon":4.81135,
+        "pop":11501
+    },
+    {
+        "id":2330717,
+        "name":"Maru",
+        "country":"NG",
+        "admin1":"Zamfara State",
+        "admin2":"Maru",
+        "lat":12.3336,
+        "lon":6.40372,
+        "pop":11496
+    },
+    {
+        "id":2342340,
+        "name":"Gagarawa",
+        "country":"NG",
+        "admin1":"Jigawa State",
+        "admin2":"Gagarawa",
+        "lat":12.40848,
+        "lon":9.52881,
+        "pop":11450
+    },
+    {
+        "id":2340170,
+        "name":"Gujba",
+        "country":"NG",
+        "admin1":"Yobe State",
+        "admin2":"Gujba",
+        "lat":11.49959,
+        "lon":11.93396,
+        "pop":11359
+    },
+    {
+        "id":2325902,
+        "name":"Opi",
+        "country":"NG",
+        "admin1":"Enugu State",
+        "admin2":"Nsukka",
+        "lat":6.78223,
+        "lon":7.43319,
+        "pop":11237
+    },
+    {
+        "id":2331037,
+        "name":"Mallammaduri",
+        "country":"NG",
+        "admin1":"Jigawa State",
+        "admin2":"Malam Maduri",
+        "lat":12.56427,
+        "lon":9.95727,
+        "pop":11156
+    },
+    {
+        "id":2346734,
+        "name":"Twon-Brass",
+        "country":"NG",
+        "admin1":"Bayelsa State",
+        "admin2":"",
+        "lat":4.31231,
+        "lon":6.24091,
+        "pop":11122
+    },
+    {
+        "id":2344981,
+        "name":"Dekina",
+        "country":"NG",
+        "admin1":"Kogi State",
+        "admin2":"Dekina",
+        "lat":7.68967,
+        "lon":7.0438,
+        "pop":11067
+    },
+    {
+        "id":2347383,
+        "name":"Bebeji",
+        "country":"NG",
+        "admin1":"Kano State",
+        "admin2":"Bebeji",
+        "lat":11.66768,
+        "lon":8.262,
+        "pop":10987
+    },
+    {
+        "id":2349360,
+        "name":"Arochukwu",
+        "country":"NG",
+        "admin1":"Abia State",
+        "admin2":"Arochukwu",
+        "lat":5.38941,
+        "lon":7.91235,
+        "pop":10776
+    },
+    {
+        "id":2322592,
+        "name":"Takai",
+        "country":"NG",
+        "admin1":"Kano State",
+        "admin2":"Takai",
+        "lat":11.57569,
+        "lon":9.1088,
+        "pop":10748
+    },
+    {
+        "id":2325032,
+        "name":"Panyam",
+        "country":"NG",
+        "admin1":"Plateau State",
+        "admin2":"Mangu",
+        "lat":9.40756,
+        "lon":9.21481,
+        "pop":10715
+    },
+    {
+        "id":2333884,
+        "name":"Koton-Karfe",
+        "country":"NG",
+        "admin1":"Kogi State",
+        "admin2":"Kogi",
+        "lat":8.08834,
+        "lon":6.79876,
+        "pop":10709
+    },
+    {
+        "id":2334861,
+        "name":"Katagum",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Zaki",
+        "lat":12.28507,
+        "lon":10.35027,
+        "pop":10602
+    },
+    {
+        "id":2317899,
+        "name":"Zaki Biam",
+        "country":"NG",
+        "admin1":"Benue State",
+        "admin2":"Ukum",
+        "lat":7.50671,
+        "lon":9.6104,
+        "pop":10470
+    },
+    {
+        "id":2340323,
+        "name":"Goronyo",
+        "country":"NG",
+        "admin1":"Sokoto",
+        "admin2":"Goronyo",
+        "lat":13.44226,
+        "lon":5.67234,
+        "pop":10460
+    },
+    {
+        "id":2343057,
+        "name":"Etinan",
+        "country":"NG",
+        "admin1":"Akwa Ibom State",
+        "admin2":"Etinan",
+        "lat":4.84262,
+        "lon":7.85252,
+        "pop":10318
+    },
+    {
+        "id":2350436,
+        "name":"Aliade",
+        "country":"NG",
+        "admin1":"Benue State",
+        "admin2":"Gwer East",
+        "lat":7.29627,
+        "lon":8.48278,
+        "pop":10292
+    },
+    {
+        "id":2319078,
+        "name":"Wawa",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Borgu",
+        "lat":9.90347,
+        "lon":4.40816,
+        "pop":10200
+    },
+    {
+        "id":2342439,
+        "name":"Gabarin",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Darazo",
+        "lat":11.1093,
+        "lon":10.4441,
+        "pop":10160
+    },
+    {
+        "id":2339811,
+        "name":"Gwandu",
+        "country":"NG",
+        "admin1":"Kebbi",
+        "admin2":"Gwandu",
+        "lat":12.50204,
+        "lon":4.64295,
+        "pop":10018
+    },
+    {
+        "id":2331686,
+        "name":"Madara",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Katagum",
+        "lat":11.7798,
+        "lon":10.4479,
+        "pop":10015
+    },
+    {
+        "id":2331267,
+        "name":"Maiyama",
+        "country":"NG",
+        "admin1":"Kebbi",
+        "admin2":"Maiyama",
+        "lat":12.08225,
+        "lon":4.36907,
+        "pop":10014
+    },
+    {
+        "id":2319345,
+        "name":"Wagini",
+        "country":"NG",
+        "admin1":"Katsina State",
+        "admin2":"Batsari",
+        "lat":12.68781,
+        "lon":7.19579,
+        "pop":9986
+    },
+    {
+        "id":2346632,
+        "name":"Buga",
+        "country":"NG",
+        "admin1":"Nasarawa State",
+        "admin2":"Toto",
+        "lat":8.4834,
+        "lon":7.32612,
+        "pop":9913
+    },
+    {
+        "id":2347279,
+        "name":"Benisheikh",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Kaga",
+        "lat":11.80919,
+        "lon":12.49151,
+        "pop":9825
+    },
+    {
+        "id":2343073,
+        "name":"Ete",
+        "country":"NG",
+        "admin1":"Enugu State",
+        "admin2":"Igbo-Eze-North",
+        "lat":7.08956,
+        "lon":7.45341,
+        "pop":9805
+    },
+    {
+        "id":2348298,
+        "name":"Bugana",
+        "country":"NG",
+        "admin1":"Kogi State",
+        "admin2":"Omala",
+        "lat":7.99917,
+        "lon":7.58361,
+        "pop":9737
+    },
+    {
+        "id":2345306,
+        "name":"Danja",
+        "country":"NG",
+        "admin1":"Katsina State",
+        "admin2":"Danja",
+        "lat":11.3771,
+        "lon":7.56097,
+        "pop":9736
+    },
+    {
+        "id":2335219,
+        "name":"Kankara",
+        "country":"NG",
+        "admin1":"Katsina State",
+        "admin2":"Kankara",
+        "lat":11.93114,
+        "lon":7.41115,
+        "pop":9609
+    },
+    {
+        "id":2350259,
+        "name":"Amagunze",
+        "country":"NG",
+        "admin1":"Enugu State",
+        "admin2":"Nkanu East",
+        "lat":6.33063,
+        "lon":7.65247,
+        "pop":9598
+    },
+    {
+        "id":2350592,
+        "name":"Alapa",
+        "country":"NG",
+        "admin1":"Oyo State",
+        "admin2":"",
+        "lat":8.61667,
+        "lon":4.38333,
+        "pop":9584
+    },
+    {
+        "id":2317982,
+        "name":"Yuli",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Alkaleri",
+        "lat":9.69707,
+        "lon":10.2735,
+        "pop":9549
+    },
+    {
+        "id":2333312,
+        "name":"Kura",
+        "country":"NG",
+        "admin1":"Kano State",
+        "admin2":"Kura",
+        "lat":11.77232,
+        "lon":8.42631,
+        "pop":9537
+    },
+    {
+        "id":2346199,
+        "name":"Tsafe",
+        "country":"NG",
+        "admin1":"Zamfara State",
+        "admin2":"Tsafe",
+        "lat":11.95775,
+        "lon":6.92083,
+        "pop":9367
+    },
+    {
+        "id":2325725,
+        "name":"Orlu",
+        "country":"NG",
+        "admin1":"Imo State",
+        "admin2":"Orlu",
+        "lat":5.79565,
+        "lon":7.03513,
+        "pop":9351
+    },
+    {
+        "id":2347041,
+        "name":"Birniwa",
+        "country":"NG",
+        "admin1":"Jigawa State",
+        "admin2":"Biriniwa",
+        "lat":12.7907,
+        "lon":10.23614,
+        "pop":9334
+    },
+    {
+        "id":2323146,
+        "name":"Shinkafi",
+        "country":"NG",
+        "admin1":"Zamfara State",
+        "admin2":"Shinkafi",
+        "lat":13.07296,
+        "lon":6.50574,
+        "pop":9324
+    },
+    {
+        "id":2343776,
+        "name":"Ejirin",
+        "country":"NG",
+        "admin1":"Lagos",
+        "admin2":"Epe",
+        "lat":6.61423,
+        "lon":3.90019,
+        "pop":9204
+    },
+    {
+        "id":2339468,
+        "name":"Holma",
+        "country":"NG",
+        "admin1":"Adamawa",
+        "admin2":"Maiha",
+        "lat":9.89863,
+        "lon":13.0545,
+        "pop":9199
+    },
+    {
+        "id":2318534,
+        "name":"Wuyo",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Bayo",
+        "lat":10.38522,
+        "lon":11.69678,
+        "pop":9189
+    },
+    {
+        "id":2338908,
+        "name":"Ifaki",
+        "country":"NG",
+        "admin1":"Ekiti State",
+        "admin2":"Ido-Osi",
+        "lat":7.78942,
+        "lon":5.24852,
+        "pop":9185
+    },
+    {
+        "id":2327523,
+        "name":"Ogurugu",
+        "country":"NG",
+        "admin1":"Kogi State",
+        "admin2":"",
+        "lat":6.78636,
+        "lon":6.95017,
+        "pop":9135
+    },
+    {
+        "id":2332733,
+        "name":"Kwatarkwashi",
+        "country":"NG",
+        "admin1":"Zamfara State",
+        "admin2":"Bungudu",
+        "lat":12.14082,
+        "lon":6.82196,
+        "pop":9084
+    },
+    {
+        "id":2331493,
+        "name":"Mahuta",
+        "country":"NG",
+        "admin1":"Kebbi",
+        "admin2":"Fakai",
+        "lat":11.55338,
+        "lon":4.98138,
+        "pop":9047
+    },
+    {
+        "id":2345505,
+        "name":"Dambatta",
+        "country":"NG",
+        "admin1":"Kano State",
+        "admin2":"Dambatta",
+        "lat":12.435,
+        "lon":8.51531,
+        "pop":8940
+    },
+    {
+        "id":2348228,
+        "name":"Baissa",
+        "country":"NG",
+        "admin1":"Taraba State",
+        "admin2":"Kurmi",
+        "lat":7.23087,
+        "lon":10.62444,
+        "pop":8911
+    },
+    {
+        "id":2330369,
+        "name":"Mberubu",
+        "country":"NG",
+        "admin1":"Enugu State",
+        "admin2":"Nkanu East",
+        "lat":6.1731,
+        "lon":7.63017,
+        "pop":8904
+    },
+    {
+        "id":2329664,
+        "name":"Musawa",
+        "country":"NG",
+        "admin1":"Katsina State",
+        "admin2":"Musawa",
+        "lat":12.12949,
+        "lon":7.67023,
+        "pop":8904
+    },
+    {
+        "id":2324325,
+        "name":"Ruma",
+        "country":"NG",
+        "admin1":"Katsina State",
+        "admin2":"Batsari",
+        "lat":12.8626,
+        "lon":7.23469,
+        "pop":8857
+    },
+    {
+        "id":2338863,
+        "name":"Igabi",
+        "country":"NG",
+        "admin1":"Kaduna State",
+        "admin2":"Igabi",
+        "lat":10.80603,
+        "lon":7.71443,
+        "pop":8840
+    },
+    {
+        "id":2324706,
+        "name":"Rabah",
+        "country":"NG",
+        "admin1":"Sokoto",
+        "admin2":"Rabah",
+        "lat":13.12257,
+        "lon":5.50762,
+        "pop":8707
+    },
+    {
+        "id":2330241,
+        "name":"Imeko",
+        "country":"NG",
+        "admin1":"Ogun State",
+        "admin2":"Imeko Afon",
+        "lat":7.44888,
+        "lon":2.84289,
+        "pop":8627
+    },
+    {
+        "id":2346893,
+        "name":"Bokani",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Mokwa",
+        "lat":9.43333,
+        "lon":5.2,
+        "pop":8624
+    },
+    {
+        "id":2352110,
+        "name":"Agbabu",
+        "country":"NG",
+        "admin1":"Ondo State",
+        "admin2":"Okitipupa",
+        "lat":6.58862,
+        "lon":4.8343,
+        "pop":8611
+    },
+    {
+        "id":2348874,
+        "name":"Auna",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Magama",
+        "lat":10.18805,
+        "lon":4.72318,
+        "pop":8590
+    },
+    {
+        "id":2328113,
+        "name":"Ochobo",
+        "country":"NG",
+        "admin1":"Benue State",
+        "admin2":"Ohimini",
+        "lat":7.18045,
+        "lon":7.9824,
+        "pop":8567
+    },
+    {
+        "id":2325713,
+        "name":"Orodo",
+        "country":"NG",
+        "admin1":"Imo State",
+        "admin2":"Mbatoli",
+        "lat":5.61667,
+        "lon":7.03333,
+        "pop":8527
+    },
+    {
+        "id":2325307,
+        "name":"Owode",
+        "country":"NG",
+        "admin1":"Ogun State",
+        "admin2":"Obafemi Owode",
+        "lat":6.94851,
+        "lon":3.50561,
+        "pop":8513
+    },
+    {
+        "id":2334502,
+        "name":"Kibiya",
+        "country":"NG",
+        "admin1":"Kano State",
+        "admin2":"Kibiya",
+        "lat":11.528,
+        "lon":8.66108,
+        "pop":8500
+    },
+    {
+        "id":2339403,
+        "name":"Hunkuyi",
+        "country":"NG",
+        "admin1":"Kaduna State",
+        "admin2":"Kudan",
+        "lat":11.2668,
+        "lon":7.64916,
+        "pop":8465
+    },
+    {
+        "id":2346843,
+        "name":"Bomadi",
+        "country":"NG",
+        "admin1":"Delta",
+        "admin2":"Bomadi",
+        "lat":5.16073,
+        "lon":5.92375,
+        "pop":8402
+    },
+    {
+        "id":2347304,
+        "name":"Bena",
+        "country":"NG",
+        "admin1":"Kebbi",
+        "admin2":"Wasagu-Danko",
+        "lat":11.28444,
+        "lon":5.93472,
+        "pop":8361
+    },
+    {
+        "id":2320417,
+        "name":"Umunede",
+        "country":"NG",
+        "admin1":"Delta",
+        "admin2":"Ika North East",
+        "lat":6.26549,
+        "lon":6.30962,
+        "pop":8331
+    },
+    {
+        "id":2348365,
+        "name":"Badeggi",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Katcha",
+        "lat":9.0563,
+        "lon":6.143,
+        "pop":8283
+    },
+    {
+        "id":2324024,
+        "name":"Sade",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Darazo",
+        "lat":11.3595,
+        "lon":10.6732,
+        "pop":8223
+    },
+    {
+        "id":2337227,
+        "name":"Isara",
+        "country":"NG",
+        "admin1":"Ogun State",
+        "admin2":"Remo North",
+        "lat":6.98896,
+        "lon":3.68244,
+        "pop":8205
+    },
+    {
+        "id":2352352,
+        "name":"Adoru",
+        "country":"NG",
+        "admin1":"Kogi State",
+        "admin2":"Igalamela-Odolu",
+        "lat":6.97694,
+        "lon":7.16262,
+        "pop":8203
+    },
+    {
+        "id":2332662,
+        "name":"Kwolla",
+        "country":"NG",
+        "admin1":"Plateau State",
+        "admin2":"Qua'An Pan",
+        "lat":8.90361,
+        "lon":9.29086,
+        "pop":8200
+    },
+    {
+        "id":2319123,
+        "name":"Wasagu",
+        "country":"NG",
+        "admin1":"Kebbi",
+        "admin2":"Wasagu-Danko",
+        "lat":11.3764,
+        "lon":5.79536,
+        "pop":8157
+    },
+    {
+        "id":2328960,
+        "name":"Ngurore",
+        "country":"NG",
+        "admin1":"Adamawa",
+        "admin2":"Yola North",
+        "lat":9.28871,
+        "lon":12.24026,
+        "pop":8139
+    },
+    {
+        "id":2323858,
+        "name":"Samamiya",
+        "country":"NG",
+        "admin1":"Jigawa State",
+        "admin2":"Birnin Kudu",
+        "lat":11.34873,
+        "lon":9.63989,
+        "pop":8087
+    },
+    {
+        "id":2344415,
+        "name":"Duku",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Rijau",
+        "lat":11.2361,
+        "lon":4.90727,
+        "pop":8014
+    },
+    {
+        "id":2322722,
+        "name":"Suya",
+        "country":"NG",
+        "admin1":"Kwara State",
+        "admin2":"Baruten",
+        "lat":9.4688,
+        "lon":3.18333,
+        "pop":7936
+    },
+    {
+        "id":2323011,
+        "name":"Siluko",
+        "country":"NG",
+        "admin1":"Edo State",
+        "admin2":"Ovia South-West",
+        "lat":6.53589,
+        "lon":5.16005,
+        "pop":7920
+    },
+    {
+        "id":2345336,
+        "name":"Dan Gora",
+        "country":"NG",
+        "admin1":"Kano State",
+        "admin2":"Kiru",
+        "lat":11.53485,
+        "lon":8.15224,
+        "pop":7907
+    },
+    {
+        "id":2330664,
+        "name":"Mashi",
+        "country":"NG",
+        "admin1":"Katsina State",
+        "admin2":"Mashi",
+        "lat":12.98044,
+        "lon":7.94703,
+        "pop":7845
+    },
+    {
+        "id":2339483,
+        "name":"Hinna",
+        "country":"NG",
+        "admin1":"Gombe State",
+        "admin2":"Yamaltu\/Deba",
+        "lat":10.30426,
+        "lon":11.49905,
+        "pop":7826
+    },
+    {
+        "id":2338469,
+        "name":"Iho",
+        "country":"NG",
+        "admin1":"Imo State",
+        "admin2":"Ikeduru",
+        "lat":5.58225,
+        "lon":7.09896,
+        "pop":7776
+    },
+    {
+        "id":2318374,
+        "name":"Yandev",
+        "country":"NG",
+        "admin1":"Benue State",
+        "admin2":"Gboko",
+        "lat":7.36308,
+        "lon":9.04235,
+        "pop":7750
+    },
+    {
+        "id":2334018,
+        "name":"Konkwesso",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Borgu",
+        "lat":10.84686,
+        "lon":4.09835,
+        "pop":7687
+    },
+    {
+        "id":2337762,
+        "name":"Ilare",
+        "country":"NG",
+        "admin1":"Ondo State",
+        "admin2":"Ifedore",
+        "lat":7.35067,
+        "lon":5.11333,
+        "pop":7685
+    },
+    {
+        "id":2338873,
+        "name":"Ifon",
+        "country":"NG",
+        "admin1":"Ondo State",
+        "admin2":"Ose",
+        "lat":6.92973,
+        "lon":5.77368,
+        "pop":7623
+    },
+    {
+        "id":2345213,
+        "name":"Dan Sadau",
+        "country":"NG",
+        "admin1":"Zamfara State",
+        "admin2":"Maru",
+        "lat":11.29621,
+        "lon":6.4952,
+        "pop":7568
+    },
+    {
+        "id":2333064,
+        "name":"Kuta",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Shiroro",
+        "lat":9.86864,
+        "lon":6.71042,
+        "pop":7528
+    },
+    {
+        "id":2330937,
+        "name":"Mando",
+        "country":"NG",
+        "admin1":"Kaduna State",
+        "admin2":"Birnin Gwari",
+        "lat":10.71667,
+        "lon":6.56667,
+        "pop":7500
+    },
+    {
+        "id":2317936,
+        "name":"Zadawa",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Misau",
+        "lat":11.4496,
+        "lon":10.3672,
+        "pop":7495
+    },
+    {
+        "id":2339065,
+        "name":"Idiroko",
+        "country":"NG",
+        "admin1":"Ogun State",
+        "admin2":"",
+        "lat":6.63187,
+        "lon":2.7472,
+        "pop":7487
+    },
+    {
+        "id":2323349,
+        "name":"Shanga",
+        "country":"NG",
+        "admin1":"Kebbi",
+        "admin2":"Shanga",
+        "lat":11.21374,
+        "lon":4.57941,
+        "pop":7471
+    },
+    {
+        "id":2347483,
+        "name":"Batsari",
+        "country":"NG",
+        "admin1":"Katsina State",
+        "admin2":"Batsari",
+        "lat":12.75551,
+        "lon":7.24809,
+        "pop":7445
+    },
+    {
+        "id":2346401,
+        "name":"Dass",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Dass",
+        "lat":10.00065,
+        "lon":9.51596,
+        "pop":7417
+    },
+    {
+        "id":2334592,
+        "name":"Kende",
+        "country":"NG",
+        "admin1":"Kebbi",
+        "admin2":"Bagudo",
+        "lat":11.51966,
+        "lon":4.2603,
+        "pop":7395
+    },
+    {
+        "id":2336624,
+        "name":"Lajere",
+        "country":"NG",
+        "admin1":"Yobe State",
+        "admin2":"Fune",
+        "lat":11.98022,
+        "lon":11.44002,
+        "pop":7356
+    },
+    {
+        "id":2329114,
+        "name":"New Shagunnu",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Borgu",
+        "lat":10.33957,
+        "lon":4.4688,
+        "pop":7349
+    },
+    {
+        "id":2337666,
+        "name":"Illushi",
+        "country":"NG",
+        "admin1":"Edo State",
+        "admin2":"Esan South-East",
+        "lat":6.67033,
+        "lon":6.62907,
+        "pop":7340
+    },
+    {
+        "id":2324962,
+        "name":"Patani",
+        "country":"NG",
+        "admin1":"Delta",
+        "admin2":"Patani",
+        "lat":5.22885,
+        "lon":6.19139,
+        "pop":7327
+    },
+    {
+        "id":2338305,
+        "name":"Ikem",
+        "country":"NG",
+        "admin1":"Enugu State",
+        "admin2":"Isi-Uzo",
+        "lat":6.77993,
+        "lon":7.71484,
+        "pop":7282
+    },
+    {
+        "id":2348419,
+        "name":"Babura",
+        "country":"NG",
+        "admin1":"Jigawa State",
+        "admin2":"Babura",
+        "lat":12.77256,
+        "lon":9.01525,
+        "pop":7267
+    },
+    {
+        "id":2339753,
+        "name":"Gwasoro",
+        "country":"NG",
+        "admin1":"Kwara State",
+        "admin2":"Baruten",
+        "lat":9.48733,
+        "lon":3.50771,
+        "pop":7263
+    },
+    {
+        "id":2324623,
+        "name":"Saminaka",
+        "country":"NG",
+        "admin1":"Kaduna State",
+        "admin2":"Lere",
+        "lat":10.41227,
+        "lon":8.68748,
+        "pop":7165
+    },
+    {
+        "id":2345785,
+        "name":"Dadiya",
+        "country":"NG",
+        "admin1":"Gombe State",
+        "admin2":"Balanga",
+        "lat":9.61947,
+        "lon":11.44118,
+        "pop":7152
+    },
+    {
+        "id":2318399,
+        "name":"Yamrat",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Bauchi",
+        "lat":10.11161,
+        "lon":9.82604,
+        "pop":7098
+    },
+    {
+        "id":2322021,
+        "name":"Tokombere",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Gwoza",
+        "lat":11.22135,
+        "lon":13.48783,
+        "pop":7092
+    },
+    {
+        "id":2339706,
+        "name":"Gwio Kura",
+        "country":"NG",
+        "admin1":"Yobe State",
+        "admin2":"Barde",
+        "lat":12.67479,
+        "lon":11.0669,
+        "pop":7091
+    },
+    {
+        "id":2351209,
+        "name":"Akankpa",
+        "country":"NG",
+        "admin1":"Cross River State",
+        "admin2":"Odukpani",
+        "lat":5.1264,
+        "lon":8.1898,
+        "pop":7000
+    },
+    {
+        "id":2350172,
+        "name":"Amassoma",
+        "country":"NG",
+        "admin1":"Bayelsa State",
+        "admin2":"Southern Ijaw",
+        "lat":4.97032,
+        "lon":6.10915,
+        "pop":6970
+    },
+    {
+        "id":2333096,
+        "name":"Kusheriki",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Rafi",
+        "lat":10.53708,
+        "lon":6.43657,
+        "pop":6941
+    },
+    {
+        "id":2352804,
+        "name":"Abraka",
+        "country":"NG",
+        "admin1":"Delta",
+        "admin2":"Ethiope East",
+        "lat":5.79023,
+        "lon":6.10473,
+        "pop":6940
+    },
+    {
+        "id":2348259,
+        "name":"Bagudo",
+        "country":"NG",
+        "admin1":"Kebbi",
+        "admin2":"Bagudo",
+        "lat":11.40351,
+        "lon":4.22571,
+        "pop":6924
+    },
+    {
+        "id":2336092,
+        "name":"Jikamshi",
+        "country":"NG",
+        "admin1":"Katsina State",
+        "admin2":"Musawa",
+        "lat":12.17328,
+        "lon":7.77424,
+        "pop":6923
+    },
+    {
+        "id":2318480,
+        "name":"Yajiwa",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Kaga",
+        "lat":11.38623,
+        "lon":12.71992,
+        "pop":6880
+    },
+    {
+        "id":2324439,
+        "name":"Riti",
+        "country":"NG",
+        "admin1":"Taraba State",
+        "admin2":"Wukari",
+        "lat":7.90844,
+        "lon":9.61688,
+        "pop":6875
+    },
+    {
+        "id":2352857,
+        "name":"Abocho",
+        "country":"NG",
+        "admin1":"Kogi State",
+        "admin2":"Dekina",
+        "lat":7.5677,
+        "lon":6.9863,
+        "pop":6801
+    },
+    {
+        "id":2340132,
+        "name":"Gulma",
+        "country":"NG",
+        "admin1":"Kebbi",
+        "admin2":"Argungu",
+        "lat":12.64231,
+        "lon":4.35545,
+        "pop":6719
+    },
+    {
+        "id":2347116,
+        "name":"Binji",
+        "country":"NG",
+        "admin1":"Sokoto",
+        "admin2":"Binji",
+        "lat":13.22294,
+        "lon":4.90888,
+        "pop":6717
+    },
+    {
+        "id":2332337,
+        "name":"Lame",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Toro",
+        "lat":10.44154,
+        "lon":9.23955,
+        "pop":6705
+    },
+    {
+        "id":2339789,
+        "name":"Gwaram",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Alkaleri",
+        "lat":10.23295,
+        "lon":10.28572,
+        "pop":6700
+    },
+    {
+        "id":2351156,
+        "name":"Ake-Eze",
+        "country":"NG",
+        "admin1":"Enugu State",
+        "admin2":"",
+        "lat":5.91677,
+        "lon":7.67615,
+        "pop":6537
+    },
+    {
+        "id":2345282,
+        "name":"Dankama",
+        "country":"NG",
+        "admin1":"Katsina State",
+        "admin2":"Kaita",
+        "lat":13.29782,
+        "lon":7.79492,
+        "pop":6531
+    },
+    {
+        "id":2323418,
+        "name":"Shaffa",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Hawul",
+        "lat":10.50673,
+        "lon":12.33315,
+        "pop":6508
+    },
+    {
+        "id":2326188,
+        "name":"Omuo-Ekiti",
+        "country":"NG",
+        "admin1":"Ekiti State",
+        "admin2":"Ekiti East",
+        "lat":7.75833,
+        "lon":5.72227,
+        "pop":6317
+    },
+    {
+        "id":2330543,
+        "name":"Mayo-Belwa",
+        "country":"NG",
+        "admin1":"Adamawa",
+        "admin2":"Mayo-Belwa",
+        "lat":9.05421,
+        "lon":12.05794,
+        "pop":6304
+    },
+    {
+        "id":2344941,
+        "name":"Dengi",
+        "country":"NG",
+        "admin1":"Plateau State",
+        "admin2":"Kanam",
+        "lat":9.36872,
+        "lon":9.96223,
+        "pop":6276
+    },
+    {
+        "id":2332865,
+        "name":"Kwali",
+        "country":"NG",
+        "admin1":"FCT",
+        "admin2":"Kwali",
+        "lat":8.88346,
+        "lon":7.01858,
+        "pop":6229
+    },
+    {
+        "id":2320746,
+        "name":"Ukata",
+        "country":"NG",
+        "admin1":"Niger State",
+        "admin2":"Mariga",
+        "lat":10.83122,
+        "lon":5.82494,
+        "pop":6188
+    },
+    {
+        "id":2352589,
+        "name":"Adani",
+        "country":"NG",
+        "admin1":"Enugu State",
+        "admin2":"Uzo-Uwani",
+        "lat":6.73971,
+        "lon":7.01117,
+        "pop":6161
+    },
+    {
+        "id":2351027,
+        "name":"Akko",
+        "country":"NG",
+        "admin1":"Gombe State",
+        "admin2":"Akko",
+        "lat":10.28899,
+        "lon":10.9732,
+        "pop":6129
+    },
+    {
+        "id":2346399,
+        "name":"Bununu",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Tafawa-Balewa",
+        "lat":9.88224,
+        "lon":9.68058,
+        "pop":6123
+    },
+    {
+        "id":2346906,
+        "name":"Boi",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Bogoro",
+        "lat":9.56109,
+        "lon":9.50154,
+        "pop":6033
+    },
+    {
+        "id":2345872,
+        "name":"Dabai",
+        "country":"NG",
+        "admin1":"Kebbi",
+        "admin2":"Zuru",
+        "lat":11.47651,
+        "lon":5.20625,
+        "pop":6012
+    },
+    {
+        "id":2318383,
+        "name":"Yanda Bayo",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Damban",
+        "lat":11.5071,
+        "lon":10.7459,
+        "pop":5927
+    },
+    {
+        "id":2325803,
+        "name":"Orerokpe",
+        "country":"NG",
+        "admin1":"Delta",
+        "admin2":"Okpe",
+        "lat":5.63747,
+        "lon":5.89013,
+        "pop":5893
+    },
+    {
+        "id":2340389,
+        "name":"Gora",
+        "country":"NG",
+        "admin1":"Katsina State",
+        "admin2":"Malumfashi",
+        "lat":11.91294,
+        "lon":7.66531,
+        "pop":5867
+    },
+    {
+        "id":2342291,
+        "name":"Gakem",
+        "country":"NG",
+        "admin1":"Cross River State",
+        "admin2":"",
+        "lat":6.76963,
+        "lon":8.9912,
+        "pop":5865
+    },
+    {
+        "id":2328192,
+        "name":"Obolo-Eke (1)",
+        "country":"NG",
+        "admin1":"Enugu State",
+        "admin2":"Udenu",
+        "lat":6.88333,
+        "lon":7.63333,
+        "pop":5842
+    },
+    {
+        "id":2344760,
+        "name":"Disina",
+        "country":"NG",
+        "admin1":"Bauchi",
+        "admin2":"Shira",
+        "lat":11.48135,
+        "lon":9.91903,
+        "pop":5833
+    },
+    {
+        "id":2346788,
+        "name":"Bornu Yassu",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Magumeri",
+        "lat":12.27503,
+        "lon":12.56856,
+        "pop":5811
+    },
+    {
+        "id":2338404,
+        "name":"Ijebu-Ife",
+        "country":"NG",
+        "admin1":"Ogun State",
+        "admin2":"Ijebu East",
+        "lat":6.77837,
+        "lon":4.03386,
+        "pop":5733
+    },
+    {
+        "id":2345283,
+        "name":"Dankalwa",
+        "country":"NG",
+        "admin1":"Yobe State",
+        "admin2":"Damaturu",
+        "lat":11.74449,
+        "lon":12.18545,
+        "pop":5730
+    },
+    {
+        "id":2566637,
+        "name":"Aiyetoro",
+        "country":"NG",
+        "admin1":"Lagos",
+        "admin2":"Ajeromi\/Ifelodun",
+        "lat":6.45917,
+        "lon":3.3425,
+        "pop":5430
+    },
+    {
+        "id":2337540,
+        "name":"Imota",
+        "country":"NG",
+        "admin1":"Lagos",
+        "admin2":"Ikorodu",
+        "lat":6.66362,
+        "lon":3.66945,
+        "pop":5240
+    },
+    {
+        "id":6776134,
+        "name":"Banki",
+        "country":"NG",
+        "admin1":"Borno State",
+        "admin2":"Bama",
+        "lat":11.66207,
+        "lon":14.02014,
+        "pop":5000
+    }
+]

@@ -1,0 +1,686 @@
+[
+  {
+    "Institute ID": "IR-E-U-0456",
+    "Name": "Indian Institute of Technology Madras",
+    "City": "Chennai",
+    "State": "Tamil Nadu",
+    "Score": "88.72",
+    "Rank": "1",
+    "Official Website": "https://www.iitm.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-I-1074",
+    "Name": "Indian Institute of Technology Delhi",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Score": "85.74",
+    "Rank": "2",
+    "Official Website": "https://home.iitd.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0306",
+    "Name": "Indian Institute of Technology Bombay",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Score": "83.65",
+    "Rank": "3",
+    "Official Website": "https://www.iitb.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-I-1075",
+    "Name": "Indian Institute of Technology Kanpur",
+    "City": "Kanpur",
+    "State": "Uttar Pradesh",
+    "Score": "81.82",
+    "Rank": "4",
+    "Official Website": "https://www.iitk.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0573",
+    "Name": "Indian Institute of Technology Kharagpur",
+    "City": "Kharagpur",
+    "State": "West Bengal",
+    "Score": "78.69",
+    "Rank": "5",
+    "Official Website": "https://www.iitkgp.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0560",
+    "Name": "Indian Institute of Technology Roorkee",
+    "City": "Roorkee",
+    "State": "Uttarakhand",
+    "Score": "75.44",
+    "Rank": "6",
+    "Official Website": "https://www.iitr.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0013",
+    "Name": "Indian Institute of Technology Hyderabad",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Score": "72.31",
+    "Rank": "7",
+    "Official Website": "https://www.iith.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0053",
+    "Name": "Indian Institute of Technology Guwahati",
+    "City": "Guwahati",
+    "State": "Assam",
+    "Score": "72.24",
+    "Rank": "8",
+    "Official Website": "https://www.iitg.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0467",
+    "Name": "National Institute of Technology Tiruchirappalli",
+    "City": "Tiruchirappalli",
+    "State": "Tamil Nadu",
+    "Score": "68.14",
+    "Rank": "9",
+    "Official Website": "https://www.nitt.edu"
+  },
+  {
+    "Institute ID": "IR-E-U-0701",
+    "Name": "Indian Institute of Technology (BHU) Varanasi",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh",
+    "Score": "67.24",
+    "Rank": "10",
+    "Official Website": "https://www.iitbhu.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0391",
+    "Name": "Birla Institute of Technology & Science, Pilani",
+    "City": "Pilani",
+    "State": "Rajasthan",
+    "Score": "67.02",
+    "Rank": "11",
+    "Official Website": "https://www.bits-pilani.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0273",
+    "Name": "Indian Institute of Technology Indore",
+    "City": "Indore",
+    "State": "Madhya Pradesh",
+    "Score": "66.65",
+    "Rank": "12",
+    "Official Website": "https://www.iiti.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0357",
+    "Name": "National Institute of Technology Rourkela",
+    "City": "Rourkela",
+    "State": "Odisha",
+    "Score": "66.62",
+    "Rank": "13",
+    "Official Website": "https://www.nitrkl.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0473",
+    "Name": "S.R.M. Institute of Science and Technology",
+    "City": "Chennai",
+    "State": "Tamil Nadu",
+    "Score": "65.83",
+    "Rank": "14",
+    "Official Website": "https://www.srmist.edu.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0205",
+    "Name": "Indian Institute of Technology (ISM) Dhanbad",
+    "City": "Dhanbad",
+    "State": "Jharkhand",
+    "Score": "65.37",
+    "Rank": "15",
+    "Official Website": "https://www.iitism.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0490",
+    "Name": "Vellore Institute of Technology",
+    "City": "Vellore",
+    "State": "Tamil Nadu",
+    "Score": "65.25",
+    "Rank": "16",
+    "Official Website": "https://www.vit.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0237",
+    "Name": "National Institute of Technology Karnataka",
+    "City": "Surathkal",
+    "State": "Karnataka",
+    "Score": "64.59",
+    "Rank": "17",
+    "Official Website": "https://www.nitk.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0575",
+    "Name": "Jadavpur University",
+    "City": "Kolkata",
+    "State": "West Bengal",
+    "Score": "64.54",
+    "Rank": "18",
+    "Official Website": "https://www.jaduniv.edu.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0064",
+    "Name": "Indian Institute of Technology Patna",
+    "City": "Patna",
+    "State": "Bihar",
+    "Score": "64.52",
+    "Rank": "19",
+    "Official Website": "https://www.iitp.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0439",
+    "Name": "Anna University",
+    "City": "Chennai",
+    "State": "Tamil Nadu",
+    "Score": "63.51",
+    "Rank": "20",
+    "Official Website": "https://www.annauniv.edu"
+  },
+  {
+    "Institute ID": "IR-E-U-0263",
+    "Name": "National Institute of Technology Calicut",
+    "City": "Kozhikode",
+    "State": "Kerala",
+    "Score": "63.05",
+    "Rank": "21",
+    "Official Website": "https://www.nitc.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0363",
+    "Name": "Siksha 'O' Anusandhan",
+    "City": "Bhubaneswar",
+    "State": "Odisha",
+    "Score": "62.58",
+    "Rank": "22",
+    "Official Website": "https://www.soa.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0436",
+    "Name": "Amrita Vishwa Vidyapeetham",
+    "City": "Coimbatore",
+    "State": "Tamil Nadu",
+    "Score": "62.46",
+    "Rank": "23",
+    "Official Website": "https://www.amrita.edu"
+  },
+  {
+    "Institute ID": "IR-E-U-0108",
+    "Name": "Jamia Millia Islamia",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Score": "62.42",
+    "Rank": "24",
+    "Official Website": "https://www.jmi.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0139",
+    "Name": "Indian Institute of Technology Gandhinagar",
+    "City": "Gandhinagar",
+    "State": "Gujarat",
+    "Score": "62.31",
+    "Rank": "25",
+    "Official Website": "https://www.iitgn.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0184",
+    "Name": "Indian Institute of Technology Mandi",
+    "City": "Mandi",
+    "State": "Himachal Pradesh",
+    "Score": "62.08",
+    "Rank": "26",
+    "Official Website": "https://www.iitmandi.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0395",
+    "Name": "Indian Institute of Technology Jodhpur",
+    "City": "Jodhpur",
+    "State": "Rajasthan",
+    "Score": "61.31",
+    "Rank": "27",
+    "Official Website": "https://www.iitj.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0025",
+    "Name": "National Institute of Technology Warangal",
+    "City": "Warangal",
+    "State": "Telangana",
+    "Score": "61.05",
+    "Rank": "28",
+    "Official Website": "https://www.nitw.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-I-1480",
+    "Name": "Thapar Institute of Engineering and Technology",
+    "City": "Patiala",
+    "State": "Punjab",
+    "Score": "60.97",
+    "Rank": "29",
+    "Official Website": "https://www.thapar.edu"
+  },
+  {
+    "Institute ID": "IR-E-U-0098",
+    "Name": "Delhi Technological University",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Score": "60.85",
+    "Rank": "30",
+    "Official Website": "https://www.dtu.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0747",
+    "Name": "Chandigarh University",
+    "City": "Mohali",
+    "State": "Punjab",
+    "Score": "60.46",
+    "Rank": "31",
+    "Official Website": "https://www.cuchd.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0378",
+    "Name": "Indian Institute of Technology Ropar",
+    "City": "Rupnagar",
+    "State": "Punjab",
+    "Score": "59.66",
+    "Rank": "32",
+    "Official Website": "https://www.iitrpr.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0458",
+    "Name": "Kalasalingam Academy of Research and Education",
+    "City": "Krishnan Koil",
+    "State": "Tamil Nadu",
+    "Score": "59.03",
+    "Rank": "33",
+    "Official Website": "https://www.kalasalingam.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0496",
+    "Name": "Aligarh Muslim University",
+    "City": "Aligarh",
+    "State": "Uttar Pradesh",
+    "Score": "59.01",
+    "Rank": "34",
+    "Official Website": "https://www.amu.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0020",
+    "Name": "Koneru Lakshmaiah Education Foundation",
+    "City": "Vaddeswaram",
+    "State": "Andhra Pradesh",
+    "Score": "58.95",
+    "Rank": "35",
+    "Official Website": "https://www.kluniversity.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0356",
+    "Name": "Kalinga Institute of Industrial Technology",
+    "City": "Bhubaneswar",
+    "State": "Odisha",
+    "Score": "58.79",
+    "Rank": "36",
+    "Official Website": "https://kiit.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0497",
+    "Name": "Amity University",
+    "City": "Noida",
+    "State": "Uttar Pradesh",
+    "Score": "58.53",
+    "Rank": "37",
+    "Official Website": "https://www.amity.edu"
+  },
+  {
+    "Institute ID": "IR-E-U-0014",
+    "Name": "International Institute of Information Technology Hyderabad",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Score": "58.45",
+    "Rank": "38",
+    "Official Website": "https://www.iiit.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0355",
+    "Name": "Indian Institute of Technology Bhubaneswar",
+    "City": "Bhubaneswar",
+    "State": "Odisha",
+    "Score": "58.22",
+    "Rank": "39",
+    "Official Website": "https://www.iitbbs.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0476",
+    "Name": "SASTRA University",
+    "City": "Thanjavur",
+    "State": "Tamil Nadu",
+    "Score": "58.02",
+    "Rank": "40",
+    "Official Website": "https://www.sastra.edu"
+  },
+  {
+    "Institute ID": "IR-E-U-0308",
+    "Name": "Institute of Chemical Technology",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Score": "57.96",
+    "Rank": "41",
+    "Official Website": "https://www.ictmumbai.edu.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0410",
+    "Name": "MNIT Jaipur",
+    "City": "Jaipur",
+    "State": "Rajasthan",
+    "Score": "57.45",
+    "Rank": "42",
+    "Official Website": "https://www.mnit.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0564",
+    "Name": "UPES",
+    "City": "Dehradun",
+    "State": "Uttarakhand",
+    "Score": "56.99",
+    "Rank": "43",
+    "Official Website": "https://www.upes.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0334",
+    "Name": "VNIT Nagpur",
+    "City": "Nagpur",
+    "State": "Maharashtra",
+    "Score": "56.58",
+    "Rank": "44",
+    "Official Website": "https://www.vnit.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-I-1441",
+    "Name": "Saveetha Institute of Medical and Technical Sciences",
+    "City": "Chennai",
+    "State": "Tamil Nadu",
+    "Score": "56.55",
+    "Rank": "45",
+    "Official Website": "https://www.saveetha.com"
+  },
+  {
+    "Institute ID": "IR-E-U-0329",
+    "Name": "Symbiosis International University",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Score": "56.22",
+    "Rank": "46",
+    "Official Website": "https://www.siu.edu.in"
+  },
+  {
+    "Institute ID": "IR-E-C-16604",
+    "Name": "SSN College of Engineering",
+    "City": "Chennai",
+    "State": "Tamil Nadu",
+    "Score": "56.08",
+    "Rank": "47",
+    "Official Website": "https://www.ssn.edu.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0379",
+    "Name": "Lovely Professional University",
+    "City": "Phagwara",
+    "State": "Punjab",
+    "Score": "55.99",
+    "Rank": "48",
+    "Official Website": "https://www.lpu.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0577",
+    "Name": "NIT Durgapur",
+    "City": "Durgapur",
+    "State": "West Bengal",
+    "Score": "55.94",
+    "Rank": "49",
+    "Official Website": "https://www.nitdgp.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-U-0055",
+    "Name": "NIT Silchar",
+    "City": "Silchar",
+    "State": "Assam",
+    "Score": "55.91",
+    "Rank": "50",
+    "Official Website": "https://www.nits.ac.in"
+  },
+    {
+      "Institute ID": "IR-E-U-0202",
+      "Name": "Birla Institute of Technology",
+      "City": "Ranchi",
+      "State": "Jharkhand",
+      "Score": "55.28",
+      "Rank": "51",
+      "Official Website": "https://www.bitmesra.ac.in"
+    },
+    {
+      "Institute ID": "IR-E-U-0555",
+      "Name": "Graphic Era University",
+      "City": "Dehradun",
+      "State": "Uttarakhand",
+      "Score": "55.26",
+      "Rank": "52",
+      "Official Website": "https://www.geu.ac.in"
+    },
+    {
+      "Institute ID": "IR-E-U-0072",
+      "Name": "National Institute of Technology Patna",
+      "City": "Patna",
+      "State": "Bihar",
+      "Score": "53.89",
+      "Rank": "53",
+      "Official Website": "https://www.nitp.ac.in"
+    },
+    {
+      "Institute ID": "IR-E-U-0584",
+      "Name": "Indian Institute of Engineering Science and Technology, Shibpur",
+      "City": "Howrah",
+      "State": "West Bengal",
+      "Score": "53.63",
+      "Rank": "54",
+      "Official Website": "https://www.iiests.ac.in"
+    },
+    {
+      "Institute ID": "IR-E-U-0374",
+      "Name": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+      "City": "Jalandhar",
+      "State": "Punjab",
+      "Score": "53.38",
+      "Rank": "55",
+      "Official Website": "https://www.nitj.ac.in"
+    },
+    {
+      "Institute ID": "IR-E-U-0906",
+      "Name": "Indian Institute of Technology Jammu",
+      "City": "Jammu",
+      "State": "Jammu and Kashmir",
+      "Score": "53.08",
+      "Rank": "56",
+      "Official Website": "https://www.iitjammu.ac.in"
+    },
+    {
+      "Institute ID": "IR-E-U-0844",
+      "Name": "Indian Institute of Technology, Tirupati",
+      "City": "Tirupati",
+      "State": "Andhra Pradesh",
+      "Score": "52.73",
+      "Rank": "57",
+      "Official Website": "https://www.iittp.ac.in"
+    },
+    {
+      "Institute ID": "IR-E-U-0749",
+      "Name": "Manipal University Jaipur",
+      "City": "Jaipur",
+      "State": "Rajasthan",
+      "Score": "52.69",
+      "Rank": "58",
+      "Official Website": "https://jaipur.manipal.edu"
+    },
+    {
+      "Institute ID": "IR-E-C-7252",
+      "Name": "Manipal Institute of Technology",
+      "City": "Manipal",
+      "State": "Karnataka",
+      "Score": "52.55",
+      "Rank": "59",
+      "Official Website": "https://manipal.edu/mit.html"
+    },
+    {
+      "Institute ID": "IR-E-U-0739",
+      "Name": "Madan Mohan Malaviya University of Technology",
+      "City": "Gorakhpur",
+      "State": "Uttar Pradesh",
+      "Score": "52.45",
+      "Rank": "60",
+      "Official Website": "https://www.mmmut.ac.in"
+    },
+    {
+      "Institute ID": "IR-E-U-0255",
+      "Name": "Indian Institute of Space Science and Technology",
+      "City": "Thiruvananthapuram",
+      "State": "Kerala",
+      "Score": "52.44",
+      "Rank": "61",
+      "Official Website": "https://www.iist.ac.in"
+    },
+    {
+      "Institute ID": "IR-E-U-0530",
+      "Name": "Motilal Nehru National Institute of Technology",
+      "City": "Prayagraj",
+      "State": "Uttar Pradesh",
+      "Score": "52.15",
+      "Rank": "62",
+      "Official Website": "https://www.mnnit.ac.in"
+    },
+    {
+      "Institute ID": "IR-E-U-0105",
+      "Name": "Indraprastha Institute of Information Technology",
+      "City": "New Delhi",
+      "State": "Delhi",
+      "Score": "51.33",
+      "Rank": "63",
+      "Official Website": "https://www.iiitd.ac.in"
+    },
+    {
+      "Institute ID": "IR-E-U-0878",
+      "Name": "Indian Institute of Technology Palakkad",
+      "City": "Palakkad",
+      "State": "Kerala",
+      "Score": "51.20",
+      "Rank": "64",
+      "Official Website": "https://www.iitpkd.ac.in"
+    },
+    {
+      "Institute ID": "IR-E-U-0622",
+      "Name": "National Institute of Technology Delhi",
+      "City": "Delhi",
+      "State": "Delhi",
+      "Score": "50.79",
+      "Rank": "65",
+      "Official Website": "https://nitdelhi.ac.in"
+    },
+    {
+      "Institute ID": "IR-E-U-0149",
+      "Name": "Sardar Vallabhbhai National Institute of Technology",
+      "City": "SURAT",
+      "State": "Gujarat",
+      "Score": "50.77",
+      "Rank": "66",
+      "Official Website": "https://www.svnit.ac.in"
+    },
+    {
+      "Institute ID": "IR-E-C-37013",
+      "Name": "PSG College of Technology",
+      "City": "Coimbatore",
+      "State": "Tamil Nadu",
+      "Score": "50.64",
+      "Rank": "67",
+      "Official Website": "https://www.psgtech.edu"
+    },
+    {
+      "Institute ID": "IR-E-U-0474",
+      "Name": "Sathyabama Institute of Science and Technology",
+      "City": "Chennai",
+      "State": "Tamil Nadu",
+      "Score": "50.64",
+      "Rank": "67",
+      "Official Website": "https://www.sathyabama.ac.in"
+    },
+    {
+      "Institute ID": "IR-E-U-0221",
+      "Name": "International Institute of Information Technology Bangalore",
+      "City": "Bengaluru",
+      "State": "Karnataka",
+      "Score": "50.46",
+      "Rank": "69",
+      "Official Website": "https://www.iiitb.ac.in"
+    },
+    {
+      "Institute ID": "IR-E-C-6379",
+      "Name": "Netaji Subhas University of Technology (NSUT)",
+      "City": "Delhi",
+      "State": "Delhi",
+      "Score": "50.43",
+      "Rank": "70",
+      "Official Website": "https://www.nsut.ac.in"
+    },
+    {
+      "Institute ID": "IR-E-U-0389",
+      "Name": "Banasthali Vidyapith",
+      "City": "Banasthali",
+      "State": "Rajasthan",
+      "Score": "50.38",
+      "Rank": "71",
+      "Official Website": "https://www.banasthali.org"
+    },
+    {
+      "Institute ID": "IR-E-U-0946",
+      "Name": "Indian Institute of Technology Bhilai",
+      "City": "Durg",
+      "State": "Chhattisgarh",
+      "Score": "50.37",
+      "Rank": "72",
+      "Official Website": "https://www.iitbhilai.ac.in"
+    },
+    {
+      "Institute ID": "IR-E-U-0197",
+      "Name": "National Institute of Technology Srinagar",
+      "City": "Srinagar",
+      "State": "Jammu and Kashmir",
+      "Score": "50.23",
+      "Rank": "73",
+      "Official Website": "https://nitsri.ac.in"
+    },
+    {
+      "Institute ID": "IR-E-U-0042",
+      "Name": "University of Hyderabad",
+      "City": "Hyderabad",
+      "State": "Telangana",
+      "Score": "49.36",
+      "Rank": "74",
+      "Official Website": "https://www.uohyd.ac.in"
+    },
+    {
+      "Institute ID": "IR-E-C-1331",
+      "Name": "M. S. Ramaiah Institute of Technology",
+      "City": "Bengaluru",
+      "State": "Karnataka",
+      "Score": "49.26",
+      "Rank": "75",
+      "Official Website": "https://www.msrit.edu"
+    },
+    {
+      "Institute ID": "IR-E-U-0217",
+      "Name": "Christ University",
+      "City": "Bengaluru",
+      "State": "Karnataka",
+      "Score": "49.03",
+      "Rank": "76",
+      "Official Website": "https://christuniversity.in"
+    }
+  ]

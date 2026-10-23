@@ -1,0 +1,1672 @@
+[
+    {
+        "id":3553478,
+        "name":"Havana",
+        "country":"CU",
+        "admin1":"Havana",
+        "admin2":"",
+        "lat":23.13302,
+        "lon":-82.38304,
+        "pop":2163824
+    },
+    {
+        "id":3536729,
+        "name":"Santiago de Cuba",
+        "country":"CU",
+        "admin1":"Santiago de Cuba Province",
+        "admin2":"Municipio de Santiago de Cuba",
+        "lat":20.02287,
+        "lon":-75.82171,
+        "pop":555865
+    },
+    {
+        "id":3566067,
+        "name":"Camagüey",
+        "country":"CU",
+        "admin1":"Camagüey",
+        "admin2":"Municipio de Camagüey",
+        "lat":21.38083,
+        "lon":-77.91694,
+        "pop":347562
+    },
+    {
+        "id":3556969,
+        "name":"Holguín",
+        "country":"CU",
+        "admin1":"Holguín Province",
+        "admin2":"Municipio de Holguín",
+        "lat":20.88722,
+        "lon":-76.26306,
+        "pop":319102
+    },
+    {
+        "id":3557689,
+        "name":"Guantánamo",
+        "country":"CU",
+        "admin1":"Guantánamo Province",
+        "admin2":"Municipio de Guantánamo",
+        "lat":20.14444,
+        "lon":-75.20917,
+        "pop":272801
+    },
+    {
+        "id":3537906,
+        "name":"Santa Clara",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Santa Clara",
+        "lat":22.40711,
+        "lon":-79.96581,
+        "pop":250512
+    },
+    {
+        "id":3568342,
+        "name":"Arroyo Naranjo",
+        "country":"CU",
+        "admin1":"Havana",
+        "admin2":"Boyeros",
+        "lat":23.03811,
+        "lon":-82.37703,
+        "pop":210053
+    },
+    {
+        "id":3550598,
+        "name":"Las Tunas",
+        "country":"CU",
+        "admin1":"Las Tunas Province",
+        "admin2":"Municipio de Las Tunas",
+        "lat":20.96135,
+        "lon":-76.95192,
+        "pop":203684
+    },
+    {
+        "id":3567597,
+        "name":"Bayamo",
+        "country":"CU",
+        "admin1":"Granma Province",
+        "admin2":"Municipio de Bayamo",
+        "lat":20.37368,
+        "lon":-76.64272,
+        "pop":192632
+    },
+    {
+        "id":3544091,
+        "name":"Pinar del Río",
+        "country":"CU",
+        "admin1":"Pinar del Río",
+        "admin2":"Municipio de Pinar del Río",
+        "lat":22.41649,
+        "lon":-83.69657,
+        "pop":186990
+    },
+    {
+        "id":3564124,
+        "name":"Cienfuegos",
+        "country":"CU",
+        "admin1":"Cienfuegos Province",
+        "admin2":"Municipio de Cienfuegos",
+        "lat":22.14681,
+        "lon":-80.4481,
+        "pop":186644
+    },
+    {
+        "id":3558729,
+        "name":"Fontanar",
+        "country":"CU",
+        "admin1":"Havana",
+        "admin2":"Playa",
+        "lat":23.02389,
+        "lon":-82.408,
+        "pop":178601
+    },
+    {
+        "id":3538803,
+        "name":"San Miguel del Padrón",
+        "country":"CU",
+        "admin1":"Havana",
+        "admin2":"Municipio de Regla",
+        "lat":23.09544,
+        "lon":-82.32669,
+        "pop":159273
+    },
+    {
+        "id":3547398,
+        "name":"Matanzas",
+        "country":"CU",
+        "admin1":"Matanzas Province",
+        "admin2":"Municipio de Matanzas",
+        "lat":23.04388,
+        "lon":-81.58284,
+        "pop":146733
+    },
+    {
+        "id":3564178,
+        "name":"Ciego de Ávila",
+        "country":"CU",
+        "admin1":"Ciego de Ávila Province",
+        "admin2":"Municipio de Ciego de Ávila",
+        "lat":21.8422,
+        "lon":-78.76034,
+        "pop":142027
+    },
+    {
+        "id":3547640,
+        "name":"Marianao",
+        "country":"CU",
+        "admin1":"Havana",
+        "admin2":"Playa",
+        "lat":23.07385,
+        "lon":-82.4189,
+        "pop":134057
+    },
+    {
+        "id":3564436,
+        "name":"Cerro",
+        "country":"CU",
+        "admin1":"Havana",
+        "admin2":"Plaza De La Revolucion",
+        "lat":23.10809,
+        "lon":-82.3866,
+        "pop":132351
+    },
+    {
+        "id":3547867,
+        "name":"Manzanillo",
+        "country":"CU",
+        "admin1":"Granma Province",
+        "admin2":"Municipio de Manzanillo",
+        "lat":20.34173,
+        "lon":-77.12126,
+        "pop":128188
+    },
+    {
+        "id":3540667,
+        "name":"Sancti Spíritus",
+        "country":"CU",
+        "admin1":"Sancti Spíritus Province",
+        "admin2":"Municipio de Sancti Spíritus",
+        "lat":21.93429,
+        "lon":-79.4398,
+        "pop":127069
+    },
+    {
+        "id":3557846,
+        "name":"Guanabacoa",
+        "country":"CU",
+        "admin1":"Havana",
+        "admin2":"Municipio de Regla",
+        "lat":23.12518,
+        "lon":-82.30067,
+        "pop":112964
+    },
+    {
+        "id":3545064,
+        "name":"Palma Soriano",
+        "country":"CU",
+        "admin1":"Santiago de Cuba Province",
+        "admin2":"Municipio de Palma Soriano",
+        "lat":20.2113,
+        "lon":-75.99362,
+        "pop":102826
+    },
+    {
+        "id":3565432,
+        "name":"Cárdenas",
+        "country":"CU",
+        "admin1":"Matanzas Province",
+        "admin2":"Municipio de Cárdenas",
+        "lat":23.03661,
+        "lon":-81.20596,
+        "pop":98515
+    },
+    {
+        "id":3546791,
+        "name":"Moa",
+        "country":"CU",
+        "admin1":"Holguín Province",
+        "admin2":"Moa",
+        "lat":20.65776,
+        "lon":-74.95075,
+        "pop":92852
+    },
+    {
+        "id":3543299,
+        "name":"Puerto Padre",
+        "country":"CU",
+        "admin1":"Las Tunas Province",
+        "admin2":"Municipio de Puerto Padre",
+        "lat":21.19517,
+        "lon":-76.60358,
+        "pop":76838
+    },
+    {
+        "id":3563504,
+        "name":"Contramaestre",
+        "country":"CU",
+        "admin1":"Santiago de Cuba Province",
+        "admin2":"Contramaestre",
+        "lat":20.29879,
+        "lon":-76.24511,
+        "pop":70438
+    },
+    {
+        "id":3557347,
+        "name":"Güira de Melena",
+        "country":"CU",
+        "admin1":"Artemisa",
+        "admin2":"Municipio de Güira de Melena",
+        "lat":22.79613,
+        "lon":-82.50667,
+        "pop":69879
+    },
+    {
+        "id":3563559,
+        "name":"Consolación del Sur",
+        "country":"CU",
+        "admin1":"Pinar del Río",
+        "admin2":"Municipio de Consolación del Sur",
+        "lat":22.50419,
+        "lon":-83.51442,
+        "pop":69857
+    },
+    {
+        "id":3557378,
+        "name":"Güines",
+        "country":"CU",
+        "admin1":"Mayabeque",
+        "admin2":"Municipio de Güines",
+        "lat":22.83727,
+        "lon":-82.02641,
+        "pop":68935
+    },
+    {
+        "id":3568312,
+        "name":"Artemisa",
+        "country":"CU",
+        "admin1":"Artemisa",
+        "admin2":"Municipio de Artemisa",
+        "lat":22.81366,
+        "lon":-82.75814,
+        "pop":68073
+    },
+    {
+        "id":3539093,
+        "name":"San Luis",
+        "country":"CU",
+        "admin1":"Santiago de Cuba Province",
+        "admin2":"Municipio de San Luis",
+        "lat":20.18809,
+        "lon":-75.85031,
+        "pop":67293
+    },
+    {
+        "id":3546434,
+        "name":"Morón",
+        "country":"CU",
+        "admin1":"Ciego de Ávila Province",
+        "admin2":"Municipio de Morón",
+        "lat":22.10774,
+        "lon":-78.62667,
+        "pop":66060
+    },
+    {
+        "id":3563843,
+        "name":"Colón",
+        "country":"CU",
+        "admin1":"Matanzas Province",
+        "admin2":"Municipio de Colón",
+        "lat":22.72064,
+        "lon":-80.90492,
+        "pop":63882
+    },
+    {
+        "id":3558771,
+        "name":"Florida",
+        "country":"CU",
+        "admin1":"Camagüey",
+        "admin2":"Municipio de Florida",
+        "lat":21.52536,
+        "lon":-78.22579,
+        "pop":63007
+    },
+    {
+        "id":3541440,
+        "name":"Sagua la Grande",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Sagua la Grande",
+        "lat":22.80667,
+        "lon":-80.07556,
+        "pop":62073
+    },
+    {
+        "id":3534915,
+        "name":"Trinidad",
+        "country":"CU",
+        "admin1":"Sancti Spíritus Province",
+        "admin2":"Municipio de Trinidad",
+        "lat":21.80224,
+        "lon":-79.98467,
+        "pop":60206
+    },
+    {
+        "id":3540680,
+        "name":"San Cristobal",
+        "country":"CU",
+        "admin1":"Artemisa",
+        "admin2":"Municipio de San Cristóbal",
+        "lat":22.71658,
+        "lon":-83.05647,
+        "pop":59579
+    },
+    {
+        "id":3543961,
+        "name":"Placetas",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Remedios",
+        "lat":22.31184,
+        "lon":-79.6544,
+        "pop":55408
+    },
+    {
+        "id":3539560,
+        "name":"San José de las Lajas",
+        "country":"CU",
+        "admin1":"Mayabeque",
+        "admin2":"Municipio de San José de las Lajas",
+        "lat":22.96121,
+        "lon":-82.15151,
+        "pop":54847
+    },
+    {
+        "id":3556437,
+        "name":"Jagüey Grande",
+        "country":"CU",
+        "admin1":"Matanzas Province",
+        "admin2":"Municipio de Jagüey Grande",
+        "lat":22.52694,
+        "lon":-81.12861,
+        "pop":54363
+    },
+    {
+        "id":3545841,
+        "name":"Nuevitas",
+        "country":"CU",
+        "admin1":"Camagüey",
+        "admin2":"Municipio de Nuevitas",
+        "lat":21.54585,
+        "lon":-77.26504,
+        "pop":54022
+    },
+    {
+        "id":3567869,
+        "name":"Banes",
+        "country":"CU",
+        "admin1":"Holguín Province",
+        "admin2":"Municipio de Banes",
+        "lat":20.96116,
+        "lon":-75.722,
+        "pop":53104
+    },
+    {
+        "id":3567669,
+        "name":"Bartolomé Masó",
+        "country":"CU",
+        "admin1":"Granma Province",
+        "admin2":"Bartolome Maso",
+        "lat":20.16635,
+        "lon":-76.94291,
+        "pop":53024
+    },
+    {
+        "id":3563317,
+        "name":"Corralillo",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Corralillo",
+        "lat":22.98212,
+        "lon":-80.58556,
+        "pop":51881
+    },
+    {
+        "id":3556268,
+        "name":"Jesús Menéndez",
+        "country":"CU",
+        "admin1":"Las Tunas Province",
+        "admin2":"Municipio de Jesús Menéndez",
+        "lat":21.16139,
+        "lon":-76.47919,
+        "pop":51002
+    },
+    {
+        "id":3556078,
+        "name":"Jobabo",
+        "country":"CU",
+        "admin1":"Las Tunas Province",
+        "admin2":"Municipio de Jobabo",
+        "lat":20.90748,
+        "lon":-77.28194,
+        "pop":49403
+    },
+    {
+        "id":3567834,
+        "name":"Baracoa",
+        "country":"CU",
+        "admin1":"Guantánamo Province",
+        "admin2":"Municipio de Baracoa",
+        "lat":20.34711,
+        "lon":-74.49624,
+        "pop":48362
+    },
+    {
+        "id":3555907,
+        "name":"Jovellanos",
+        "country":"CU",
+        "admin1":"Matanzas Province",
+        "admin2":"Municipio de Jovellanos",
+        "lat":22.80375,
+        "lon":-81.19127,
+        "pop":47164
+    },
+    {
+        "id":3567612,
+        "name":"Bauta",
+        "country":"CU",
+        "admin1":"Artemisa",
+        "admin2":"Municipio de Bauta",
+        "lat":22.98226,
+        "lon":-82.54719,
+        "pop":45768
+    },
+    {
+        "id":3536640,
+        "name":"Santo Domingo",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Santo Domingo",
+        "lat":22.58677,
+        "lon":-80.24261,
+        "pop":45476
+    },
+    {
+        "id":3566603,
+        "name":"Cabaiguán",
+        "country":"CU",
+        "admin1":"Sancti Spíritus Province",
+        "admin2":"Municipio de Cabaiguán",
+        "lat":22.07874,
+        "lon":-79.49726,
+        "pop":44515
+    },
+    {
+        "id":3542502,
+        "name":"Regla",
+        "country":"CU",
+        "admin1":"Havana",
+        "admin2":"Municipio de Regla",
+        "lat":23.125,
+        "lon":-82.33194,
+        "pop":44431
+    },
+    {
+        "id":3534749,
+        "name":"San Germán",
+        "country":"CU",
+        "admin1":"Holguín Province",
+        "admin2":"Urbano Noris",
+        "lat":20.60009,
+        "lon":-76.13364,
+        "pop":43892
+    },
+    {
+        "id":3542744,
+        "name":"Ranchuelo",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Ranchuelo",
+        "lat":22.37266,
+        "lon":-80.15046,
+        "pop":43695
+    },
+    {
+        "id":3540885,
+        "name":"San Antonio de los Baños",
+        "country":"CU",
+        "admin1":"Artemisa",
+        "admin2":"Municipio de San Antonio de los Baños",
+        "lat":22.89018,
+        "lon":-82.50099,
+        "pop":42724
+    },
+    {
+        "id":3566429,
+        "name":"Cacocum",
+        "country":"CU",
+        "admin1":"Holguín Province",
+        "admin2":"Urbano Noris",
+        "lat":20.73775,
+        "lon":-76.32574,
+        "pop":42623
+    },
+    {
+        "id":3533826,
+        "name":"Yaguajay",
+        "country":"CU",
+        "admin1":"Sancti Spíritus Province",
+        "admin2":"Municipio de Yaguajay",
+        "lat":22.32691,
+        "lon":-79.23567,
+        "pop":42218
+    },
+    {
+        "id":3547976,
+        "name":"Manicaragua",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Manicaragua",
+        "lat":22.15021,
+        "lon":-79.97867,
+        "pop":41532
+    },
+    {
+        "id":3569024,
+        "name":"Amancio",
+        "country":"CU",
+        "admin1":"Las Tunas Province",
+        "admin2":"Amancio",
+        "lat":20.81914,
+        "lon":-77.57958,
+        "pop":41523
+    },
+    {
+        "id":3556168,
+        "name":"Jiguaní",
+        "country":"CU",
+        "admin1":"Granma Province",
+        "admin2":"Municipio de Jiguaní",
+        "lat":20.36785,
+        "lon":-76.42741,
+        "pop":41106
+    },
+    {
+        "id":3564114,
+        "name":"Cifuentes",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Cifuentes",
+        "lat":22.6493,
+        "lon":-80.04935,
+        "pop":40142
+    },
+    {
+        "id":3557923,
+        "name":"Guáimaro",
+        "country":"CU",
+        "admin1":"Camagüey",
+        "admin2":"Municipio de Guáimaro",
+        "lat":21.05222,
+        "lon":-77.3499,
+        "pop":39358
+    },
+    {
+        "id":3566356,
+        "name":"Caibarién",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Caibarién",
+        "lat":22.51996,
+        "lon":-79.46599,
+        "pop":39140
+    },
+    {
+        "id":3562827,
+        "name":"Cumanayagua",
+        "country":"CU",
+        "admin1":"Cienfuegos Province",
+        "admin2":"Cumanayagua",
+        "lat":22.15247,
+        "lon":-80.20354,
+        "pop":38687
+    },
+    {
+        "id":3563609,
+        "name":"Condado",
+        "country":"CU",
+        "admin1":"Sancti Spíritus Province",
+        "admin2":"Municipio de Trinidad",
+        "lat":21.8767,
+        "lon":-79.84014,
+        "pop":38248
+    },
+    {
+        "id":3566054,
+        "name":"Camajuaní",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Camajuaní",
+        "lat":22.48333,
+        "lon":-79.75,
+        "pop":35515
+    },
+    {
+        "id":3536724,
+        "name":"Santiago de las Vegas",
+        "country":"CU",
+        "admin1":"Havana",
+        "admin2":"Boyeros",
+        "lat":22.97,
+        "lon":-82.38694,
+        "pop":35241
+    },
+    {
+        "id":3537840,
+        "name":"Santa Cruz del Sur",
+        "country":"CU",
+        "admin1":"Camagüey",
+        "admin2":"Municipio de Santa Cruz del Sur",
+        "lat":20.71633,
+        "lon":-77.99816,
+        "pop":34601
+    },
+    {
+        "id":3546882,
+        "name":"Minas de Matahambre",
+        "country":"CU",
+        "admin1":"Pinar del Río",
+        "admin2":"Minas De Matahambre",
+        "lat":22.58691,
+        "lon":-83.94551,
+        "pop":34419
+    },
+    {
+        "id":3542455,
+        "name":"Remedios",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Caibarién",
+        "lat":22.49502,
+        "lon":-79.54548,
+        "pop":34108
+    },
+    {
+        "id":3548529,
+        "name":"Madruga",
+        "country":"CU",
+        "admin1":"Mayabeque",
+        "admin2":"Municipio de Madruga",
+        "lat":22.91,
+        "lon":-81.85639,
+        "pop":33798
+    },
+    {
+        "id":3534761,
+        "name":"Unión de Reyes",
+        "country":"CU",
+        "admin1":"Matanzas Province",
+        "admin2":"Municipio de Unión de Reyes",
+        "lat":22.79505,
+        "lon":-81.53617,
+        "pop":33646
+    },
+    {
+        "id":3534363,
+        "name":"Vertientes",
+        "country":"CU",
+        "admin1":"Camagüey",
+        "admin2":"Vertientes",
+        "lat":21.25817,
+        "lon":-78.14979,
+        "pop":29704
+    },
+    {
+        "id":3564084,
+        "name":"Ciro Redondo",
+        "country":"CU",
+        "admin1":"Ciego de Ávila Province",
+        "admin2":"Municipio de Ciro Redondo",
+        "lat":22.01921,
+        "lon":-78.70365,
+        "pop":29560
+    },
+    {
+        "id":3547600,
+        "name":"Mariel",
+        "country":"CU",
+        "admin1":"Artemisa",
+        "admin2":"Municipio de Mariel",
+        "lat":22.98931,
+        "lon":-82.75376,
+        "pop":28987
+    },
+    {
+        "id":3533753,
+        "name":"Yara",
+        "country":"CU",
+        "admin1":"Granma Province",
+        "admin2":"Yara",
+        "lat":20.27465,
+        "lon":-76.95132,
+        "pop":28944
+    },
+    {
+        "id":3551608,
+        "name":"La Salud",
+        "country":"CU",
+        "admin1":"Mayabeque",
+        "admin2":"Municipio de Quivicán",
+        "lat":22.87199,
+        "lon":-82.42328,
+        "pop":28796
+    },
+    {
+        "id":3544171,
+        "name":"Pilón",
+        "country":"CU",
+        "admin1":"Granma Province",
+        "admin2":"Pilon",
+        "lat":19.90553,
+        "lon":-77.32152,
+        "pop":28752
+    },
+    {
+        "id":3548441,
+        "name":"Maisí",
+        "country":"CU",
+        "admin1":"Guantánamo Province",
+        "admin2":"Maisi",
+        "lat":20.24673,
+        "lon":-74.15181,
+        "pop":28276
+    },
+    {
+        "id":3558315,
+        "name":"Gibara",
+        "country":"CU",
+        "admin1":"Holguín Province",
+        "admin2":"Municipio de Gibara",
+        "lat":21.10988,
+        "lon":-76.13145,
+        "pop":27603
+    },
+    {
+        "id":3534094,
+        "name":"Viñales",
+        "country":"CU",
+        "admin1":"Pinar del Río",
+        "admin2":"Municipio de Pinar del Río",
+        "lat":22.61892,
+        "lon":-83.70694,
+        "pop":27129
+    },
+    {
+        "id":3544607,
+        "name":"Pedro Betancourt",
+        "country":"CU",
+        "admin1":"Matanzas Province",
+        "admin2":"Municipio de Pedro Betancourt",
+        "lat":22.72709,
+        "lon":-81.28963,
+        "pop":26761
+    },
+    {
+        "id":3562895,
+        "name":"Cueto",
+        "country":"CU",
+        "admin1":"Holguín Province",
+        "admin2":"Cueto",
+        "lat":20.64855,
+        "lon":-75.92967,
+        "pop":26527
+    },
+    {
+        "id":3559416,
+        "name":"Encrucijada",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Encrucijada",
+        "lat":22.61802,
+        "lon":-79.86603,
+        "pop":26155
+    },
+    {
+        "id":3542137,
+        "name":"Río Guayabal de Yateras",
+        "country":"CU",
+        "admin1":"Guantánamo Province",
+        "admin2":"Municipio de Yateras",
+        "lat":20.36667,
+        "lon":-75.01667,
+        "pop":25753
+    },
+    {
+        "id":3548993,
+        "name":"Los Palacios",
+        "country":"CU",
+        "admin1":"Pinar del Río",
+        "admin2":"Municipio de Los Palacios",
+        "lat":22.58882,
+        "lon":-83.24671,
+        "pop":25703
+    },
+    {
+        "id":3549835,
+        "name":"Limonar",
+        "country":"CU",
+        "admin1":"Matanzas Province",
+        "admin2":"Municipio de Cárdenas",
+        "lat":22.95035,
+        "lon":-81.41059,
+        "pop":25421
+    },
+    {
+        "id":3557801,
+        "name":"Guanajay",
+        "country":"CU",
+        "admin1":"Artemisa",
+        "admin2":"Municipio de Guanajay",
+        "lat":22.92616,
+        "lon":-82.68687,
+        "pop":25258
+    },
+    {
+        "id":3565951,
+        "name":"Campechuela",
+        "country":"CU",
+        "admin1":"Granma Province",
+        "admin2":"Municipio de Campechuela",
+        "lat":20.23329,
+        "lon":-77.2799,
+        "pop":25069
+    },
+    {
+        "id":3563145,
+        "name":"Cruces",
+        "country":"CU",
+        "admin1":"Cienfuegos Province",
+        "admin2":"Municipio de Santa Isabel de las Lajas",
+        "lat":22.34203,
+        "lon":-80.27021,
+        "pop":24906
+    },
+    {
+        "id":3564394,
+        "name":"Chambas",
+        "country":"CU",
+        "admin1":"Ciego de Ávila Province",
+        "admin2":"Municipio de Chambas",
+        "lat":22.19534,
+        "lon":-78.9123,
+        "pop":24114
+    },
+    {
+        "id":3544393,
+        "name":"Perico",
+        "country":"CU",
+        "admin1":"Matanzas Province",
+        "admin2":"Municipio de Perico",
+        "lat":22.76987,
+        "lon":-81.0183,
+        "pop":24073
+    },
+    {
+        "id":3542167,
+        "name":"Río Cauto",
+        "country":"CU",
+        "admin1":"Granma Province",
+        "admin2":"Municipio de Río Cauto",
+        "lat":20.55971,
+        "lon":-76.91673,
+        "pop":23737
+    },
+    {
+        "id":3569546,
+        "name":"Aguada de Pasajeros",
+        "country":"CU",
+        "admin1":"Cienfuegos Province",
+        "admin2":"Municipio de Aguada de Pasajeros",
+        "lat":22.3852,
+        "lon":-80.84792,
+        "pop":23606
+    },
+    {
+        "id":3566134,
+        "name":"Calimete",
+        "country":"CU",
+        "admin1":"Matanzas Province",
+        "admin2":"Calimete",
+        "lat":22.5342,
+        "lon":-80.91105,
+        "pop":23255
+    },
+    {
+        "id":3545040,
+        "name":"Palmira",
+        "country":"CU",
+        "admin1":"Cienfuegos Province",
+        "admin2":"Municipio de Palmira",
+        "lat":22.24126,
+        "lon":-80.3911,
+        "pop":23078
+    },
+    {
+        "id":3553343,
+        "name":"Lajas",
+        "country":"CU",
+        "admin1":"Cienfuegos Province",
+        "admin2":"Municipio de Santa Isabel de las Lajas",
+        "lat":22.41479,
+        "lon":-80.2931,
+        "pop":22602
+    },
+    {
+        "id":3754915,
+        "name":"Jimaguayú",
+        "country":"CU",
+        "admin1":"Camagüey",
+        "admin2":"Jimaguayu",
+        "lat":21.24224,
+        "lon":-77.82625,
+        "pop":21169
+    },
+    {
+        "id":3564885,
+        "name":"Cauto Cristo",
+        "country":"CU",
+        "admin1":"Granma Province",
+        "admin2":"Cauto Cristo",
+        "lat":20.55709,
+        "lon":-76.4727,
+        "pop":21159
+    },
+    {
+        "id":3546894,
+        "name":"Minas",
+        "country":"CU",
+        "admin1":"Camagüey",
+        "admin2":"Minas",
+        "lat":21.48802,
+        "lon":-77.61033,
+        "pop":20863
+    },
+    {
+        "id":3563908,
+        "name":"Cojímar",
+        "country":"CU",
+        "admin1":"Havana",
+        "admin2":"La Habana Del Este",
+        "lat":23.16481,
+        "lon":-82.30116,
+        "pop":20390
+    },
+    {
+        "id":3559318,
+        "name":"Esmeralda",
+        "country":"CU",
+        "admin1":"Camagüey",
+        "admin2":"Municipio de Esmeralda",
+        "lat":21.85139,
+        "lon":-78.11725,
+        "pop":20274
+    },
+    {
+        "id":3545867,
+        "name":"Nueva Gerona",
+        "country":"CU",
+        "admin1":"Isla de la Juventud",
+        "admin2":"",
+        "lat":21.88759,
+        "lon":-82.80662,
+        "pop":20264
+    },
+    {
+        "id":3556351,
+        "name":"Jaruco",
+        "country":"CU",
+        "admin1":"Mayabeque",
+        "admin2":"Municipio de Jaruco",
+        "lat":23.04419,
+        "lon":-82.00919,
+        "pop":20207
+    },
+    {
+        "id":3563856,
+        "name":"Colombia",
+        "country":"CU",
+        "admin1":"Las Tunas Province",
+        "admin2":"Colombia",
+        "lat":20.98812,
+        "lon":-77.42598,
+        "pop":20096
+    },
+    {
+        "id":3534632,
+        "name":"Varadero",
+        "country":"CU",
+        "admin1":"Matanzas Province",
+        "admin2":"Municipio de Cárdenas",
+        "lat":23.15678,
+        "lon":-81.24441,
+        "pop":20000
+    },
+    {
+        "id":3558744,
+        "name":"Fomento",
+        "country":"CU",
+        "admin1":"Sancti Spíritus Province",
+        "admin2":"Municipio de Fomento",
+        "lat":22.10475,
+        "lon":-79.72141,
+        "pop":19991
+    },
+    {
+        "id":3567995,
+        "name":"Bahía Honda",
+        "country":"CU",
+        "admin1":"Artemisa",
+        "admin2":"Bahia Honda",
+        "lat":22.90332,
+        "lon":-83.15994,
+        "pop":19834
+    },
+    {
+        "id":3558792,
+        "name":"Florencia",
+        "country":"CU",
+        "admin1":"Ciego de Ávila Province",
+        "admin2":"Florencia",
+        "lat":22.1461,
+        "lon":-78.97328,
+        "pop":19811
+    },
+    {
+        "id":3556334,
+        "name":"Jatibonico",
+        "country":"CU",
+        "admin1":"Sancti Spíritus Province",
+        "admin2":"Municipio de Jatibonico",
+        "lat":21.94333,
+        "lon":-79.16906,
+        "pop":19644
+    },
+    {
+        "id":3541999,
+        "name":"Rodas",
+        "country":"CU",
+        "admin1":"Cienfuegos Province",
+        "admin2":"Municipio de Rodas",
+        "lat":22.34184,
+        "lon":-80.55596,
+        "pop":19212
+    },
+    {
+        "id":3545981,
+        "name":"Niquero",
+        "country":"CU",
+        "admin1":"Granma Province",
+        "admin2":"Municipio de Niquero",
+        "lat":20.04698,
+        "lon":-77.58089,
+        "pop":18771
+    },
+    {
+        "id":3557332,
+        "name":"Guisa",
+        "country":"CU",
+        "admin1":"Granma Province",
+        "admin2":"Guisa",
+        "lat":20.25494,
+        "lon":-76.5393,
+        "pop":18408
+    },
+    {
+        "id":3537845,
+        "name":"Santa Cruz del Norte",
+        "country":"CU",
+        "admin1":"Mayabeque",
+        "admin2":"Municipio de Santa Cruz del Norte",
+        "lat":23.15356,
+        "lon":-81.92262,
+        "pop":18402
+    },
+    {
+        "id":3541446,
+        "name":"Sagua de Tánamo",
+        "country":"CU",
+        "admin1":"Holguín Province",
+        "admin2":"Municipio de Sagua de Tánamo",
+        "lat":20.58269,
+        "lon":-75.24116,
+        "pop":18282
+    },
+    {
+        "id":3567546,
+        "name":"Bejucal",
+        "country":"CU",
+        "admin1":"Mayabeque",
+        "admin2":"Municipio de Bejucal",
+        "lat":22.92861,
+        "lon":-82.38861,
+        "pop":18123
+    },
+    {
+        "id":3543498,
+        "name":"Primero de Enero",
+        "country":"CU",
+        "admin1":"Ciego de Ávila Province",
+        "admin2":"Primero De Enero",
+        "lat":21.94501,
+        "lon":-78.4313,
+        "pop":17934
+    },
+    {
+        "id":3556077,
+        "name":"Jobabo",
+        "country":"CU",
+        "admin1":"Holguín Province",
+        "admin2":"Municipio de Holguín",
+        "lat":20.96917,
+        "lon":-76.29944,
+        "pop":17804
+    },
+    {
+        "id":3551184,
+        "name":"La Sierpe",
+        "country":"CU",
+        "admin1":"Sancti Spíritus Province",
+        "admin2":"Municipio de Jatibonico",
+        "lat":21.77241,
+        "lon":-79.26832,
+        "pop":16937
+    },
+    {
+        "id":3536259,
+        "name":"Sibanicú",
+        "country":"CU",
+        "admin1":"Camagüey",
+        "admin2":"Sibanicu",
+        "lat":21.23631,
+        "lon":-77.52561,
+        "pop":16856
+    },
+    {
+        "id":3547260,
+        "name":"Media Luna",
+        "country":"CU",
+        "admin1":"Granma Province",
+        "admin2":"Media Luna",
+        "lat":20.14298,
+        "lon":-77.43532,
+        "pop":16713
+    },
+    {
+        "id":3569741,
+        "name":"Abreus",
+        "country":"CU",
+        "admin1":"Cienfuegos Province",
+        "admin2":"Municipio de Rodas",
+        "lat":22.27797,
+        "lon":-80.56931,
+        "pop":16711
+    },
+    {
+        "id":3534432,
+        "name":"Venezuela",
+        "country":"CU",
+        "admin1":"Ciego de Ávila Province",
+        "admin2":"Municipio de Ciego de Ávila",
+        "lat":21.73748,
+        "lon":-78.79336,
+        "pop":16601
+    },
+    {
+        "id":3557758,
+        "name":"Guane",
+        "country":"CU",
+        "admin1":"Pinar del Río",
+        "admin2":"Municipio de Guane",
+        "lat":22.20179,
+        "lon":-84.08484,
+        "pop":16548
+    },
+    {
+        "id":3569136,
+        "name":"Alquízar",
+        "country":"CU",
+        "admin1":"Artemisa",
+        "admin2":"Municipio de Alquízar",
+        "lat":22.80517,
+        "lon":-82.58392,
+        "pop":15275
+    },
+    {
+        "id":3567823,
+        "name":"Baraguá",
+        "country":"CU",
+        "admin1":"Ciego de Ávila Province",
+        "admin2":"Municipio de Baraguá",
+        "lat":21.68216,
+        "lon":-78.62567,
+        "pop":15268
+    },
+    {
+        "id":3557432,
+        "name":"Guayos",
+        "country":"CU",
+        "admin1":"Sancti Spíritus Province",
+        "admin2":"Municipio de Cabaiguán",
+        "lat":22.04956,
+        "lon":-79.46106,
+        "pop":15000
+    },
+    {
+        "id":3556406,
+        "name":"Jamaica",
+        "country":"CU",
+        "admin1":"Mayabeque",
+        "admin2":"Municipio de San José de las Lajas",
+        "lat":22.97559,
+        "lon":-82.16852,
+        "pop":15000
+    },
+    {
+        "id":3538758,
+        "name":"San Nicolás de Bari",
+        "country":"CU",
+        "admin1":"Mayabeque",
+        "admin2":"Municipio de San Nicolás",
+        "lat":22.78444,
+        "lon":-81.91333,
+        "pop":14914
+    },
+    {
+        "id":3567655,
+        "name":"Batabanó",
+        "country":"CU",
+        "admin1":"Mayabeque",
+        "admin2":"Municipio de Batabanó",
+        "lat":22.71794,
+        "lon":-82.28965,
+        "pop":13832
+    },
+    {
+        "id":3547519,
+        "name":"Martí",
+        "country":"CU",
+        "admin1":"Matanzas Province",
+        "admin2":"Municipio de Martí",
+        "lat":22.94714,
+        "lon":-80.91902,
+        "pop":13439
+    },
+    {
+        "id":3548099,
+        "name":"Manatí",
+        "country":"CU",
+        "admin1":"Las Tunas Province",
+        "admin2":"Municipio de Manatí",
+        "lat":21.3107,
+        "lon":-76.93403,
+        "pop":13278
+    },
+    {
+        "id":3542965,
+        "name":"Quivicán",
+        "country":"CU",
+        "admin1":"Mayabeque",
+        "admin2":"Municipio de Quivicán",
+        "lat":22.82313,
+        "lon":-82.35558,
+        "pop":12919
+    },
+    {
+        "id":3543077,
+        "name":"Quemado de Güines",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Quemado de Güines",
+        "lat":22.78816,
+        "lon":-80.25226,
+        "pop":12736
+    },
+    {
+        "id":3565768,
+        "name":"Candelaria",
+        "country":"CU",
+        "admin1":"Artemisa",
+        "admin2":"Municipio de Candelaria",
+        "lat":22.74103,
+        "lon":-82.95738,
+        "pop":12675
+    },
+    {
+        "id":3549463,
+        "name":"Los Arabos",
+        "country":"CU",
+        "admin1":"Matanzas Province",
+        "admin2":"Municipio de Los Arabos",
+        "lat":22.72969,
+        "lon":-80.72081,
+        "pop":12504
+    },
+    {
+        "id":3547930,
+        "name":"Mantua",
+        "country":"CU",
+        "admin1":"Pinar del Río",
+        "admin2":"Municipio de Mantua",
+        "lat":22.29058,
+        "lon":-84.28599,
+        "pop":10797
+    },
+    {
+        "id":3559235,
+        "name":"Esperanza",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Ranchuelo",
+        "lat":22.4468,
+        "lon":-80.09711,
+        "pop":10462
+    },
+    {
+        "id":3566235,
+        "name":"Calabazar de Sagua",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Encrucijada",
+        "lat":22.64515,
+        "lon":-79.8951,
+        "pop":10455
+    },
+    {
+        "id":3535143,
+        "name":"Topes de Collantes",
+        "country":"CU",
+        "admin1":"Sancti Spíritus Province",
+        "admin2":"Municipio de Trinidad",
+        "lat":21.91524,
+        "lon":-80.01929,
+        "pop":9729
+    },
+    {
+        "id":3533556,
+        "name":"Zaza del Medio",
+        "country":"CU",
+        "admin1":"Sancti Spíritus Province",
+        "admin2":"Taguasco",
+        "lat":21.99712,
+        "lon":-79.36678,
+        "pop":8667
+    },
+    {
+        "id":3565938,
+        "name":"Campo Florido",
+        "country":"CU",
+        "admin1":"Matanzas Province",
+        "admin2":"Municipio de Perico",
+        "lat":22.81222,
+        "lon":-81.00167,
+        "pop":8269
+    },
+    {
+        "id":3535775,
+        "name":"Soroa",
+        "country":"CU",
+        "admin1":"Artemisa",
+        "admin2":"Municipio de Candelaria",
+        "lat":22.79837,
+        "lon":-83.01253,
+        "pop":7205
+    },
+    {
+        "id":3543913,
+        "name":"Playa Baracoa",
+        "country":"CU",
+        "admin1":"Artemisa",
+        "admin2":"Municipio de Caimito",
+        "lat":23.04601,
+        "lon":-82.56723,
+        "pop":7000
+    },
+    {
+        "id":3567082,
+        "name":"Bolondrón",
+        "country":"CU",
+        "admin1":"Matanzas Province",
+        "admin2":"Municipio de Unión de Reyes",
+        "lat":22.76307,
+        "lon":-81.4478,
+        "pop":6778
+    },
+    {
+        "id":3539092,
+        "name":"San Luis",
+        "country":"CU",
+        "admin1":"Pinar del Río",
+        "admin2":"Municipio de San Luis",
+        "lat":22.27898,
+        "lon":-83.75956,
+        "pop":6690
+    },
+    {
+        "id":13527055,
+        "name":"Naval Station Guantanamo Bay",
+        "country":"CU",
+        "admin1":"Guantánamo Province",
+        "admin2":"Caimanera",
+        "lat":19.91579,
+        "lon":-75.14385,
+        "pop":6100
+    },
+    {
+        "id":3566573,
+        "name":"Cabañas",
+        "country":"CU",
+        "admin1":"Artemisa",
+        "admin2":"Bahia Honda",
+        "lat":22.97944,
+        "lon":-82.92214,
+        "pop":5894
+    },
+    {
+        "id":3569379,
+        "name":"Alacranes",
+        "country":"CU",
+        "admin1":"Matanzas Province",
+        "admin2":"Municipio de Unión de Reyes",
+        "lat":22.76719,
+        "lon":-81.56803,
+        "pop":5843
+    },
+    {
+        "id":3550002,
+        "name":"Leader",
+        "country":"CU",
+        "admin1":"Havana",
+        "admin2":"Municipio de Guanabacoa",
+        "lat":23.03333,
+        "lon":-82.25,
+        "pop":5612
+    },
+    {
+        "id":3749701,
+        "name":"Australia",
+        "country":"CU",
+        "admin1":"Matanzas Province",
+        "admin2":"Municipio de Jagüey Grande",
+        "lat":22.49892,
+        "lon":-81.13486,
+        "pop":5250
+    },
+    {
+        "id":3554850,
+        "name":"La Casualidad",
+        "country":"CU",
+        "admin1":"Mayabeque",
+        "admin2":"",
+        "lat":23.0,
+        "lon":-82.21667,
+        "pop":5110
+    },
+    {
+        "id":3557823,
+        "name":"Guanabo",
+        "country":"CU",
+        "admin1":"Havana",
+        "admin2":"La Habana Del Este",
+        "lat":23.16831,
+        "lon":-82.13737,
+        "pop":5087
+    },
+    {
+        "id":3561408,
+        "name":"El Cobre",
+        "country":"CU",
+        "admin1":"Santiago de Cuba Province",
+        "admin2":"Municipio de Santiago de Cuba",
+        "lat":20.0485,
+        "lon":-75.94579,
+        "pop":4768
+    },
+    {
+        "id":3561667,
+        "name":"El Caney",
+        "country":"CU",
+        "admin1":"Camagüey",
+        "admin2":"Municipio de Florida",
+        "lat":21.3,
+        "lon":-78.48333,
+        "pop":4597
+    },
+    {
+        "id":3542753,
+        "name":"Rancho Veloz",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Corralillo",
+        "lat":22.88042,
+        "lon":-80.39098,
+        "pop":4549
+    },
+    {
+        "id":3535498,
+        "name":"Tarará",
+        "country":"CU",
+        "admin1":"Havana",
+        "admin2":"La Habana Del Este",
+        "lat":23.17452,
+        "lon":-82.20655,
+        "pop":4512
+    },
+    {
+        "id":3554097,
+        "name":"Puerto Esperanza",
+        "country":"CU",
+        "admin1":"Pinar del Río",
+        "admin2":"Municipio de Viñales",
+        "lat":22.77041,
+        "lon":-83.73138,
+        "pop":3331
+    },
+    {
+        "id":3556629,
+        "name":"Isabela de Sagua",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Sagua la Grande",
+        "lat":22.93924,
+        "lon":-80.01185,
+        "pop":3187
+    },
+    {
+        "id":3548000,
+        "name":"Manguito",
+        "country":"CU",
+        "admin1":"Matanzas Province",
+        "admin2":"Calimete",
+        "lat":22.58733,
+        "lon":-80.91451,
+        "pop":3155
+    },
+    {
+        "id":3569548,
+        "name":"Aguada de Moya",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Camajuaní",
+        "lat":22.547,
+        "lon":-79.72014,
+        "pop":2967
+    },
+    {
+        "id":3565244,
+        "name":"Luis Arcos Bergnes",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Camajuaní",
+        "lat":22.50402,
+        "lon":-79.81521,
+        "pop":2279
+    },
+    {
+        "id":3540618,
+        "name":"San Diego de Los Baños",
+        "country":"CU",
+        "admin1":"Pinar del Río",
+        "admin2":"Municipio de Consolación del Sur",
+        "lat":22.64667,
+        "lon":-83.36972,
+        "pop":1643
+    },
+    {
+        "id":3540209,
+        "name":"San Francisco de Paula",
+        "country":"CU",
+        "admin1":"Havana",
+        "admin2":"Municipio de Guanabacoa",
+        "lat":23.06325,
+        "lon":-82.29619,
+        "pop":1425
+    },
+    {
+        "id":3534583,
+        "name":"Vega Alta",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Camajuaní",
+        "lat":22.55,
+        "lon":-79.81917,
+        "pop":1061
+    },
+    {
+        "id":3552821,
+        "name":"La Luz",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Camajuaní",
+        "lat":22.52507,
+        "lon":-79.79768,
+        "pop":733
+    },
+    {
+        "id":3763126,
+        "name":"Crucero Carmita",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Camajuaní",
+        "lat":22.45551,
+        "lon":-79.79266,
+        "pop":704
+    },
+    {
+        "id":11784278,
+        "name":"Chorrerón",
+        "country":"CU",
+        "admin1":"Villa Clara Province",
+        "admin2":"Municipio de Camajuaní",
+        "lat":22.53363,
+        "lon":-79.7116,
+        "pop":614
+    }
+]

@@ -1,0 +1,1862 @@
+[
+    {
+        "id":1821306,
+        "name":"Phnom Penh",
+        "country":"KH",
+        "admin1":"Phnom Penh",
+        "admin2":"",
+        "lat":11.56245,
+        "lon":104.91601,
+        "pop":1573544
+    },
+    {
+        "id":1821940,
+        "name":"Takeo",
+        "country":"KH",
+        "admin1":"Takeo",
+        "admin2":"Krŏng Doun Kaev",
+        "lat":10.99081,
+        "lon":104.78498,
+        "pop":843931
+    },
+    {
+        "id":1822214,
+        "name":"Siem Reap",
+        "country":"KH",
+        "admin1":"Siem Reap",
+        "admin2":"Siem Reap",
+        "lat":13.36179,
+        "lon":103.86056,
+        "pop":139458
+    },
+    {
+        "id":1831797,
+        "name":"Battambang",
+        "country":"KH",
+        "admin1":"Battambang",
+        "admin2":"Krong Battambang",
+        "lat":13.10271,
+        "lon":103.19822,
+        "pop":119251
+    },
+    {
+        "id":1830194,
+        "name":"Paoy Paet",
+        "country":"KH",
+        "admin1":"Banteay Meanchey",
+        "admin2":"Krŏng Paôy Pêt",
+        "lat":13.65805,
+        "lon":102.56365,
+        "pop":79000
+    },
+    {
+        "id":1831167,
+        "name":"Kampong Chhnang",
+        "country":"KH",
+        "admin1":"Kampong Chhnang",
+        "admin2":"Kampong Chhnang",
+        "lat":12.25,
+        "lon":104.66667,
+        "pop":75244
+    },
+    {
+        "id":1831142,
+        "name":"Sihanoukville",
+        "country":"KH",
+        "admin1":"Preah Sihanouk",
+        "admin2":"Krong Preah Sihanouk",
+        "lat":10.60932,
+        "lon":103.52958,
+        "pop":73036
+    },
+    {
+        "id":1831173,
+        "name":"Kampong Cham",
+        "country":"KH",
+        "admin1":"Kampong Cham",
+        "admin2":"Kampong Cham",
+        "lat":11.99339,
+        "lon":105.4635,
+        "pop":61750
+    },
+    {
+        "id":1822768,
+        "name":"Pursat",
+        "country":"KH",
+        "admin1":"Pursat",
+        "admin2":"Pursat",
+        "lat":12.53878,
+        "lon":103.9192,
+        "pop":52476
+    },
+    {
+        "id":1821935,
+        "name":"Ta Khmau",
+        "country":"KH",
+        "admin1":"Kandal",
+        "admin2":"Krŏng Ta Khmau",
+        "lat":11.48333,
+        "lon":104.95,
+        "pop":52066
+    },
+    {
+        "id":1822906,
+        "name":"Phumĭ Véal Srê",
+        "country":"KH",
+        "admin1":"Takeo",
+        "admin2":"Krŏng Doun Kaev",
+        "lat":10.98081,
+        "lon":104.77828,
+        "pop":44270
+    },
+    {
+        "id":1829516,
+        "name":"Bavet",
+        "country":"KH",
+        "admin1":"Svay Rieng",
+        "admin2":"Krŏng Bavĕt",
+        "lat":11.06317,
+        "lon":106.13557,
+        "pop":43783
+    },
+    {
+        "id":1831133,
+        "name":"Kampong Speu",
+        "country":"KH",
+        "admin1":"Kampong Speu Province",
+        "admin2":"Krŏng Chbar Mon",
+        "lat":11.45332,
+        "lon":104.52085,
+        "pop":33231
+    },
+    {
+        "id":1830468,
+        "name":"Koh Kong",
+        "country":"KH",
+        "admin1":"Koh Kong",
+        "admin2":"Krŏng Khémârâ Phumĭn",
+        "lat":11.61531,
+        "lon":102.9838,
+        "pop":33134
+    },
+    {
+        "id":1822610,
+        "name":"Prey Veng",
+        "country":"KH",
+        "admin1":"Prey Veng",
+        "admin2":"Krong Prey Veng",
+        "lat":11.48682,
+        "lon":105.32533,
+        "pop":33079
+    },
+    {
+        "id":1822019,
+        "name":"Suong",
+        "country":"KH",
+        "admin1":"Tboung Khmum",
+        "admin2":"Krŏng Suŏng",
+        "lat":11.91178,
+        "lon":105.65821,
+        "pop":30000
+    },
+    {
+        "id":8740221,
+        "name":"Smach Mean Chey",
+        "country":"KH",
+        "admin1":"Koh Kong",
+        "admin2":"Krŏng Khémârâ Phumĭn",
+        "lat":11.54665,
+        "lon":103.03569,
+        "pop":29329
+    },
+    {
+        "id":1822029,
+        "name":"Stung Treng",
+        "country":"KH",
+        "admin1":"Stung Treng",
+        "admin2":"Stueng Traeng",
+        "lat":13.52586,
+        "lon":105.9683,
+        "pop":25000
+    },
+    {
+        "id":11475280,
+        "name":"Boeng Kak Pir",
+        "country":"KH",
+        "admin1":"Phnom Penh",
+        "admin2":"Khan Tuŏl Koŭk",
+        "lat":11.57269,
+        "lon":104.89022,
+        "pop":24937
+    },
+    {
+        "id":1830098,
+        "name":"Tbeng Meanchey",
+        "country":"KH",
+        "admin1":"Preah Vihear",
+        "admin2":"Krŏng Preăh Vĭhéar",
+        "lat":13.80731,
+        "lon":104.98046,
+        "pop":24380
+    },
+    {
+        "id":1821993,
+        "name":"Svay Rieng",
+        "country":"KH",
+        "admin1":"Svay Rieng",
+        "admin2":"Krong Svay Rieng",
+        "lat":11.08785,
+        "lon":105.79935,
+        "pop":23956
+    },
+    {
+        "id":1822207,
+        "name":"Sisophon",
+        "country":"KH",
+        "admin1":"Banteay Meanchey",
+        "admin2":"Serei Saophoan",
+        "lat":13.58588,
+        "lon":102.97369,
+        "pop":23218
+    },
+    {
+        "id":11475247,
+        "name":"Chrang Chamreh Muoy",
+        "country":"KH",
+        "admin1":"Phnom Penh",
+        "admin2":"Khan Rœssei Kêv",
+        "lat":11.63049,
+        "lon":104.88542,
+        "pop":22911
+    },
+    {
+        "id":1831112,
+        "name":"Kampot",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Kampong Bay",
+        "lat":10.61041,
+        "lon":104.18145,
+        "pop":22691
+    },
+    {
+        "id":1830564,
+        "name":"Kratié",
+        "country":"KH",
+        "admin1":"Kratie",
+        "admin2":"Kracheh",
+        "lat":12.48811,
+        "lon":106.01879,
+        "pop":19975
+    },
+    {
+        "id":1831125,
+        "name":"Kampong Thom",
+        "country":"KH",
+        "admin1":"Kampong Thom",
+        "admin2":"Stueng Saen",
+        "lat":12.71112,
+        "lon":104.88873,
+        "pop":19951
+    },
+    {
+        "id":1830377,
+        "name":"Lumphat",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Lumphat",
+        "lat":13.49146,
+        "lon":106.98022,
+        "pop":19205
+    },
+    {
+        "id":1825093,
+        "name":"Samraong",
+        "country":"KH",
+        "admin1":"Ŏtâr Méanchey",
+        "admin2":"Srŏk Sâmraông",
+        "lat":14.18175,
+        "lon":103.51761,
+        "pop":18694
+    },
+    {
+        "id":1830205,
+        "name":"Pailin",
+        "country":"KH",
+        "admin1":"Pailin",
+        "admin2":"Khan Pailĭn",
+        "lat":12.84895,
+        "lon":102.60928,
+        "pop":17850
+    },
+    {
+        "id":1831732,
+        "name":"Banlung",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Ban Lŭng",
+        "lat":13.73939,
+        "lon":106.98727,
+        "pop":17000
+    },
+    {
+        "id":1829773,
+        "name":"Phum Ânlŭng Vĭl",
+        "country":"KH",
+        "admin1":"Battambang",
+        "admin2":"Sangkae",
+        "lat":13.08339,
+        "lon":103.23503,
+        "pop":16479
+    },
+    {
+        "id":1822158,
+        "name":"Snuol",
+        "country":"KH",
+        "admin1":"Kratie",
+        "admin2":"Snuol",
+        "lat":12.07244,
+        "lon":106.42078,
+        "pop":16473
+    },
+    {
+        "id":1830040,
+        "name":"Phumĭ Âmpĭl Leu",
+        "country":"KH",
+        "admin1":"Kampong Cham",
+        "admin2":"Kampong Siem",
+        "lat":12.00923,
+        "lon":105.43409,
+        "pop":16110
+    },
+    {
+        "id":1831940,
+        "name":"Ângk Tasaôm",
+        "country":"KH",
+        "admin1":"Takeo",
+        "admin2":"Tram Kak",
+        "lat":11.0129,
+        "lon":104.67292,
+        "pop":16026
+    },
+    {
+        "id":11338545,
+        "name":"Ou Bei Choan",
+        "country":"KH",
+        "admin1":"Banteay Meanchey",
+        "admin2":"Ou Chrov District",
+        "lat":13.77363,
+        "lon":102.73731,
+        "pop":15351
+    },
+    {
+        "id":1830690,
+        "name":"Veal Sbov",
+        "country":"KH",
+        "admin1":"Phnom Penh",
+        "admin2":"Chbar Ampov",
+        "lat":11.53525,
+        "lon":104.97595,
+        "pop":14481
+    },
+    {
+        "id":11369355,
+        "name":"Ou Char",
+        "country":"KH",
+        "admin1":"Battambang",
+        "admin2":"Krong Battambang",
+        "lat":13.10691,
+        "lon":103.18723,
+        "pop":14182
+    },
+    {
+        "id":1821458,
+        "name":"Boeng Kak Muoy",
+        "country":"KH",
+        "admin1":"Phnom Penh",
+        "admin2":"Khan Tuŏl Koŭk",
+        "lat":11.57933,
+        "lon":104.89817,
+        "pop":13861
+    },
+    {
+        "id":1829872,
+        "name":"Phumĭ Ânhchaeum",
+        "country":"KH",
+        "admin1":"Tboung Khmum",
+        "admin2":"Srŏk Tbong Khmŭm",
+        "lat":11.84714,
+        "lon":105.71424,
+        "pop":13832
+    },
+    {
+        "id":1821874,
+        "name":"Tăng Krâsăng",
+        "country":"KH",
+        "admin1":"Kampong Thom",
+        "admin2":"Santuk",
+        "lat":12.56743,
+        "lon":105.04559,
+        "pop":12895
+    },
+    {
+        "id":1830038,
+        "name":"Ampil Pram Daeum",
+        "country":"KH",
+        "admin1":"Battambang",
+        "admin2":"Srŏk Bâvĭl",
+        "lat":13.26005,
+        "lon":102.76972,
+        "pop":12822
+    },
+    {
+        "id":1830467,
+        "name":"Krong Kep",
+        "country":"KH",
+        "admin1":"Kep",
+        "admin2":"Krong Kaeb",
+        "lat":10.48291,
+        "lon":104.31672,
+        "pop":11658
+    },
+    {
+        "id":11460007,
+        "name":"Otdam Souriya",
+        "country":"KH",
+        "admin1":"Takeo",
+        "admin2":"Tram Kak",
+        "lat":11.06365,
+        "lon":104.70636,
+        "pop":11295
+    },
+    {
+        "id":1829924,
+        "name":"Phumĭ Ângkôr Borei",
+        "country":"KH",
+        "admin1":"Takeo",
+        "admin2":"Srŏk Ângkôr Borei",
+        "lat":10.99497,
+        "lon":104.97477,
+        "pop":11134
+    },
+    {
+        "id":1827681,
+        "name":"Khnach Romeas",
+        "country":"KH",
+        "admin1":"Battambang",
+        "admin2":"Srŏk Bâvĭl",
+        "lat":13.26428,
+        "lon":102.95043,
+        "pop":10508
+    },
+    {
+        "id":11591267,
+        "name":"Ou Smach",
+        "country":"KH",
+        "admin1":"Ŏtâr Méanchey",
+        "admin2":"Srŏk Sâmraông",
+        "lat":14.42479,
+        "lon":103.69571,
+        "pop":9854
+    },
+    {
+        "id":1829917,
+        "name":"Angkor Sar",
+        "country":"KH",
+        "admin1":"Prey Veng",
+        "admin2":"Srŏk Mésang",
+        "lat":11.25152,
+        "lon":105.62256,
+        "pop":9851
+    },
+    {
+        "id":1826015,
+        "name":"Preaek Khsay Kha",
+        "country":"KH",
+        "admin1":"Prey Veng",
+        "admin2":"Peam Ro",
+        "lat":11.26235,
+        "lon":105.28607,
+        "pop":9668
+    },
+    {
+        "id":11459970,
+        "name":"Svay Rumpea",
+        "country":"KH",
+        "admin1":"Kampong Speu Province",
+        "admin2":"Srŏk Basedth",
+        "lat":11.21281,
+        "lon":104.57611,
+        "pop":9496
+    },
+    {
+        "id":11450840,
+        "name":"Anlong Thnaot",
+        "country":"KH",
+        "admin1":"Pursat",
+        "admin2":"Krakor",
+        "lat":12.528,
+        "lon":104.1999,
+        "pop":9451
+    },
+    {
+        "id":1827458,
+        "name":"Koun Sat",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Srŏk Tœ̆k Chhu",
+        "lat":10.60058,
+        "lon":104.27964,
+        "pop":9277
+    },
+    {
+        "id":11604958,
+        "name":"Ou Svay",
+        "country":"KH",
+        "admin1":"Ŏtâr Méanchey",
+        "admin2":"Srŏk Trâpeăng Prasat",
+        "lat":14.3265,
+        "lon":104.31952,
+        "pop":8846
+    },
+    {
+        "id":1828112,
+        "name":"Roka Khnaor",
+        "country":"KH",
+        "admin1":"Tboung Khmum",
+        "admin2":"Srŏk Kroch Chhmar",
+        "lat":12.24616,
+        "lon":105.76142,
+        "pop":8790
+    },
+    {
+        "id":1827755,
+        "name":"Phumĭ Khchau",
+        "country":"KH",
+        "admin1":"Kampong Cham",
+        "admin2":"Kang Meas",
+        "lat":11.91556,
+        "lon":105.13711,
+        "pop":8711
+    },
+    {
+        "id":1829914,
+        "name":"Angkoul",
+        "country":"KH",
+        "admin1":"Kep",
+        "admin2":"Srŏk Dâmnăk Châng’aeur",
+        "lat":10.46701,
+        "lon":104.38554,
+        "pop":8629
+    },
+    {
+        "id":1831120,
+        "name":"Kampong Trabaek",
+        "country":"KH",
+        "admin1":"Prey Veng",
+        "admin2":"Kampong Trabaek",
+        "lat":11.14379,
+        "lon":105.48275,
+        "pop":8255
+    },
+    {
+        "id":1830231,
+        "name":"Ŏdŏngk",
+        "country":"KH",
+        "admin1":"Kampong Thom",
+        "admin2":"",
+        "lat":11.82252,
+        "lon":104.74359,
+        "pop":8000
+    },
+    {
+        "id":1822227,
+        "name":"Sen Monorom",
+        "country":"KH",
+        "admin1":"Mondolkiri",
+        "admin2":"Krŏng Sênmônoŭrôm",
+        "lat":12.45583,
+        "lon":107.18811,
+        "pop":7944
+    },
+    {
+        "id":1823628,
+        "name":"Tuek Kraham",
+        "country":"KH",
+        "admin1":"Preah Vihear",
+        "admin2":"Choam Khsant",
+        "lat":14.21497,
+        "lon":104.9469,
+        "pop":7809
+    },
+    {
+        "id":1823673,
+        "name":"Phumĭ Tnaôt Chŭm",
+        "country":"KH",
+        "admin1":"Kampong Thom",
+        "admin2":"Baray",
+        "lat":12.52314,
+        "lon":105.06288,
+        "pop":7652
+    },
+    {
+        "id":1830804,
+        "name":"Khŭm Ângkôr Ban",
+        "country":"KH",
+        "admin1":"Kampong Cham",
+        "admin2":"Kang Meas",
+        "lat":11.95581,
+        "lon":105.20791,
+        "pop":7651
+    },
+    {
+        "id":1830803,
+        "name":"Khŭm Ânsaông",
+        "country":"KH",
+        "admin1":"Prey Veng",
+        "admin2":"Kampong Trabaek",
+        "lat":11.12893,
+        "lon":105.544,
+        "pop":7641
+    },
+    {
+        "id":1830014,
+        "name":"Ampov Prey",
+        "country":"KH",
+        "admin1":"Kandal",
+        "admin2":"Kandal Stueng",
+        "lat":11.38712,
+        "lon":104.87958,
+        "pop":7538
+    },
+    {
+        "id":1826753,
+        "name":"Ou Krasar",
+        "country":"KH",
+        "admin1":"Kep",
+        "admin2":"Srŏk Dâmnăk Châng’aeur",
+        "lat":10.55536,
+        "lon":104.2883,
+        "pop":7400
+    },
+    {
+        "id":1829734,
+        "name":"Areaks Tnaot",
+        "country":"KH",
+        "admin1":"Kampong Cham",
+        "admin2":"Steung Trang",
+        "lat":12.36698,
+        "lon":105.63799,
+        "pop":7389
+    },
+    {
+        "id":11449343,
+        "name":"Angkor Meas",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Srŏk Dângtóng",
+        "lat":10.76895,
+        "lon":104.3763,
+        "pop":7108
+    },
+    {
+        "id":1829096,
+        "name":"Chealea",
+        "country":"KH",
+        "admin1":"Kampong Cham",
+        "admin2":"Srŏk Bathéay",
+        "lat":11.91042,
+        "lon":104.92953,
+        "pop":6981
+    },
+    {
+        "id":11476828,
+        "name":"Damrei Choan Khla",
+        "country":"KH",
+        "admin1":"Kampong Thom",
+        "admin2":"Stueng Saen",
+        "lat":12.69275,
+        "lon":104.89885,
+        "pop":6976
+    },
+    {
+        "id":1830144,
+        "name":"Ph’av",
+        "country":"KH",
+        "admin1":"Kampong Cham",
+        "admin2":"Srŏk Bathéay",
+        "lat":12.02816,
+        "lon":104.96478,
+        "pop":6967
+    },
+    {
+        "id":11533007,
+        "name":"Andoung Thma",
+        "country":"KH",
+        "admin1":"Preah Sihanouk",
+        "admin2":"Prey Nob",
+        "lat":10.66993,
+        "lon":103.79704,
+        "pop":6833
+    },
+    {
+        "id":11459786,
+        "name":"Banteay Meas Khang Kaeut",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Banteay Meas",
+        "lat":10.62496,
+        "lon":104.65427,
+        "pop":6792
+    },
+    {
+        "id":11449480,
+        "name":"L’ang",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Srŏk Dângtóng",
+        "lat":10.74494,
+        "lon":104.34578,
+        "pop":6772
+    },
+    {
+        "id":13436322,
+        "name":"Kuttasat",
+        "country":"KH",
+        "admin1":"Banteay Meanchey",
+        "admin2":"Ou Chrov District",
+        "lat":13.58665,
+        "lon":102.7632,
+        "pop":6741
+    },
+    {
+        "id":13436758,
+        "name":"Kak",
+        "country":"KH",
+        "admin1":"Kampong Speu Province",
+        "admin2":"Srŏk Basedth",
+        "lat":11.1956,
+        "lon":104.53684,
+        "pop":6724
+    },
+    {
+        "id":11478675,
+        "name":"Lvea Leu",
+        "country":"KH",
+        "admin1":"Kampong Cham",
+        "admin2":"Chamkar Leu",
+        "lat":12.34494,
+        "lon":105.28478,
+        "pop":6688
+    },
+    {
+        "id":1827393,
+        "name":"Phumĭ Koŭk Kóng",
+        "country":"KH",
+        "admin1":"Prey Veng",
+        "admin2":"Kanhchriech",
+        "lat":11.72915,
+        "lon":105.58272,
+        "pop":6676
+    },
+    {
+        "id":1829970,
+        "name":"Phumĭ Ândong Snay",
+        "country":"KH",
+        "admin1":"Kampong Chhnang",
+        "admin2":"Rolea B'ier",
+        "lat":12.16682,
+        "lon":104.66882,
+        "pop":6441
+    },
+    {
+        "id":1828420,
+        "name":"Han Chey",
+        "country":"KH",
+        "admin1":"Kratie",
+        "admin2":"Chhloung",
+        "lat":12.25816,
+        "lon":105.94835,
+        "pop":6358
+    },
+    {
+        "id":1823453,
+        "name":"Trapeang Chan",
+        "country":"KH",
+        "admin1":"Kampong Chhnang",
+        "admin2":"Baribour",
+        "lat":12.47191,
+        "lon":104.41047,
+        "pop":5931
+    },
+    {
+        "id":1829962,
+        "name":"Andoung Trabaek",
+        "country":"KH",
+        "admin1":"Svay Rieng",
+        "admin2":"Romeas Haek",
+        "lat":11.58003,
+        "lon":105.76523,
+        "pop":5907
+    },
+    {
+        "id":1831571,
+        "name":"Chhnok Tru",
+        "country":"KH",
+        "admin1":"Kampong Chhnang",
+        "admin2":"",
+        "lat":12.51508,
+        "lon":104.45148,
+        "pop":5815
+    },
+    {
+        "id":1830081,
+        "name":"Aachar Leak",
+        "country":"KH",
+        "admin1":"Kampong Thom",
+        "admin2":"Stueng Saen",
+        "lat":12.72553,
+        "lon":104.89426,
+        "pop":5805
+    },
+    {
+        "id":1828435,
+        "name":"Doun Yay",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Chhouk District",
+        "lat":10.77998,
+        "lon":104.44382,
+        "pop":5773
+    },
+    {
+        "id":1823941,
+        "name":"Kampong Thkov",
+        "country":"KH",
+        "admin1":"Siem Reap",
+        "admin2":"Kralanh",
+        "lat":13.60001,
+        "lon":103.41678,
+        "pop":5766
+    },
+    {
+        "id":1827795,
+        "name":"Kdol",
+        "country":"KH",
+        "admin1":"Kampong Chhnang",
+        "admin2":"Tuek Phos",
+        "lat":12.23879,
+        "lon":104.27848,
+        "pop":5631
+    },
+    {
+        "id":1824888,
+        "name":"Siem Reab",
+        "country":"KH",
+        "admin1":"Siem Reap",
+        "admin2":"",
+        "lat":11.40035,
+        "lon":104.86384,
+        "pop":5480
+    },
+    {
+        "id":11459939,
+        "name":"Kouk Trab",
+        "country":"KH",
+        "admin1":"Kandal",
+        "admin2":"Kandal Stueng",
+        "lat":11.4046,
+        "lon":104.84607,
+        "pop":5464
+    },
+    {
+        "id":11459699,
+        "name":"Voat Angk Khang Tboung",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Banteay Meas",
+        "lat":10.72095,
+        "lon":104.52964,
+        "pop":5393
+    },
+    {
+        "id":1827641,
+        "name":"Khpob Ateav",
+        "country":"KH",
+        "admin1":"Kandal",
+        "admin2":"Leuk Daek",
+        "lat":11.06276,
+        "lon":105.19025,
+        "pop":5383
+    },
+    {
+        "id":1829861,
+        "name":"Anhchanh Rung",
+        "country":"KH",
+        "admin1":"Kampong Chhnang",
+        "admin2":"Baribour",
+        "lat":12.35209,
+        "lon":104.42551,
+        "pop":5322
+    },
+    {
+        "id":11598806,
+        "name":"Haong Samnam",
+        "country":"KH",
+        "admin1":"Kampong Speu Province",
+        "admin2":"Aoral",
+        "lat":11.57149,
+        "lon":104.23424,
+        "pop":5320
+    },
+    {
+        "id":11424629,
+        "name":"Kantueu Pir",
+        "country":"KH",
+        "admin1":"Battambang",
+        "admin2":"Srŏk Banăn",
+        "lat":12.93163,
+        "lon":103.13821,
+        "pop":5320
+    },
+    {
+        "id":11459697,
+        "name":"Voat Angk Khang Cheung",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Banteay Meas",
+        "lat":10.74304,
+        "lon":104.5177,
+        "pop":5306
+    },
+    {
+        "id":1828733,
+        "name":"Sdach Kong Khang Cheung",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Banteay Meas",
+        "lat":10.60595,
+        "lon":104.55338,
+        "pop":5228
+    },
+    {
+        "id":11349491,
+        "name":"Anlong Reab",
+        "country":"KH",
+        "admin1":"Pursat",
+        "admin2":"Srŏk Véal Vêng",
+        "lat":12.27909,
+        "lon":103.01656,
+        "pop":5198
+    },
+    {
+        "id":1829925,
+        "name":"Angkor Angk",
+        "country":"KH",
+        "admin1":"Prey Veng",
+        "admin2":"Peam Chor",
+        "lat":11.16057,
+        "lon":105.31443,
+        "pop":5089
+    },
+    {
+        "id":1829982,
+        "name":"Phumĭ Ândong Poŭthĭ",
+        "country":"KH",
+        "admin1":"Svay Rieng",
+        "admin2":"Romeas Haek",
+        "lat":11.35975,
+        "lon":105.80812,
+        "pop":5012
+    },
+    {
+        "id":1829812,
+        "name":"Anlong Romiet",
+        "country":"KH",
+        "admin1":"Kandal",
+        "admin2":"Kandal Stueng",
+        "lat":11.4222,
+        "lon":104.80271,
+        "pop":4999
+    },
+    {
+        "id":11329561,
+        "name":"Andaeuk Haeb",
+        "country":"KH",
+        "admin1":"Battambang",
+        "admin2":"Srŏk Rotanak Mondol",
+        "lat":12.85926,
+        "lon":102.97177,
+        "pop":4940
+    },
+    {
+        "id":11475263,
+        "name":"Ovlaok",
+        "country":"KH",
+        "admin1":"Phnom Penh",
+        "admin2":"Khan Kamboul",
+        "lat":11.5682,
+        "lon":104.75304,
+        "pop":4919
+    },
+    {
+        "id":1828421,
+        "name":"Han Chey",
+        "country":"KH",
+        "admin1":"Kampong Cham",
+        "admin2":"Kampong Siem",
+        "lat":12.14333,
+        "lon":105.52702,
+        "pop":4891
+    },
+    {
+        "id":11459695,
+        "name":"Sdach Kong Khang Lech",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Banteay Meas",
+        "lat":10.62973,
+        "lon":104.5356,
+        "pop":4634
+    },
+    {
+        "id":1824110,
+        "name":"Reaksmei Sameakki",
+        "country":"KH",
+        "admin1":"Kampong Speu Province",
+        "admin2":"Aoral",
+        "lat":11.60167,
+        "lon":104.17601,
+        "pop":4571
+    },
+    {
+        "id":1829811,
+        "name":"Anlong Run",
+        "country":"KH",
+        "admin1":"Battambang",
+        "admin2":"Srŏk Thmâ Koŭl",
+        "lat":13.16709,
+        "lon":103.02527,
+        "pop":4478
+    },
+    {
+        "id":1827190,
+        "name":"Krang Pongro",
+        "country":"KH",
+        "admin1":"Phnom Penh",
+        "admin2":"Khan Dângkaô",
+        "lat":11.44657,
+        "lon":104.80311,
+        "pop":4333
+    },
+    {
+        "id":11459763,
+        "name":"Trapeang Sala Khang Lech",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Banteay Meas",
+        "lat":10.71711,
+        "lon":104.60013,
+        "pop":4294
+    },
+    {
+        "id":11459773,
+        "name":"Tuk Meas Khang Kaeut",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Banteay Meas",
+        "lat":10.66505,
+        "lon":104.60902,
+        "pop":4285
+    },
+    {
+        "id":11584599,
+        "name":"Chob Ta Trav",
+        "country":"KH",
+        "admin1":"Siem Reap",
+        "admin2":"Srŏk Ângkôr Thum",
+        "lat":13.62648,
+        "lon":103.81684,
+        "pop":4236
+    },
+    {
+        "id":1829745,
+        "name":"Anlong Phe",
+        "country":"KH",
+        "admin1":"Stung Treng",
+        "admin2":"Thala Barivat",
+        "lat":13.53631,
+        "lon":105.60907,
+        "pop":4204
+    },
+    {
+        "id":1829922,
+        "name":"Ângkôr Chey",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Angkor Chey",
+        "lat":10.82508,
+        "lon":104.65071,
+        "pop":4191
+    },
+    {
+        "id":1827499,
+        "name":"Kokor",
+        "country":"KH",
+        "admin1":"Kampong Cham",
+        "admin2":"Kampong Siem",
+        "lat":11.94062,
+        "lon":105.37199,
+        "pop":4156
+    },
+    {
+        "id":11478177,
+        "name":"Kaoh Mitt",
+        "country":"KH",
+        "admin1":"Kampong Cham",
+        "admin2":"Kampong Siem",
+        "lat":11.95241,
+        "lon":105.44447,
+        "pop":4143
+    },
+    {
+        "id":1829981,
+        "name":"Andoung Pou",
+        "country":"KH",
+        "admin1":"Kampong Thom",
+        "admin2":"Baray",
+        "lat":12.28309,
+        "lon":105.12236,
+        "pop":4112
+    },
+    {
+        "id":11459764,
+        "name":"Trapeang Sala Khang Kaeut",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Banteay Meas",
+        "lat":10.70395,
+        "lon":104.6197,
+        "pop":4087
+    },
+    {
+        "id":11338459,
+        "name":"Ou Andoung",
+        "country":"KH",
+        "admin1":"Pailin",
+        "admin2":"Khan Sala Krau",
+        "lat":12.93691,
+        "lon":102.56242,
+        "pop":4064
+    },
+    {
+        "id":1827292,
+        "name":"Kou Loab",
+        "country":"KH",
+        "admin1":"Kratie",
+        "admin2":"Srŏk Chĕt Bŭri",
+        "lat":12.54091,
+        "lon":106.06247,
+        "pop":4037
+    },
+    {
+        "id":11449421,
+        "name":"Damnak Sokram",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Srŏk Dângtóng",
+        "lat":10.74163,
+        "lon":104.45117,
+        "pop":3847
+    },
+    {
+        "id":11459812,
+        "name":"Spean Thma",
+        "country":"KH",
+        "admin1":"Phnom Penh",
+        "admin2":"Khan Dângkaô",
+        "lat":11.46702,
+        "lon":104.89139,
+        "pop":3649
+    },
+    {
+        "id":1825322,
+        "name":"Roluos",
+        "country":"KH",
+        "admin1":"Phnom Penh",
+        "admin2":"Khan Dângkaô",
+        "lat":11.44161,
+        "lon":104.86707,
+        "pop":3541
+    },
+    {
+        "id":11459811,
+        "name":"Sak Sampov",
+        "country":"KH",
+        "admin1":"Phnom Penh",
+        "admin2":"Khan Dângkaô",
+        "lat":11.45777,
+        "lon":104.85942,
+        "pop":3439
+    },
+    {
+        "id":1826877,
+        "name":"Mlu Prey Muoy",
+        "country":"KH",
+        "admin1":"Preah Vihear",
+        "admin2":"Srŏk Chhêb",
+        "lat":13.80958,
+        "lon":105.27604,
+        "pop":3337
+    },
+    {
+        "id":11507490,
+        "name":"Khsach Andaet",
+        "country":"KH",
+        "admin1":"Kratie",
+        "admin2":"Chhloung",
+        "lat":12.2522,
+        "lon":105.86726,
+        "pop":3309
+    },
+    {
+        "id":1825275,
+        "name":"Rumchek",
+        "country":"KH",
+        "admin1":"Kampong Cham",
+        "admin2":"Kampong Siem",
+        "lat":12.09168,
+        "lon":105.51117,
+        "pop":3235
+    },
+    {
+        "id":1822373,
+        "name":"Damrei Slab",
+        "country":"KH",
+        "admin1":"Kampong Thom",
+        "admin2":"Srŏk Kâmpóng Svay",
+        "lat":12.90202,
+        "lon":104.69335,
+        "pop":3181
+    },
+    {
+        "id":13436750,
+        "name":"Tien",
+        "country":"KH",
+        "admin1":"Kandal",
+        "admin2":"",
+        "lat":11.44015,
+        "lon":104.84615,
+        "pop":3085
+    },
+    {
+        "id":1826755,
+        "name":"Ou Kanthor",
+        "country":"KH",
+        "admin1":"Kampong Thom",
+        "admin2":"Stueng Saen",
+        "lat":12.69662,
+        "lon":104.84151,
+        "pop":3039
+    },
+    {
+        "id":11518404,
+        "name":"Ou Svay",
+        "country":"KH",
+        "admin1":"Stung Treng",
+        "admin2":"Thala Barivat",
+        "lat":13.87993,
+        "lon":106.00218,
+        "pop":3036
+    },
+    {
+        "id":1827558,
+        "name":"Kien Chrey",
+        "country":"KH",
+        "admin1":"Kampong Cham",
+        "admin2":"Kampong Siem",
+        "lat":12.06929,
+        "lon":105.49638,
+        "pop":3030
+    },
+    {
+        "id":1826789,
+        "name":"Phumĭ Nĭpéch",
+        "country":"KH",
+        "admin1":"Kampong Thom",
+        "admin2":"Srŏk Kâmpóng Svay",
+        "lat":12.9223,
+        "lon":104.78128,
+        "pop":3009
+    },
+    {
+        "id":11440775,
+        "name":"Ou Bak Roteh",
+        "country":"KH",
+        "admin1":"Koh Kong",
+        "admin2":"",
+        "lat":11.1496,
+        "lon":103.98253,
+        "pop":2943
+    },
+    {
+        "id":1827947,
+        "name":"Kaoh Samraong",
+        "country":"KH",
+        "admin1":"Tboung Khmum",
+        "admin2":"",
+        "lat":12.05816,
+        "lon":105.52438,
+        "pop":2793
+    },
+    {
+        "id":1824513,
+        "name":"Stueng Chhay",
+        "country":"KH",
+        "admin1":"Koh Kong",
+        "admin2":"",
+        "lat":10.94238,
+        "lon":103.79716,
+        "pop":2649
+    },
+    {
+        "id":1828689,
+        "name":"Daeum Doung",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Angkor Chey",
+        "lat":10.703,
+        "lon":104.64896,
+        "pop":2638
+    },
+    {
+        "id":11483855,
+        "name":"Nang Khi Lik",
+        "country":"KH",
+        "admin1":"Mondolkiri",
+        "admin2":"Khaoh Neaek",
+        "lat":13.30353,
+        "lon":107.15407,
+        "pop":2593
+    },
+    {
+        "id":1826926,
+        "name":"Lvea",
+        "country":"KH",
+        "admin1":"Siem Reap",
+        "admin2":"Srŏk Puŏk",
+        "lat":13.48462,
+        "lon":103.71438,
+        "pop":2570
+    },
+    {
+        "id":11478176,
+        "name":"Kaoh Tontuem",
+        "country":"KH",
+        "admin1":"Kampong Cham",
+        "admin2":"Kampong Siem",
+        "lat":11.93221,
+        "lon":105.39829,
+        "pop":2561
+    },
+    {
+        "id":11481910,
+        "name":"Mlu Prey Pir",
+        "country":"KH",
+        "admin1":"Preah Vihear",
+        "admin2":"Srŏk Chhêb",
+        "lat":13.77737,
+        "lon":105.26942,
+        "pop":2546
+    },
+    {
+        "id":1825319,
+        "name":"Phumĭ Rôméas",
+        "country":"KH",
+        "admin1":"Kampong Chhnang",
+        "admin2":"Tuek Phos",
+        "lat":12.06904,
+        "lon":104.52382,
+        "pop":2468
+    },
+    {
+        "id":1827473,
+        "name":"Kong Noy",
+        "country":"KH",
+        "admin1":"Phnom Penh",
+        "admin2":"Khan Dângkaô",
+        "lat":11.4394,
+        "lon":104.8378,
+        "pop":2139
+    },
+    {
+        "id":11477924,
+        "name":"Chey Chouk",
+        "country":"KH",
+        "admin1":"Takeo",
+        "admin2":"Srŏk Borei Cholsar",
+        "lat":10.69109,
+        "lon":105.02639,
+        "pop":2012
+    },
+    {
+        "id":1825034,
+        "name":"Sangkae",
+        "country":"KH",
+        "admin1":"Preah Vihear",
+        "admin2":"Srŏk Chhêb",
+        "lat":13.77822,
+        "lon":105.35983,
+        "pop":2006
+    },
+    {
+        "id":1823373,
+        "name":"Phumĭ Trâpeăng Môntrei",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Banteay Meas",
+        "lat":10.69563,
+        "lon":104.57725,
+        "pop":2000
+    },
+    {
+        "id":11506734,
+        "name":"Kaoh Kaev",
+        "country":"KH",
+        "admin1":"Kandal",
+        "admin2":"Lvea Aem",
+        "lat":11.44004,
+        "lon":105.22589,
+        "pop":1995
+    },
+    {
+        "id":11506732,
+        "name":"Lvea Sa",
+        "country":"KH",
+        "admin1":"Kandal",
+        "admin2":"Lvea Aem",
+        "lat":11.45521,
+        "lon":105.18987,
+        "pop":1849
+    },
+    {
+        "id":11477982,
+        "name":"Kouk Thlok",
+        "country":"KH",
+        "admin1":"Takeo",
+        "admin2":"Srŏk Ângkôr Borei",
+        "lat":10.9033,
+        "lon":105.03308,
+        "pop":1827
+    },
+    {
+        "id":11481914,
+        "name":"Sangkae Pir",
+        "country":"KH",
+        "admin1":"Preah Vihear",
+        "admin2":"Srŏk Chhêb",
+        "lat":13.75833,
+        "lon":105.29887,
+        "pop":1774
+    },
+    {
+        "id":11484228,
+        "name":"Aekapheap",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Ou Chum",
+        "lat":13.74807,
+        "lon":107.09608,
+        "pop":1752
+    },
+    {
+        "id":1825871,
+        "name":"Phumĭ Prey Chék",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Banteay Meas",
+        "lat":10.65428,
+        "lon":104.57124,
+        "pop":1450
+    },
+    {
+        "id":1824638,
+        "name":"Phumĭ Srê Kăn",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Banteay Meas",
+        "lat":10.66588,
+        "lon":104.60602,
+        "pop":1430
+    },
+    {
+        "id":11518597,
+        "name":"Phum Pir",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Ban Lŭng",
+        "lat":13.71435,
+        "lon":106.98947,
+        "pop":1412
+    },
+    {
+        "id":1825125,
+        "name":"Samraong Kraom",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Banteay Meas",
+        "lat":10.71879,
+        "lon":104.57197,
+        "pop":1250
+    },
+    {
+        "id":13353934,
+        "name":"Chrak Khley",
+        "country":"KH",
+        "admin1":"Kampot",
+        "admin2":"Banteay Meas",
+        "lat":10.68466,
+        "lon":104.52579,
+        "pop":1150
+    },
+    {
+        "id":1829595,
+        "name":"Banteay Srei",
+        "country":"KH",
+        "admin1":"Siem Reap",
+        "admin2":"Banteay Srei",
+        "lat":13.59623,
+        "lon":103.9639,
+        "pop":1000
+    },
+    {
+        "id":1826955,
+        "name":"Lung Khung",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Bâ Kêv",
+        "lat":13.67157,
+        "lon":107.14581,
+        "pop":998
+    },
+    {
+        "id":1829623,
+        "name":"Ban Hvang",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Veun Sai",
+        "lat":13.97585,
+        "lon":106.81805,
+        "pop":990
+    },
+    {
+        "id":11484028,
+        "name":"Pak Thum",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Ou Ya Dav",
+        "lat":13.74294,
+        "lon":107.43584,
+        "pop":956
+    },
+    {
+        "id":11531206,
+        "name":"Phaknam",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Veun Sai",
+        "lat":14.00688,
+        "lon":106.91104,
+        "pop":882
+    },
+    {
+        "id":11518579,
+        "name":"Phum Buon",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Ban Lŭng",
+        "lat":13.72642,
+        "lon":106.96871,
+        "pop":857
+    },
+    {
+        "id":11518592,
+        "name":"Pa Tang",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Lumphat",
+        "lat":13.53478,
+        "lon":106.97703,
+        "pop":853
+    },
+    {
+        "id":11484029,
+        "name":"Saom Klueng",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Ou Ya Dav",
+        "lat":13.70534,
+        "lon":107.37619,
+        "pop":852
+    },
+    {
+        "id":1828379,
+        "name":"Ka Lan",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Veun Sai",
+        "lat":13.95539,
+        "lon":106.79281,
+        "pop":836
+    },
+    {
+        "id":1829624,
+        "name":"Ban Pong",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Veun Sai",
+        "lat":13.96975,
+        "lon":106.84029,
+        "pop":805
+    },
+    {
+        "id":11484202,
+        "name":"Pa Chon Thum",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Ban Lŭng",
+        "lat":13.74573,
+        "lon":107.06567,
+        "pop":785
+    },
+    {
+        "id":1827963,
+        "name":"Kaoh Peak",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Veun Sai",
+        "lat":14.02924,
+        "lon":106.90845,
+        "pop":773
+    },
+    {
+        "id":11518558,
+        "name":"Phum Muoy",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Koun Mom",
+        "lat":13.57154,
+        "lon":106.73534,
+        "pop":745
+    },
+    {
+        "id":11483430,
+        "name":"Ou Chum",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Ou Chum",
+        "lat":13.7978,
+        "lon":106.99378,
+        "pop":733
+    },
+    {
+        "id":1827470,
+        "name":"Kong Thum",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Ou Ya Dav",
+        "lat":13.67569,
+        "lon":107.32306,
+        "pop":710
+    },
+    {
+        "id":1829178,
+        "name":"Saom Trak",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Ou Ya Dav",
+        "lat":13.70917,
+        "lon":107.40606,
+        "pop":696
+    },
+    {
+        "id":11484204,
+        "name":"Trom",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Bâ Kêv",
+        "lat":13.69145,
+        "lon":107.18104,
+        "pop":675
+    },
+    {
+        "id":1831265,
+        "name":"Hat Pak",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Veun Sai",
+        "lat":13.8467,
+        "lon":106.69522,
+        "pop":661
+    },
+    {
+        "id":1828422,
+        "name":"Lam",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Ou Ya Dav",
+        "lat":13.68022,
+        "lon":107.49265,
+        "pop":661
+    },
+    {
+        "id":1824000,
+        "name":"Phumĭ Ta Vêng",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Ta Vêng",
+        "lat":14.05282,
+        "lon":107.11184,
+        "pop":642
+    },
+    {
+        "id":11484015,
+        "name":"Un",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Ou Ya Dav",
+        "lat":13.67519,
+        "lon":107.33693,
+        "pop":635
+    },
+    {
+        "id":11484215,
+        "name":"Sakmut Leu",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Lumphat",
+        "lat":13.51756,
+        "lon":107.19037,
+        "pop":633
+    },
+    {
+        "id":11518571,
+        "name":"Ou Plong",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Koun Mom",
+        "lat":13.58459,
+        "lon":106.77739,
+        "pop":631
+    },
+    {
+        "id":1826647,
+        "name":"Pa Kalan",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Veun Sai",
+        "lat":13.94862,
+        "lon":106.75922,
+        "pop":624
+    },
+    {
+        "id":11483852,
+        "name":"Thmei",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Lumphat",
+        "lat":13.45907,
+        "lon":107.01345,
+        "pop":616
+    },
+    {
+        "id":11484047,
+        "name":"La Pou",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Ban Lŭng",
+        "lat":13.74124,
+        "lon":107.00746,
+        "pop":611
+    },
+    {
+        "id":1822430,
+        "name":"Rovieng Tboung",
+        "country":"KH",
+        "admin1":"Preah Vihear",
+        "admin2":"Srŏk Rôviĕng",
+        "lat":13.34665,
+        "lon":105.11537,
+        "pop":604
+    },
+    {
+        "id":1824601,
+        "name":"Srae Pok Touch",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Koun Mom",
+        "lat":13.47394,
+        "lon":106.87103,
+        "pop":592
+    },
+    {
+        "id":11518578,
+        "name":"Phum Bei",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Ban Lŭng",
+        "lat":13.73718,
+        "lon":106.96076,
+        "pop":583
+    },
+    {
+        "id":1828374,
+        "name":"Sakmut Kraom",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Lumphat",
+        "lat":13.53329,
+        "lon":107.21387,
+        "pop":548
+    },
+    {
+        "id":1822832,
+        "name":"Yaem",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Bâ Kêv",
+        "lat":13.66044,
+        "lon":107.22714,
+        "pop":546
+    },
+    {
+        "id":11483431,
+        "name":"Tharang Chong",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Ou Chum",
+        "lat":13.79348,
+        "lon":106.99363,
+        "pop":542
+    },
+    {
+        "id":1824149,
+        "name":"Tang Se",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Ândong Méas",
+        "lat":13.87566,
+        "lon":107.35308,
+        "pop":536
+    },
+    {
+        "id":11484024,
+        "name":"Ten Ngol",
+        "country":"KH",
+        "admin1":"Ratanakiri",
+        "admin2":"Srŏk Ou Ya Dav",
+        "lat":13.67231,
+        "lon":107.42095,
+        "pop":532
+    }
+]

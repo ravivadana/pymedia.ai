@@ -1,0 +1,502 @@
+[
+    {
+        "id":2422465,
+        "name":"Conakry",
+        "country":"GN",
+        "admin1":"Conakry",
+        "admin2":"Conakry Special Zone",
+        "lat":9.53795,
+        "lon":-13.67729,
+        "pop":1928389
+    },
+    {
+        "id":2422488,
+        "name":"Camayenne",
+        "country":"GN",
+        "admin1":"Conakry",
+        "admin2":"",
+        "lat":9.535,
+        "lon":-13.68778,
+        "pop":1871242
+    },
+    {
+        "id":2416969,
+        "name":"Nzérékoré",
+        "country":"GN",
+        "admin1":"Nzérékoré Region",
+        "admin2":"Nzerekore Prefecture",
+        "lat":7.75624,
+        "lon":-8.8179,
+        "pop":226426
+    },
+    {
+        "id":2419992,
+        "name":"Kankan",
+        "country":"GN",
+        "admin1":"Kankan Region",
+        "admin2":"Kankan Prefecture",
+        "lat":10.38542,
+        "lon":-9.30568,
+        "pop":221428
+    },
+    {
+        "id":2417786,
+        "name":"Manéah",
+        "country":"GN",
+        "admin1":"Kindia",
+        "admin2":"Coyah",
+        "lat":9.73333,
+        "lon":-13.41667,
+        "pop":194297
+    },
+    {
+        "id":2421535,
+        "name":"Dubréka",
+        "country":"GN",
+        "admin1":"Kindia",
+        "admin2":"Préfecture de Dubréka",
+        "lat":9.79111,
+        "lon":-13.52333,
+        "pop":182296
+    },
+    {
+        "id":2419533,
+        "name":"Kindia",
+        "country":"GN",
+        "admin1":"Kindia",
+        "admin2":"Kindia",
+        "lat":10.05692,
+        "lon":-12.86576,
+        "pop":161024
+    },
+    {
+        "id":2415703,
+        "name":"Siguiri",
+        "country":"GN",
+        "admin1":"Kankan Region",
+        "admin2":"Siguiri Prefecture",
+        "lat":11.42282,
+        "lon":-9.16852,
+        "pop":148018
+    },
+    {
+        "id":2419472,
+        "name":"Kissidougou",
+        "country":"GN",
+        "admin1":"Faranah",
+        "admin2":"Kissidougou",
+        "lat":9.1848,
+        "lon":-10.09987,
+        "pop":116019
+    },
+    {
+        "id":2416402,
+        "name":"Kamsar",
+        "country":"GN",
+        "admin1":"Boké Region",
+        "admin2":"Boke Prefecture",
+        "lat":10.65,
+        "lon":-14.61667,
+        "pop":113350
+    },
+    {
+        "id":2418362,
+        "name":"Labé",
+        "country":"GN",
+        "admin1":"Labé Region",
+        "admin2":"Labe Prefecture",
+        "lat":11.31823,
+        "lon":-12.28332,
+        "pop":107571
+    },
+    {
+        "id":2420562,
+        "name":"Gueckedou",
+        "country":"GN",
+        "admin1":"Nzérékoré Region",
+        "admin2":"Préfecture de Guékédou",
+        "lat":8.56744,
+        "lon":-10.1336,
+        "pop":79140
+    },
+    {
+        "id":2417833,
+        "name":"Mamou",
+        "country":"GN",
+        "admin1":"Mamou Region",
+        "admin2":"Mamou Prefecture",
+        "lat":10.37546,
+        "lon":-12.09148,
+        "pop":79109
+    },
+    {
+        "id":2422457,
+        "name":"Coyah",
+        "country":"GN",
+        "admin1":"Kindia",
+        "admin2":"Coyah",
+        "lat":9.70643,
+        "lon":-13.38465,
+        "pop":77103
+    },
+    {
+        "id":2421273,
+        "name":"Faranah",
+        "country":"GN",
+        "admin1":"Faranah",
+        "admin2":"Faranah Prefecture",
+        "lat":10.04036,
+        "lon":-10.74343,
+        "pop":70181
+    },
+    {
+        "id":2417988,
+        "name":"Macenta",
+        "country":"GN",
+        "admin1":"Nzérékoré Region",
+        "admin2":"Macenta",
+        "lat":8.54351,
+        "lon":-9.47099,
+        "pop":68020
+    },
+    {
+        "id":2420884,
+        "name":"Fria",
+        "country":"GN",
+        "admin1":"Boké Region",
+        "admin2":"Fria",
+        "lat":10.36676,
+        "lon":-13.58253,
+        "pop":64169
+    },
+    {
+        "id":2422924,
+        "name":"Boké",
+        "country":"GN",
+        "admin1":"Boké Region",
+        "admin2":"Boke Prefecture",
+        "lat":10.93217,
+        "lon":-14.29055,
+        "pop":63736
+    },
+    {
+        "id":2416085,
+        "name":"Sangarédi",
+        "country":"GN",
+        "admin1":"Boké Region",
+        "admin2":"Boke Prefecture",
+        "lat":11.1,
+        "lon":-13.76667,
+        "pop":54824
+    },
+    {
+        "id":2418437,
+        "name":"Kouroussa",
+        "country":"GN",
+        "admin1":"Kankan Region",
+        "admin2":"Kouroussa",
+        "lat":10.65,
+        "lon":-9.88333,
+        "pop":36295
+    },
+    {
+        "id":2418092,
+        "name":"Lola",
+        "country":"GN",
+        "admin1":"Nzérékoré Region",
+        "admin2":"Lola",
+        "lat":7.8,
+        "lon":-8.53333,
+        "pop":32555
+    },
+    {
+        "id":2414926,
+        "name":"Télimélé",
+        "country":"GN",
+        "admin1":"Kindia",
+        "admin2":"Telimele Prefecture",
+        "lat":10.9,
+        "lon":-13.03333,
+        "pop":30311
+    },
+    {
+        "id":2422442,
+        "name":"Dabola",
+        "country":"GN",
+        "admin1":"Faranah",
+        "admin2":"Dabola",
+        "lat":10.7433,
+        "lon":-11.10778,
+        "pop":29449
+    },
+    {
+        "id":2419498,
+        "name":"Kintinian",
+        "country":"GN",
+        "admin1":"Kankan Region",
+        "admin2":"Siguiri Prefecture",
+        "lat":11.6,
+        "lon":-9.38333,
+        "pop":27969
+    },
+    {
+        "id":2419622,
+        "name":"Kérouané",
+        "country":"GN",
+        "admin1":"Kankan Region",
+        "admin2":"Kerouane Prefecture",
+        "lat":9.26667,
+        "lon":-9.01667,
+        "pop":26990
+    },
+    {
+        "id":2414545,
+        "name":"Tougué",
+        "country":"GN",
+        "admin1":"Labé Region",
+        "admin2":"Tougue Prefecture",
+        "lat":11.44503,
+        "lon":-11.66422,
+        "pop":25531
+    },
+    {
+        "id":2416443,
+        "name":"Pita",
+        "country":"GN",
+        "admin1":"Mamou Region",
+        "admin2":"Pita",
+        "lat":11.05915,
+        "lon":-12.39498,
+        "pop":25355
+    },
+    {
+        "id":2420985,
+        "name":"Forécariah",
+        "country":"GN",
+        "admin1":"Kindia",
+        "admin2":"Préfecture de Forécariah",
+        "lat":9.43056,
+        "lon":-13.08806,
+        "pop":23350
+    },
+    {
+        "id":2418596,
+        "name":"Koundara",
+        "country":"GN",
+        "admin1":"Boké Region",
+        "admin2":"Koundara Prefecture",
+        "lat":12.48333,
+        "lon":-13.3,
+        "pop":22326
+    },
+    {
+        "id":2421903,
+        "name":"Dinguiraye",
+        "country":"GN",
+        "admin1":"Faranah",
+        "admin2":"Dinguiraye Prefecture",
+        "lat":11.29062,
+        "lon":-10.7121,
+        "pop":20993
+    },
+    {
+        "id":2423126,
+        "name":"Beyla",
+        "country":"GN",
+        "admin1":"Nzérékoré Region",
+        "admin2":"Beyla Prefecture",
+        "lat":8.69011,
+        "lon":-8.64869,
+        "pop":19848
+    },
+    {
+        "id":2417795,
+        "name":"Mandiana",
+        "country":"GN",
+        "admin1":"Kankan Region",
+        "admin2":"Mandiana Prefecture",
+        "lat":10.62577,
+        "lon":-8.69413,
+        "pop":19110
+    },
+    {
+        "id":2423969,
+        "name":"Albadéria",
+        "country":"GN",
+        "admin1":"Faranah",
+        "admin2":"Kissidougou",
+        "lat":9.55,
+        "lon":-10.1,
+        "pop":17147
+    },
+    {
+        "id":2417394,
+        "name":"Moussadou",
+        "country":"GN",
+        "admin1":"Nzérékoré Region",
+        "admin2":"Beyla Prefecture",
+        "lat":8.76667,
+        "lon":-8.61667,
+        "pop":16725
+    },
+    {
+        "id":2414635,
+        "name":"Tomba-kanssa",
+        "country":"GN",
+        "admin1":"Kankan Region",
+        "admin2":"Siguiri Prefecture",
+        "lat":11.72321,
+        "lon":-10.18899,
+        "pop":13560
+    },
+    {
+        "id":2414616,
+        "name":"Tondon",
+        "country":"GN",
+        "admin1":"Kindia",
+        "admin2":"Préfecture de Dubréka",
+        "lat":10.36667,
+        "lon":-13.35,
+        "pop":12235
+    },
+    {
+        "id":2422968,
+        "name":"Boffa",
+        "country":"GN",
+        "admin1":"Boké Region",
+        "admin2":"Boffa",
+        "lat":10.16667,
+        "lon":-14.03333,
+        "pop":10020
+    },
+    {
+        "id":2422383,
+        "name":"Dalaba",
+        "country":"GN",
+        "admin1":"Mamou Region",
+        "admin2":"Dalaba",
+        "lat":10.69249,
+        "lon":-12.24967,
+        "pop":9925
+    },
+    {
+        "id":2418764,
+        "name":"Koubia",
+        "country":"GN",
+        "admin1":"Labé Region",
+        "admin2":"Koubia",
+        "lat":11.58632,
+        "lon":-11.89485,
+        "pop":9909
+    },
+    {
+        "id":2419538,
+        "name":"Kimbo",
+        "country":"GN",
+        "admin1":"Boké Region",
+        "admin2":"Fria",
+        "lat":10.4,
+        "lon":-13.55,
+        "pop":9326
+    },
+    {
+        "id":2414079,
+        "name":"Yomou",
+        "country":"GN",
+        "admin1":"Nzérékoré Region",
+        "admin2":"Yomou",
+        "lat":7.56748,
+        "lon":-9.26283,
+        "pop":8674
+    },
+    {
+        "id":2414055,
+        "name":"Youkounkoun",
+        "country":"GN",
+        "admin1":"Boké Region",
+        "admin2":"Koundara Prefecture",
+        "lat":12.5311,
+        "lon":-13.1224,
+        "pop":7952
+    },
+    {
+        "id":2420826,
+        "name":"Gaoual",
+        "country":"GN",
+        "admin1":"Boké Region",
+        "admin2":"Gaoual Prefecture",
+        "lat":11.75,
+        "lon":-13.2,
+        "pop":7461
+    },
+    {
+        "id":2414659,
+        "name":"Tokonou",
+        "country":"GN",
+        "admin1":"Kankan Region",
+        "admin2":"Kankan Prefecture",
+        "lat":9.65,
+        "lon":-9.78333,
+        "pop":6729
+    },
+    {
+        "id":2417886,
+        "name":"Mali",
+        "country":"GN",
+        "admin1":"Labé Region",
+        "admin2":"Mali Prefecture",
+        "lat":12.079,
+        "lon":-12.2982,
+        "pop":6293
+    },
+    {
+        "id":2416061,
+        "name":"Sanguéya",
+        "country":"GN",
+        "admin1":"Boké Region",
+        "admin2":"Boke Prefecture",
+        "lat":10.7,
+        "lon":-14.36667,
+        "pop":6117
+    },
+    {
+        "id":2578880,
+        "name":"Lélouma",
+        "country":"GN",
+        "admin1":"Labé Region",
+        "admin2":"Lelouma Prefecture",
+        "lat":11.42383,
+        "lon":-12.68183,
+        "pop":5337
+    },
+    {
+        "id":2416168,
+        "name":"Samoé",
+        "country":"GN",
+        "admin1":"Nzérékoré Region",
+        "admin2":"Nzerekore Prefecture",
+        "lat":7.80528,
+        "lon":-8.8675,
+        "pop":2054
+    },
+    {
+        "id":2415697,
+        "name":"Siguirini",
+        "country":"GN",
+        "admin1":"Kankan Region",
+        "admin2":"Siguiri Prefecture",
+        "lat":11.8288,
+        "lon":-10.04548,
+        "pop":2054
+    },
+    {
+        "id":2417005,
+        "name":"Norassouba",
+        "country":"GN",
+        "admin1":"Kankan Region",
+        "admin2":"Siguiri Prefecture",
+        "lat":10.91667,
+        "lon":-9.48333,
+        "pop":1445
+    }
+]

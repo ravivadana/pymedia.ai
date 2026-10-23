@@ -1,0 +1,1272 @@
+[
+    {
+        "id":105343,
+        "name":"Jeddah",
+        "country":"SA",
+        "admin1":"Mecca Region",
+        "admin2":"",
+        "lat":21.49012,
+        "lon":39.18624,
+        "pop":4697000
+    },
+    {
+        "id":108410,
+        "name":"Riyadh",
+        "country":"SA",
+        "admin1":"Riyadh Region",
+        "admin2":"",
+        "lat":24.68773,
+        "lon":46.72185,
+        "pop":4205961
+    },
+    {
+        "id":104515,
+        "name":"Makkah",
+        "country":"SA",
+        "admin1":"Mecca Region",
+        "admin2":"",
+        "lat":21.42664,
+        "lon":39.82563,
+        "pop":1578722
+    },
+    {
+        "id":109223,
+        "name":"Madinah",
+        "country":"SA",
+        "admin1":"Medina Region",
+        "admin2":"",
+        "lat":24.46861,
+        "lon":39.61417,
+        "pop":1300000
+    },
+    {
+        "id":110336,
+        "name":"Dammam",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":26.43442,
+        "lon":50.10326,
+        "pop":1252523
+    },
+    {
+        "id":101760,
+        "name":"Sulţānah",
+        "country":"SA",
+        "admin1":"Medina Region",
+        "admin2":"",
+        "lat":24.49258,
+        "lon":39.58572,
+        "pop":946697
+    },
+    {
+        "id":107304,
+        "name":"Buraydah",
+        "country":"SA",
+        "admin1":"Al-Qassim Region",
+        "admin2":"",
+        "lat":26.32599,
+        "lon":43.97497,
+        "pop":745353
+    },
+    {
+        "id":107968,
+        "name":"Ta’if",
+        "country":"SA",
+        "admin1":"Mecca Region",
+        "admin2":"",
+        "lat":21.27028,
+        "lon":40.41583,
+        "pop":688693
+    },
+    {
+        "id":101628,
+        "name":"Tabuk",
+        "country":"SA",
+        "admin1":"Tabuk Region",
+        "admin2":"",
+        "lat":28.3998,
+        "lon":36.57151,
+        "pop":667000
+    },
+    {
+        "id":106281,
+        "name":"Ha'il",
+        "country":"SA",
+        "admin1":"Ha'il Region",
+        "admin2":"",
+        "lat":27.52188,
+        "lon":41.69073,
+        "pop":605930
+    },
+    {
+        "id":103630,
+        "name":"Najrān",
+        "country":"SA",
+        "admin1":"Najran Region",
+        "admin2":"",
+        "lat":17.49326,
+        "lon":44.12766,
+        "pop":505652
+    },
+    {
+        "id":109353,
+        "name":"Al Kharj",
+        "country":"SA",
+        "admin1":"Riyadh Region",
+        "admin2":"",
+        "lat":24.15541,
+        "lon":47.33457,
+        "pop":425300
+    },
+    {
+        "id":105072,
+        "name":"Khamis Mushait",
+        "country":"SA",
+        "admin1":"'Asir Region",
+        "admin2":"",
+        "lat":18.3,
+        "lon":42.73333,
+        "pop":387553
+    },
+    {
+        "id":109571,
+        "name":"Al Hufūf",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":25.36467,
+        "lon":49.58764,
+        "pop":293179
+    },
+    {
+        "id":109101,
+        "name":"Al Mubarraz",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":25.40768,
+        "lon":49.59028,
+        "pop":290802
+    },
+    {
+        "id":106297,
+        "name":"Hafar Al-Batin",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":28.43279,
+        "lon":45.97077,
+        "pop":271642
+    },
+    {
+        "id":109435,
+        "name":"Al Jubayl",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":27.0174,
+        "lon":49.62251,
+        "pop":237274
+    },
+    {
+        "id":110690,
+        "name":"Abha",
+        "country":"SA",
+        "admin1":"'Asir Region",
+        "admin2":"",
+        "lat":18.21639,
+        "lon":42.50528,
+        "pop":210886
+    },
+    {
+        "id":100425,
+        "name":"Yanbu",
+        "country":"SA",
+        "admin1":"Medina Region",
+        "admin2":"",
+        "lat":24.08954,
+        "lon":38.0618,
+        "pop":200161
+    },
+    {
+        "id":101732,
+        "name":"Unaizah",
+        "country":"SA",
+        "admin1":"Al-Qassim Region",
+        "admin2":"",
+        "lat":26.1,
+        "lon":44.0,
+        "pop":183319
+    },
+    {
+        "id":109323,
+        "name":"Khobar",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":26.27944,
+        "lon":50.20833,
+        "pop":165799
+    },
+    {
+        "id":108512,
+        "name":"Arar",
+        "country":"SA",
+        "admin1":"Northern Borders Region",
+        "admin2":"",
+        "lat":30.97531,
+        "lon":41.03808,
+        "pop":148540
+    },
+    {
+        "id":102527,
+        "name":"Sakakah",
+        "country":"SA",
+        "admin1":"Al Jawf Region",
+        "admin2":"",
+        "lat":29.96974,
+        "lon":40.20641,
+        "pop":128332
+    },
+    {
+        "id":107781,
+        "name":"Az Zulfī",
+        "country":"SA",
+        "admin1":"Riyadh Region",
+        "admin2":"",
+        "lat":26.29945,
+        "lon":44.81542,
+        "pop":125000
+    },
+    {
+        "id":105299,
+        "name":"Jizan",
+        "country":"SA",
+        "admin1":"Jazan Region",
+        "admin2":"",
+        "lat":16.88917,
+        "lon":42.55111,
+        "pop":105198
+    },
+    {
+        "id":108648,
+        "name":"Qurayyat",
+        "country":"SA",
+        "admin1":"Al Jawf Region",
+        "admin2":"Al Qurayyāt",
+        "lat":31.33176,
+        "lon":37.34282,
+        "pop":102903
+    },
+    {
+        "id":11670045,
+        "name":"Sabt Alalayah",
+        "country":"SA",
+        "admin1":"'Asir Region",
+        "admin2":"Sabt Al Alayah",
+        "lat":19.5773,
+        "lon":41.96357,
+        "pop":100000
+    },
+    {
+        "id":107797,
+        "name":"Dhahran",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":26.28864,
+        "lon":50.11396,
+        "pop":99540
+    },
+    {
+        "id":108927,
+        "name":"Al Qaţīf",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":26.56542,
+        "lon":50.0089,
+        "pop":98259
+    },
+    {
+        "id":109953,
+        "name":"Al Bahah",
+        "country":"SA",
+        "admin1":"Al Bahah Region",
+        "admin2":"",
+        "lat":20.01288,
+        "lon":41.46767,
+        "pop":88419
+    },
+    {
+        "id":101554,
+        "name":"Tārūt",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":26.5733,
+        "lon":50.04028,
+        "pop":85371
+    },
+    {
+        "id":103369,
+        "name":"Qal‘at Bīshah",
+        "country":"SA",
+        "admin1":"'Asir Region",
+        "admin2":"",
+        "lat":20.00054,
+        "lon":42.6052,
+        "pop":81828
+    },
+    {
+        "id":108435,
+        "name":"Ar Rass",
+        "country":"SA",
+        "admin1":"Al-Qassim Region",
+        "admin2":"",
+        "lat":25.86944,
+        "lon":43.4973,
+        "pop":81728
+    },
+    {
+        "id":12495725,
+        "name":"Bariq",
+        "country":"SA",
+        "admin1":"'Asir Region",
+        "admin2":"",
+        "lat":18.92966,
+        "lon":41.92953,
+        "pop":75351
+    },
+    {
+        "id":410096,
+        "name":"Ash Shafā",
+        "country":"SA",
+        "admin1":"Mecca Region",
+        "admin2":"",
+        "lat":21.07268,
+        "lon":40.31842,
+        "pop":72190
+    },
+    {
+        "id":109253,
+        "name":"Al Līth",
+        "country":"SA",
+        "admin1":"Mecca Region",
+        "admin2":"",
+        "lat":20.14804,
+        "lon":40.27224,
+        "pop":72000
+    },
+    {
+        "id":102318,
+        "name":"Sayhāt",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":26.48345,
+        "lon":50.04849,
+        "pop":66702
+    },
+    {
+        "id":110312,
+        "name":"Ad Dir‘īyah",
+        "country":"SA",
+        "admin1":"Riyadh Region",
+        "admin2":"",
+        "lat":24.75187,
+        "lon":46.53874,
+        "pop":61609
+    },
+    {
+        "id":109380,
+        "name":"Al Khafjī",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":28.43905,
+        "lon":48.49132,
+        "pop":54857
+    },
+    {
+        "id":110325,
+        "name":"Ad Dawādimī",
+        "country":"SA",
+        "admin1":"Riyadh Region",
+        "admin2":"",
+        "lat":24.50772,
+        "lon":44.39237,
+        "pop":54474
+    },
+    {
+        "id":102651,
+        "name":"Şabyā",
+        "country":"SA",
+        "admin1":"Jazan Region",
+        "admin2":"",
+        "lat":17.1495,
+        "lon":42.62537,
+        "pop":54108
+    },
+    {
+        "id":110619,
+        "name":"Abū ‘Arīsh",
+        "country":"SA",
+        "admin1":"Jazan Region",
+        "admin2":"",
+        "lat":16.96887,
+        "lon":42.83251,
+        "pop":49171
+    },
+    {
+        "id":397833,
+        "name":"Al Badā’i‘ al Wusţá",
+        "country":"SA",
+        "admin1":"Al-Qassim Region",
+        "admin2":"",
+        "lat":25.98546,
+        "lon":43.73659,
+        "pop":48474
+    },
+    {
+        "id":102585,
+        "name":"Şafwá",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":26.6497,
+        "lon":49.95522,
+        "pop":45876
+    },
+    {
+        "id":110250,
+        "name":"Afif",
+        "country":"SA",
+        "admin1":"Riyadh Region",
+        "admin2":"",
+        "lat":23.9065,
+        "lon":42.91724,
+        "pop":45525
+    },
+    {
+        "id":109878,
+        "name":"Al Bukayrīyah",
+        "country":"SA",
+        "admin1":"Al-Qassim Region",
+        "admin2":"",
+        "lat":26.13915,
+        "lon":43.65782,
+        "pop":43229
+    },
+    {
+        "id":103035,
+        "name":"Rābigh",
+        "country":"SA",
+        "admin1":"Mecca Region",
+        "admin2":"",
+        "lat":22.79856,
+        "lon":39.03493,
+        "pop":41759
+    },
+    {
+        "id":102985,
+        "name":"Raḩīmah",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":26.70791,
+        "lon":50.06194,
+        "pop":41188
+    },
+    {
+        "id":101312,
+        "name":"Turaif",
+        "country":"SA",
+        "admin1":"Northern Borders Region",
+        "admin2":"",
+        "lat":31.67252,
+        "lon":38.66374,
+        "pop":40819
+    },
+    {
+        "id":101631,
+        "name":"Ţubarjal",
+        "country":"SA",
+        "admin1":"Al Jawf Region",
+        "admin2":"",
+        "lat":30.49987,
+        "lon":38.21603,
+        "pop":40019
+    },
+    {
+        "id":110314,
+        "name":"Ad Dilam",
+        "country":"SA",
+        "admin1":"Riyadh Region",
+        "admin2":"",
+        "lat":23.99104,
+        "lon":47.16181,
+        "pop":35371
+    },
+    {
+        "id":100926,
+        "name":"Umluj",
+        "country":"SA",
+        "admin1":"Tabuk Region",
+        "admin2":"",
+        "lat":25.02126,
+        "lon":37.2685,
+        "pop":33874
+    },
+    {
+        "id":109131,
+        "name":"Al Mithnab",
+        "country":"SA",
+        "admin1":"Al-Qassim Region",
+        "admin2":"",
+        "lat":25.86012,
+        "lon":44.22228,
+        "pop":33341
+    },
+    {
+        "id":108841,
+        "name":"Al-`Ula",
+        "country":"SA",
+        "admin1":"Medina Region",
+        "admin2":"",
+        "lat":26.60853,
+        "lon":37.92316,
+        "pop":32413
+    },
+    {
+        "id":102170,
+        "name":"Shaqra",
+        "country":"SA",
+        "admin1":"Riyadh Region",
+        "admin2":"",
+        "lat":25.24019,
+        "lon":45.25104,
+        "pop":32215
+    },
+    {
+        "id":106667,
+        "name":"Fayfā’",
+        "country":"SA",
+        "admin1":"Jazan Region",
+        "admin2":"",
+        "lat":17.2806,
+        "lon":43.13735,
+        "pop":29793
+    },
+    {
+        "id":104716,
+        "name":"Laylá",
+        "country":"SA",
+        "admin1":"Riyadh Region",
+        "admin2":"",
+        "lat":22.29206,
+        "lon":46.72376,
+        "pop":29698
+    },
+    {
+        "id":107312,
+        "name":"Abqaiq",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":25.93402,
+        "lon":49.6688,
+        "pop":29474
+    },
+    {
+        "id":393275,
+        "name":"Turubah",
+        "country":"SA",
+        "admin1":"Ha'il Region",
+        "admin2":"",
+        "lat":28.25849,
+        "lon":42.92457,
+        "pop":28279
+    },
+    {
+        "id":107744,
+        "name":"Badr Ḩunayn",
+        "country":"SA",
+        "admin1":"Medina Region",
+        "admin2":"",
+        "lat":23.78292,
+        "lon":38.79047,
+        "pop":27257
+    },
+    {
+        "id":409682,
+        "name":"Thuwal",
+        "country":"SA",
+        "admin1":"Mecca Region",
+        "admin2":"",
+        "lat":22.28272,
+        "lon":39.11245,
+        "pop":26957
+    },
+    {
+        "id":102451,
+        "name":"Şāmitah",
+        "country":"SA",
+        "admin1":"Jazan Region",
+        "admin2":"",
+        "lat":16.59601,
+        "lon":42.94435,
+        "pop":26945
+    },
+    {
+        "id":108773,
+        "name":"Al Wajh",
+        "country":"SA",
+        "admin1":"Tabuk Region",
+        "admin2":"",
+        "lat":26.23094,
+        "lon":36.46492,
+        "pop":26636
+    },
+    {
+        "id":109998,
+        "name":"Al ‘Awwāmīyah",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":26.59144,
+        "lon":49.97951,
+        "pop":26276
+    },
+    {
+        "id":106102,
+        "name":"Ḩaql",
+        "country":"SA",
+        "admin1":"Al Jawf Region",
+        "admin2":"",
+        "lat":29.28627,
+        "lon":34.94687,
+        "pop":25649
+    },
+    {
+        "id":11835536,
+        "name":"Riyāḑ al Khabrā’",
+        "country":"SA",
+        "admin1":"Al-Qassim Region",
+        "admin2":"",
+        "lat":26.06672,
+        "lon":43.55344,
+        "pop":25588
+    },
+    {
+        "id":102744,
+        "name":"Rumāḩ",
+        "country":"SA",
+        "admin1":"Riyadh Region",
+        "admin2":"",
+        "lat":25.56395,
+        "lon":47.16408,
+        "pop":25031
+    },
+    {
+        "id":108617,
+        "name":"An Nimas",
+        "country":"SA",
+        "admin1":"'Asir Region",
+        "admin2":"An Nimas",
+        "lat":19.14547,
+        "lon":42.12009,
+        "pop":24153
+    },
+    {
+        "id":108048,
+        "name":"As Sulayyil",
+        "country":"SA",
+        "admin1":"Riyadh Region",
+        "admin2":"",
+        "lat":20.46067,
+        "lon":45.57792,
+        "pop":24097
+    },
+    {
+        "id":101322,
+        "name":"Turabah",
+        "country":"SA",
+        "admin1":"Mecca Region",
+        "admin2":"",
+        "lat":21.21406,
+        "lon":41.6331,
+        "pop":23235
+    },
+    {
+        "id":109417,
+        "name":"Al Jumūm",
+        "country":"SA",
+        "admin1":"Mecca Region",
+        "admin2":"",
+        "lat":21.61951,
+        "lon":39.69659,
+        "pop":22207
+    },
+    {
+        "id":106909,
+        "name":"Duba",
+        "country":"SA",
+        "admin1":"Tabuk Region",
+        "admin2":"",
+        "lat":27.35134,
+        "lon":35.69014,
+        "pop":22000
+    },
+    {
+        "id":107959,
+        "name":"Aţ Ţaraf",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":25.36232,
+        "lon":49.72757,
+        "pop":21386
+    },
+    {
+        "id":108918,
+        "name":"Qaisumah",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":28.31117,
+        "lon":46.12729,
+        "pop":20685
+    },
+    {
+        "id":104578,
+        "name":"Mahd adh Dhahab",
+        "country":"SA",
+        "admin1":"Medina Region",
+        "admin2":"",
+        "lat":23.49966,
+        "lon":40.88408,
+        "pop":20272
+    },
+    {
+        "id":104923,
+        "name":"Khulayş",
+        "country":"SA",
+        "admin1":"Mecca Region",
+        "admin2":"",
+        "lat":22.15553,
+        "lon":39.32015,
+        "pop":20139
+    },
+    {
+        "id":108655,
+        "name":"‘Inak",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":26.51959,
+        "lon":50.02715,
+        "pop":20038
+    },
+    {
+        "id":12500245,
+        "name":"Sarāt ‘Abīdah",
+        "country":"SA",
+        "admin1":"'Asir Region",
+        "admin2":"",
+        "lat":18.089,
+        "lon":43.132,
+        "pop":19855
+    },
+    {
+        "id":107588,
+        "name":"Baq‘ā’",
+        "country":"SA",
+        "admin1":"Ha'il Region",
+        "admin2":"",
+        "lat":27.90647,
+        "lon":42.38898,
+        "pop":19659
+    },
+    {
+        "id":110059,
+        "name":"Al ‘Aqīq",
+        "country":"SA",
+        "admin1":"Al Bahah Region",
+        "admin2":"",
+        "lat":20.65,
+        "lon":41.41667,
+        "pop":19269
+    },
+    {
+        "id":109391,
+        "name":"Al Khabrā’",
+        "country":"SA",
+        "admin1":"Al-Qassim Region",
+        "admin2":"",
+        "lat":26.07179,
+        "lon":43.62497,
+        "pop":16906
+    },
+    {
+        "id":109915,
+        "name":"Al Baţţālīyah",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":25.43333,
+        "lon":49.63333,
+        "pop":16606
+    },
+    {
+        "id":109059,
+        "name":"Al Munayzilah",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":25.38333,
+        "lon":49.66667,
+        "pop":16296
+    },
+    {
+        "id":108782,
+        "name":"‘Uyūn al Jiwā’",
+        "country":"SA",
+        "admin1":"Al-Qassim Region",
+        "admin2":"",
+        "lat":26.49829,
+        "lon":43.6312,
+        "pop":15619
+    },
+    {
+        "id":399518,
+        "name":"Al Majāridah",
+        "country":"SA",
+        "admin1":"'Asir Region",
+        "admin2":"",
+        "lat":19.132,
+        "lon":41.924,
+        "pop":14830
+    },
+    {
+        "id":101581,
+        "name":"Tanūmah",
+        "country":"SA",
+        "admin1":"Al-Qassim Region",
+        "admin2":"",
+        "lat":27.1,
+        "lon":44.13333,
+        "pop":13594
+    },
+    {
+        "id":108890,
+        "name":"Al Qurayn",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":25.48333,
+        "lon":49.6,
+        "pop":12013
+    },
+    {
+        "id":101035,
+        "name":"Umm as Sāhik",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":26.65361,
+        "lon":49.91639,
+        "pop":11813
+    },
+    {
+        "id":108121,
+        "name":"Sājir",
+        "country":"SA",
+        "admin1":"Riyadh Region",
+        "admin2":"",
+        "lat":25.18251,
+        "lon":44.59964,
+        "pop":11717
+    },
+    {
+        "id":103220,
+        "name":"Qibah",
+        "country":"SA",
+        "admin1":"Al-Qassim Region",
+        "admin2":"",
+        "lat":27.40285,
+        "lon":44.3277,
+        "pop":11506
+    },
+    {
+        "id":110107,
+        "name":"Al Awjām",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":26.56324,
+        "lon":49.94331,
+        "pop":11460
+    },
+    {
+        "id":106744,
+        "name":"Farasān",
+        "country":"SA",
+        "admin1":"Jazan Region",
+        "admin2":"",
+        "lat":16.70222,
+        "lon":42.11833,
+        "pop":10527
+    },
+    {
+        "id":100732,
+        "name":"‘Uqlat aş Şuqūr",
+        "country":"SA",
+        "admin1":"Al-Qassim Region",
+        "admin2":"",
+        "lat":25.82916,
+        "lon":42.20119,
+        "pop":9717
+    },
+    {
+        "id":109118,
+        "name":"Al Mindak",
+        "country":"SA",
+        "admin1":"Al Bahah Region",
+        "admin2":"",
+        "lat":20.1588,
+        "lon":41.28337,
+        "pop":9218
+    },
+    {
+        "id":110031,
+        "name":"Al Arţāwīyah",
+        "country":"SA",
+        "admin1":"Riyadh Region",
+        "admin2":"",
+        "lat":26.50387,
+        "lon":45.34813,
+        "pop":9152
+    },
+    {
+        "id":109436,
+        "name":"Al Jubayl",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":25.4,
+        "lon":49.65,
+        "pop":9108
+    },
+    {
+        "id":108957,
+        "name":"Al Qārah",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":25.41667,
+        "lon":49.66667,
+        "pop":9106
+    },
+    {
+        "id":104376,
+        "name":"Marāt",
+        "country":"SA",
+        "admin1":"Riyadh Region",
+        "admin2":"",
+        "lat":25.07064,
+        "lon":45.45775,
+        "pop":8885
+    },
+    {
+        "id":109502,
+        "name":"Al Jafr",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":25.37736,
+        "lon":49.72154,
+        "pop":8715
+    },
+    {
+        "id":392753,
+        "name":"Şuwayr",
+        "country":"SA",
+        "admin1":"Al Jawf Region",
+        "admin2":"",
+        "lat":30.11713,
+        "lon":40.38925,
+        "pop":8515
+    },
+    {
+        "id":396550,
+        "name":"Tumayr",
+        "country":"SA",
+        "admin1":"Riyadh Region",
+        "admin2":"",
+        "lat":25.70347,
+        "lon":45.86835,
+        "pop":8246
+    },
+    {
+        "id":101344,
+        "name":"At Tūbī",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":26.55778,
+        "lon":49.99167,
+        "pop":7740
+    },
+    {
+        "id":109481,
+        "name":"Al Jarādīyah",
+        "country":"SA",
+        "admin1":"Jazan Region",
+        "admin2":"",
+        "lat":16.57946,
+        "lon":42.9124,
+        "pop":7396
+    },
+    {
+        "id":409993,
+        "name":"Al Muwayh",
+        "country":"SA",
+        "admin1":"Mecca Region",
+        "admin2":"",
+        "lat":22.43333,
+        "lon":41.75829,
+        "pop":7364
+    },
+    {
+        "id":108142,
+        "name":"As Saffānīyah",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":27.97083,
+        "lon":48.73,
+        "pop":7014
+    },
+    {
+        "id":11829674,
+        "name":"Al Mulaydā’",
+        "country":"SA",
+        "admin1":"Al-Qassim Region",
+        "admin2":"",
+        "lat":26.31781,
+        "lon":43.78527,
+        "pop":6967
+    },
+    {
+        "id":410084,
+        "name":"Al Hadā",
+        "country":"SA",
+        "admin1":"Mecca Region",
+        "admin2":"",
+        "lat":21.35903,
+        "lon":40.2803,
+        "pop":6885
+    },
+    {
+        "id":107840,
+        "name":"Ayn Ibn Fuhayd",
+        "country":"SA",
+        "admin1":"Al-Qassim Region",
+        "admin2":"",
+        "lat":26.77157,
+        "lon":44.2071,
+        "pop":6548
+    },
+    {
+        "id":109165,
+        "name":"Al Markaz",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":25.4,
+        "lon":49.73333,
+        "pop":6464
+    },
+    {
+        "id":106872,
+        "name":"Dukhnah",
+        "country":"SA",
+        "admin1":"Al-Qassim Region",
+        "admin2":"",
+        "lat":25.35621,
+        "lon":43.62268,
+        "pop":6354
+    },
+    {
+        "id":104269,
+        "name":"Mislīyah",
+        "country":"SA",
+        "admin1":"Jazan Region",
+        "admin2":"",
+        "lat":17.45988,
+        "lon":42.5572,
+        "pop":6117
+    },
+    {
+        "id":109008,
+        "name":"Al Muţayrifī",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":25.47878,
+        "lon":49.55824,
+        "pop":5962
+    },
+    {
+        "id":410874,
+        "name":"Mizhirah",
+        "country":"SA",
+        "admin1":"Jazan Region",
+        "admin2":"",
+        "lat":16.82611,
+        "lon":42.73333,
+        "pop":5529
+    },
+    {
+        "id":12495738,
+        "name":"Al Ju‘aymah",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":26.75007,
+        "lon":49.90469,
+        "pop":5500
+    },
+    {
+        "id":110328,
+        "name":"Ad Darb",
+        "country":"SA",
+        "admin1":"Jazan Region",
+        "admin2":"",
+        "lat":17.72285,
+        "lon":42.25261,
+        "pop":5378
+    },
+    {
+        "id":105252,
+        "name":"Julayjilah",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":25.5,
+        "lon":49.6,
+        "pop":5359
+    },
+    {
+        "id":103922,
+        "name":"Mulayjah",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":27.27103,
+        "lon":48.42419,
+        "pop":5247
+    },
+    {
+        "id":397513,
+        "name":"Al Fuwayliq",
+        "country":"SA",
+        "admin1":"Al-Qassim Region",
+        "admin2":"",
+        "lat":26.4436,
+        "lon":43.25164,
+        "pop":5205
+    },
+    {
+        "id":101633,
+        "name":"Tabālah",
+        "country":"SA",
+        "admin1":"'Asir Region",
+        "admin2":"",
+        "lat":19.95,
+        "lon":42.4,
+        "pop":5151
+    },
+    {
+        "id":110275,
+        "name":"Adh Dhibiyah",
+        "country":"SA",
+        "admin1":"Al-Qassim Region",
+        "admin2":"",
+        "lat":26.027,
+        "lon":43.157,
+        "pop":5068
+    },
+    {
+        "id":13237017,
+        "name":"Ash Shamli",
+        "country":"SA",
+        "admin1":"Ha'il Region",
+        "admin2":"",
+        "lat":26.8577,
+        "lon":40.32947,
+        "pop":4830
+    },
+    {
+        "id":6692745,
+        "name":"shokhaibٍ",
+        "country":"SA",
+        "admin1":"Riyadh Region",
+        "admin2":"",
+        "lat":24.49023,
+        "lon":46.26871,
+        "pop":1500
+    },
+    {
+        "id":400009,
+        "name":"Ain AlBaraha",
+        "country":"SA",
+        "admin1":"Riyadh Region",
+        "admin2":"",
+        "lat":24.75806,
+        "lon":43.77389,
+        "pop":1500
+    },
+    {
+        "id":395628,
+        "name":"Wed Alnkil",
+        "country":"SA",
+        "admin1":"Al-Qassim Region",
+        "admin2":"",
+        "lat":25.4267,
+        "lon":42.8343,
+        "pop":1500
+    },
+    {
+        "id":9031043,
+        "name":"Alrmtheiah",
+        "country":"SA",
+        "admin1":"Al-Qassim Region",
+        "admin2":"",
+        "lat":24.74299,
+        "lon":42.95528,
+        "pop":1000
+    },
+    {
+        "id":7288343,
+        "name":"Shaybah",
+        "country":"SA",
+        "admin1":"Eastern Province",
+        "admin2":"",
+        "lat":22.59246,
+        "lon":54.09599,
+        "pop":1000
+    },
+    {
+        "id":11952723,
+        "name":"ِAl bathnah",
+        "country":"SA",
+        "admin1":"Medina Region",
+        "admin2":"",
+        "lat":24.40077,
+        "lon":38.48251,
+        "pop":500
+    }
+]

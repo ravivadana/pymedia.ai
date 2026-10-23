@@ -1,0 +1,5032 @@
+[
+    {
+        "id":3060972,
+        "name":"Bratislava",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"",
+        "lat":48.14816,
+        "lon":17.10674,
+        "pop":423737
+    },
+    {
+        "id":724443,
+        "name":"Košice",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"",
+        "lat":48.71441,
+        "lon":21.25802,
+        "pop":225044
+    },
+    {
+        "id":3058213,
+        "name":"Petržalka",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Bratislava V",
+        "lat":48.12331,
+        "lon":17.12866,
+        "pop":112380
+    },
+    {
+        "id":3058531,
+        "name":"Nitra",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.30763,
+        "lon":18.08453,
+        "pop":86329
+    },
+    {
+        "id":723819,
+        "name":"Prešov",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Prešov",
+        "lat":48.99923,
+        "lon":21.2355,
+        "pop":82927
+    },
+    {
+        "id":3056508,
+        "name":"Žilina",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Žilina",
+        "lat":49.22315,
+        "lon":18.73941,
+        "pop":81219
+    },
+    {
+        "id":3061186,
+        "name":"Banská Bystrica",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Banská Bystrica",
+        "lat":48.73947,
+        "lon":19.14932,
+        "pop":74590
+    },
+    {
+        "id":3057124,
+        "name":"Trnava",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Trnava",
+        "lat":48.37773,
+        "lon":17.58603,
+        "pop":62806
+    },
+    {
+        "id":3057140,
+        "name":"Trenčín",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Trenčín",
+        "lat":48.89452,
+        "lon":18.04436,
+        "pop":58278
+    },
+    {
+        "id":3058780,
+        "name":"Martin",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Martin",
+        "lat":49.06651,
+        "lon":18.92399,
+        "pop":51139
+    },
+    {
+        "id":723846,
+        "name":"Poprad",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Poprad",
+        "lat":49.06144,
+        "lon":20.29798,
+        "pop":49091
+    },
+    {
+        "id":3058000,
+        "name":"Prievidza",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Prievidza",
+        "lat":48.77446,
+        "lon":18.6275,
+        "pop":43645
+    },
+    {
+        "id":3056459,
+        "name":"Zvolen",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Zvolen",
+        "lat":48.57442,
+        "lon":19.15324,
+        "pop":39844
+    },
+    {
+        "id":3058060,
+        "name":"Považská Bystrica",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Považská Bystrica",
+        "lat":49.12153,
+        "lon":18.42169,
+        "pop":37483
+    },
+    {
+        "id":3058472,
+        "name":"Nové Zámky",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nové Zámky",
+        "lat":47.98544,
+        "lon":18.16195,
+        "pop":36781
+    },
+    {
+        "id":724144,
+        "name":"Michalovce",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Michalovce",
+        "lat":48.75434,
+        "lon":21.9195,
+        "pop":35874
+    },
+    {
+        "id":3059564,
+        "name":"Karlova Ves",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Bratislava IV",
+        "lat":48.15344,
+        "lon":17.05522,
+        "pop":35644
+    },
+    {
+        "id":3060322,
+        "name":"Dúbravka",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Bratislava IV",
+        "lat":48.18872,
+        "lon":17.03521,
+        "pop":35518
+    },
+    {
+        "id":723526,
+        "name":"Spišská Nová Ves",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Spišská Nová Ves",
+        "lat":48.94464,
+        "lon":20.56153,
+        "pop":34855
+    },
+    {
+        "id":3059436,
+        "name":"Komárno",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.76356,
+        "lon":18.12263,
+        "pop":32287
+    },
+    {
+        "id":3059435,
+        "name":"Komárno",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nové Zámky",
+        "lat":48.11667,
+        "lon":18.31667,
+        "pop":32287
+    },
+    {
+        "id":3059101,
+        "name":"Levice",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Levice",
+        "lat":48.21563,
+        "lon":18.60705,
+        "pop":30556
+    },
+    {
+        "id":724627,
+        "name":"Humenné",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Humenné",
+        "lat":48.93707,
+        "lon":21.91625,
+        "pop":30450
+    },
+    {
+        "id":725168,
+        "name":"Bardejov",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Bardejov",
+        "lat":49.29175,
+        "lon":21.27271,
+        "pop":30267
+    },
+    {
+        "id":3059050,
+        "name":"Liptovský Mikuláš",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Liptovský Mikuláš",
+        "lat":49.08061,
+        "lon":19.62218,
+        "pop":30162
+    },
+    {
+        "id":3058202,
+        "name":"Piešťany",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Piešťany",
+        "lat":48.59479,
+        "lon":17.82591,
+        "pop":26862
+    },
+    {
+        "id":3057789,
+        "name":"Ružomberok",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Ružomberok",
+        "lat":49.0748,
+        "lon":19.30751,
+        "pop":26671
+    },
+    {
+        "id":3058986,
+        "name":"Lučenec",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Lučenec",
+        "lat":48.33249,
+        "lon":19.66708,
+        "pop":25191
+    },
+    {
+        "id":3058210,
+        "name":"Pezinok",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Pezinok",
+        "lat":48.28986,
+        "lon":17.26664,
+        "pop":24443
+    },
+    {
+        "id":3057174,
+        "name":"Topoľčany",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Topoľčany",
+        "lat":48.56361,
+        "lon":18.16712,
+        "pop":24086
+    },
+    {
+        "id":3058117,
+        "name":"Podunajské Biskupice",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Bratislava II",
+        "lat":48.13246,
+        "lon":17.20963,
+        "pop":23464
+    },
+    {
+        "id":723358,
+        "name":"Trebišov",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Trebišov",
+        "lat":48.62858,
+        "lon":21.71954,
+        "pop":22851
+    },
+    {
+        "id":3060308,
+        "name":"Dunajská Streda",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":47.99268,
+        "lon":17.61211,
+        "pop":22730
+    },
+    {
+        "id":3060835,
+        "name":"Čadca",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Čadca",
+        "lat":49.43503,
+        "lon":18.78895,
+        "pop":22655
+    },
+    {
+        "id":723559,
+        "name":"Snina",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Snina",
+        "lat":48.98857,
+        "lon":22.15099,
+        "pop":22221
+    },
+    {
+        "id":3060346,
+        "name":"Dubnica nad Váhom",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Ilava",
+        "lat":48.95981,
+        "lon":18.16634,
+        "pop":21914
+    },
+    {
+        "id":723736,
+        "name":"Rimavská Sobota",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Rimavská Sobota",
+        "lat":48.38284,
+        "lon":20.02239,
+        "pop":21434
+    },
+    {
+        "id":3058268,
+        "name":"Partizánske",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Partizánske",
+        "lat":48.62861,
+        "lon":18.38455,
+        "pop":20739
+    },
+    {
+        "id":3056708,
+        "name":"Vrakuňa",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Bratislava II",
+        "lat":48.1383,
+        "lon":17.20866,
+        "pop":20711
+    },
+    {
+        "id":723195,
+        "name":"Vranov nad Topľou",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Vranov nad Topľou",
+        "lat":48.88836,
+        "lon":21.68479,
+        "pop":20595
+    },
+    {
+        "id":3057769,
+        "name":"Šaľa",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Šaľa",
+        "lat":48.15127,
+        "lon":17.88062,
+        "pop":20239
+    },
+    {
+        "id":3057692,
+        "name":"Senec",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.21951,
+        "lon":17.40043,
+        "pop":20115
+    },
+    {
+        "id":3060095,
+        "name":"Hlohovec",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Hlohovec",
+        "lat":48.43174,
+        "lon":17.8031,
+        "pop":19883
+    },
+    {
+        "id":3060950,
+        "name":"Brezno",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Brezno",
+        "lat":48.80431,
+        "lon":19.63631,
+        "pop":19866
+    },
+    {
+        "id":3057691,
+        "name":"Senica",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Senica",
+        "lat":48.67922,
+        "lon":17.36697,
+        "pop":19355
+    },
+    {
+        "id":3058477,
+        "name":"Nové Mesto nad Váhom",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Nové Mesto nad Váhom",
+        "lat":48.75763,
+        "lon":17.8309,
+        "pop":19325
+    },
+    {
+        "id":3058897,
+        "name":"Malacky",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.43604,
+        "lon":17.02188,
+        "pop":18804
+    },
+    {
+        "id":3060405,
+        "name":"Dolný Kubín",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Dolný Kubín",
+        "lat":49.20983,
+        "lon":19.30341,
+        "pop":17660
+    },
+    {
+        "id":3077170,
+        "name":"Devínska Nová Ves",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Bratislava IV",
+        "lat":48.20711,
+        "lon":16.9786,
+        "pop":17153
+    },
+    {
+        "id":723713,
+        "name":"Rožňava",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Rožňava",
+        "lat":48.66009,
+        "lon":20.53758,
+        "pop":17122
+    },
+    {
+        "id":3057963,
+        "name":"Púchov",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Púchov",
+        "lat":49.12494,
+        "lon":18.32597,
+        "pop":16995
+    },
+    {
+        "id":3056523,
+        "name":"Žiar nad Hronom",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Žiar nad Hronom",
+        "lat":48.59184,
+        "lon":18.84958,
+        "pop":16955
+    },
+    {
+        "id":3061188,
+        "name":"Bánovce nad Bebravou",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Bánovce nad Bebravou",
+        "lat":48.7213,
+        "lon":18.25754,
+        "pop":16486
+    },
+    {
+        "id":3060139,
+        "name":"Handlová",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Prievidza",
+        "lat":48.7276,
+        "lon":18.76012,
+        "pop":15694
+    },
+    {
+        "id":723505,
+        "name":"Stará Ľubovňa",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Stará Ĺubovňa",
+        "lat":49.29859,
+        "lon":20.6862,
+        "pop":15667
+    },
+    {
+        "id":3057630,
+        "name":"Skalica",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Skalica",
+        "lat":48.8449,
+        "lon":17.22635,
+        "pop":15466
+    },
+    {
+        "id":3060219,
+        "name":"Galanta",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Galanta",
+        "lat":48.19001,
+        "lon":17.72747,
+        "pop":15277
+    },
+    {
+        "id":724503,
+        "name":"Kežmarok",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Kežmarok",
+        "lat":49.13571,
+        "lon":20.43352,
+        "pop":15271
+    },
+    {
+        "id":3057685,
+        "name":"Sereď",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Galanta",
+        "lat":48.29117,
+        "lon":17.73331,
+        "pop":15228
+    },
+    {
+        "id":3059179,
+        "name":"Kysucké Nové Mesto",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Kysucké Nové Mesto",
+        "lat":49.3,
+        "lon":18.78333,
+        "pop":14350
+    },
+    {
+        "id":724294,
+        "name":"Levoča",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Levoča",
+        "lat":49.02173,
+        "lon":20.59212,
+        "pop":13979
+    },
+    {
+        "id":3060589,
+        "name":"Detva",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Detva",
+        "lat":48.56082,
+        "lon":19.41954,
+        "pop":13666
+    },
+    {
+        "id":3057757,
+        "name":"Šamorín",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":48.03015,
+        "lon":17.30972,
+        "pop":13566
+    },
+    {
+        "id":3057384,
+        "name":"Stupava",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.27474,
+        "lon":17.03173,
+        "pop":12744
+    },
+    {
+        "id":723674,
+        "name":"Sabinov",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Sabinov",
+        "lat":49.10309,
+        "lon":21.0988,
+        "pop":12290
+    },
+    {
+        "id":3056495,
+        "name":"Zlaté Moravce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.38553,
+        "lon":18.40063,
+        "pop":11803
+    },
+    {
+        "id":3060852,
+        "name":"Bytča",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Bytča",
+        "lat":49.22404,
+        "lon":18.55878,
+        "pop":11491
+    },
+    {
+        "id":723747,
+        "name":"Revúca",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Revúca",
+        "lat":48.68346,
+        "lon":20.11734,
+        "pop":11033
+    },
+    {
+        "id":3060077,
+        "name":"Holíč",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Skalica",
+        "lat":48.81105,
+        "lon":17.16238,
+        "pop":11024
+    },
+    {
+        "id":3058611,
+        "name":"Myjava",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Myjava",
+        "lat":48.75876,
+        "lon":17.56866,
+        "pop":10626
+    },
+    {
+        "id":3056825,
+        "name":"Veľký Krtíš",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Veľký Krtíš",
+        "lat":48.21059,
+        "lon":19.35043,
+        "pop":10552
+    },
+    {
+        "id":3059448,
+        "name":"Kolárovo",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.92294,
+        "lon":17.98467,
+        "pop":10470
+    },
+    {
+        "id":3058496,
+        "name":"Nová Dubnica",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Ilava",
+        "lat":48.93479,
+        "lon":18.14632,
+        "pop":10425
+    },
+    {
+        "id":724111,
+        "name":"Moldava nad Bodvou",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Kosice-okolie",
+        "lat":48.61428,
+        "lon":20.99957,
+        "pop":10266
+    },
+    {
+        "id":723417,
+        "name":"Svidník",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Svidník",
+        "lat":49.30819,
+        "lon":21.5703,
+        "pop":9839
+    },
+    {
+        "id":723455,
+        "name":"Stropkov",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Stropkov",
+        "lat":49.20211,
+        "lon":21.65216,
+        "pop":9835
+    },
+    {
+        "id":3060242,
+        "name":"Fiľakovo",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Lučenec",
+        "lat":48.26757,
+        "lon":19.82473,
+        "pop":9726
+    },
+    {
+        "id":3061107,
+        "name":"Bernolákovo",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.20068,
+        "lon":17.30186,
+        "pop":9722
+    },
+    {
+        "id":3061184,
+        "name":"Banská Štiavnica",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Banská Štiavnica",
+        "lat":48.44858,
+        "lon":18.91003,
+        "pop":9426
+    },
+    {
+        "id":3057379,
+        "name":"Štúrovo",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nové Zámky",
+        "lat":47.79495,
+        "lon":18.7175,
+        "pop":9361
+    },
+    {
+        "id":3057339,
+        "name":"Šurany",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nové Zámky",
+        "lat":48.08613,
+        "lon":18.18447,
+        "pop":9326
+    },
+    {
+        "id":3058663,
+        "name":"Modra",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Pezinok",
+        "lat":48.33397,
+        "lon":17.30711,
+        "pop":9237
+    },
+    {
+        "id":723566,
+        "name":"Smižany",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Spišská Nová Ves",
+        "lat":48.95446,
+        "lon":20.52341,
+        "pop":8825
+    },
+    {
+        "id":3057063,
+        "name":"Tvrdošín",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Tvrdošín",
+        "lat":49.337,
+        "lon":19.556,
+        "pop":8786
+    },
+    {
+        "id":724377,
+        "name":"Krompachy",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Spišská Nová Ves",
+        "lat":48.91447,
+        "lon":20.87514,
+        "pop":8615
+    },
+    {
+        "id":723637,
+        "name":"Sečovce",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Trebišov",
+        "lat":48.70074,
+        "lon":21.66104,
+        "pop":8531
+    },
+    {
+        "id":723265,
+        "name":"Veľké Kapušany",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Michalovce",
+        "lat":48.55197,
+        "lon":22.08036,
+        "pop":8527
+    },
+    {
+        "id":3057480,
+        "name":"Stará Turá",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Nové Mesto nad Váhom",
+        "lat":48.77721,
+        "lon":17.69433,
+        "pop":8432
+    },
+    {
+        "id":3056711,
+        "name":"Vráble",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.24371,
+        "lon":18.30846,
+        "pop":8432
+    },
+    {
+        "id":3056816,
+        "name":"Veľký Meder",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":47.85798,
+        "lon":17.76884,
+        "pop":8301
+    },
+    {
+        "id":724969,
+        "name":"Chlmec",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Humenné",
+        "lat":48.88628,
+        "lon":21.9393,
+        "pop":8031
+    },
+    {
+        "id":8436244,
+        "name":"Dunajská Lužná",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.08347,
+        "lon":17.26072,
+        "pop":7955
+    },
+    {
+        "id":3060291,
+        "name":"Chorvátsky Grob - Čierna Voda",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.2249,
+        "lon":17.2324,
+        "pop":7885
+    },
+    {
+        "id":3059163,
+        "name":"Lamač",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Bratislava IV",
+        "lat":48.19298,
+        "lon":17.05078,
+        "pop":7878
+    },
+    {
+        "id":723411,
+        "name":"Svit",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Poprad",
+        "lat":49.06014,
+        "lon":20.20695,
+        "pop":7700
+    },
+    {
+        "id":3059244,
+        "name":"Krupina",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Krupina",
+        "lat":48.3554,
+        "lon":19.06474,
+        "pop":7520
+    },
+    {
+        "id":3058579,
+        "name":"Námestovo",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Namestovo",
+        "lat":49.4079,
+        "lon":19.48032,
+        "pop":7502
+    },
+    {
+        "id":3059821,
+        "name":"Hurbanovo",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.86984,
+        "lon":18.19233,
+        "pop":7472
+    },
+    {
+        "id":3056683,
+        "name":"Vrútky",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Martin",
+        "lat":49.11328,
+        "lon":18.91714,
+        "pop":7424
+    },
+    {
+        "id":724411,
+        "name":"Kráľovský Chlmec",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Trebišov",
+        "lat":48.42336,
+        "lon":21.97944,
+        "pop":7391
+    },
+    {
+        "id":3059767,
+        "name":"Ivanka pri Dunaji",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.18675,
+        "lon":17.2554,
+        "pop":7175
+    },
+    {
+        "id":3060715,
+        "name":"Chorvátsky Grob",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.22787,
+        "lon":17.29094,
+        "pop":7090
+    },
+    {
+        "id":3059870,
+        "name":"Hriňová",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Detva",
+        "lat":48.57787,
+        "lon":19.52574,
+        "pop":7045
+    },
+    {
+        "id":3057069,
+        "name":"Turzovka",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Čadca",
+        "lat":49.40429,
+        "lon":18.62258,
+        "pop":7043
+    },
+    {
+        "id":3059053,
+        "name":"Liptovský Hrádok",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Liptovský Mikuláš",
+        "lat":49.03962,
+        "lon":19.72335,
+        "pop":7038
+    },
+    {
+        "id":3057108,
+        "name":"Trstená",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Tvrdošín",
+        "lat":49.36101,
+        "lon":19.61249,
+        "pop":7019
+    },
+    {
+        "id":3057772,
+        "name":"Šahy",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Levice",
+        "lat":48.07408,
+        "lon":18.94946,
+        "pop":6992
+    },
+    {
+        "id":723246,
+        "name":"Veľký Šariš",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Prešov",
+        "lat":49.04114,
+        "lon":21.1993,
+        "pop":6976
+    },
+    {
+        "id":3058498,
+        "name":"Nová Baňa",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Žarnovica",
+        "lat":48.42305,
+        "lon":18.64037,
+        "pop":6881
+    },
+    {
+        "id":723365,
+        "name":"Tornaľa",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Revúca",
+        "lat":48.41915,
+        "lon":20.32566,
+        "pop":6766
+    },
+    {
+        "id":723529,
+        "name":"Spišská Belá",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Kežmarok",
+        "lat":49.18725,
+        "lon":20.45948,
+        "pop":6663
+    },
+    {
+        "id":3060089,
+        "name":"Hnúšťa",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Rimavská Sobota",
+        "lat":48.57257,
+        "lon":19.95395,
+        "pop":6616
+    },
+    {
+        "id":3056547,
+        "name":"Želiezovce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Levice",
+        "lat":48.05075,
+        "lon":18.65421,
+        "pop":6588
+    },
+    {
+        "id":3059289,
+        "name":"Krásno nad Kysucou",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Čadca",
+        "lat":49.39572,
+        "lon":18.83431,
+        "pop":6563
+    },
+    {
+        "id":724286,
+        "name":"Lipany",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Sabinov",
+        "lat":49.15376,
+        "lon":20.96382,
+        "pop":6450
+    },
+    {
+        "id":3058546,
+        "name":"Nemšová",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Trenčín",
+        "lat":48.96702,
+        "lon":18.11892,
+        "pop":6266
+    },
+    {
+        "id":3057086,
+        "name":"Turčianske Teplice",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Turčianske Teplice",
+        "lat":48.86225,
+        "lon":18.86048,
+        "pop":6213
+    },
+    {
+        "id":3057559,
+        "name":"Slovenský Grob",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Pezinok",
+        "lat":48.2576,
+        "lon":17.27428,
+        "pop":6133
+    },
+    {
+        "id":3061130,
+        "name":"Beluša",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Púchov",
+        "lat":49.0649,
+        "lon":18.32685,
+        "pop":6022
+    },
+    {
+        "id":3057304,
+        "name":"Svätý Jur",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Pezinok",
+        "lat":48.25216,
+        "lon":17.21539,
+        "pop":5983
+    },
+    {
+        "id":723554,
+        "name":"Sobrance",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Sobrance",
+        "lat":48.74455,
+        "lon":22.18136,
+        "pop":5848
+    },
+    {
+        "id":724800,
+        "name":"Gelnica",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Gelnica",
+        "lat":48.85584,
+        "lon":20.93713,
+        "pop":5829
+    },
+    {
+        "id":3057910,
+        "name":"Rajec",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Žilina",
+        "lat":49.08899,
+        "lon":18.64007,
+        "pop":5818
+    },
+    {
+        "id":724156,
+        "name":"Medzilaborce",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Medzilaborce",
+        "lat":49.27195,
+        "lon":21.90073,
+        "pop":5776
+    },
+    {
+        "id":3058354,
+        "name":"Oščadnica",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Čadca",
+        "lat":49.43572,
+        "lon":18.8819,
+        "pop":5745
+    },
+    {
+        "id":3056589,
+        "name":"Žarnovica",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Žarnovica",
+        "lat":48.48123,
+        "lon":18.71565,
+        "pop":5699
+    },
+    {
+        "id":3056697,
+        "name":"Vrbové",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Piešťany",
+        "lat":48.61973,
+        "lon":17.7226,
+        "pop":5637
+    },
+    {
+        "id":3057903,
+        "name":"Raková",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Čadca",
+        "lat":49.44481,
+        "lon":18.73792,
+        "pop":5626
+    },
+    {
+        "id":3057831,
+        "name":"Rovinka",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.09783,
+        "lon":17.23632,
+        "pop":5445
+    },
+    {
+        "id":3057602,
+        "name":"Sládkovičovo",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Galanta",
+        "lat":48.20137,
+        "lon":17.63852,
+        "pop":5415
+    },
+    {
+        "id":3059796,
+        "name":"Ilava",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Ilava",
+        "lat":48.99769,
+        "lon":18.2353,
+        "pop":5411
+    },
+    {
+        "id":3056889,
+        "name":"Šenkvice",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Pezinok",
+        "lat":48.29817,
+        "lon":17.34959,
+        "pop":5352
+    },
+    {
+        "id":3060224,
+        "name":"Gabčíkovo",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":47.89211,
+        "lon":17.57884,
+        "pop":5265
+    },
+    {
+        "id":3057627,
+        "name":"Skalité",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Čadca",
+        "lat":49.49664,
+        "lon":18.89706,
+        "pop":5231
+    },
+    {
+        "id":3058083,
+        "name":"Poltár",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Poltár",
+        "lat":48.43094,
+        "lon":19.79408,
+        "pop":5178
+    },
+    {
+        "id":724893,
+        "name":"Dobšiná",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Rožňava",
+        "lat":48.82073,
+        "lon":20.36988,
+        "pop":5143
+    },
+    {
+        "id":3058540,
+        "name":"Nesvady",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.92819,
+        "lon":18.12675,
+        "pop":5037
+    },
+    {
+        "id":3061015,
+        "name":"Bojnice",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Prievidza",
+        "lat":48.78511,
+        "lon":18.5864,
+        "pop":5024
+    },
+    {
+        "id":3060267,
+        "name":"Dvory nad Žitavou",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nové Zámky",
+        "lat":47.98946,
+        "lon":18.26717,
+        "pop":4999
+    },
+    {
+        "id":3060665,
+        "name":"Čierny Balog",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Brezno",
+        "lat":48.74722,
+        "lon":19.65125,
+        "pop":4963
+    },
+    {
+        "id":3060208,
+        "name":"Gbely",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Skalica",
+        "lat":48.718,
+        "lon":17.11628,
+        "pop":4885
+    },
+    {
+        "id":11054693,
+        "name":"Šaštín-Stráže",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Senica",
+        "lat":48.63721,
+        "lon":17.1453,
+        "pop":4851
+    },
+    {
+        "id":3057576,
+        "name":"Sliač",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Zvolen",
+        "lat":48.61668,
+        "lon":19.13715,
+        "pop":4786
+    },
+    {
+        "id":3059282,
+        "name":"Kremnica",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Žiar nad Hronom",
+        "lat":48.70519,
+        "lon":18.91834,
+        "pop":4783
+    },
+    {
+        "id":3056853,
+        "name":"Veľké Úľany",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Galanta",
+        "lat":48.16647,
+        "lon":17.57519,
+        "pop":4780
+    },
+    {
+        "id":3058703,
+        "name":"Miloslavov",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.10585,
+        "lon":17.29997,
+        "pop":4705
+    },
+    {
+        "id":3060942,
+        "name":"Brezová pod Bradlom",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Myjava",
+        "lat":48.66349,
+        "lon":17.53905,
+        "pop":4632
+    },
+    {
+        "id":3060654,
+        "name":"Cífer",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Trnava",
+        "lat":48.3175,
+        "lon":17.48987,
+        "pop":4610
+    },
+    {
+        "id":3060670,
+        "name":"Čierne",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Čadca",
+        "lat":49.49361,
+        "lon":18.81954,
+        "pop":4419
+    },
+    {
+        "id":3060842,
+        "name":"Cabaj-Čápor",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.24445,
+        "lon":18.02899,
+        "pop":4318
+    },
+    {
+        "id":3058674,
+        "name":"Močenok",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Šaľa",
+        "lat":48.22774,
+        "lon":17.93075,
+        "pop":4316
+    },
+    {
+        "id":3056848,
+        "name":"Veľké Zálužie",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.30841,
+        "lon":17.93874,
+        "pop":4315
+    },
+    {
+        "id":3059430,
+        "name":"Komjatice",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nové Zámky",
+        "lat":48.15704,
+        "lon":18.17027,
+        "pop":4223
+    },
+    {
+        "id":723470,
+        "name":"Strážske",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Michalovce",
+        "lat":48.8735,
+        "lon":21.83668,
+        "pop":4201
+    },
+    {
+        "id":3058493,
+        "name":"Nováky",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Prievidza",
+        "lat":48.71106,
+        "lon":18.53389,
+        "pop":4140
+    },
+    {
+        "id":3057089,
+        "name":"Turany",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Martin",
+        "lat":49.11754,
+        "lon":19.04029,
+        "pop":4123
+    },
+    {
+        "id":724159,
+        "name":"Medzev",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Kosice-okolie",
+        "lat":48.70041,
+        "lon":20.89367,
+        "pop":4111
+    },
+    {
+        "id":3058632,
+        "name":"Most pri Bratislave",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.14204,
+        "lon":17.27085,
+        "pop":4094
+    },
+    {
+        "id":3057212,
+        "name":"Terchová",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Žilina",
+        "lat":49.25895,
+        "lon":19.02935,
+        "pop":4073
+    },
+    {
+        "id":3059646,
+        "name":"Jelka",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Galanta",
+        "lat":48.14545,
+        "lon":17.51126,
+        "pop":4026
+    },
+    {
+        "id":3059204,
+        "name":"Kúty",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Senica",
+        "lat":48.66,
+        "lon":17.02819,
+        "pop":4009
+    },
+    {
+        "id":3058753,
+        "name":"Medné",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Púchov",
+        "lat":49.08558,
+        "lon":18.28899,
+        "pop":4007
+    },
+    {
+        "id":724265,
+        "name":"Ľubica",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Kežmarok",
+        "lat":49.11667,
+        "lon":20.45,
+        "pop":4000
+    },
+    {
+        "id":724784,
+        "name":"Giraltovce",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Svidník",
+        "lat":49.11398,
+        "lon":21.51731,
+        "pop":3994
+    },
+    {
+        "id":3058826,
+        "name":"Malinovo",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.15446,
+        "lon":17.29677,
+        "pop":3968
+    },
+    {
+        "id":3058515,
+        "name":"Nižná",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Tvrdošín",
+        "lat":49.31046,
+        "lon":19.52428,
+        "pop":3948
+    },
+    {
+        "id":3059111,
+        "name":"Leopoldov",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Hlohovec",
+        "lat":48.44575,
+        "lon":17.76458,
+        "pop":3946
+    },
+    {
+        "id":3060991,
+        "name":"Borský Mikuláš",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Senica",
+        "lat":48.6309,
+        "lon":17.21448,
+        "pop":3942
+    },
+    {
+        "id":3057141,
+        "name":"Trenčianske Teplice",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Trenčín",
+        "lat":48.91063,
+        "lon":18.16691,
+        "pop":3931
+    },
+    {
+        "id":3059573,
+        "name":"Kanianka",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Prievidza",
+        "lat":48.8164,
+        "lon":18.58541,
+        "pop":3878
+    },
+    {
+        "id":3057105,
+        "name":"Trstice",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Galanta",
+        "lat":48.01446,
+        "lon":17.80843,
+        "pop":3876
+    },
+    {
+        "id":723119,
+        "name":"Vysoké Tatry",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Poprad",
+        "lat":49.13637,
+        "lon":20.24386,
+        "pop":3810
+    },
+    {
+        "id":724743,
+        "name":"Hanušovce nad Topľou",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Vranov nad Topľou",
+        "lat":49.02691,
+        "lon":21.50414,
+        "pop":3782
+    },
+    {
+        "id":3058792,
+        "name":"Marcelová",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.7879,
+        "lon":18.28262,
+        "pop":3778
+    },
+    {
+        "id":723519,
+        "name":"Spišské Podhradie",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Levoča",
+        "lat":49.00088,
+        "lon":20.75307,
+        "pop":3769
+    },
+    {
+        "id":3056917,
+        "name":"Lehota pod Vtáčnikom",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Prievidza",
+        "lat":48.69138,
+        "lon":18.59944,
+        "pop":3751
+    },
+    {
+        "id":3056870,
+        "name":"Veľké Leváre",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.50403,
+        "lon":17.00358,
+        "pop":3730
+    },
+    {
+        "id":724272,
+        "name":"Lomnička",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Stará Ĺubovňa",
+        "lat":49.24972,
+        "lon":20.56955,
+        "pop":3728
+    },
+    {
+        "id":3058414,
+        "name":"Okoč",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":47.88757,
+        "lon":17.80867,
+        "pop":3710
+    },
+    {
+        "id":723334,
+        "name":"Turňa nad Bodvou",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Kosice-okolie",
+        "lat":48.59999,
+        "lon":20.88093,
+        "pop":3682
+    },
+    {
+        "id":3057205,
+        "name":"Tešedíkovo",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Šaľa",
+        "lat":48.10609,
+        "lon":17.8519,
+        "pop":3656
+    },
+    {
+        "id":3057197,
+        "name":"Tisovec",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Rimavská Sobota",
+        "lat":48.67738,
+        "lon":19.94364,
+        "pop":3648
+    },
+    {
+        "id":3060839,
+        "name":"Čachtice",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Nové Mesto nad Váhom",
+        "lat":48.71226,
+        "lon":17.78704,
+        "pop":3636
+    },
+    {
+        "id":723468,
+        "name":"Štrba",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Poprad",
+        "lat":49.05913,
+        "lon":20.07975,
+        "pop":3600
+    },
+    {
+        "id":3057841,
+        "name":"Rohožník",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.45682,
+        "lon":17.16763,
+        "pop":3594
+    },
+    {
+        "id":3057889,
+        "name":"Rastice",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":48.11667,
+        "lon":17.41667,
+        "pop":3580
+    },
+    {
+        "id":3061339,
+        "name":"Zohor",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.31667,
+        "lon":16.98333,
+        "pop":3573
+    },
+    {
+        "id":3057191,
+        "name":"Tlmače",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Levice",
+        "lat":48.28926,
+        "lon":18.53152,
+        "pop":3542
+    },
+    {
+        "id":6559492,
+        "name":"Oravská Lesná",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Namestovo",
+        "lat":49.36672,
+        "lon":19.18093,
+        "pop":3500
+    },
+    {
+        "id":3057269,
+        "name":"Svrčinovec",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Čadca",
+        "lat":49.48091,
+        "lon":18.79623,
+        "pop":3358
+    },
+    {
+        "id":3058952,
+        "name":"Lužianky",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.34908,
+        "lon":18.029,
+        "pop":3338
+    },
+    {
+        "id":723517,
+        "name":"Spišské Vlachy",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Spišská Nová Ves",
+        "lat":48.94746,
+        "lon":20.79574,
+        "pop":3313
+    },
+    {
+        "id":3060603,
+        "name":"Dedinka pri Dunaji",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.18215,
+        "lon":17.35207,
+        "pop":3309
+    },
+    {
+        "id":3056725,
+        "name":"Bátorove Kosihy",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.8294,
+        "lon":18.42016,
+        "pop":3305
+    },
+    {
+        "id":3059806,
+        "name":"Hviezdoslavov",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":48.0679,
+        "lon":17.34787,
+        "pop":3253
+    },
+    {
+        "id":3058262,
+        "name":"Pata",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Galanta",
+        "lat":48.27746,
+        "lon":17.82298,
+        "pop":3241
+    },
+    {
+        "id":3057552,
+        "name":"Smolenice",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Trnava",
+        "lat":48.50478,
+        "lon":17.43067,
+        "pop":3240
+    },
+    {
+        "id":724561,
+        "name":"Jelšava",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Revúca",
+        "lat":48.62908,
+        "lon":20.24141,
+        "pop":3168
+    },
+    {
+        "id":3059704,
+        "name":"Jarovce",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Bratislava V",
+        "lat":48.06498,
+        "lon":17.11303,
+        "pop":3147
+    },
+    {
+        "id":3076110,
+        "name":"Gajary",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.46667,
+        "lon":16.93333,
+        "pop":3145
+    },
+    {
+        "id":3057170,
+        "name":"Topoľníky",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":47.96748,
+        "lon":17.79016,
+        "pop":3135
+    },
+    {
+        "id":3058524,
+        "name":"Nitrianske Pravno",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Prievidza",
+        "lat":48.86839,
+        "lon":18.63364,
+        "pop":3116
+    },
+    {
+        "id":3059127,
+        "name":"Lehnice",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":48.05577,
+        "lon":17.46337,
+        "pop":3075
+    },
+    {
+        "id":723866,
+        "name":"Podolínec",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Stará Ĺubovňa",
+        "lat":49.25869,
+        "lon":20.536,
+        "pop":3053
+    },
+    {
+        "id":3059005,
+        "name":"Lozorno",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.33364,
+        "lon":17.04322,
+        "pop":3052
+    },
+    {
+        "id":3058482,
+        "name":"Nová Dedinka",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.1861,
+        "lon":17.35629,
+        "pop":3052
+    },
+    {
+        "id":3057908,
+        "name":"Rajecké Teplice",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Žilina",
+        "lat":49.12716,
+        "lon":18.68653,
+        "pop":3023
+    },
+    {
+        "id":3056845,
+        "name":"Veľký Biel",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.21335,
+        "lon":17.3608,
+        "pop":3013
+    },
+    {
+        "id":3056570,
+        "name":"Závod",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.54494,
+        "lon":17.03028,
+        "pop":2993
+    },
+    {
+        "id":3056642,
+        "name":"Vysoká nad Kysucou",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Čadca",
+        "lat":49.37852,
+        "lon":18.54408,
+        "pop":2984
+    },
+    {
+        "id":3056823,
+        "name":"Veľký Kýr",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nové Zámky",
+        "lat":48.18245,
+        "lon":18.15733,
+        "pop":2975
+    },
+    {
+        "id":3058653,
+        "name":"Mojmírovce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.20735,
+        "lon":18.06581,
+        "pop":2963
+    },
+    {
+        "id":3056709,
+        "name":"Vrakúň",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":47.94293,
+        "lon":17.60113,
+        "pop":2835
+    },
+    {
+        "id":3059766,
+        "name":"Ivanka pri Nitre",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.24295,
+        "lon":18.11617,
+        "pop":2818
+    },
+    {
+        "id":3057234,
+        "name":"Tekovské Lužany",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Levice",
+        "lat":48.09865,
+        "lon":18.53787,
+        "pop":2810
+    },
+    {
+        "id":3056763,
+        "name":"Viničné",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Pezinok",
+        "lat":48.27188,
+        "lon":17.30227,
+        "pop":2800
+    },
+    {
+        "id":3057182,
+        "name":"Tomášov",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.14249,
+        "lon":17.33565,
+        "pop":2763
+    },
+    {
+        "id":3057465,
+        "name":"Staškov",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Čadca",
+        "lat":49.421,
+        "lon":18.68694,
+        "pop":2748
+    },
+    {
+        "id":3057492,
+        "name":"Stará Bystrica",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Čadca",
+        "lat":49.3474,
+        "lon":18.94906,
+        "pop":2740
+    },
+    {
+        "id":3057294,
+        "name":"Svätý Peter",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.84151,
+        "lon":18.25413,
+        "pop":2712
+    },
+    {
+        "id":723077,
+        "name":"Žehra",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Spišská Nová Ves",
+        "lat":48.9796,
+        "lon":20.7917,
+        "pop":2707
+    },
+    {
+        "id":3060142,
+        "name":"Hamuliakovo",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.03809,
+        "lon":17.25031,
+        "pop":2679
+    },
+    {
+        "id":3058018,
+        "name":"Pribeta",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.89977,
+        "lon":18.31505,
+        "pop":2671
+    },
+    {
+        "id":3058497,
+        "name":"Nová Bystrica",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Čadca",
+        "lat":49.34496,
+        "lon":19.01446,
+        "pop":2631
+    },
+    {
+        "id":3057172,
+        "name":"Topoľčianky",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.41615,
+        "lon":18.41282,
+        "pop":2617
+    },
+    {
+        "id":3059400,
+        "name":"Kopčany",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Skalica",
+        "lat":48.78718,
+        "lon":17.11347,
+        "pop":2553
+    },
+    {
+        "id":3058182,
+        "name":"Plavecký Štvrtok",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.37512,
+        "lon":16.99863,
+        "pop":2548
+    },
+    {
+        "id":3060893,
+        "name":"Budmerice",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Pezinok",
+        "lat":48.35756,
+        "lon":17.40715,
+        "pop":2483
+    },
+    {
+        "id":3060101,
+        "name":"Limbach",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Pezinok",
+        "lat":48.2897,
+        "lon":17.22344,
+        "pop":2423
+    },
+    {
+        "id":3058525,
+        "name":"Nitrianske Hrnčiarovce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.33277,
+        "lon":18.12835,
+        "pop":2412
+    },
+    {
+        "id":3060812,
+        "name":"Častá",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Pezinok",
+        "lat":48.3992,
+        "lon":17.36349,
+        "pop":2396
+    },
+    {
+        "id":3060579,
+        "name":"Diakovce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Šaľa",
+        "lat":48.1345,
+        "lon":17.842,
+        "pop":2380
+    },
+    {
+        "id":3057273,
+        "name":"Svodín",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nové Zámky",
+        "lat":47.91054,
+        "lon":18.49967,
+        "pop":2372
+    },
+    {
+        "id":3061011,
+        "name":"Boleráz",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Trnava",
+        "lat":48.46808,
+        "lon":17.49478,
+        "pop":2349
+    },
+    {
+        "id":3058786,
+        "name":"Marianka",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.24903,
+        "lon":17.064,
+        "pop":2314
+    },
+    {
+        "id":6640415,
+        "name":"Kráľová pri Senci",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.19621,
+        "lon":17.45019,
+        "pop":2304
+    },
+    {
+        "id":724493,
+        "name":"Klokočov",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Michalovce",
+        "lat":48.81358,
+        "lon":22.02985,
+        "pop":2287
+    },
+    {
+        "id":3060928,
+        "name":"Brodské",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Skalica",
+        "lat":48.69089,
+        "lon":17.01448,
+        "pop":2285
+    },
+    {
+        "id":3056539,
+        "name":"Zemianska Olča",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.80808,
+        "lon":17.86652,
+        "pop":2281
+    },
+    {
+        "id":3057365,
+        "name":"Suchá nad Parnou",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Trnava",
+        "lat":48.41104,
+        "lon":17.48696,
+        "pop":2275
+    },
+    {
+        "id":723107,
+        "name":"Zálesie",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Kežmarok",
+        "lat":49.32607,
+        "lon":20.38744,
+        "pop":2243
+    },
+    {
+        "id":3056563,
+        "name":"Zbehy",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.36558,
+        "lon":18.01814,
+        "pop":2238
+    },
+    {
+        "id":3062226,
+        "name":"Vysoká pri Morave",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.32944,
+        "lon":16.91191,
+        "pop":2221
+    },
+    {
+        "id":3058916,
+        "name":"Majcichov",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Trnava",
+        "lat":48.28462,
+        "lon":17.63032,
+        "pop":2213
+    },
+    {
+        "id":3059125,
+        "name":"Lehota",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.31157,
+        "lon":17.98948,
+        "pop":2212
+    },
+    {
+        "id":3060976,
+        "name":"Branč",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.21869,
+        "lon":18.14423,
+        "pop":2204
+    },
+    {
+        "id":3056677,
+        "name":"Výčapy-Opatovce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.41149,
+        "lon":18.08223,
+        "pop":2200
+    },
+    {
+        "id":3057137,
+        "name":"Trhová Hradská",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":47.98995,
+        "lon":17.76109,
+        "pop":2198
+    },
+    {
+        "id":3060201,
+        "name":"Zálesie",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.16614,
+        "lon":17.27497,
+        "pop":2194
+    },
+    {
+        "id":3056560,
+        "name":"Zborov nad Bystricou",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Čadca",
+        "lat":49.37967,
+        "lon":18.88661,
+        "pop":2191
+    },
+    {
+        "id":723523,
+        "name":"Spišská Stará Ves",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Kežmarok",
+        "lat":49.38297,
+        "lon":20.35959,
+        "pop":2187
+    },
+    {
+        "id":3060074,
+        "name":"Holice",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":47.99305,
+        "lon":17.48179,
+        "pop":2159
+    },
+    {
+        "id":3056529,
+        "name":"Zemné",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nové Zámky",
+        "lat":47.9836,
+        "lon":17.99492,
+        "pop":2136
+    },
+    {
+        "id":3060209,
+        "name":"Gbelce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nové Zámky",
+        "lat":47.85185,
+        "lon":18.51277,
+        "pop":2133
+    },
+    {
+        "id":723353,
+        "name":"Trhovište",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Michalovce",
+        "lat":48.69822,
+        "lon":21.80465,
+        "pop":2133
+    },
+    {
+        "id":3058641,
+        "name":"Moravský Svätý Ján",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Senica",
+        "lat":48.59158,
+        "lon":17.00223,
+        "pop":2126
+    },
+    {
+        "id":3077172,
+        "name":"Devín",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Bratislava IV",
+        "lat":48.17444,
+        "lon":16.98418,
+        "pop":2124
+    },
+    {
+        "id":3072376,
+        "name":"Láb",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.36667,
+        "lon":16.98333,
+        "pop":2116
+    },
+    {
+        "id":3059652,
+        "name":"Jelenec",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.37844,
+        "lon":18.22351,
+        "pop":2116
+    },
+    {
+        "id":3058561,
+        "name":"Nedožery - Brezany",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Prievidza",
+        "lat":48.82429,
+        "lon":18.64458,
+        "pop":2112
+    },
+    {
+        "id":3060028,
+        "name":"Horná Potôň",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":48.0389,
+        "lon":17.49038,
+        "pop":2111
+    },
+    {
+        "id":3059600,
+        "name":"Kálna",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Levice",
+        "lat":48.19784,
+        "lon":18.51976,
+        "pop":2057
+    },
+    {
+        "id":3058950,
+        "name":"Lysá pod Makytou",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Púchov",
+        "lat":49.19713,
+        "lon":18.19636,
+        "pop":2051
+    },
+    {
+        "id":3059706,
+        "name":"Jarok",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.27541,
+        "lon":17.95913,
+        "pop":2046
+    },
+    {
+        "id":3057848,
+        "name":"Rišňovce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.36857,
+        "lon":17.89328,
+        "pop":2039
+    },
+    {
+        "id":3058884,
+        "name":"Malá Maňa",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nové Zámky",
+        "lat":48.1452,
+        "lon":18.26453,
+        "pop":2004
+    },
+    {
+        "id":3059429,
+        "name":"Komjatná",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Ružomberok",
+        "lat":49.14694,
+        "lon":19.24355,
+        "pop":2000
+    },
+    {
+        "id":3073127,
+        "name":"Kostolište",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.45,
+        "lon":16.98333,
+        "pop":1994
+    },
+    {
+        "id":3059787,
+        "name":"Imeľ",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.90403,
+        "lon":18.14169,
+        "pop":1972
+    },
+    {
+        "id":3059981,
+        "name":"Horné Orešany",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Trnava",
+        "lat":48.46738,
+        "lon":17.44101,
+        "pop":1962
+    },
+    {
+        "id":3058407,
+        "name":"Olešná",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Čadca",
+        "lat":49.4236,
+        "lon":18.67624,
+        "pop":1929
+    },
+    {
+        "id":3056467,
+        "name":"Zuberec",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Tvrdošín",
+        "lat":49.26164,
+        "lon":19.61473,
+        "pop":1928
+    },
+    {
+        "id":3057403,
+        "name":"Strekov",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nové Zámky",
+        "lat":47.9042,
+        "lon":18.41652,
+        "pop":1926
+    },
+    {
+        "id":3058613,
+        "name":"Mužla",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nové Zámky",
+        "lat":47.79302,
+        "lon":18.59931,
+        "pop":1912
+    },
+    {
+        "id":3060394,
+        "name":"Dolný Štál",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":47.93333,
+        "lon":17.71667,
+        "pop":1911
+    },
+    {
+        "id":3059583,
+        "name":"Kameničná",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.81886,
+        "lon":18.03861,
+        "pop":1894
+    },
+    {
+        "id":3060193,
+        "name":"Golianovo",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.27189,
+        "lon":18.19185,
+        "pop":1889
+    },
+    {
+        "id":3062010,
+        "name":"Záhorská Ves",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.38071,
+        "lon":16.84882,
+        "pop":1858
+    },
+    {
+        "id":3060530,
+        "name":"Dohňany",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Púchov",
+        "lat":49.14867,
+        "lon":18.28571,
+        "pop":1858
+    },
+    {
+        "id":3056822,
+        "name":"Veľký Lapáš",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.29105,
+        "lon":18.181,
+        "pop":1840
+    },
+    {
+        "id":3061209,
+        "name":"Báhoň",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Pezinok",
+        "lat":48.30944,
+        "lon":17.44519,
+        "pop":1833
+    },
+    {
+        "id":724182,
+        "name":"Margecany",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Gelnica",
+        "lat":48.89245,
+        "lon":21.01197,
+        "pop":1833
+    },
+    {
+        "id":3057937,
+        "name":"Pusté Úľany",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Galanta",
+        "lat":48.23151,
+        "lon":17.57389,
+        "pop":1832
+    },
+    {
+        "id":3059197,
+        "name":"Kvetoslavov",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":48.05516,
+        "lon":17.33816,
+        "pop":1823
+    },
+    {
+        "id":3061059,
+        "name":"Blatné",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.2666,
+        "lon":17.41919,
+        "pop":1817
+    },
+    {
+        "id":3056674,
+        "name":"Vydrany",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":48.01806,
+        "lon":17.58588,
+        "pop":1816
+    },
+    {
+        "id":3059760,
+        "name":"Iža",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.75198,
+        "lon":18.22763,
+        "pop":1802
+    },
+    {
+        "id":3059258,
+        "name":"Krížovany nad Dudváhom",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Trnava",
+        "lat":48.33333,
+        "lon":17.66667,
+        "pop":1797
+    },
+    {
+        "id":3059224,
+        "name":"Kuchyňa",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.406,
+        "lon":17.15727,
+        "pop":1788
+    },
+    {
+        "id":3059144,
+        "name":"Lazany",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Prievidza",
+        "lat":48.82076,
+        "lon":18.61946,
+        "pop":1769
+    },
+    {
+        "id":3058684,
+        "name":"Tesárske Mlyňany",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.33405,
+        "lon":18.35358,
+        "pop":1766
+    },
+    {
+        "id":3057919,
+        "name":"Radošovce",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Skalica",
+        "lat":48.77189,
+        "lon":17.28118,
+        "pop":1766
+    },
+    {
+        "id":3057707,
+        "name":"Sekule",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Senica",
+        "lat":48.601,
+        "lon":17.00379,
+        "pop":1738
+    },
+    {
+        "id":3057286,
+        "name":"Svederník",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Žilina",
+        "lat":49.26527,
+        "lon":18.6467,
+        "pop":1733
+    },
+    {
+        "id":3058367,
+        "name":"Orechová Potôň",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":48.01708,
+        "lon":17.53806,
+        "pop":1725
+    },
+    {
+        "id":3056537,
+        "name":"Zemianske Kostoľany",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Prievidza",
+        "lat":48.68761,
+        "lon":18.52677,
+        "pop":1725
+    },
+    {
+        "id":3061144,
+        "name":"Beladice",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.34408,
+        "lon":18.28988,
+        "pop":1723
+    },
+    {
+        "id":3057790,
+        "name":"Ružindol",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Trnava",
+        "lat":48.37177,
+        "lon":17.49113,
+        "pop":1714
+    },
+    {
+        "id":3058909,
+        "name":"Makov",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Čadca",
+        "lat":49.37053,
+        "lon":18.48044,
+        "pop":1710
+    },
+    {
+        "id":3056607,
+        "name":"Zákopčie",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Čadca",
+        "lat":49.40728,
+        "lon":18.73178,
+        "pop":1710
+    },
+    {
+        "id":3059969,
+        "name":"Sl’ažany",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.39487,
+        "lon":18.32848,
+        "pop":1706
+    },
+    {
+        "id":3057387,
+        "name":"Studienka",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.52647,
+        "lon":17.13733,
+        "pop":1706
+    },
+    {
+        "id":3057376,
+        "name":"Štvrtok na Ostrove",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":48.09924,
+        "lon":17.35395,
+        "pop":1700
+    },
+    {
+        "id":3061265,
+        "name":"Alekšince",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.36641,
+        "lon":17.9479,
+        "pop":1692
+    },
+    {
+        "id":3074571,
+        "name":"Jakubov",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.41667,
+        "lon":16.93333,
+        "pop":1665
+    },
+    {
+        "id":3058657,
+        "name":"Modrý Kameň",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Veľký Krtíš",
+        "lat":48.2413,
+        "lon":19.33495,
+        "pop":1664
+    },
+    {
+        "id":3056728,
+        "name":"Voderady",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Trnava",
+        "lat":48.27701,
+        "lon":17.5594,
+        "pop":1661
+    },
+    {
+        "id":3057518,
+        "name":"Sološnica",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.46521,
+        "lon":17.23073,
+        "pop":1656
+    },
+    {
+        "id":3058981,
+        "name":"Lúčky",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Ružomberok",
+        "lat":49.12944,
+        "lon":19.40228,
+        "pop":1635
+    },
+    {
+        "id":3057458,
+        "name":"Štefanov",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Senica",
+        "lat":48.67918,
+        "lon":17.20105,
+        "pop":1630
+    },
+    {
+        "id":3059340,
+        "name":"Kováčová",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Zvolen",
+        "lat":48.60148,
+        "lon":19.10252,
+        "pop":1626
+    },
+    {
+        "id":3060313,
+        "name":"Dulovce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.86915,
+        "lon":18.27284,
+        "pop":1623
+    },
+    {
+        "id":723224,
+        "name":"Vinné",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Michalovce",
+        "lat":48.80965,
+        "lon":21.96757,
+        "pop":1608
+    },
+    {
+        "id":3060992,
+        "name":"Borský Svätý Jur",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Senica",
+        "lat":48.61366,
+        "lon":17.04658,
+        "pop":1602
+    },
+    {
+        "id":3056893,
+        "name":"Veľké Blahovo",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":48.00371,
+        "lon":17.57641,
+        "pop":1593
+    },
+    {
+        "id":3057877,
+        "name":"Reca",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.2311,
+        "lon":17.45399,
+        "pop":1581
+    },
+    {
+        "id":3059803,
+        "name":"Hybe",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Liptovský Mikuláš",
+        "lat":49.04439,
+        "lon":19.82895,
+        "pop":1548
+    },
+    {
+        "id":3059442,
+        "name":"Kolíňany",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.36059,
+        "lon":18.19693,
+        "pop":1532
+    },
+    {
+        "id":723191,
+        "name":"Vrbov",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Kežmarok",
+        "lat":49.08764,
+        "lon":20.4253,
+        "pop":1525
+    },
+    {
+        "id":3056841,
+        "name":"Veľký Cetín",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.22033,
+        "lon":18.19087,
+        "pop":1524
+    },
+    {
+        "id":3058424,
+        "name":"Obyce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.42738,
+        "lon":18.45632,
+        "pop":1521
+    },
+    {
+        "id":724026,
+        "name":"Nová Lesná",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Poprad",
+        "lat":49.12253,
+        "lon":20.26737,
+        "pop":1520
+    },
+    {
+        "id":3058390,
+        "name":"Opatovce nad Nitrou",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Prievidza",
+        "lat":48.76448,
+        "lon":18.57169,
+        "pop":1517
+    },
+    {
+        "id":723393,
+        "name":"Telgárt",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Brezno",
+        "lat":48.85156,
+        "lon":20.18849,
+        "pop":1506
+    },
+    {
+        "id":3061022,
+        "name":"Bohdanovce nad Trnavou",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Trnava",
+        "lat":48.42996,
+        "lon":17.5447,
+        "pop":1494
+    },
+    {
+        "id":3057534,
+        "name":"Sobotište",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Senica",
+        "lat":48.73511,
+        "lon":17.40732,
+        "pop":1483
+    },
+    {
+        "id":3059582,
+        "name":"Kamenín",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nové Zámky",
+        "lat":47.88844,
+        "lon":18.64313,
+        "pop":1479
+    },
+    {
+        "id":3059605,
+        "name":"Kalinkovo",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.0598,
+        "lon":17.25353,
+        "pop":1478
+    },
+    {
+        "id":3071173,
+        "name":"Malé Leváre",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.5,
+        "lon":16.98333,
+        "pop":1472
+    },
+    {
+        "id":3056868,
+        "name":"Veľké Ludince",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Levice",
+        "lat":47.96271,
+        "lon":18.5114,
+        "pop":1470
+    },
+    {
+        "id":3059206,
+        "name":"Kútniky",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":47.96667,
+        "lon":17.66667,
+        "pop":1469
+    },
+    {
+        "id":3058413,
+        "name":"Okoličná na Ostrove",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.80382,
+        "lon":17.92093,
+        "pop":1462
+    },
+    {
+        "id":3059848,
+        "name":"Hrubá Borša",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.18135,
+        "lon":17.48266,
+        "pop":1459
+    },
+    {
+        "id":3060381,
+        "name":"Domaša",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Levice",
+        "lat":48.00632,
+        "lon":18.65904,
+        "pop":1446
+    },
+    {
+        "id":3061071,
+        "name":"Bíňa",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nové Zámky",
+        "lat":47.92238,
+        "lon":18.64157,
+        "pop":1433
+    },
+    {
+        "id":3059865,
+        "name":"Hrochoť",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Banská Bystrica",
+        "lat":48.65567,
+        "lon":19.31284,
+        "pop":1433
+    },
+    {
+        "id":3059356,
+        "name":"Kostolné Kračany",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":47.98258,
+        "lon":17.57607,
+        "pop":1429
+    },
+    {
+        "id":723143,
+        "name":"Vyšné Ružbachy",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Stará Ĺubovňa",
+        "lat":49.30387,
+        "lon":20.56558,
+        "pop":1419
+    },
+    {
+        "id":3060674,
+        "name":"Čierna Voda",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Galanta",
+        "lat":48.12902,
+        "lon":17.65145,
+        "pop":1417
+    },
+    {
+        "id":3060489,
+        "name":"Dolná Streda",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Galanta",
+        "lat":48.26914,
+        "lon":17.74994,
+        "pop":1410
+    },
+    {
+        "id":3057102,
+        "name":"Trstín",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Trnava",
+        "lat":48.52684,
+        "lon":17.4657,
+        "pop":1395
+    },
+    {
+        "id":3060453,
+        "name":"Dolné Orešany",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Trnava",
+        "lat":48.43966,
+        "lon":17.42942,
+        "pop":1394
+    },
+    {
+        "id":3059511,
+        "name":"Klasov",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.27625,
+        "lon":18.25937,
+        "pop":1383
+    },
+    {
+        "id":3056751,
+        "name":"Vištuk",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Pezinok",
+        "lat":48.33343,
+        "lon":17.39945,
+        "pop":1382
+    },
+    {
+        "id":3058071,
+        "name":"Poruba",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Prievidza",
+        "lat":48.83218,
+        "lon":18.5913,
+        "pop":1370
+    },
+    {
+        "id":3060317,
+        "name":"Dudince",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Krupina",
+        "lat":48.17135,
+        "lon":18.88782,
+        "pop":1369
+    },
+    {
+        "id":723082,
+        "name":"Ždiar",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Poprad",
+        "lat":49.271,
+        "lon":20.26239,
+        "pop":1368
+    },
+    {
+        "id":3058368,
+        "name":"Oravský Podzámok",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Dolný Kubín",
+        "lat":49.25939,
+        "lon":19.3569,
+        "pop":1367
+    },
+    {
+        "id":3056881,
+        "name":"Veľké Dvorníky",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":48.00112,
+        "lon":17.65634,
+        "pop":1364
+    },
+    {
+        "id":3057314,
+        "name":"Svätoplukovo",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.22817,
+        "lon":18.05582,
+        "pop":1363
+    },
+    {
+        "id":3058416,
+        "name":"Ohrady",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":47.98333,
+        "lon":17.7,
+        "pop":1359
+    },
+    {
+        "id":3058483,
+        "name":"Nová Ves nad Žitavou",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.2903,
+        "lon":18.32306,
+        "pop":1356
+    },
+    {
+        "id":3058637,
+        "name":"Mošovce",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Turčianske Teplice",
+        "lat":48.90944,
+        "lon":18.88484,
+        "pop":1353
+    },
+    {
+        "id":3059751,
+        "name":"Jablonové",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.34752,
+        "lon":17.09949,
+        "pop":1349
+    },
+    {
+        "id":3056504,
+        "name":"Žirany",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.37766,
+        "lon":18.17514,
+        "pop":1349
+    },
+    {
+        "id":3058012,
+        "name":"Pribylina",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Liptovský Mikuláš",
+        "lat":49.0995,
+        "lon":19.79427,
+        "pop":1323
+    },
+    {
+        "id":3060250,
+        "name":"Farná",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Levice",
+        "lat":48.00577,
+        "lon":18.5112,
+        "pop":1317
+    },
+    {
+        "id":724516,
+        "name":"Kavečany",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Košice I",
+        "lat":48.77592,
+        "lon":21.20587,
+        "pop":1310
+    },
+    {
+        "id":11903690,
+        "name":"Vinosady",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Pezinok",
+        "lat":48.31142,
+        "lon":17.29042,
+        "pop":1300
+    },
+    {
+        "id":3060527,
+        "name":"Dojč",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Senica",
+        "lat":48.6775,
+        "lon":17.25432,
+        "pop":1299
+    },
+    {
+        "id":3058040,
+        "name":"Pravenec",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Prievidza",
+        "lat":48.85613,
+        "lon":18.64901,
+        "pop":1298
+    },
+    {
+        "id":3060653,
+        "name":"Cigeľ",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Prievidza",
+        "lat":48.71382,
+        "lon":18.63997,
+        "pop":1287
+    },
+    {
+        "id":3058661,
+        "name":"Modrany",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.82356,
+        "lon":18.35201,
+        "pop":1281
+    },
+    {
+        "id":3060813,
+        "name":"Čáry",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Senica",
+        "lat":48.6551,
+        "lon":17.09134,
+        "pop":1279
+    },
+    {
+        "id":3057311,
+        "name":"Svätý Anton",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Banská Štiavnica",
+        "lat":48.41923,
+        "lon":18.9401,
+        "pop":1278
+    },
+    {
+        "id":3060646,
+        "name":"Čilizská Radvaň",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":47.83447,
+        "lon":17.69614,
+        "pop":1277
+    },
+    {
+        "id":3059952,
+        "name":"Horný Bar",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":47.94834,
+        "lon":17.46275,
+        "pop":1263
+    },
+    {
+        "id":3058473,
+        "name":"Nové Sady",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Topoľčany",
+        "lat":48.41725,
+        "lon":17.98191,
+        "pop":1263
+    },
+    {
+        "id":3059438,
+        "name":"Kolta",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nové Zámky",
+        "lat":48.01742,
+        "lon":18.41244,
+        "pop":1257
+    },
+    {
+        "id":3060801,
+        "name":"Čechynce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.25489,
+        "lon":18.15958,
+        "pop":1254
+    },
+    {
+        "id":3057082,
+        "name":"Tureň",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.19126,
+        "lon":17.38941,
+        "pop":1232
+    },
+    {
+        "id":3059292,
+        "name":"Krasňany",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Žilina",
+        "lat":49.21491,
+        "lon":18.88718,
+        "pop":1231
+    },
+    {
+        "id":3061208,
+        "name":"Bajč",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.92624,
+        "lon":18.20744,
+        "pop":1227
+    },
+    {
+        "id":3057529,
+        "name":"Sokolce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.8517,
+        "lon":17.82763,
+        "pop":1215
+    },
+    {
+        "id":3060467,
+        "name":"Dolné Kočkovce",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Púchov",
+        "lat":49.09435,
+        "lon":18.32528,
+        "pop":1214
+    },
+    {
+        "id":3058114,
+        "name":"Podvysoká",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Čadca",
+        "lat":49.41269,
+        "lon":18.66458,
+        "pop":1210
+    },
+    {
+        "id":3057068,
+        "name":"Tužina",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Prievidza",
+        "lat":48.89491,
+        "lon":18.61566,
+        "pop":1207
+    },
+    {
+        "id":3060808,
+        "name":"Čataj",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.27049,
+        "lon":17.47873,
+        "pop":1203
+    },
+    {
+        "id":3058804,
+        "name":"Malý Lapáš",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.30022,
+        "lon":18.18195,
+        "pop":1203
+    },
+    {
+        "id":3057023,
+        "name":"Unín",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Skalica",
+        "lat":48.72525,
+        "lon":17.21452,
+        "pop":1203
+    },
+    {
+        "id":3060679,
+        "name":"Číčov",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.7712,
+        "lon":17.77305,
+        "pop":1202
+    },
+    {
+        "id":3058578,
+        "name":"Nána",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nové Zámky",
+        "lat":47.81357,
+        "lon":18.69646,
+        "pop":1198
+    },
+    {
+        "id":3059134,
+        "name":"Lazy pod Makytou",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Púchov",
+        "lat":49.22537,
+        "lon":18.21391,
+        "pop":1196
+    },
+    {
+        "id":3059911,
+        "name":"Hostie",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.45289,
+        "lon":18.43826,
+        "pop":1186
+    },
+    {
+        "id":3058106,
+        "name":"Pohronský Ruskov",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Levice",
+        "lat":47.97364,
+        "lon":18.6563,
+        "pop":1185
+    },
+    {
+        "id":3060455,
+        "name":"Dolné Obdokovce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.31325,
+        "lon":18.21048,
+        "pop":1175
+    },
+    {
+        "id":13535633,
+        "name":"Čierne Kľačany",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.3517,
+        "lon":18.41827,
+        "pop":1164
+    },
+    {
+        "id":3058973,
+        "name":"Lukáčovce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.39552,
+        "lon":17.93784,
+        "pop":1157
+    },
+    {
+        "id":3058429,
+        "name":"Obid",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nové Zámky",
+        "lat":47.77804,
+        "lon":18.6471,
+        "pop":1141
+    },
+    {
+        "id":3060826,
+        "name":"Čakajovce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.37164,
+        "lon":18.03829,
+        "pop":1140
+    },
+    {
+        "id":3058676,
+        "name":"Moča",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.76095,
+        "lon":18.40786,
+        "pop":1136
+    },
+    {
+        "id":3060339,
+        "name":"Dubová",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Pezinok",
+        "lat":48.36676,
+        "lon":17.33965,
+        "pop":1134
+    },
+    {
+        "id":3061241,
+        "name":"Báb",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.30995,
+        "lon":17.86665,
+        "pop":1133
+    },
+    {
+        "id":3061278,
+        "name":"Abrahám",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Galanta",
+        "lat":48.24838,
+        "lon":17.61882,
+        "pop":1131
+    },
+    {
+        "id":3057845,
+        "name":"Rohovce",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":47.99612,
+        "lon":17.41142,
+        "pop":1114
+    },
+    {
+        "id":3056713,
+        "name":"Vozokany",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Topoľčany",
+        "lat":48.56562,
+        "lon":17.99455,
+        "pop":1114
+    },
+    {
+        "id":3060822,
+        "name":"Čalovec",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.81707,
+        "lon":17.98771,
+        "pop":1111
+    },
+    {
+        "id":3059300,
+        "name":"Kráľovičove Kračany",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":47.98532,
+        "lon":17.55063,
+        "pop":1107
+    },
+    {
+        "id":3058941,
+        "name":"Machulince",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.41182,
+        "lon":18.43223,
+        "pop":1101
+    },
+    {
+        "id":3060786,
+        "name":"Čenkovce",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":48.10616,
+        "lon":17.43007,
+        "pop":1099
+    },
+    {
+        "id":3058109,
+        "name":"Pohranice",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.33095,
+        "lon":18.17912,
+        "pop":1099
+    },
+    {
+        "id":3057232,
+        "name":"Tekovské Nemce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.3561,
+        "lon":18.53014,
+        "pop":1093
+    },
+    {
+        "id":3057770,
+        "name":"Šajdíkove Humence",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Senica",
+        "lat":48.65425,
+        "lon":17.26762,
+        "pop":1085
+    },
+    {
+        "id":3057400,
+        "name":"Streženice",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Púchov",
+        "lat":49.1078,
+        "lon":18.30581,
+        "pop":1075
+    },
+    {
+        "id":723575,
+        "name":"Slovenské Nové Mesto",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"",
+        "lat":48.40105,
+        "lon":21.66719,
+        "pop":1074
+    },
+    {
+        "id":3058218,
+        "name":"Petrova Ves",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Skalica",
+        "lat":48.71943,
+        "lon":17.1619,
+        "pop":1072
+    },
+    {
+        "id":3057525,
+        "name":"Sokolníky",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.38308,
+        "lon":18.10901,
+        "pop":1069
+    },
+    {
+        "id":3060774,
+        "name":"Cerová",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Prievidza",
+        "lat":48.56997,
+        "lon":18.52066,
+        "pop":1065
+    },
+    {
+        "id":3057298,
+        "name":"Svätý Michal",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Dunajská Streda",
+        "lat":48.01667,
+        "lon":17.51667,
+        "pop":1062
+    },
+    {
+        "id":3059844,
+        "name":"Hrubý Šúr",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.17041,
+        "lon":17.42086,
+        "pop":1058
+    },
+    {
+        "id":3059519,
+        "name":"Kľačno",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Prievidza",
+        "lat":48.91582,
+        "lon":18.659,
+        "pop":1057
+    },
+    {
+        "id":3060525,
+        "name":"Doľany",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Pezinok",
+        "lat":48.41611,
+        "lon":17.3757,
+        "pop":1056
+    },
+    {
+        "id":724787,
+        "name":"Gerlachov",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Bardejov",
+        "lat":49.31963,
+        "lon":21.11582,
+        "pop":1055
+    },
+    {
+        "id":3060796,
+        "name":"Čeľadice",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.32918,
+        "lon":18.23903,
+        "pop":1051
+    },
+    {
+        "id":3060435,
+        "name":"Štitáre",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.3505,
+        "lon":18.15968,
+        "pop":1042
+    },
+    {
+        "id":3060809,
+        "name":"Čata",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Levice",
+        "lat":47.95357,
+        "lon":18.65147,
+        "pop":1035
+    },
+    {
+        "id":3059575,
+        "name":"Kamenný Most",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nové Zámky",
+        "lat":47.85124,
+        "lon":18.65639,
+        "pop":1030
+    },
+    {
+        "id":3059755,
+        "name":"Jablonec",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Pezinok",
+        "lat":48.33204,
+        "lon":17.44789,
+        "pop":1022
+    },
+    {
+        "id":3060512,
+        "name":"Dolná Breznica",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Púchov",
+        "lat":49.08058,
+        "lon":18.26083,
+        "pop":1011
+    },
+    {
+        "id":3059381,
+        "name":"Koš",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Prievidza",
+        "lat":48.74142,
+        "lon":18.58611,
+        "pop":1005
+    },
+    {
+        "id":723496,
+        "name":"Starý Smokovec",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Poprad",
+        "lat":49.13905,
+        "lon":20.22034,
+        "pop":1000
+    },
+    {
+        "id":3056720,
+        "name":"Volkovce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.33994,
+        "lon":18.4575,
+        "pop":998
+    },
+    {
+        "id":3058828,
+        "name":"Malinová",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Prievidza",
+        "lat":48.85433,
+        "lon":18.61416,
+        "pop":987
+    },
+    {
+        "id":3059644,
+        "name":"Jelšovce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.38233,
+        "lon":18.05795,
+        "pop":986
+    },
+    {
+        "id":3059465,
+        "name":"Adamovské Kochanovce",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Trenčín",
+        "lat":48.85314,
+        "lon":17.92587,
+        "pop":981
+    },
+    {
+        "id":3056752,
+        "name":"Visolaje",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Púchov",
+        "lat":49.06744,
+        "lon":18.36273,
+        "pop":980
+    },
+    {
+        "id":724291,
+        "name":"Ličartovce",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Prešov",
+        "lat":48.8761,
+        "lon":21.2467,
+        "pop":972
+    },
+    {
+        "id":725124,
+        "name":"Bijacovce",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Levoča",
+        "lat":49.02378,
+        "lon":20.7994,
+        "pop":967
+    },
+    {
+        "id":3057603,
+        "name":"Skýcov",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.50289,
+        "lon":18.42078,
+        "pop":964
+    },
+    {
+        "id":725130,
+        "name":"Betliar",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Rožňava",
+        "lat":48.70275,
+        "lon":20.50805,
+        "pop":938
+    },
+    {
+        "id":723426,
+        "name":"Kráľ",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Rimavská Sobota",
+        "lat":48.32835,
+        "lon":20.34312,
+        "pop":932
+    },
+    {
+        "id":3059241,
+        "name":"Krušetnica",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Namestovo",
+        "lat":49.37523,
+        "lon":19.33876,
+        "pop":930
+    },
+    {
+        "id":3057550,
+        "name":"Smolinské",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Senica",
+        "lat":48.67525,
+        "lon":17.13024,
+        "pop":920
+    },
+    {
+        "id":3058966,
+        "name":"Lúky",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Púchov",
+        "lat":49.18978,
+        "lon":18.22775,
+        "pop":915
+    },
+    {
+        "id":3060309,
+        "name":"Dunajov",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Čadca",
+        "lat":49.36196,
+        "lon":18.82135,
+        "pop":914
+    },
+    {
+        "id":3058573,
+        "name":"Na Starom Majeri",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Púchov",
+        "lat":49.13333,
+        "lon":18.18333,
+        "pop":914
+    },
+    {
+        "id":3057301,
+        "name":"Svätý Kríž",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Liptovský Mikuláš",
+        "lat":49.05,
+        "lon":19.53333,
+        "pop":914
+    },
+    {
+        "id":3061001,
+        "name":"Borinka",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.26206,
+        "lon":17.0858,
+        "pop":904
+    },
+    {
+        "id":3058226,
+        "name":"Pernek",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.36689,
+        "lon":17.14417,
+        "pop":899
+    },
+    {
+        "id":3059569,
+        "name":"Kaplna",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.29249,
+        "lon":17.45751,
+        "pop":898
+    },
+    {
+        "id":724798,
+        "name":"Gemer",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Revúca",
+        "lat":48.44963,
+        "lon":20.31576,
+        "pop":889
+    },
+    {
+        "id":3059656,
+        "name":"Jedľové Kostoľany",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.46939,
+        "lon":18.49762,
+        "pop":888
+    },
+    {
+        "id":3059991,
+        "name":"Horné Lefantovce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.42399,
+        "lon":18.14354,
+        "pop":884
+    },
+    {
+        "id":724788,
+        "name":"Gerlachov",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Poprad",
+        "lat":49.09871,
+        "lon":20.20643,
+        "pop":864
+    },
+    {
+        "id":3056943,
+        "name":"Velčice",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.41432,
+        "lon":18.30393,
+        "pop":846
+    },
+    {
+        "id":3056462,
+        "name":"Župkov",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Žarnovica",
+        "lat":48.52542,
+        "lon":18.62974,
+        "pop":842
+    },
+    {
+        "id":3056469,
+        "name":"Zubák",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Púchov",
+        "lat":49.14973,
+        "lon":18.216,
+        "pop":839
+    },
+    {
+        "id":724331,
+        "name":"Lada",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Prešov",
+        "lat":49.04346,
+        "lon":21.35908,
+        "pop":837
+    },
+    {
+        "id":3059917,
+        "name":"Horovce",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Púchov",
+        "lat":49.04651,
+        "lon":18.25825,
+        "pop":835
+    },
+    {
+        "id":3061232,
+        "name":"Babindol",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.28918,
+        "lon":18.23809,
+        "pop":825
+    },
+    {
+        "id":3057797,
+        "name":"Rumanová",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.32974,
+        "lon":17.87146,
+        "pop":810
+    },
+    {
+        "id":3058271,
+        "name":"Párnica",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Dolný Kubín",
+        "lat":49.19416,
+        "lon":19.19761,
+        "pop":807
+    },
+    {
+        "id":3057579,
+        "name":"Slepčany",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.31038,
+        "lon":18.33964,
+        "pop":805
+    },
+    {
+        "id":723397,
+        "name":"Tatranská Lomnica",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Poprad",
+        "lat":49.16616,
+        "lon":20.28128,
+        "pop":800
+    },
+    {
+        "id":3057918,
+        "name":"Radôstka",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Čadca",
+        "lat":49.31916,
+        "lon":18.93949,
+        "pop":798
+    },
+    {
+        "id":3060843,
+        "name":"Čab",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.40854,
+        "lon":17.98831,
+        "pop":791
+    },
+    {
+        "id":3059907,
+        "name":"Hosťovce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.41764,
+        "lon":18.35817,
+        "pop":761
+    },
+    {
+        "id":3059222,
+        "name":"Kuklov",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Senica",
+        "lat":48.63901,
+        "lon":17.07258,
+        "pop":753
+    },
+    {
+        "id":3059361,
+        "name":"Kostolná pri Dunaji",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.18536,
+        "lon":17.43556,
+        "pop":750
+    },
+    {
+        "id":3059171,
+        "name":"Ladice",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.39556,
+        "lon":18.26196,
+        "pop":741
+    },
+    {
+        "id":3058181,
+        "name":"Plavecký Mikuláš",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.50893,
+        "lon":17.30471,
+        "pop":728
+    },
+    {
+        "id":3061104,
+        "name":"Bešeňová",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Ružomberok",
+        "lat":49.10021,
+        "lon":19.43472,
+        "pop":720
+    },
+    {
+        "id":3058539,
+        "name":"Neverice",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.36662,
+        "lon":18.27458,
+        "pop":714
+    },
+    {
+        "id":3059008,
+        "name":"Lovce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.44461,
+        "lon":18.36332,
+        "pop":710
+    },
+    {
+        "id":3060461,
+        "name":"Dolné Lefantovce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.42492,
+        "lon":18.12494,
+        "pop":706
+    },
+    {
+        "id":3058532,
+        "name":"Nimnica",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Púchov",
+        "lat":49.1396,
+        "lon":18.35663,
+        "pop":703
+    },
+    {
+        "id":3056592,
+        "name":"Zariečie",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Púchov",
+        "lat":49.18387,
+        "lon":18.24331,
+        "pop":694
+    },
+    {
+        "id":3058183,
+        "name":"Plavecké Podhradie",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.48601,
+        "lon":17.25729,
+        "pop":693
+    },
+    {
+        "id":3056491,
+        "name":"Zlatníky",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Bánovce nad Bebravou",
+        "lat":48.71318,
+        "lon":18.12349,
+        "pop":688
+    },
+    {
+        "id":3056928,
+        "name":"Veľká Dolina",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.1851,
+        "lon":18.03013,
+        "pop":678
+    },
+    {
+        "id":3059337,
+        "name":"Koválov",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Senica",
+        "lat":48.70412,
+        "lon":17.2818,
+        "pop":677
+    },
+    {
+        "id":3058555,
+        "name":"Nemčiňany",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.30867,
+        "lon":18.45145,
+        "pop":674
+    },
+    {
+        "id":3058090,
+        "name":"Poľný Kesov",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.16511,
+        "lon":18.06686,
+        "pop":659
+    },
+    {
+        "id":3057422,
+        "name":"Stráža",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Žilina",
+        "lat":49.22578,
+        "lon":18.90782,
+        "pop":657
+    },
+    {
+        "id":3059199,
+        "name":"Kvašov",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Púchov",
+        "lat":49.07007,
+        "lon":18.22668,
+        "pop":654
+    },
+    {
+        "id":3056715,
+        "name":"Voznica",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Žarnovica",
+        "lat":48.46054,
+        "lon":18.6992,
+        "pop":650
+    },
+    {
+        "id":3064737,
+        "name":"Suchohrad",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Malacky",
+        "lat":48.4,
+        "lon":16.86667,
+        "pop":642
+    },
+    {
+        "id":724935,
+        "name":"Cigelka",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Bardejov",
+        "lat":49.40883,
+        "lon":21.1476,
+        "pop":620
+    },
+    {
+        "id":3058180,
+        "name":"Plavecký Svätý Peter",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Senica",
+        "lat":48.53597,
+        "lon":17.32512,
+        "pop":612
+    },
+    {
+        "id":725211,
+        "name":"Abovce",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Rimavská Sobota",
+        "lat":48.31869,
+        "lon":20.33647,
+        "pop":612
+    },
+    {
+        "id":3059062,
+        "name":"Liptovská Sielnica",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Liptovský Mikuláš",
+        "lat":49.14309,
+        "lon":19.51421,
+        "pop":602
+    },
+    {
+        "id":3057338,
+        "name":"Šurianky",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.42194,
+        "lon":18.02305,
+        "pop":583
+    },
+    {
+        "id":3058538,
+        "name":"Nevidzany",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.2846,
+        "lon":18.3776,
+        "pop":577
+    },
+    {
+        "id":3059802,
+        "name":"Igram",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.28544,
+        "lon":17.46235,
+        "pop":570
+    },
+    {
+        "id":3056485,
+        "name":"Zliechov",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Ilava",
+        "lat":48.95243,
+        "lon":18.43475,
+        "pop":569
+    },
+    {
+        "id":724302,
+        "name":"Lenartovce",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Rimavská Sobota",
+        "lat":48.29794,
+        "lon":20.31005,
+        "pop":568
+    },
+    {
+        "id":6690447,
+        "name":"Vágfüzes",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Komárno",
+        "lat":47.85141,
+        "lon":18.052,
+        "pop":563
+    },
+    {
+        "id":3057548,
+        "name":"Smrdáky",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Senica",
+        "lat":48.72234,
+        "lon":17.30235,
+        "pop":559
+    },
+    {
+        "id":3060811,
+        "name":"Častkov",
+        "country":"SK",
+        "admin1":"Trnava Region",
+        "admin2":"Okres Senica",
+        "lat":48.74826,
+        "lon":17.35281,
+        "pop":550
+    },
+    {
+        "id":3059046,
+        "name":"Liptovský Trnovec",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Liptovský Mikuláš",
+        "lat":49.12038,
+        "lon":19.54709,
+        "pop":550
+    },
+    {
+        "id":3058604,
+        "name":"Mýto pod Ďumbierom",
+        "country":"SK",
+        "admin1":"Banská Bystrica Region",
+        "admin2":"Okres Brezno",
+        "lat":48.85171,
+        "lon":19.63247,
+        "pop":542
+    },
+    {
+        "id":3059487,
+        "name":"Klubina",
+        "country":"SK",
+        "admin1":"Žilina Region",
+        "admin2":"Okres Čadca",
+        "lat":49.35437,
+        "lon":18.89354,
+        "pop":537
+    },
+    {
+        "id":3058730,
+        "name":"Mestečko",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Púchov",
+        "lat":49.17288,
+        "lon":18.25995,
+        "pop":536
+    },
+    {
+        "id":3057349,
+        "name":"Hruboňovo",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Nitra",
+        "lat":48.44289,
+        "lon":18.02587,
+        "pop":536
+    },
+    {
+        "id":3057299,
+        "name":"Martin nad Žitavou",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.39427,
+        "lon":18.35702,
+        "pop":535
+    },
+    {
+        "id":724805,
+        "name":"Gaboltov",
+        "country":"SK",
+        "admin1":"Prešov Region",
+        "admin2":"Okres Bardejov",
+        "lat":49.36684,
+        "lon":21.14063,
+        "pop":528
+    },
+    {
+        "id":3056509,
+        "name":"Žikava",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.44398,
+        "lon":18.3824,
+        "pop":526
+    },
+    {
+        "id":3058794,
+        "name":"Mankovce",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.42753,
+        "lon":18.32686,
+        "pop":525
+    },
+    {
+        "id":723130,
+        "name":"Vyšný Medzev",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Kosice-okolie",
+        "lat":48.71395,
+        "lon":20.90288,
+        "pop":514
+    },
+    {
+        "id":3059823,
+        "name":"Hurbanova Ves",
+        "country":"SK",
+        "admin1":"Bratislava Region",
+        "admin2":"Okres Senec",
+        "lat":48.15287,
+        "lon":17.4414,
+        "pop":510
+    },
+    {
+        "id":723432,
+        "name":"Svätá Mária",
+        "country":"SK",
+        "admin1":"Košice Region",
+        "admin2":"Okres Trebišov",
+        "lat":48.43326,
+        "lon":21.83903,
+        "pop":510
+    },
+    {
+        "id":3060048,
+        "name":"Horná Breznica",
+        "country":"SK",
+        "admin1":"Trenčín Region",
+        "admin2":"Okres Púchov",
+        "lat":49.10951,
+        "lon":18.24969,
+        "pop":503
+    },
+    {
+        "id":3060814,
+        "name":"Čaradice",
+        "country":"SK",
+        "admin1":"Nitra Region",
+        "admin2":"Okres Zlaté Moravce",
+        "lat":48.35895,
+        "lon":18.50876,
+        "pop":501
+    }
+]

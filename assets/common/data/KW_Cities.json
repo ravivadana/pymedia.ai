@@ -1,0 +1,202 @@
+[
+    {
+        "id":285839,
+        "name":"Al Aḩmadī",
+        "country":"KW",
+        "admin1":"Al Aḩmadī",
+        "admin2":"",
+        "lat":29.07694,
+        "lon":48.08389,
+        "pop":637411
+    },
+    {
+        "id":285629,
+        "name":"Ḩawallī",
+        "country":"KW",
+        "admin1":"Hawalli",
+        "admin2":"",
+        "lat":29.33278,
+        "lon":48.02861,
+        "pop":164212
+    },
+    {
+        "id":412800,
+        "name":"Şabāḩ as Sālim",
+        "country":"KW",
+        "admin1":"Mubārak al Kabīr",
+        "admin2":"",
+        "lat":29.25722,
+        "lon":48.05722,
+        "pop":139163
+    },
+    {
+        "id":285815,
+        "name":"Al Farwānīyah",
+        "country":"KW",
+        "admin1":"Al Farwaniyah",
+        "admin2":"",
+        "lat":29.2775,
+        "lon":47.95861,
+        "pop":86525
+    },
+    {
+        "id":285811,
+        "name":"Al Faḩāḩīl",
+        "country":"KW",
+        "admin1":"Al Aḩmadī",
+        "admin2":"",
+        "lat":29.0825,
+        "lon":48.13028,
+        "pop":68290
+    },
+    {
+        "id":285787,
+        "name":"Kuwait City",
+        "country":"KW",
+        "admin1":"Al Asimah",
+        "admin2":"",
+        "lat":29.367,
+        "lon":47.97429,
+        "pop":60064
+    },
+    {
+        "id":285728,
+        "name":"Ar Riqqah",
+        "country":"KW",
+        "admin1":"Al Aḩmadī",
+        "admin2":"",
+        "lat":29.14583,
+        "lon":48.09472,
+        "pop":52068
+    },
+    {
+        "id":285778,
+        "name":"Al Manqaf",
+        "country":"KW",
+        "admin1":"Al Aḩmadī",
+        "admin2":"",
+        "lat":29.09611,
+        "lon":48.13278,
+        "pop":39025
+    },
+    {
+        "id":285799,
+        "name":"Al Jahrā’",
+        "country":"KW",
+        "admin1":"Al Jahra Governorate",
+        "admin2":"",
+        "lat":29.3375,
+        "lon":47.65806,
+        "pop":24281
+    },
+    {
+        "id":285812,
+        "name":"Al Finţās",
+        "country":"KW",
+        "admin1":"Al Aḩmadī",
+        "admin2":"",
+        "lat":29.17389,
+        "lon":48.12111,
+        "pop":23071
+    },
+    {
+        "id":285603,
+        "name":"Janūb as Surrah",
+        "country":"KW",
+        "admin1":"Al Farwaniyah",
+        "admin2":"",
+        "lat":29.26917,
+        "lon":47.97806,
+        "pop":18496
+    },
+    {
+        "id":285782,
+        "name":"Al Mahbūlah",
+        "country":"KW",
+        "admin1":"Al Aḩmadī",
+        "admin2":"",
+        "lat":29.145,
+        "lon":48.13028,
+        "pop":18178
+    },
+    {
+        "id":285856,
+        "name":"Ad Dasmah",
+        "country":"KW",
+        "admin1":"Al Asimah",
+        "admin2":"",
+        "lat":29.365,
+        "lon":48.00139,
+        "pop":17585
+    },
+    {
+        "id":285760,
+        "name":"Al Wafrah",
+        "country":"KW",
+        "admin1":"Al Aḩmadī",
+        "admin2":"",
+        "lat":28.63917,
+        "lon":47.93056,
+        "pop":10017
+    },
+    {
+        "id":11579278,
+        "name":"Mazāri‘ al ‘Abdalī",
+        "country":"KW",
+        "admin1":"Al Jahra Governorate",
+        "admin2":"",
+        "lat":30.04219,
+        "lon":47.72205,
+        "pop":6835
+    },
+    {
+        "id":285673,
+        "name":"Az Zawr",
+        "country":"KW",
+        "admin1":"Al Asimah",
+        "admin2":"",
+        "lat":29.4425,
+        "lon":48.27472,
+        "pop":5750
+    },
+    {
+        "id":11593497,
+        "name":"Al-Masayel",
+        "country":"KW",
+        "admin1":"Mubārak al Kabīr",
+        "admin2":"",
+        "lat":29.2393,
+        "lon":48.08862,
+        "pop":2458
+    },
+    {
+        "id":285810,
+        "name":"Al Funayţīs",
+        "country":"KW",
+        "admin1":"Mubārak al Kabīr",
+        "admin2":"",
+        "lat":29.22528,
+        "lon":48.10167,
+        "pop":1878
+    },
+    {
+        "id":11593501,
+        "name":"Abu Al Hasaniya",
+        "country":"KW",
+        "admin1":"Mubārak al Kabīr",
+        "admin2":"",
+        "lat":29.19076,
+        "lon":48.11355,
+        "pop":1350
+    },
+    {
+        "id":11593499,
+        "name":"Abu Fatira",
+        "country":"KW",
+        "admin1":"Mubārak al Kabīr",
+        "admin2":"",
+        "lat":29.19746,
+        "lon":48.10278,
+        "pop":1240
+    }
+]

@@ -1,0 +1,7222 @@
+[
+    {
+        "id":1735161,
+        "name":"Kuala Lumpur",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.1412,
+        "lon":101.68653,
+        "pop":1453975
+    },
+    {
+        "id":1732752,
+        "name":"Johor Bahru",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.4655,
+        "lon":103.7578,
+        "pop":858118
+    },
+    {
+        "id":1771023,
+        "name":"Kampung Baru Subang",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Petaling",
+        "lat":3.15,
+        "lon":101.53333,
+        "pop":833571
+    },
+    {
+        "id":1735158,
+        "name":"Petaling Jaya",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Petaling",
+        "lat":3.10726,
+        "lon":101.60671,
+        "pop":807879
+    },
+    {
+        "id":1734634,
+        "name":"Ipoh",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Daerah Kinta",
+        "lat":4.5841,
+        "lon":101.0829,
+        "pop":759952
+    },
+    {
+        "id":1732903,
+        "name":"Shah Alam",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Petaling",
+        "lat":3.08507,
+        "lon":101.53281,
+        "pop":740750
+    },
+    {
+        "id":13118225,
+        "name":"Bukit Rahman Putra",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Petaling",
+        "lat":3.21727,
+        "lon":101.5608,
+        "pop":607000
+    },
+    {
+        "id":1732747,
+        "name":"Pelentong",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.5243,
+        "lon":103.824,
+        "pop":583640
+    },
+    {
+        "id":1734759,
+        "name":"Malacca",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Melaka Tengah",
+        "lat":2.196,
+        "lon":102.2405,
+        "pop":579000
+    },
+    {
+        "id":10063567,
+        "name":"Iskandar Puteri",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.39324,
+        "lon":103.62322,
+        "pop":575977
+    },
+    {
+        "id":1736376,
+        "name":"Kota Bharu",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Kota Bharu",
+        "lat":6.12361,
+        "lon":102.24333,
+        "pop":568900
+    },
+    {
+        "id":1735227,
+        "name":"Kuantan",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Kuantan",
+        "lat":3.8077,
+        "lon":103.326,
+        "pop":548014
+    },
+    {
+        "id":6847550,
+        "name":"Kota Kuala Muda",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kuala Muda",
+        "lat":5.58822,
+        "lon":100.37085,
+        "pop":544984
+    },
+    {
+        "id":1735498,
+        "name":"Sungai Petani",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kuala Muda",
+        "lat":5.647,
+        "lon":100.48772,
+        "pop":544851
+    },
+    {
+        "id":7795834,
+        "name":"Selayang Baru Utara",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Gombak",
+        "lat":3.2549,
+        "lon":101.6668,
+        "pop":542409
+    },
+    {
+        "id":1732722,
+        "name":"Pasir Gudang",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.462,
+        "lon":103.9053,
+        "pop":534659
+    },
+    {
+        "id":12750654,
+        "name":"Mukim Pulai",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.53333,
+        "lon":103.66667,
+        "pop":505661
+    },
+    {
+        "id":1733432,
+        "name":"Kota Kinabalu",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Kota Kinabalu",
+        "lat":5.9749,
+        "lon":116.0724,
+        "pop":500421
+    },
+    {
+        "id":12514556,
+        "name":"Kota Damansara",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Petaling",
+        "lat":3.15454,
+        "lon":101.58022,
+        "pop":500000
+    },
+    {
+        "id":1732724,
+        "name":"Kampung Larkin Lama",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.5024,
+        "lon":103.744,
+        "pop":500000
+    },
+    {
+        "id":1734052,
+        "name":"Sandakan",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Bahagian Sandakan",
+        "lat":5.8402,
+        "lon":118.1179,
+        "pop":439050
+    },
+    {
+        "id":1734705,
+        "name":"Kuala Terengganu",
+        "country":"MY",
+        "admin1":"Terengganu",
+        "admin2":"Kuala Terengganu",
+        "lat":5.3302,
+        "lon":103.1408,
+        "pop":426500
+    },
+    {
+        "id":12557764,
+        "name":"Taman Petaling",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.19916,
+        "lon":101.64983,
+        "pop":423062
+    },
+    {
+        "id":1736309,
+        "name":"Alor Setar",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.12104,
+        "lon":100.36014,
+        "pop":417800
+    },
+    {
+        "id":1762110,
+        "name":"Kampung Kangkar Teberau",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.532,
+        "lon":103.7549,
+        "pop":412373
+    },
+    {
+        "id":1735634,
+        "name":"Kuching",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Kuching",
+        "lat":1.55,
+        "lon":110.33333,
+        "pop":402738
+    },
+    {
+        "id":1749822,
+        "name":"Puchong",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Petaling",
+        "lat":3.0,
+        "lon":101.61667,
+        "pop":375181
+    },
+    {
+        "id":1734810,
+        "name":"Seremban",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Seremban",
+        "lat":2.7297,
+        "lon":101.9381,
+        "pop":372917
+    },
+    {
+        "id":1734199,
+        "name":"Tawau",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Bahagian Tawau",
+        "lat":4.24482,
+        "lon":117.89115,
+        "pop":372615
+    },
+    {
+        "id":1735162,
+        "name":"Setapak",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"",
+        "lat":3.207,
+        "lon":101.727,
+        "pop":353268
+    },
+    {
+        "id":1732811,
+        "name":"Kluang",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Keluang",
+        "lat":2.03046,
+        "lon":103.31689,
+        "pop":323762
+    },
+    {
+        "id":1732869,
+        "name":"Muar",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Muar",
+        "lat":2.0442,
+        "lon":102.5689,
+        "pop":314776
+    },
+    {
+        "id":1738050,
+        "name":"Miri",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Miri",
+        "lat":4.39928,
+        "lon":113.99163,
+        "pop":300543
+    },
+    {
+        "id":1732901,
+        "name":"Kapar",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Klang",
+        "lat":3.13333,
+        "lon":101.38333,
+        "pop":269627
+    },
+    {
+        "id":1735166,
+        "name":"Batu Caves",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Gombak",
+        "lat":3.238,
+        "lon":101.682,
+        "pop":254083
+    },
+    {
+        "id":1732905,
+        "name":"Klang",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Klang",
+        "lat":3.03667,
+        "lon":101.44333,
+        "pop":240016
+    },
+    {
+        "id":10941913,
+        "name":"Kajang",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Hulu Langat",
+        "lat":2.99424,
+        "lon":101.78875,
+        "pop":236240
+    },
+    {
+        "id":1735459,
+        "name":"Teluk Intan",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Hilir Perak",
+        "lat":4.02219,
+        "lon":101.02083,
+        "pop":232800
+    },
+    {
+        "id":1736372,
+        "name":"Pasir Mas",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Pasir Mas",
+        "lat":6.04934,
+        "lon":102.13987,
+        "pop":230424
+    },
+    {
+        "id":13100478,
+        "name":"Paya Terubong",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Daerah Timur Laut",
+        "lat":5.37278,
+        "lon":100.27972,
+        "pop":226712
+    },
+    {
+        "id":1735153,
+        "name":"Sungai Buloh",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Petaling",
+        "lat":3.21,
+        "lon":101.561,
+        "pop":222858
+    },
+    {
+        "id":13118272,
+        "name":"Bandar Seri Alam",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.50434,
+        "lon":103.87525,
+        "pop":220000
+    },
+    {
+        "id":1734586,
+        "name":"Taiping",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Larut Matang & Selama",
+        "lat":4.85,
+        "lon":100.73333,
+        "pop":217647
+    },
+    {
+        "id":12750606,
+        "name":"Wangsa Maju",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.20056,
+        "lon":101.73972,
+        "pop":215600
+    },
+    {
+        "id":1735079,
+        "name":"Bukit Mertajam",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"S.P. Tengah",
+        "lat":5.36301,
+        "lon":100.4667,
+        "pop":212329
+    },
+    {
+        "id":1734821,
+        "name":"Sepang",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Sepang",
+        "lat":2.6931,
+        "lon":101.7498,
+        "pop":212050
+    },
+    {
+        "id":13118362,
+        "name":"Bukit Jalil",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.04913,
+        "lon":101.68036,
+        "pop":200000
+    },
+    {
+        "id":13118277,
+        "name":"Bandar Utama",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.14818,
+        "lon":101.61407,
+        "pop":200000
+    },
+    {
+        "id":1735150,
+        "name":"Rawang",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Gombak",
+        "lat":3.3213,
+        "lon":101.5767,
+        "pop":199095
+    },
+    {
+        "id":1735902,
+        "name":"Sibu",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Sibu",
+        "lat":2.3,
+        "lon":111.81667,
+        "pop":198239
+    },
+    {
+        "id":1732676,
+        "name":"Kuala Kubu Baharu",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Hulu Selangor",
+        "lat":3.5638,
+        "lon":101.6581,
+        "pop":194387
+    },
+    {
+        "id":1734393,
+        "name":"Kulim",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kulim",
+        "lat":5.36499,
+        "lon":100.56177,
+        "pop":170889
+    },
+    {
+        "id":1735106,
+        "name":"George Town",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Daerah Timur Laut",
+        "lat":5.41123,
+        "lon":100.33543,
+        "pop":158336
+    },
+    {
+        "id":1732687,
+        "name":"Batu Pahat",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Batu Pahat",
+        "lat":1.8548,
+        "lon":102.9325,
+        "pop":156236
+    },
+    {
+        "id":1735453,
+        "name":"Sitiawan",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Manjung (Dinding)",
+        "lat":4.2168,
+        "lon":100.6996,
+        "pop":156234
+    },
+    {
+        "id":1737486,
+        "name":"Bintulu",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Bintulu",
+        "lat":3.16667,
+        "lon":113.03333,
+        "pop":151617
+    },
+    {
+        "id":13118229,
+        "name":"Bandar Tasik Puteri",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Gombak",
+        "lat":3.28531,
+        "lon":101.4741,
+        "pop":150000
+    },
+    {
+        "id":13118091,
+        "name":"Setia Alam",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Petaling",
+        "lat":3.10155,
+        "lon":101.45565,
+        "pop":150000
+    },
+    {
+        "id":7473418,
+        "name":"Bercham",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Daerah Kinta",
+        "lat":4.6411,
+        "lon":101.1393,
+        "pop":150000
+    },
+    {
+        "id":13118145,
+        "name":"Bandar Bukit Raja",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Klang",
+        "lat":3.08737,
+        "lon":101.43339,
+        "pop":146534
+    },
+    {
+        "id":1732721,
+        "name":"Kampung Pasir Gudang Baru",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.4726,
+        "lon":103.878,
+        "pop":145639
+    },
+    {
+        "id":1764027,
+        "name":"Kampung Sungai Glugur",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Daerah Timur Laut",
+        "lat":5.36966,
+        "lon":100.31353,
+        "pop":145600
+    },
+    {
+        "id":1732750,
+        "name":"Masai",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.4907,
+        "lon":103.8788,
+        "pop":141730
+    },
+    {
+        "id":1764160,
+        "name":"Kampung Sungai Ara",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Barat Daya",
+        "lat":5.32699,
+        "lon":100.27348,
+        "pop":140849
+    },
+    {
+        "id":1735545,
+        "name":"Pasir Puteh",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Pasir Puteh",
+        "lat":5.83333,
+        "lon":102.4,
+        "pop":137400
+    },
+    {
+        "id":1777077,
+        "name":"Cheras",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"",
+        "lat":3.108,
+        "lon":101.726,
+        "pop":135823
+    },
+    {
+        "id":1735093,
+        "name":"Tasek Glugor",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Seberang Perai Utara",
+        "lat":5.48032,
+        "lon":100.49849,
+        "pop":135786
+    },
+    {
+        "id":1735102,
+        "name":"Bayan Lepas",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Barat Daya",
+        "lat":5.29992,
+        "lon":100.26052,
+        "pop":130455
+    },
+    {
+        "id":1744246,
+        "name":"Seri Kembangan",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Petaling",
+        "lat":3.03333,
+        "lon":101.71667,
+        "pop":130252
+    },
+    {
+        "id":1735168,
+        "name":"Ampang",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"",
+        "lat":3.15,
+        "lon":101.76667,
+        "pop":126285
+    },
+    {
+        "id":13118233,
+        "name":"Titiwangsa",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.17822,
+        "lon":101.70312,
+        "pop":122096
+    },
+    {
+        "id":11054399,
+        "name":"Bukit Bintang",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.14657,
+        "lon":101.71023,
+        "pop":120529
+    },
+    {
+        "id":1734815,
+        "name":"Port Dickson",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Port Dickson",
+        "lat":2.52462,
+        "lon":101.79651,
+        "pop":119300
+    },
+    {
+        "id":1732637,
+        "name":"Maran",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Maran",
+        "lat":3.586,
+        "lon":102.773,
+        "pop":111056
+    },
+    {
+        "id":1735076,
+        "name":"Butterworth",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Seberang Perai Utara",
+        "lat":5.3991,
+        "lon":100.36382,
+        "pop":107591
+    },
+    {
+        "id":1733953,
+        "name":"Lahad Datu",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Lahad Datu",
+        "lat":5.02298,
+        "lon":118.32897,
+        "pop":105622
+    },
+    {
+        "id":1735572,
+        "name":"Kuala Krai",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Kuala Krai",
+        "lat":5.5313,
+        "lon":102.19925,
+        "pop":105007
+    },
+    {
+        "id":12750652,
+        "name":"Perling",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.48061,
+        "lon":103.68381,
+        "pop":101263
+    },
+    {
+        "id":1769014,
+        "name":"Ijok",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Kuala Selangor",
+        "lat":3.31667,
+        "lon":101.4,
+        "pop":100899
+    },
+    {
+        "id":13061022,
+        "name":"Bandar Mahkota Cheras",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Hulu Langat",
+        "lat":3.0542,
+        "lon":101.79844,
+        "pop":100000
+    },
+    {
+        "id":7792200,
+        "name":"Seri Manjung",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Manjung (Dinding)",
+        "lat":4.1987,
+        "lon":100.67,
+        "pop":100000
+    },
+    {
+        "id":1744763,
+        "name":"Sentul",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.18333,
+        "lon":101.68333,
+        "pop":100000
+    },
+    {
+        "id":12750644,
+        "name":"Taman Melawati",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Gombak",
+        "lat":3.21083,
+        "lon":101.74825,
+        "pop":99304
+    },
+    {
+        "id":1732859,
+        "name":"Pagoh",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Muar",
+        "lat":2.1495,
+        "lon":102.7704,
+        "pop":95202
+    },
+    {
+        "id":1733782,
+        "name":"Labuan",
+        "country":"MY",
+        "admin1":"Labuan",
+        "admin2":"W.P. Labuan",
+        "lat":5.28028,
+        "lon":115.2475,
+        "pop":95120
+    },
+    {
+        "id":1765769,
+        "name":"Pendang",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Pendang",
+        "lat":5.99516,
+        "lon":100.47885,
+        "pop":94033
+    },
+    {
+        "id":13118096,
+        "name":"Bandar Kinrara",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Petaling",
+        "lat":3.04926,
+        "lon":101.64153,
+        "pop":93822
+    },
+    {
+        "id":12534340,
+        "name":"Kuala Nerus",
+        "country":"MY",
+        "admin1":"Terengganu",
+        "admin2":"Kuala Terengganu",
+        "lat":5.37293,
+        "lon":103.02053,
+        "pop":93485
+    },
+    {
+        "id":1734798,
+        "name":"Semenyih",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Hulu Langat",
+        "lat":2.9516,
+        "lon":101.843,
+        "pop":92491
+    },
+    {
+        "id":1737919,
+        "name":"Marudi",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Marudi",
+        "lat":4.18333,
+        "lon":114.31667,
+        "pop":90100
+    },
+    {
+        "id":1733331,
+        "name":"Val Dor",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Seberang Perai Selatan",
+        "lat":5.25198,
+        "lon":100.49046,
+        "pop":88600
+    },
+    {
+        "id":7473443,
+        "name":"Kampung Manjoi",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Daerah Kinta",
+        "lat":4.6192,
+        "lon":101.0685,
+        "pop":86266
+    },
+    {
+        "id":1760605,
+        "name":"Kepong",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.21398,
+        "lon":101.64018,
+        "pop":85960
+    },
+    {
+        "id":12514620,
+        "name":"Damansara Damai",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Petaling",
+        "lat":3.19893,
+        "lon":101.59184,
+        "pop":85000
+    },
+    {
+        "id":1763999,
+        "name":"Kampung Sungai Kajang",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Kuala Selangor",
+        "lat":3.4161,
+        "lon":101.173,
+        "pop":84031
+    },
+    {
+        "id":1732945,
+        "name":"Cukai",
+        "country":"MY",
+        "admin1":"Terengganu",
+        "admin2":"Kemaman",
+        "lat":4.25,
+        "lon":103.41667,
+        "pop":82425
+    },
+    {
+        "id":1732680,
+        "name":"Parit Sulung",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Batu Pahat",
+        "lat":1.976,
+        "lon":102.8835,
+        "pop":82399
+    },
+    {
+        "id":6930887,
+        "name":"Cyberjaya",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Sepang",
+        "lat":2.92281,
+        "lon":101.65718,
+        "pop":79200
+    },
+    {
+        "id":1733440,
+        "name":"Putatan",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Penampang",
+        "lat":5.9258,
+        "lon":116.06094,
+        "pop":78340
+    },
+    {
+        "id":1733438,
+        "name":"Donggongon",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Penampang",
+        "lat":5.90702,
+        "lon":116.10146,
+        "pop":78086
+    },
+    {
+        "id":1734098,
+        "name":"Keningau",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Keningau",
+        "lat":5.3378,
+        "lon":116.1602,
+        "pop":77650
+    },
+    {
+        "id":1738294,
+        "name":"Ulu Tiram",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.6,
+        "lon":103.81667,
+        "pop":75350
+    },
+    {
+        "id":1732741,
+        "name":"Taman Senai",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Kulaijaya",
+        "lat":1.6006,
+        "lon":103.6419,
+        "pop":73176
+    },
+    {
+        "id":13118224,
+        "name":"Bandar Saujana Utama",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Kuala Selangor",
+        "lat":3.20663,
+        "lon":101.47729,
+        "pop":72000
+    },
+    {
+        "id":1735148,
+        "name":"Serendah",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Hulu Selangor",
+        "lat":3.3646,
+        "lon":101.6041,
+        "pop":71202
+    },
+    {
+        "id":1732846,
+        "name":"Segamat",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Segamat",
+        "lat":2.5148,
+        "lon":102.8158,
+        "pop":69816
+    },
+    {
+        "id":1771304,
+        "name":"Kampung Baru Balakong",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Hulu Langat",
+        "lat":3.02938,
+        "lon":101.74714,
+        "pop":69302
+    },
+    {
+        "id":1735489,
+        "name":"Yan Besar",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Yan",
+        "lat":5.7989,
+        "lon":100.37264,
+        "pop":67653
+    },
+    {
+        "id":1732672,
+        "name":"Tanjong Malim",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Batang Padang",
+        "lat":3.681,
+        "lon":101.5198,
+        "pop":66103
+    },
+    {
+        "id":7619704,
+        "name":"Johor Jaya",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.5392,
+        "lon":103.8092,
+        "pop":66000
+    },
+    {
+        "id":1735077,
+        "name":"Perai",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"S.P. Tengah",
+        "lat":5.38333,
+        "lon":100.38333,
+        "pop":65301
+    },
+    {
+        "id":1734826,
+        "name":"Taman Senawang Indah",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Seremban",
+        "lat":2.691,
+        "lon":101.989,
+        "pop":64497
+    },
+    {
+        "id":1732755,
+        "name":"Gelang Patah",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.4484,
+        "lon":103.5873,
+        "pop":64375
+    },
+    {
+        "id":1736278,
+        "name":"Kangar",
+        "country":"MY",
+        "admin1":"Perlis",
+        "admin2":"Perlis",
+        "lat":6.4414,
+        "lon":100.19862,
+        "pop":63869
+    },
+    {
+        "id":1732742,
+        "name":"Kulai",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Kulaijaya",
+        "lat":1.6561,
+        "lon":103.6032,
+        "pop":63762
+    },
+    {
+        "id":1772808,
+        "name":"Jelutong",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Daerah Timur Laut",
+        "lat":5.38998,
+        "lon":100.31885,
+        "pop":63507
+    },
+    {
+        "id":1736302,
+        "name":"Jitra",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kubang Pasu",
+        "lat":6.26812,
+        "lon":100.42167,
+        "pop":63489
+    },
+    {
+        "id":1733697,
+        "name":"Semporna",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Semporna",
+        "lat":4.48178,
+        "lon":118.61119,
+        "pop":62641
+    },
+    {
+        "id":1732746,
+        "name":"Kempas",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.5489,
+        "lon":103.6965,
+        "pop":62011
+    },
+    {
+        "id":12750582,
+        "name":"Seremban 2",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Seremban",
+        "lat":2.68982,
+        "lon":101.90766,
+        "pop":62000
+    },
+    {
+        "id":1735433,
+        "name":"Parit",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Perak Tengah",
+        "lat":4.48333,
+        "lon":100.91667,
+        "pop":60988
+    },
+    {
+        "id":1764375,
+        "name":"Kampong Sidam",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kulim",
+        "lat":5.53333,
+        "lon":100.56667,
+        "pop":60983
+    },
+    {
+        "id":13118228,
+        "name":"Setia Tropika",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.54631,
+        "lon":103.71829,
+        "pop":60279
+    },
+    {
+        "id":12750583,
+        "name":"Bukit Indah",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.47999,
+        "lon":103.65959,
+        "pop":60000
+    },
+    {
+        "id":12746668,
+        "name":"Ara Damansara",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Petaling",
+        "lat":3.11898,
+        "lon":101.58656,
+        "pop":60000
+    },
+    {
+        "id":10792382,
+        "name":"Putra Heights",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Petaling",
+        "lat":2.99361,
+        "lon":101.57255,
+        "pop":60000
+    },
+    {
+        "id":1735022,
+        "name":"Temerluh",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Temerluh",
+        "lat":3.4506,
+        "lon":102.4176,
+        "pop":59916
+    },
+    {
+        "id":1732700,
+        "name":"Simpang Renggam",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Keluang",
+        "lat":1.825,
+        "lon":103.3107,
+        "pop":59033
+    },
+    {
+        "id":1769612,
+        "name":"Kampong Dungun",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"",
+        "lat":3.21667,
+        "lon":101.31667,
+        "pop":58674
+    },
+    {
+        "id":1744288,
+        "name":"Serian",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Serian",
+        "lat":1.16667,
+        "lon":110.56667,
+        "pop":58059
+    },
+    {
+        "id":1734576,
+        "name":"Simpang Empat",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Kerian",
+        "lat":4.95,
+        "lon":100.63333,
+        "pop":58004
+    },
+    {
+        "id":1732891,
+        "name":"Kuala Selangor",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Kuala Selangor",
+        "lat":3.35,
+        "lon":101.25,
+        "pop":55887
+    },
+    {
+        "id":1770351,
+        "name":"Kampung Bukit Baharu",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Melaka Tengah",
+        "lat":2.2152,
+        "lon":102.2851,
+        "pop":55656
+    },
+    {
+        "id":1735172,
+        "name":"Hulu Langat",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Hulu Langat",
+        "lat":3.1137,
+        "lon":101.8142,
+        "pop":55251
+    },
+    {
+        "id":7302815,
+        "name":"Bandar Labuan",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"",
+        "lat":5.28319,
+        "lon":115.25371,
+        "pop":54752
+    },
+    {
+        "id":1778252,
+        "name":"Bukit Tengah",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"S.P. Tengah",
+        "lat":5.34605,
+        "lon":100.43917,
+        "pop":54416
+    },
+    {
+        "id":13118146,
+        "name":"Pandamaran",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Klang",
+        "lat":3.01083,
+        "lon":101.42081,
+        "pop":53916
+    },
+    {
+        "id":1732738,
+        "name":"Kota Tinggi",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Kota Tinggi",
+        "lat":1.7381,
+        "lon":103.8999,
+        "pop":52743
+    },
+    {
+        "id":1734539,
+        "name":"Bau",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bau",
+        "lat":1.41667,
+        "lon":110.15,
+        "pop":52643
+    },
+    {
+        "id":1734418,
+        "name":"Padang Serai",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kulim",
+        "lat":5.51307,
+        "lon":100.55356,
+        "pop":50757
+    },
+    {
+        "id":12750614,
+        "name":"Kuchai Lama",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.08469,
+        "lon":101.69086,
+        "pop":50000
+    },
+    {
+        "id":12680194,
+        "name":"Taman Melati",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.22124,
+        "lon":101.72324,
+        "pop":50000
+    },
+    {
+        "id":7779082,
+        "name":"Sri Petaling",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.06881,
+        "lon":101.68971,
+        "pop":50000
+    },
+    {
+        "id":6697380,
+        "name":"Putrajaya",
+        "country":"MY",
+        "admin1":"Putrajaya",
+        "admin2":"W.P. Putrajaya",
+        "lat":2.93527,
+        "lon":101.69112,
+        "pop":50000
+    },
+    {
+        "id":1779790,
+        "name":"Bentong Town",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Bentong",
+        "lat":3.52229,
+        "lon":101.90866,
+        "pop":49213
+    },
+    {
+        "id":1734768,
+        "name":"Teluk Panglima Garang",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Kuala Langat",
+        "lat":2.90796,
+        "lon":101.46877,
+        "pop":49155
+    },
+    {
+        "id":1735265,
+        "name":"Sungai Siput",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Daerah Kinta",
+        "lat":4.3945,
+        "lon":101.1947,
+        "pop":49000
+    },
+    {
+        "id":1737247,
+        "name":"Niah",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Miri",
+        "lat":3.86203,
+        "lon":113.71521,
+        "pop":48875
+    },
+    {
+        "id":12535033,
+        "name":"Bandar Sri Damansara",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Petaling",
+        "lat":3.1903,
+        "lon":101.61061,
+        "pop":48556
+    },
+    {
+        "id":1734781,
+        "name":"Banting",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Kuala Langat",
+        "lat":2.8136,
+        "lon":101.50185,
+        "pop":48240
+    },
+    {
+        "id":1734439,
+        "name":"Bedong",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kuala Muda",
+        "lat":5.72743,
+        "lon":100.50876,
+        "pop":47585
+    },
+    {
+        "id":1735799,
+        "name":"Sri Aman",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Sri Aman",
+        "lat":1.24722,
+        "lon":111.45278,
+        "pop":47313
+    },
+    {
+        "id":1735268,
+        "name":"Batu Gajah",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Daerah Kinta",
+        "lat":4.46916,
+        "lon":101.04107,
+        "pop":46183
+    },
+    {
+        "id":1734797,
+        "name":"Bangi",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Hulu Langat",
+        "lat":2.9,
+        "lon":101.78333,
+        "pop":45042
+    },
+    {
+        "id":12622018,
+        "name":"Elmina",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Petaling",
+        "lat":3.18523,
+        "lon":101.52461,
+        "pop":45000
+    },
+    {
+        "id":7619709,
+        "name":"Taman Permas Jaya",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.511,
+        "lon":103.8198,
+        "pop":45000
+    },
+    {
+        "id":7566098,
+        "name":"Kampung Perak",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Daerah Jerantut",
+        "lat":3.8682,
+        "lon":102.5862,
+        "pop":44964
+    },
+    {
+        "id":1734407,
+        "name":"Bandar Baharu",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Bandar Baharu",
+        "lat":5.13428,
+        "lon":100.49549,
+        "pop":44412
+    },
+    {
+        "id":1735837,
+        "name":"Sarikei",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Sarikei",
+        "lat":2.11667,
+        "lon":111.51667,
+        "pop":44039
+    },
+    {
+        "id":1734748,
+        "name":"Durian Tunggal",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Alor Gajah",
+        "lat":2.3125,
+        "lon":102.2805,
+        "pop":42185
+    },
+    {
+        "id":1735018,
+        "name":"Mentakab",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Temerluh",
+        "lat":3.4854,
+        "lon":102.3484,
+        "pop":42171
+    },
+    {
+        "id":1734883,
+        "name":"Rompin",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Jempol",
+        "lat":2.7083,
+        "lon":102.5047,
+        "pop":41931
+    },
+    {
+        "id":12648574,
+        "name":"Taman Greenwood",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Gombak",
+        "lat":3.23208,
+        "lon":101.70484,
+        "pop":41699
+    },
+    {
+        "id":1732710,
+        "name":"Pontian Besar",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Pontian",
+        "lat":1.5059,
+        "lon":103.3816,
+        "pop":40613
+    },
+    {
+        "id":1732667,
+        "name":"Bentung",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Bentong",
+        "lat":3.5316,
+        "lon":101.9038,
+        "pop":40373
+    },
+    {
+        "id":1735086,
+        "name":"Nibong Tebal",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Seberang Perai Selatan",
+        "lat":5.16586,
+        "lon":100.47793,
+        "pop":40072
+    },
+    {
+        "id":1732663,
+        "name":"Raub",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Raub",
+        "lat":3.7899,
+        "lon":101.857,
+        "pop":40024
+    },
+    {
+        "id":13118095,
+        "name":"Taman Sri Sinar",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.1868,
+        "lon":101.65085,
+        "pop":40000
+    },
+    {
+        "id":13117827,
+        "name":"Bandar Tun Hussein Onn",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Hulu Langat",
+        "lat":3.05469,
+        "lon":101.75939,
+        "pop":40000
+    },
+    {
+        "id":12750575,
+        "name":"Bangsar",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.12945,
+        "lon":101.67004,
+        "pop":40000
+    },
+    {
+        "id":1778385,
+        "name":"Bukit Gambir",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Ledang",
+        "lat":2.211,
+        "lon":102.6546,
+        "pop":40000
+    },
+    {
+        "id":1766249,
+        "name":"Kampong Pangkal Kalong",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Kota Bharu",
+        "lat":5.91667,
+        "lon":102.21667,
+        "pop":39904
+    },
+    {
+        "id":1735450,
+        "name":"Lumut",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Manjung (Dinding)",
+        "lat":4.2323,
+        "lon":100.6298,
+        "pop":39595
+    },
+    {
+        "id":1734599,
+        "name":"Kuala Kangsar",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Daerah Kuala Kangsar",
+        "lat":4.76667,
+        "lon":100.93333,
+        "pop":39331
+    },
+    {
+        "id":1733868,
+        "name":"Sipitang",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Sipitang",
+        "lat":5.07903,
+        "lon":115.54964,
+        "pop":39300
+    },
+    {
+        "id":13118193,
+        "name":"Bandar Country Homes",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Gombak",
+        "lat":3.32752,
+        "lon":101.53106,
+        "pop":39000
+    },
+    {
+        "id":12746683,
+        "name":"Kampung Setia",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Gombak",
+        "lat":3.24177,
+        "lon":101.53296,
+        "pop":38870
+    },
+    {
+        "id":1761242,
+        "name":"Klebang Besar",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Melaka Tengah",
+        "lat":2.2186,
+        "lon":102.1995,
+        "pop":38643
+    },
+    {
+        "id":1771287,
+        "name":"Kampung Baharu Nilai",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Seremban",
+        "lat":2.8033,
+        "lon":101.7972,
+        "pop":38612
+    },
+    {
+        "id":1734594,
+        "name":"Padang Rengas",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Daerah Kuala Kangsar",
+        "lat":4.76667,
+        "lon":100.85,
+        "pop":38294
+    },
+    {
+        "id":6807244,
+        "name":"Kampung Alor Mengkudu",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.08838,
+        "lon":100.39167,
+        "pop":38193
+    },
+    {
+        "id":1737714,
+        "name":"Limbang",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Limbang",
+        "lat":4.75477,
+        "lon":115.01011,
+        "pop":38093
+    },
+    {
+        "id":1734753,
+        "name":"Kampung Ayer Keroh",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Melaka Tengah",
+        "lat":2.2654,
+        "lon":102.2801,
+        "pop":37716
+    },
+    {
+        "id":12750574,
+        "name":"Taman Tun Dr Ismail",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.14506,
+        "lon":101.62617,
+        "pop":37500
+    },
+    {
+        "id":1772983,
+        "name":"Jawi",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Seberang Perai Selatan",
+        "lat":5.21525,
+        "lon":100.49211,
+        "pop":36601
+    },
+    {
+        "id":1736902,
+        "name":"Betong",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Betong",
+        "lat":1.4,
+        "lon":111.51667,
+        "pop":36303
+    },
+    {
+        "id":1734577,
+        "name":"Kamunting",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Larut Matang & Selama",
+        "lat":4.88333,
+        "lon":100.73333,
+        "pop":36243
+    },
+    {
+        "id":13118086,
+        "name":"Petagas",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Putatan",
+        "lat":5.91161,
+        "lon":116.04991,
+        "pop":35844
+    },
+    {
+        "id":1732857,
+        "name":"Tangkak",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Ledang",
+        "lat":2.2673,
+        "lon":102.5453,
+        "pop":35109
+    },
+    {
+        "id":13118231,
+        "name":"Bukit Kerinchi",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.10628,
+        "lon":101.66761,
+        "pop":35000
+    },
+    {
+        "id":13118197,
+        "name":"Alam Damai",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.06028,
+        "lon":101.7408,
+        "pop":35000
+    },
+    {
+        "id":13118085,
+        "name":"Sibu Jaya",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Sibu",
+        "lat":2.24026,
+        "lon":111.97135,
+        "pop":35000
+    },
+    {
+        "id":12625525,
+        "name":"Denai Alam",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Petaling",
+        "lat":3.16027,
+        "lon":101.51501,
+        "pop":35000
+    },
+    {
+        "id":1742731,
+        "name":"Sungai Lalang",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kuala Muda",
+        "lat":5.6998,
+        "lon":100.51449,
+        "pop":34947
+    },
+    {
+        "id":1734399,
+        "name":"Selama",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Kampar",
+        "lat":5.2236,
+        "lon":100.69262,
+        "pop":34800
+    },
+    {
+        "id":1734308,
+        "name":"Dungun",
+        "country":"MY",
+        "admin1":"Terengganu",
+        "admin2":"Dungun",
+        "lat":4.775,
+        "lon":103.4162,
+        "pop":34767
+    },
+    {
+        "id":1732602,
+        "name":"Jerantut",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Daerah Jerantut",
+        "lat":3.936,
+        "lon":102.3626,
+        "pop":33606
+    },
+    {
+        "id":1735339,
+        "name":"Mukah",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Mukah",
+        "lat":2.89435,
+        "lon":112.09145,
+        "pop":33478
+    },
+    {
+        "id":1732858,
+        "name":"Gerisek",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Ledang",
+        "lat":2.2097,
+        "lon":102.7095,
+        "pop":33217
+    },
+    {
+        "id":1737185,
+        "name":"Kapit",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Kapit",
+        "lat":1.99546,
+        "lon":112.93254,
+        "pop":33014
+    },
+    {
+        "id":1732927,
+        "name":"Sungkai",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Batang Padang",
+        "lat":4.0,
+        "lon":101.31667,
+        "pop":32700
+    },
+    {
+        "id":6805124,
+        "name":"Sik",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Sik",
+        "lat":5.83333,
+        "lon":100.75,
+        "pop":32565
+    },
+    {
+        "id":1736458,
+        "name":"Kudat",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"",
+        "lat":6.88732,
+        "lon":116.82364,
+        "pop":32393
+    },
+    {
+        "id":7620470,
+        "name":"Kawasan Penempatan Ulu Benut Lima",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Keluang",
+        "lat":1.7439,
+        "lon":103.3207,
+        "pop":32226
+    },
+    {
+        "id":7620439,
+        "name":"Kawasan Penempatan Ulu Benut Tiga",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Pontian",
+        "lat":1.7497,
+        "lon":103.277,
+        "pop":32226
+    },
+    {
+        "id":7620438,
+        "name":"Kawasan Penempatan Ulu Sungai Benut",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Keluang",
+        "lat":1.7541,
+        "lon":103.2798,
+        "pop":32226
+    },
+    {
+        "id":7798288,
+        "name":"Taman Pelangi",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Segamat",
+        "lat":2.428,
+        "lon":102.6801,
+        "pop":32000
+    },
+    {
+        "id":1768286,
+        "name":"Kampung Kerubong",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Melaka Tengah",
+        "lat":2.2958,
+        "lon":102.2537,
+        "pop":31936
+    },
+    {
+        "id":1735404,
+        "name":"Tatau",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Tatau",
+        "lat":2.88333,
+        "lon":112.85,
+        "pop":31920
+    },
+    {
+        "id":1734971,
+        "name":"Pekan",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Pekan",
+        "lat":3.4836,
+        "lon":103.3996,
+        "pop":31826
+    },
+    {
+        "id":1734114,
+        "name":"Bandar Nabawan",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Nabawan",
+        "lat":5.0393,
+        "lon":116.4274,
+        "pop":31807
+    },
+    {
+        "id":1734839,
+        "name":"Bahau",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Jempol",
+        "lat":2.8079,
+        "lon":102.4049,
+        "pop":31273
+    },
+    {
+        "id":1735092,
+        "name":"Kuala Kurau",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Kerian",
+        "lat":5.01821,
+        "lon":100.42824,
+        "pop":31065
+    },
+    {
+        "id":7797211,
+        "name":"Taman Seremban Jaya",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Seremban",
+        "lat":2.6831,
+        "lon":101.97,
+        "pop":31016
+    },
+    {
+        "id":1734372,
+        "name":"Gerik",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Ulu Perak",
+        "lat":5.41667,
+        "lon":101.13333,
+        "pop":30868
+    },
+    {
+        "id":1734637,
+        "name":"Lahat",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Daerah Kinta",
+        "lat":4.5388,
+        "lon":101.0365,
+        "pop":30694
+    },
+    {
+        "id":12750571,
+        "name":"Mont Kiara",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.16866,
+        "lon":101.65076,
+        "pop":30643
+    },
+    {
+        "id":1734626,
+        "name":"Chemor",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Daerah Kinta",
+        "lat":4.7211,
+        "lon":101.1189,
+        "pop":30461
+    },
+    {
+        "id":1732871,
+        "name":"Bakri",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Muar",
+        "lat":2.0441,
+        "lon":102.6527,
+        "pop":30280
+    },
+    {
+        "id":1222396,
+        "name":"Kuah",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Langkawi",
+        "lat":6.32649,
+        "lon":99.8432,
+        "pop":30212
+    },
+    {
+        "id":1735287,
+        "name":"Bidur",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Batang Padang",
+        "lat":4.11667,
+        "lon":101.28333,
+        "pop":30016
+    },
+    {
+        "id":13118271,
+        "name":"Taman Scientex",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.51219,
+        "lon":103.9166,
+        "pop":30000
+    },
+    {
+        "id":7858022,
+        "name":"Taman Universiti",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.5331,
+        "lon":103.6155,
+        "pop":30000
+    },
+    {
+        "id":1736314,
+        "name":"Tokai",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Pendang",
+        "lat":6.02867,
+        "lon":100.40691,
+        "pop":30000
+    },
+    {
+        "id":1734885,
+        "name":"Gemas",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Tampin",
+        "lat":2.5832,
+        "lon":102.6117,
+        "pop":29777
+    },
+    {
+        "id":1737489,
+        "name":"Sebauh",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Bintulu",
+        "lat":3.11667,
+        "lon":113.26667,
+        "pop":29606
+    },
+    {
+        "id":1734854,
+        "name":"Rembau",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Rembau",
+        "lat":2.5897,
+        "lon":102.0913,
+        "pop":29595
+    },
+    {
+        "id":1733468,
+        "name":"Tambunan",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Tambunan",
+        "lat":5.71667,
+        "lon":116.4,
+        "pop":29294
+    },
+    {
+        "id":1767021,
+        "name":"Kampong Masjid Tanah",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Alor Gajah",
+        "lat":2.35,
+        "lon":102.11667,
+        "pop":29185
+    },
+    {
+        "id":1735553,
+        "name":"Tanah Merah",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Tanah Merah",
+        "lat":5.8,
+        "lon":102.15,
+        "pop":29116
+    },
+    {
+        "id":1737936,
+        "name":"Beluru",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Marudi",
+        "lat":3.98333,
+        "lon":114.1,
+        "pop":28695
+    },
+    {
+        "id":1735188,
+        "name":"Hutan Melintang",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Hilir Perak",
+        "lat":3.8766,
+        "lon":100.9328,
+        "pop":28357
+    },
+    {
+        "id":1734738,
+        "name":"Tampin",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Tampin",
+        "lat":2.4701,
+        "lon":102.2302,
+        "pop":28238
+    },
+    {
+        "id":1738412,
+        "name":"Ulu Kelang",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Gombak",
+        "lat":3.18,
+        "lon":101.773,
+        "pop":28222
+    },
+    {
+        "id":1742815,
+        "name":"Sungai Dua",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Seberang Perai Utara",
+        "lat":5.44266,
+        "lon":100.42972,
+        "pop":28100
+    },
+    {
+        "id":1735282,
+        "name":"Tapah Road",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Batang Padang",
+        "lat":4.16667,
+        "lon":101.2,
+        "pop":27863
+    },
+    {
+        "id":1735089,
+        "name":"Parit Buntar",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Kerian",
+        "lat":5.12671,
+        "lon":100.49316,
+        "pop":27313
+    },
+    {
+        "id":1734506,
+        "name":"Siburan",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Kuching",
+        "lat":1.36667,
+        "lon":110.4,
+        "pop":27286
+    },
+    {
+        "id":1759378,
+        "name":"Kubang Semang",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"S.P. Tengah",
+        "lat":5.40375,
+        "lon":100.45745,
+        "pop":27194
+    },
+    {
+        "id":1750500,
+        "name":"Permatang Kuching",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Seberang Perai Utara",
+        "lat":5.46339,
+        "lon":100.38144,
+        "pop":27191
+    },
+    {
+        "id":1732814,
+        "name":"Yong Peng",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Batu Pahat",
+        "lat":2.0136,
+        "lon":103.0659,
+        "pop":27138
+    },
+    {
+        "id":1735199,
+        "name":"Sungai Besar",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Sabak Bernam",
+        "lat":3.6746,
+        "lon":100.9867,
+        "pop":26939
+    },
+    {
+        "id":1737012,
+        "name":"Lundu",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Lundu",
+        "lat":1.67439,
+        "lon":109.85171,
+        "pop":26372
+    },
+    {
+        "id":13118149,
+        "name":"Bandar Sri Sendayan",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Seremban",
+        "lat":2.67375,
+        "lon":101.8721,
+        "pop":26127
+    },
+    {
+        "id":1734757,
+        "name":"Sungai Udang",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Melaka Tengah",
+        "lat":2.269,
+        "lon":102.1427,
+        "pop":26044
+    },
+    {
+        "id":1737589,
+        "name":"Lawas",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Lawas",
+        "lat":4.8604,
+        "lon":115.409,
+        "pop":26002
+    },
+    {
+        "id":12750572,
+        "name":"Taman OUG",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.07292,
+        "lon":101.6763,
+        "pop":25989
+    },
+    {
+        "id":1732915,
+        "name":"Cangkat Jong",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Hilir Perak",
+        "lat":3.9851,
+        "lon":101.1237,
+        "pop":25618
+    },
+    {
+        "id":13118198,
+        "name":"SS2",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.12036,
+        "lon":101.62246,
+        "pop":25500
+    },
+    {
+        "id":1734537,
+        "name":"Tebedu",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Serian",
+        "lat":1.02656,
+        "lon":110.36331,
+        "pop":25232
+    },
+    {
+        "id":1780890,
+        "name":"Batu Berendam",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Melaka Tengah",
+        "lat":2.2487,
+        "lon":102.246,
+        "pop":25028
+    },
+    {
+        "id":13118381,
+        "name":"Taman Desa",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.10591,
+        "lon":101.68683,
+        "pop":25000
+    },
+    {
+        "id":11429145,
+        "name":"Bandar Puncak Alam",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Kuala Selangor",
+        "lat":3.2389,
+        "lon":101.42793,
+        "pop":25000
+    },
+    {
+        "id":1734793,
+        "name":"Jenjarum",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Kuala Langat",
+        "lat":2.8724,
+        "lon":101.49484,
+        "pop":24857
+    },
+    {
+        "id":7858028,
+        "name":"Kampung Jelutong Tengah",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.4714,
+        "lon":103.5675,
+        "pop":24765
+    },
+    {
+        "id":1736973,
+        "name":"Kanowit",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Kanowit",
+        "lat":2.1,
+        "lon":112.15,
+        "pop":24700
+    },
+    {
+        "id":1734316,
+        "name":"Kertih",
+        "country":"MY",
+        "admin1":"Terengganu",
+        "admin2":"Kemaman",
+        "lat":4.5141,
+        "lon":103.4483,
+        "pop":24401
+    },
+    {
+        "id":1733376,
+        "name":"Kuala Penyu",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Kuala Penyu",
+        "lat":5.5714,
+        "lon":115.5984,
+        "pop":24200
+    },
+    {
+        "id":1735096,
+        "name":"Balik Pulau",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Barat Daya",
+        "lat":5.34916,
+        "lon":100.23938,
+        "pop":23559
+    },
+    {
+        "id":1750974,
+        "name":"Ladang Seri Kundang",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Gombak",
+        "lat":3.2856,
+        "lon":101.519,
+        "pop":23307
+    },
+    {
+        "id":1732706,
+        "name":"Pekan Nenas",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Pontian",
+        "lat":1.51,
+        "lon":103.5141,
+        "pop":23292
+    },
+    {
+        "id":1750582,
+        "name":"Peringat",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Kota Bharu",
+        "lat":6.03333,
+        "lon":102.28333,
+        "pop":23288
+    },
+    {
+        "id":7697762,
+        "name":"Bandar Tun Razak",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Daerha Rompin",
+        "lat":2.9029,
+        "lon":102.8877,
+        "pop":23247
+    },
+    {
+        "id":1763378,
+        "name":"Kampung Tanjung Minyak",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Melaka Tengah",
+        "lat":2.2666,
+        "lon":102.2004,
+        "pop":23074
+    },
+    {
+        "id":1735681,
+        "name":"Simunjan",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Simunjan",
+        "lat":1.38333,
+        "lon":110.75,
+        "pop":23011
+    },
+    {
+        "id":1778262,
+        "name":"Bukit Tambun",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Seberang Perai Selatan",
+        "lat":5.27179,
+        "lon":100.4601,
+        "pop":22900
+    },
+    {
+        "id":1732893,
+        "name":"Batu Arang",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Gombak",
+        "lat":3.31667,
+        "lon":101.46667,
+        "pop":22579
+    },
+    {
+        "id":1732734,
+        "name":"Kampung Sedenak",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Kulaijaya",
+        "lat":1.7114,
+        "lon":103.5276,
+        "pop":22535
+    },
+    {
+        "id":1737314,
+        "name":"Belaga",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Belaga",
+        "lat":2.7,
+        "lon":113.78333,
+        "pop":22502
+    },
+    {
+        "id":1741562,
+        "name":"Tanjung Sepat",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Kuala Langat",
+        "lat":2.6579,
+        "lon":101.5629,
+        "pop":22340
+    },
+    {
+        "id":1734579,
+        "name":"Batu Kurau",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Larut Matang & Selama",
+        "lat":4.96667,
+        "lon":100.8,
+        "pop":22307
+    },
+    {
+        "id":1732826,
+        "name":"Mersing",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Mersing",
+        "lat":2.4312,
+        "lon":103.8405,
+        "pop":22007
+    },
+    {
+        "id":1734881,
+        "name":"Batu Anam",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Segamat",
+        "lat":2.5825,
+        "lon":102.711,
+        "pop":21923
+    },
+    {
+        "id":1732877,
+        "name":"Labis",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Segamat",
+        "lat":2.385,
+        "lon":103.021,
+        "pop":21906
+    },
+    {
+        "id":1780841,
+        "name":"Kampung Batu Empat",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Kota Tinggi",
+        "lat":1.776,
+        "lon":103.8736,
+        "pop":21898
+    },
+    {
+        "id":13118276,
+        "name":"Bandar Baru Salak Tinggi",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Sepang",
+        "lat":2.81232,
+        "lon":101.73562,
+        "pop":21534
+    },
+    {
+        "id":1887985,
+        "name":"Kampung Teluk Kumbar",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Barat Daya",
+        "lat":5.289,
+        "lon":100.247,
+        "pop":21481
+    },
+    {
+        "id":1734715,
+        "name":"Marang",
+        "country":"MY",
+        "admin1":"Terengganu",
+        "admin2":"Marang",
+        "lat":5.2056,
+        "lon":103.2059,
+        "pop":21410
+    },
+    {
+        "id":1759486,
+        "name":"Kuang",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Gombak",
+        "lat":3.2594,
+        "lon":101.5541,
+        "pop":21185
+    },
+    {
+        "id":1736929,
+        "name":"Dalat",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Dalat",
+        "lat":2.66667,
+        "lon":112.08333,
+        "pop":21147
+    },
+    {
+        "id":1734313,
+        "name":"Paka",
+        "country":"MY",
+        "admin1":"Terengganu",
+        "admin2":"Dungun",
+        "lat":4.6374,
+        "lon":103.4368,
+        "pop":21044
+    },
+    {
+        "id":1734409,
+        "name":"Bagan Serai",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Kerian",
+        "lat":5.0108,
+        "lon":100.54101,
+        "pop":20476
+    },
+    {
+        "id":1735147,
+        "name":"Hulu Yam Lama",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Hulu Selangor",
+        "lat":3.4537,
+        "lon":101.6413,
+        "pop":20334
+    },
+    {
+        "id":1735851,
+        "name":"Maradong",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Meradong",
+        "lat":2.08333,
+        "lon":111.61667,
+        "pop":20299
+    },
+    {
+        "id":1734745,
+        "name":"Alor Gajah",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Alor Gajah",
+        "lat":2.3804,
+        "lon":102.2089,
+        "pop":20163
+    },
+    {
+        "id":13118055,
+        "name":"Bukit Beruntung",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Hulu Selangor",
+        "lat":3.41558,
+        "lon":101.55709,
+        "pop":20023
+    },
+    {
+        "id":1732892,
+        "name":"Batang Berjuntai",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Kuala Selangor",
+        "lat":3.38333,
+        "lon":101.41667,
+        "pop":20001
+    },
+    {
+        "id":13118230,
+        "name":"Desa Petaling",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.08385,
+        "lon":101.70895,
+        "pop":20000
+    },
+    {
+        "id":12625526,
+        "name":"Tropicana Indah",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Petaling",
+        "lat":3.14165,
+        "lon":101.59089,
+        "pop":20000
+    },
+    {
+        "id":6819209,
+        "name":"Kampung Hutan Arau",
+        "country":"MY",
+        "admin1":"Perlis",
+        "admin2":"Perlis",
+        "lat":6.42942,
+        "lon":100.28174,
+        "pop":20000
+    },
+    {
+        "id":1764685,
+        "name":"Kampung Selang",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Muar",
+        "lat":2.35,
+        "lon":102.876,
+        "pop":20000
+    },
+    {
+        "id":1735074,
+        "name":"Batu Feringgi",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Daerah Timur Laut",
+        "lat":5.4709,
+        "lon":100.24529,
+        "pop":20000
+    },
+    {
+        "id":1734769,
+        "name":"Pelabuhan Klang",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Klang",
+        "lat":2.99959,
+        "lon":101.39287,
+        "pop":20000
+    },
+    {
+        "id":12547009,
+        "name":"Selangau",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Selangau",
+        "lat":2.52477,
+        "lon":112.32543,
+        "pop":19844
+    },
+    {
+        "id":13118270,
+        "name":"Bandar Putra Kulai",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Kulaijaya",
+        "lat":1.64958,
+        "lon":103.62661,
+        "pop":19793
+    },
+    {
+        "id":1734651,
+        "name":"Gua Musang",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Gua Musang",
+        "lat":4.88441,
+        "lon":101.96857,
+        "pop":19731
+    },
+    {
+        "id":12750607,
+        "name":"Seminyih",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Hulu Langat",
+        "lat":2.94761,
+        "lon":101.84695,
+        "pop":19724
+    },
+    {
+        "id":1736338,
+        "name":"Pokok Sena",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Pokok Sena",
+        "lat":6.17055,
+        "lon":100.51885,
+        "pop":19677
+    },
+    {
+        "id":13118223,
+        "name":"Sungai Jawi",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Seberang Perai Selatan",
+        "lat":5.19779,
+        "lon":100.49244,
+        "pop":19586
+    },
+    {
+        "id":1734841,
+        "name":"Kuala Pilah",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Kuala Pilah",
+        "lat":2.7389,
+        "lon":102.2487,
+        "pop":19510
+    },
+    {
+        "id":1736781,
+        "name":"Daro",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Daro",
+        "lat":2.51667,
+        "lon":111.43333,
+        "pop":19477
+    },
+    {
+        "id":1766795,
+        "name":"Kampung Minyak Beku",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Batu Pahat",
+        "lat":1.7954,
+        "lon":102.8971,
+        "pop":19374
+    },
+    {
+        "id":1735069,
+        "name":"Kampung Teluk Air Tawar",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Seberang Perai Utara",
+        "lat":5.48333,
+        "lon":100.38333,
+        "pop":19371
+    },
+    {
+        "id":1733502,
+        "name":"Ranau",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Ranau",
+        "lat":5.9538,
+        "lon":116.6641,
+        "pop":19294
+    },
+    {
+        "id":1733353,
+        "name":"Papar",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Papar",
+        "lat":5.73333,
+        "lon":115.93333,
+        "pop":19278
+    },
+    {
+        "id":1768664,
+        "name":"Kampong Kadok",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Kota Bharu",
+        "lat":6.0,
+        "lon":102.25,
+        "pop":19233
+    },
+    {
+        "id":1736305,
+        "name":"Kuala Kedah",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.1,
+        "lon":100.3,
+        "pop":19231
+    },
+    {
+        "id":1759564,
+        "name":"Kuala Ketil",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Baling",
+        "lat":5.6,
+        "lon":100.65,
+        "pop":19209
+    },
+    {
+        "id":1769827,
+        "name":"Kampung Cheng",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Melaka Tengah",
+        "lat":2.2635,
+        "lon":102.2179,
+        "pop":19158
+    },
+    {
+        "id":1734445,
+        "name":"Pulai",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Baling",
+        "lat":5.65489,
+        "lon":100.89541,
+        "pop":19093
+    },
+    {
+        "id":1735274,
+        "name":"Kampar",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Daerah Kinta",
+        "lat":4.3,
+        "lon":101.15,
+        "pop":19056
+    },
+    {
+        "id":1736760,
+        "name":"Saratok",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Saratok",
+        "lat":1.73333,
+        "lon":111.33333,
+        "pop":19009
+    },
+    {
+        "id":6804851,
+        "name":"Kampung Baru Ulu Melaka",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Langkawi",
+        "lat":6.35196,
+        "lon":99.78791,
+        "pop":18898
+    },
+    {
+        "id":1736284,
+        "name":"Changloon",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kubang Pasu",
+        "lat":6.43422,
+        "lon":100.43133,
+        "pop":18872
+    },
+    {
+        "id":1734444,
+        "name":"Kampung Kupang",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Baling",
+        "lat":5.63638,
+        "lon":100.84517,
+        "pop":18844
+    },
+    {
+        "id":13118269,
+        "name":"Horizon Hills",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.45768,
+        "lon":103.64554,
+        "pop":18800
+    },
+    {
+        "id":1748731,
+        "name":"Relau",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Daerah Timur Laut",
+        "lat":5.33096,
+        "lon":100.28296,
+        "pop":18755
+    },
+    {
+        "id":6833189,
+        "name":"Glugor",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Daerah Timur Laut",
+        "lat":5.37215,
+        "lon":100.30708,
+        "pop":18662
+    },
+    {
+        "id":1734762,
+        "name":"Merlimau",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Jasin",
+        "lat":2.1449,
+        "lon":102.4251,
+        "pop":18632
+    },
+    {
+        "id":1744508,
+        "name":"Seputeh",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.11667,
+        "lon":101.68333,
+        "pop":18605
+    },
+    {
+        "id":13118274,
+        "name":"FELDA Chini",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Pekan",
+        "lat":3.37457,
+        "lon":102.94343,
+        "pop":18493
+    },
+    {
+        "id":1734389,
+        "name":"Lunas",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kulim",
+        "lat":5.43058,
+        "lon":100.53012,
+        "pop":18236
+    },
+    {
+        "id":6847278,
+        "name":"Teloi Kanan",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Baling",
+        "lat":5.71681,
+        "lon":100.65819,
+        "pop":17972
+    },
+    {
+        "id":1734464,
+        "name":"Kampung Jeli",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Jeli",
+        "lat":5.7,
+        "lon":101.83333,
+        "pop":17734
+    },
+    {
+        "id":1764318,
+        "name":"Kampung Simpang Renggam",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Keluang",
+        "lat":1.8278,
+        "lon":103.3,
+        "pop":17528
+    },
+    {
+        "id":1732698,
+        "name":"Parit Raja",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Batu Pahat",
+        "lat":1.8681,
+        "lon":103.1124,
+        "pop":17441
+    },
+    {
+        "id":1778290,
+        "name":"Bukit Rambai",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Melaka Tengah",
+        "lat":2.2594,
+        "lon":102.1838,
+        "pop":17391
+    },
+    {
+        "id":12750617,
+        "name":"Bukit Gemuroh",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Barat Daya",
+        "lat":5.29775,
+        "lon":100.21147,
+        "pop":17379
+    },
+    {
+        "id":1735506,
+        "name":"Kepala Batas",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Seberang Perai Utara",
+        "lat":5.51707,
+        "lon":100.4265,
+        "pop":17131
+    },
+    {
+        "id":1779395,
+        "name":"Kampung Bertam Ulu",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Melaka Tengah",
+        "lat":2.2898,
+        "lon":102.1928,
+        "pop":17119
+    },
+    {
+        "id":1736366,
+        "name":"Wakaf Baharu",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Tumpat",
+        "lat":6.11667,
+        "lon":102.2,
+        "pop":17033
+    },
+    {
+        "id":1782366,
+        "name":"Ayer Itam",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Daerah Timur Laut",
+        "lat":5.40158,
+        "lon":100.27815,
+        "pop":16974
+    },
+    {
+        "id":1734721,
+        "name":"Kampung Teluk Kemang",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Port Dickson",
+        "lat":2.46146,
+        "lon":101.85951,
+        "pop":16672
+    },
+    {
+        "id":1771606,
+        "name":"Anak Bukit",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.184,
+        "lon":100.37752,
+        "pop":16525
+    },
+    {
+        "id":12746672,
+        "name":"Desa Parkcity",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.18611,
+        "lon":101.62875,
+        "pop":16500
+    },
+    {
+        "id":1756720,
+        "name":"Lukut",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Port Dickson",
+        "lat":2.5703,
+        "lon":101.833,
+        "pop":16450
+    },
+    {
+        "id":1763412,
+        "name":"Kampung Tanjung Karang",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Kuala Selangor",
+        "lat":3.4242,
+        "lon":101.1849,
+        "pop":16393
+    },
+    {
+        "id":1752256,
+        "name":"Pantai Remis",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Manjung (Dinding)",
+        "lat":4.4557,
+        "lon":100.6288,
+        "pop":16317
+    },
+    {
+        "id":1753004,
+        "name":"Padang Besar",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kubang Pasu",
+        "lat":6.38333,
+        "lon":100.3,
+        "pop":16235
+    },
+    {
+        "id":1767194,
+        "name":"Kampung Machap Baru",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Alor Gajah",
+        "lat":2.3829,
+        "lon":102.3311,
+        "pop":16000
+    },
+    {
+        "id":1735485,
+        "name":"Gurun",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kuala Muda",
+        "lat":5.81717,
+        "lon":100.47381,
+        "pop":15964
+    },
+    {
+        "id":1733874,
+        "name":"Beaufort",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Beaufort",
+        "lat":5.3473,
+        "lon":115.7455,
+        "pop":15855
+    },
+    {
+        "id":1733449,
+        "name":"Kinarut",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Papar",
+        "lat":5.8231,
+        "lon":116.0466,
+        "pop":15716
+    },
+    {
+        "id":1771485,
+        "name":"Kampung Ayer Molek",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Melaka Tengah",
+        "lat":2.2139,
+        "lon":102.3278,
+        "pop":15497
+    },
+    {
+        "id":1732785,
+        "name":"Pengerang",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Kota Tinggi",
+        "lat":1.3651,
+        "lon":104.1118,
+        "pop":15494
+    },
+    {
+        "id":1735963,
+        "name":"Pakan",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Pakan",
+        "lat":1.88333,
+        "lon":111.68333,
+        "pop":15462
+    },
+    {
+        "id":1733023,
+        "name":"Kuala Lipis",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Lipis",
+        "lat":4.1842,
+        "lon":102.0468,
+        "pop":15448
+    },
+    {
+        "id":1735889,
+        "name":"Julau",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Julau",
+        "lat":2.01667,
+        "lon":111.91667,
+        "pop":15333
+    },
+    {
+        "id":7614200,
+        "name":"Bandar Tenggara",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Kota Tinggi",
+        "lat":1.87,
+        "lon":103.6158,
+        "pop":15278
+    },
+    {
+        "id":1736870,
+        "name":"Engkilili",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Sri Aman",
+        "lat":1.13864,
+        "lon":111.66665,
+        "pop":15031
+    },
+    {
+        "id":11002069,
+        "name":"Pantai Cenang",
+        "country":"MY",
+        "admin1":"Perlis",
+        "admin2":"",
+        "lat":6.29369,
+        "lon":99.72786,
+        "pop":15000
+    },
+    {
+        "id":7697167,
+        "name":"Muadzam Shah",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Pekan",
+        "lat":3.0627,
+        "lon":103.0892,
+        "pop":15000
+    },
+    {
+        "id":1749805,
+        "name":"Pudu",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.13333,
+        "lon":101.71667,
+        "pop":15000
+    },
+    {
+        "id":11184859,
+        "name":"Seri Iskandar",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Perak Tengah",
+        "lat":4.35993,
+        "lon":100.98491,
+        "pop":14827
+    },
+    {
+        "id":1735518,
+        "name":"Keruh",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Ulu Perak",
+        "lat":5.71667,
+        "lon":101.0,
+        "pop":14661
+    },
+    {
+        "id":1735546,
+        "name":"Cherang Ruku",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"",
+        "lat":5.87062,
+        "lon":102.49479,
+        "pop":14656
+    },
+    {
+        "id":1734897,
+        "name":"Padang Endau",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Mersing",
+        "lat":2.65568,
+        "lon":103.61504,
+        "pop":14517
+    },
+    {
+        "id":1736123,
+        "name":"Kampung Chuping",
+        "country":"MY",
+        "admin1":"Perlis",
+        "admin2":"Perlis",
+        "lat":6.5013,
+        "lon":100.25576,
+        "pop":14428
+    },
+    {
+        "id":1779926,
+        "name":"Bemban",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Jasin",
+        "lat":2.2684,
+        "lon":102.3746,
+        "pop":14329
+    },
+    {
+        "id":1736722,
+        "name":"Pusa",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Betong",
+        "lat":1.58333,
+        "lon":111.25,
+        "pop":14273
+    },
+    {
+        "id":6826913,
+        "name":"Tanjung Bungah",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Daerah Timur Laut",
+        "lat":5.46491,
+        "lon":100.28165,
+        "pop":14271
+    },
+    {
+        "id":1736363,
+        "name":"Pengkalan Chepa",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Kota Bharu",
+        "lat":6.17471,
+        "lon":102.28802,
+        "pop":14000
+    },
+    {
+        "id":1736292,
+        "name":"Kuala Perlis",
+        "country":"MY",
+        "admin1":"Perlis",
+        "admin2":"Perlis",
+        "lat":6.4,
+        "lon":100.13333,
+        "pop":13917
+    },
+    {
+        "id":1742667,
+        "name":"Sungai Pelek New Village",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Sepang",
+        "lat":2.65,
+        "lon":101.7,
+        "pop":13829
+    },
+    {
+        "id":1774217,
+        "name":"Guar Chempedak",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Yan",
+        "lat":5.85846,
+        "lon":100.45928,
+        "pop":13781
+    },
+    {
+        "id":1735179,
+        "name":"Bagan Datuk",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Hilir Perak",
+        "lat":3.9899,
+        "lon":100.7819,
+        "pop":13700
+    },
+    {
+        "id":1735090,
+        "name":"Bagan Tiang",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Kerian",
+        "lat":5.11667,
+        "lon":100.41667,
+        "pop":13538
+    },
+    {
+        "id":1736405,
+        "name":"Jertih",
+        "country":"MY",
+        "admin1":"Terengganu",
+        "admin2":"Besut",
+        "lat":5.7336,
+        "lon":102.4897,
+        "pop":13526
+    },
+    {
+        "id":1736108,
+        "name":"Kampung Titi Tinggi",
+        "country":"MY",
+        "admin1":"Perlis",
+        "admin2":"Perlis",
+        "lat":6.63726,
+        "lon":100.26271,
+        "pop":13403
+    },
+    {
+        "id":1732699,
+        "name":"Layang Layang",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Keluang",
+        "lat":1.8154,
+        "lon":103.4784,
+        "pop":13374
+    },
+    {
+        "id":13118220,
+        "name":"Sungai Koyan",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Lipis",
+        "lat":4.21864,
+        "lon":101.8015,
+        "pop":13356
+    },
+    {
+        "id":1736834,
+        "name":"Matu",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Matu",
+        "lat":2.68333,
+        "lon":111.53333,
+        "pop":13327
+    },
+    {
+        "id":1735258,
+        "name":"Mambang Di Awan",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Daerah Kinta",
+        "lat":4.26667,
+        "lon":101.15,
+        "pop":13300
+    },
+    {
+        "id":1761293,
+        "name":"Kelapa Sawit",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Kulaijaya",
+        "lat":1.6698,
+        "lon":103.5327,
+        "pop":13239
+    },
+    {
+        "id":1732938,
+        "name":"Sekinchan",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Sabak Bernam",
+        "lat":3.5074,
+        "lon":101.1041,
+        "pop":13226
+    },
+    {
+        "id":1734559,
+        "name":"Sebuyau",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Simunjan",
+        "lat":1.51667,
+        "lon":110.93333,
+        "pop":13200
+    },
+    {
+        "id":1734879,
+        "name":"Buloh Kasap",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Segamat",
+        "lat":2.5536,
+        "lon":102.764,
+        "pop":13088
+    },
+    {
+        "id":1734803,
+        "name":"Lenggeng",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Seremban",
+        "lat":2.8558,
+        "lon":101.9424,
+        "pop":13081
+    },
+    {
+        "id":1768334,
+        "name":"Kampong Datuk Keramat",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.16667,
+        "lon":101.73333,
+        "pop":13061
+    },
+    {
+        "id":1772389,
+        "name":"Jinjang",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.20881,
+        "lon":101.65623,
+        "pop":13000
+    },
+    {
+        "id":1732682,
+        "name":"Tongkang Pechah",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Batu Pahat",
+        "lat":1.9203,
+        "lon":102.9561,
+        "pop":13000
+    },
+    {
+        "id":1736326,
+        "name":"Sintok",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kubang Pasu",
+        "lat":6.44233,
+        "lon":100.5235,
+        "pop":12942
+    },
+    {
+        "id":13118253,
+        "name":"Bandar Laguna Merbok",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kuala Muda",
+        "lat":5.68919,
+        "lon":100.49622,
+        "pop":12940
+    },
+    {
+        "id":1766841,
+        "name":"Kampong Merbok",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kuala Muda",
+        "lat":5.71667,
+        "lon":100.41667,
+        "pop":12940
+    },
+    {
+        "id":1736660,
+        "name":"Kota Belud",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Kota Belud",
+        "lat":6.351,
+        "lon":116.4305,
+        "pop":12825
+    },
+    {
+        "id":13118054,
+        "name":"Kota Samarahan",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Samarahan",
+        "lat":1.46031,
+        "lon":110.48821,
+        "pop":12724
+    },
+    {
+        "id":1767492,
+        "name":"Lenggong",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Ulu Perak",
+        "lat":5.10633,
+        "lon":100.96792,
+        "pop":12722
+    },
+    {
+        "id":1732805,
+        "name":"Paloh",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Keluang",
+        "lat":2.1904,
+        "lon":103.1963,
+        "pop":12677
+    },
+    {
+        "id":1741550,
+        "name":"Tanjung Tokong",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Daerah Timur Laut",
+        "lat":5.46061,
+        "lon":100.30742,
+        "pop":12550
+    },
+    {
+        "id":1736303,
+        "name":"Kepala Batas",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.20411,
+        "lon":100.40754,
+        "pop":12397
+    },
+    {
+        "id":1735133,
+        "name":"Kampung Bukit Tinggi, Bentong",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Bentong",
+        "lat":3.34944,
+        "lon":101.82631,
+        "pop":12346
+    },
+    {
+        "id":1736356,
+        "name":"Tumpat",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Tumpat",
+        "lat":6.19775,
+        "lon":102.17098,
+        "pop":12280
+    },
+    {
+        "id":1759513,
+        "name":"Kuala Sungai Baru",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Alor Gajah",
+        "lat":2.3594,
+        "lon":102.0353,
+        "pop":12269
+    },
+    {
+        "id":1772148,
+        "name":"Juru",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"S.P. Tengah",
+        "lat":5.31201,
+        "lon":100.44229,
+        "pop":12265
+    },
+    {
+        "id":1771266,
+        "name":"Kampong Bakai",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Baling",
+        "lat":5.53333,
+        "lon":100.73333,
+        "pop":12235
+    },
+    {
+        "id":1734860,
+        "name":"Gemencheh",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Tampin",
+        "lat":2.5331,
+        "lon":102.3989,
+        "pop":12175
+    },
+    {
+        "id":13118194,
+        "name":"Proton City",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Batang Padang",
+        "lat":3.74287,
+        "lon":101.5352,
+        "pop":12009
+    },
+    {
+        "id":13118278,
+        "name":"Brickfields",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.12966,
+        "lon":101.68424,
+        "pop":12000
+    },
+    {
+        "id":12524224,
+        "name":"Bandar 16 Sierra",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Sepang",
+        "lat":2.97135,
+        "lon":101.65464,
+        "pop":12000
+    },
+    {
+        "id":1732704,
+        "name":"Rengit",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Batu Pahat",
+        "lat":1.6807,
+        "lon":103.1478,
+        "pop":12000
+    },
+    {
+        "id":1749659,
+        "name":"Pulau Sebang",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Alor Gajah",
+        "lat":2.455,
+        "lon":102.2329,
+        "pop":11879
+    },
+    {
+        "id":1732884,
+        "name":"Chaah",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Segamat",
+        "lat":2.249,
+        "lon":103.048,
+        "pop":11844
+    },
+    {
+        "id":1768201,
+        "name":"Kobang",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"",
+        "lat":4.44188,
+        "lon":118.69287,
+        "pop":11682
+    },
+    {
+        "id":13117900,
+        "name":"Bandar Baru Enstek",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Seremban",
+        "lat":2.75106,
+        "lon":101.76544,
+        "pop":11591
+    },
+    {
+        "id":1780777,
+        "name":"Batu Kawan",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Seberang Perai Selatan",
+        "lat":5.25822,
+        "lon":100.42876,
+        "pop":11409
+    },
+    {
+        "id":1736633,
+        "name":"Kampung Kundassang",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Ranau",
+        "lat":5.9824,
+        "lon":116.5712,
+        "pop":11251
+    },
+    {
+        "id":1768739,
+        "name":"Kampung Jerlun",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kubang Pasu",
+        "lat":6.21392,
+        "lon":100.26581,
+        "pop":11094
+    },
+    {
+        "id":1736716,
+        "name":"Spaoh",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Betong",
+        "lat":1.5,
+        "lon":111.5,
+        "pop":11063
+    },
+    {
+        "id":13118150,
+        "name":"Bandar Springhill",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Port Dickson",
+        "lat":2.60127,
+        "lon":101.86408,
+        "pop":11000
+    },
+    {
+        "id":1734755,
+        "name":"Ayer Molek",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Melaka Tengah",
+        "lat":2.2028,
+        "lon":102.3172,
+        "pop":10792
+    },
+    {
+        "id":1742906,
+        "name":"Sungai Sumun",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Hilir Perak",
+        "lat":3.8915,
+        "lon":100.8532,
+        "pop":10781
+    },
+    {
+        "id":1763410,
+        "name":"Kampung Tanjung Keling",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Melaka Tengah",
+        "lat":2.2267,
+        "lon":102.1716,
+        "pop":10552
+    },
+    {
+        "id":1734914,
+        "name":"Kuala Rompin",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Daerha Rompin",
+        "lat":2.81667,
+        "lon":103.48333,
+        "pop":10417
+    },
+    {
+        "id":13117901,
+        "name":"Bandar Baru Ayer Itam",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Daerah Timur Laut",
+        "lat":5.38907,
+        "lon":100.28177,
+        "pop":10290
+    },
+    {
+        "id":13118087,
+        "name":"Kinabatangan",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Kinabatangan",
+        "lat":5.58602,
+        "lon":117.85083,
+        "pop":10256
+    },
+    {
+        "id":1734346,
+        "name":"Kampung Kuala Balah",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Jeli",
+        "lat":5.41667,
+        "lon":101.91667,
+        "pop":10198
+    },
+    {
+        "id":1887974,
+        "name":"Penaga",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Seberang Perai Utara",
+        "lat":5.52719,
+        "lon":100.3841,
+        "pop":10138
+    },
+    {
+        "id":12750573,
+        "name":"Taman Ikan Emas",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.11619,
+        "lon":101.7202,
+        "pop":10046
+    },
+    {
+        "id":1734760,
+        "name":"Teluk Mas",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Melaka Tengah",
+        "lat":2.1654,
+        "lon":102.322,
+        "pop":10028
+    },
+    {
+        "id":13118370,
+        "name":"Mutiara Damansara",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.15724,
+        "lon":101.60822,
+        "pop":10000
+    },
+    {
+        "id":8714611,
+        "name":"Taman Rajawali",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Bahagian Sandakan",
+        "lat":5.89477,
+        "lon":118.04576,
+        "pop":10000
+    },
+    {
+        "id":7698858,
+        "name":"Bandar Penawar",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Kota Tinggi",
+        "lat":1.5513,
+        "lon":104.226,
+        "pop":10000
+    },
+    {
+        "id":1740836,
+        "name":"Telaga Batu",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"",
+        "lat":5.46667,
+        "lon":100.23333,
+        "pop":10000
+    },
+    {
+        "id":1735447,
+        "name":"Pangkor",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Manjung (Dinding)",
+        "lat":4.2134,
+        "lon":100.5747,
+        "pop":10000
+    },
+    {
+        "id":1732681,
+        "name":"Parit Jawa",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Muar",
+        "lat":1.9577,
+        "lon":102.6401,
+        "pop":10000
+    },
+    {
+        "id":1222391,
+        "name":"Ayer Hangat",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Langkawi",
+        "lat":6.42062,
+        "lon":99.82199,
+        "pop":10000
+    },
+    {
+        "id":1222387,
+        "name":"Padang Mat Sirat",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Langkawi",
+        "lat":6.35423,
+        "lon":99.73404,
+        "pop":10000
+    },
+    {
+        "id":13118094,
+        "name":"Ketengah Jaya",
+        "country":"MY",
+        "admin1":"Terengganu",
+        "admin2":"Dungun",
+        "lat":4.57218,
+        "lon":103.31879,
+        "pop":9993
+    },
+    {
+        "id":1737184,
+        "name":"Song",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Song",
+        "lat":2.01667,
+        "lon":112.55,
+        "pop":9961
+    },
+    {
+        "id":1735753,
+        "name":"Pantu",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Sri Aman",
+        "lat":1.13968,
+        "lon":111.11771,
+        "pop":9852
+    },
+    {
+        "id":1738403,
+        "name":"Ulu Kinta",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"",
+        "lat":4.66667,
+        "lon":101.21667,
+        "pop":9799
+    },
+    {
+        "id":1736868,
+        "name":"Lubok Antu",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Lubok Antu",
+        "lat":1.04186,
+        "lon":111.83398,
+        "pop":9542
+    },
+    {
+        "id":1763649,
+        "name":"Kampong Tajar",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Pokok Sena",
+        "lat":6.1,
+        "lon":100.41667,
+        "pop":9441
+    },
+    {
+        "id":1764281,
+        "name":"Kampung Siong",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Baling",
+        "lat":5.78863,
+        "lon":100.90862,
+        "pop":9413
+    },
+    {
+        "id":1735011,
+        "name":"Karak",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Bentong",
+        "lat":3.4,
+        "lon":102.03333,
+        "pop":9362
+    },
+    {
+        "id":1734607,
+        "name":"Beruas",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Manjung (Dinding)",
+        "lat":4.5,
+        "lon":100.78333,
+        "pop":9268
+    },
+    {
+        "id":6807283,
+        "name":"Gunong",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.19011,
+        "lon":100.34135,
+        "pop":9200
+    },
+    {
+        "id":6807291,
+        "name":"Simpang Empat",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.02674,
+        "lon":100.39603,
+        "pop":9149
+    },
+    {
+        "id":1735082,
+        "name":"Simpang Empat",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Seberang Perai Selatan",
+        "lat":5.2818,
+        "lon":100.47768,
+        "pop":9149
+    },
+    {
+        "id":1781996,
+        "name":"Bagan Datoh",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Hilir Perak",
+        "lat":3.98333,
+        "lon":100.78333,
+        "pop":9046
+    },
+    {
+        "id":13118147,
+        "name":"Bandar Parklands",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Klang",
+        "lat":2.97457,
+        "lon":101.45721,
+        "pop":9000
+    },
+    {
+        "id":1734761,
+        "name":"Kampung Umbai",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Jasin",
+        "lat":2.1586,
+        "lon":102.3475,
+        "pop":8989
+    },
+    {
+        "id":12640280,
+        "name":"Laman Permai",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Petaling",
+        "lat":3.17374,
+        "lon":101.54204,
+        "pop":8800
+    },
+    {
+        "id":1735406,
+        "name":"Balingian",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Mukah",
+        "lat":2.93057,
+        "lon":112.54135,
+        "pop":8797
+    },
+    {
+        "id":6805130,
+        "name":"Kampung Sok",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Sik",
+        "lat":5.77361,
+        "lon":100.73051,
+        "pop":8781
+    },
+    {
+        "id":1736509,
+        "name":"Bandau",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Kota Marudu",
+        "lat":6.5205,
+        "lon":116.7534,
+        "pop":8716
+    },
+    {
+        "id":1735195,
+        "name":"Sabak Bernam",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Sabak Bernam",
+        "lat":3.7698,
+        "lon":100.9879,
+        "pop":8696
+    },
+    {
+        "id":13118148,
+        "name":"Bandar Botanic",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Klang",
+        "lat":2.98794,
+        "lon":101.43966,
+        "pop":8670
+    },
+    {
+        "id":7857897,
+        "name":"Pekan Serkat",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Pontian",
+        "lat":1.3033,
+        "lon":103.4894,
+        "pop":8668
+    },
+    {
+        "id":1763251,
+        "name":"Kampung Tawar Besar",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Baling",
+        "lat":5.55658,
+        "lon":100.81204,
+        "pop":8642
+    },
+    {
+        "id":1771419,
+        "name":"Kampung Bagan",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Batu Pahat",
+        "lat":1.8481,
+        "lon":102.8588,
+        "pop":8506
+    },
+    {
+        "id":12808700,
+        "name":"Seremban 3",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Seremban",
+        "lat":2.67361,
+        "lon":101.93111,
+        "pop":8403
+    },
+    {
+        "id":1735091,
+        "name":"Tanjung Piandang",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Kerian",
+        "lat":5.07236,
+        "lon":100.38105,
+        "pop":8352
+    },
+    {
+        "id":7793958,
+        "name":"Kampung Teh",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Daerah Jerantut",
+        "lat":3.9607,
+        "lon":102.347,
+        "pop":8350
+    },
+    {
+        "id":6847549,
+        "name":"Tikam Batu",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kuala Muda",
+        "lat":5.58718,
+        "lon":100.44018,
+        "pop":8323
+    },
+    {
+        "id":1734727,
+        "name":"Pasir Panjang",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Port Dickson",
+        "lat":2.4322,
+        "lon":101.9352,
+        "pop":8249
+    },
+    {
+        "id":1735263,
+        "name":"Ringlet",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Cameron Highlands",
+        "lat":4.4155,
+        "lon":101.3836,
+        "pop":8242
+    },
+    {
+        "id":1764319,
+        "name":"Kampung Simpang Pulai",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Ulu Perak",
+        "lat":5.71057,
+        "lon":100.99651,
+        "pop":8102
+    },
+    {
+        "id":1780034,
+        "name":"Pantai Belimbing",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Alor Gajah",
+        "lat":2.3436,
+        "lon":102.2567,
+        "pop":8056
+    },
+    {
+        "id":1735881,
+        "name":"Binatang",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Meradong",
+        "lat":2.16667,
+        "lon":111.63333,
+        "pop":7912
+    },
+    {
+        "id":1736734,
+        "name":"Debak",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Betong",
+        "lat":1.56667,
+        "lon":111.41667,
+        "pop":7907
+    },
+    {
+        "id":1736331,
+        "name":"Kuala Nerang",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Padang Terap",
+        "lat":6.25844,
+        "lon":100.61264,
+        "pop":7802
+    },
+    {
+        "id":1765357,
+        "name":"Kampung Pondok Upih",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Barat Daya",
+        "lat":5.33733,
+        "lon":100.23247,
+        "pop":7679
+    },
+    {
+        "id":7697699,
+        "name":"Dengkil",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Sepang",
+        "lat":2.86,
+        "lon":101.6806,
+        "pop":7672
+    },
+    {
+        "id":1732902,
+        "name":"Meru",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Klang",
+        "lat":3.13622,
+        "lon":101.4394,
+        "pop":7404
+    },
+    {
+        "id":1771665,
+        "name":"Alor Merah",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.16667,
+        "lon":100.38333,
+        "pop":7273
+    },
+    {
+        "id":1774382,
+        "name":"Glenmarie Estate",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Petaling",
+        "lat":3.08333,
+        "lon":101.58333,
+        "pop":7265
+    },
+    {
+        "id":1765613,
+        "name":"Kampung Pering",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kubang Pasu",
+        "lat":6.37598,
+        "lon":100.33644,
+        "pop":7227
+    },
+    {
+        "id":1737015,
+        "name":"Sematan",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Lundu",
+        "lat":1.8,
+        "lon":109.76667,
+        "pop":7107
+    },
+    {
+        "id":1735262,
+        "name":"Tanah Rata",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Cameron Highlands",
+        "lat":4.46361,
+        "lon":101.3763,
+        "pop":7000
+    },
+    {
+        "id":1737694,
+        "name":"Nanga Medamit",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Limbang",
+        "lat":4.46667,
+        "lon":114.91667,
+        "pop":6968
+    },
+    {
+        "id":1734575,
+        "name":"Kampung Cangkat Jering",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Larut Matang & Selama",
+        "lat":4.78333,
+        "lon":100.71667,
+        "pop":6936
+    },
+    {
+        "id":1737628,
+        "name":"Sundar",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Lawas",
+        "lat":4.9,
+        "lon":115.2,
+        "pop":6806
+    },
+    {
+        "id":1744366,
+        "name":"Serdang",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"",
+        "lat":5.20372,
+        "lon":100.62476,
+        "pop":6793
+    },
+    {
+        "id":1735434,
+        "name":"Pusing",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Daerah Kinta",
+        "lat":4.4941,
+        "lon":101.0079,
+        "pop":6780
+    },
+    {
+        "id":1732696,
+        "name":"Ayer Hitam",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Batu Pahat",
+        "lat":1.915,
+        "lon":103.1808,
+        "pop":6745
+    },
+    {
+        "id":6805029,
+        "name":"Kampung Batu Lima",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Sik",
+        "lat":5.79345,
+        "lon":100.68937,
+        "pop":6739
+    },
+    {
+        "id":13118084,
+        "name":"Felda Gugusan Adela",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Kota Tinggi",
+        "lat":1.47877,
+        "lon":104.17744,
+        "pop":6736
+    },
+    {
+        "id":1736718,
+        "name":"Roban",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Saratok",
+        "lat":1.91667,
+        "lon":111.33333,
+        "pop":6722
+    },
+    {
+        "id":6695755,
+        "name":"Templer Bestari",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Gombak",
+        "lat":3.29111,
+        "lon":101.63802,
+        "pop":6300
+    },
+    {
+        "id":1732931,
+        "name":"Slim River",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Batang Padang",
+        "lat":3.83333,
+        "lon":101.4,
+        "pop":6297
+    },
+    {
+        "id":1732664,
+        "name":"Teras",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Raub",
+        "lat":3.742,
+        "lon":101.8112,
+        "pop":6266
+    },
+    {
+        "id":7857580,
+        "name":"Kemajuan Tanah Lok Heng Barat",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"",
+        "lat":1.7225,
+        "lon":104.0913,
+        "pop":6262
+    },
+    {
+        "id":1734749,
+        "name":"Rembia",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Alor Gajah",
+        "lat":2.328,
+        "lon":102.2101,
+        "pop":6217
+    },
+    {
+        "id":1732910,
+        "name":"Gedangsa",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Hulu Selangor",
+        "lat":3.73333,
+        "lon":101.4,
+        "pop":6150
+    },
+    {
+        "id":1765323,
+        "name":"Kampung Pulai",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Baling",
+        "lat":5.65838,
+        "lon":100.89172,
+        "pop":6129
+    },
+    {
+        "id":1732812,
+        "name":"Niyor",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Keluang",
+        "lat":2.0945,
+        "lon":103.2807,
+        "pop":6092
+    },
+    {
+        "id":13118195,
+        "name":"FELDA Soeharto",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Hulu Selangor",
+        "lat":3.67963,
+        "lon":101.39261,
+        "pop":6060
+    },
+    {
+        "id":7650956,
+        "name":"Kemajuan Tanah Bukit Goh",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Kuantan",
+        "lat":3.9128,
+        "lon":103.2572,
+        "pop":6053
+    },
+    {
+        "id":1736316,
+        "name":"Kangkong",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.0005,
+        "lon":100.34463,
+        "pop":6034
+    },
+    {
+        "id":1736827,
+        "name":"Oya",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Dalat",
+        "lat":2.86667,
+        "lon":111.88333,
+        "pop":6027
+    },
+    {
+        "id":13118089,
+        "name":"Kampung Olak Lempit",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Kuala Langat",
+        "lat":2.83558,
+        "lon":101.59472,
+        "pop":6020
+    },
+    {
+        "id":8306753,
+        "name":"Kemayan",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Bera",
+        "lat":3.1364,
+        "lon":102.362,
+        "pop":5977
+    },
+    {
+        "id":1736308,
+        "name":"Langgar",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Pokok Sena",
+        "lat":6.14762,
+        "lon":100.43238,
+        "pop":5872
+    },
+    {
+        "id":1737957,
+        "name":"Long Lama",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Marudi",
+        "lat":3.76667,
+        "lon":114.4,
+        "pop":5870
+    },
+    {
+        "id":7622196,
+        "name":"Bandar Al-Muktafi Billah Shah",
+        "country":"MY",
+        "admin1":"Terengganu",
+        "admin2":"Dungun",
+        "lat":4.6111,
+        "lon":103.2092,
+        "pop":5853
+    },
+    {
+        "id":12750602,
+        "name":"Eco Sanctuary",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Kuala Langat",
+        "lat":2.93703,
+        "lon":101.53527,
+        "pop":5827
+    },
+    {
+        "id":13100481,
+        "name":"Kampung Wakaf Stan",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Kota Bharu",
+        "lat":6.07985,
+        "lon":102.28969,
+        "pop":5823
+    },
+    {
+        "id":1769120,
+        "name":"Kampong Gunong",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Jeli",
+        "lat":5.71667,
+        "lon":101.75,
+        "pop":5800
+    },
+    {
+        "id":1742741,
+        "name":"Sungai Kob",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kulim",
+        "lat":5.42998,
+        "lon":100.64484,
+        "pop":5777
+    },
+    {
+        "id":1735533,
+        "name":"Melor",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Kota Bharu",
+        "lat":5.96561,
+        "lon":102.29422,
+        "pop":5777
+    },
+    {
+        "id":1778409,
+        "name":"Machap",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Alor Gajah",
+        "lat":2.3862,
+        "lon":102.2907,
+        "pop":5770
+    },
+    {
+        "id":1771469,
+        "name":"Kampung Ayer Puteh",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Bandar Baharu",
+        "lat":5.18223,
+        "lon":100.60191,
+        "pop":5724
+    },
+    {
+        "id":1764366,
+        "name":"Kampong Sijangkang",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Kuala Langat",
+        "lat":2.94048,
+        "lon":101.46367,
+        "pop":5723
+    },
+    {
+        "id":13118227,
+        "name":"FELDA Maokil",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Muar",
+        "lat":2.29562,
+        "lon":102.96786,
+        "pop":5630
+    },
+    {
+        "id":1733366,
+        "name":"Bongawan",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Papar",
+        "lat":5.53333,
+        "lon":115.85,
+        "pop":5594
+    },
+    {
+        "id":1766686,
+        "name":"Kampung Naga Lilit",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kulim",
+        "lat":5.47646,
+        "lon":100.55087,
+        "pop":5547
+    },
+    {
+        "id":1734833,
+        "name":"Titi",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Jelebu",
+        "lat":2.9983,
+        "lon":102.0765,
+        "pop":5533
+    },
+    {
+        "id":12750653,
+        "name":"Chaah Bahru",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Batu Pahat",
+        "lat":2.09934,
+        "lon":103.02219,
+        "pop":5509
+    },
+    {
+        "id":1763436,
+        "name":"Kampong Tanjong Chat",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Kota Bharu",
+        "lat":6.15,
+        "lon":102.25,
+        "pop":5462
+    },
+    {
+        "id":1735154,
+        "name":"Batu Tiga",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Petaling",
+        "lat":3.078,
+        "lon":101.547,
+        "pop":5419
+    },
+    {
+        "id":1763240,
+        "name":"Tebengau",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.04603,
+        "lon":100.33137,
+        "pop":5415
+    },
+    {
+        "id":6875842,
+        "name":"Bagan Samak",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Bandar Baharu",
+        "lat":5.0895,
+        "lon":100.56191,
+        "pop":5391
+    },
+    {
+        "id":1765718,
+        "name":"Pengkalan Kundor",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.07794,
+        "lon":100.36038,
+        "pop":5328
+    },
+    {
+        "id":1736754,
+        "name":"Maludam",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Betong",
+        "lat":1.65,
+        "lon":111.03333,
+        "pop":5284
+    },
+    {
+        "id":1766484,
+        "name":"Kampung Padang Lalang",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.16368,
+        "lon":100.3099,
+        "pop":5216
+    },
+    {
+        "id":1736097,
+        "name":"Kampung Oran",
+        "country":"MY",
+        "admin1":"Perlis",
+        "admin2":"Perlis",
+        "lat":6.46529,
+        "lon":100.24558,
+        "pop":5210
+    },
+    {
+        "id":12750576,
+        "name":"Bukit Damansara",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.15045,
+        "lon":101.65483,
+        "pop":5161
+    },
+    {
+        "id":1733885,
+        "name":"Tenom",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Tenom District",
+        "lat":5.11922,
+        "lon":115.93719,
+        "pop":5148
+    },
+    {
+        "id":1743587,
+        "name":"Simpang",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Larut Matang & Selama",
+        "lat":4.81667,
+        "lon":100.7,
+        "pop":5132
+    },
+    {
+        "id":7796279,
+        "name":"Kemajuan Tanah Rentam",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Bera",
+        "lat":3.2679,
+        "lon":102.6228,
+        "pop":5110
+    },
+    {
+        "id":1770137,
+        "name":"Bukit Pinang",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Yan",
+        "lat":5.93333,
+        "lon":100.45,
+        "pop":5012
+    },
+    {
+        "id":6804784,
+        "name":"Kampung Kilim",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Langkawi",
+        "lat":6.4055,
+        "lon":99.8502,
+        "pop":5000
+    },
+    {
+        "id":1782571,
+        "name":"Au Long",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Larut Matang & Selama",
+        "lat":4.85,
+        "lon":100.71667,
+        "pop":5000
+    },
+    {
+        "id":1763883,
+        "name":"Kampung Sungai Penchala",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.16236,
+        "lon":101.62696,
+        "pop":5000
+    },
+    {
+        "id":1735222,
+        "name":"Sungai Lembing",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Kuantan",
+        "lat":3.9178,
+        "lon":103.0361,
+        "pop":5000
+    },
+    {
+        "id":1736283,
+        "name":"Bukit Kayu Hitam",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kubang Pasu",
+        "lat":6.51668,
+        "lon":100.41893,
+        "pop":4983
+    },
+    {
+        "id":1734804,
+        "name":"Mantin",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Seremban",
+        "lat":2.8243,
+        "lon":101.8949,
+        "pop":4974
+    },
+    {
+        "id":1736287,
+        "name":"Kodiang",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kubang Pasu",
+        "lat":6.39638,
+        "lon":100.30755,
+        "pop":4946
+    },
+    {
+        "id":1736269,
+        "name":"Kampung Asun",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kubang Pasu",
+        "lat":6.33333,
+        "lon":100.33333,
+        "pop":4899
+    },
+    {
+        "id":7795508,
+        "name":"Lurah Bilut",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Bentong",
+        "lat":3.6648,
+        "lon":101.8888,
+        "pop":4721
+    },
+    {
+        "id":6805036,
+        "name":"Kampung Bongor",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Baling",
+        "lat":5.70397,
+        "lon":100.91426,
+        "pop":4646
+    },
+    {
+        "id":1734460,
+        "name":"Kampung Air Lanas",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Jeli",
+        "lat":5.77613,
+        "lon":101.88504,
+        "pop":4645
+    },
+    {
+        "id":7697107,
+        "name":"Kemajuan Tanah Tembangau",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Bera",
+        "lat":3.0321,
+        "lon":102.5228,
+        "pop":4617
+    },
+    {
+        "id":1735476,
+        "name":"Kampung Kuala Muda",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Seberang Perai Utara",
+        "lat":5.5744,
+        "lon":100.33984,
+        "pop":4590
+    },
+    {
+        "id":7796278,
+        "name":"Kemajuan Tanah Tementi",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Bera",
+        "lat":3.2707,
+        "lon":102.6076,
+        "pop":4524
+    },
+    {
+        "id":1766526,
+        "name":"Padang Hang",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.20635,
+        "lon":100.30177,
+        "pop":4506
+    },
+    {
+        "id":12750559,
+        "name":"Kota Sarang Samut",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Yan",
+        "lat":5.94554,
+        "lon":100.36453,
+        "pop":4479
+    },
+    {
+        "id":1735477,
+        "name":"Taman Kota Sarang Semut",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Pendang",
+        "lat":5.97907,
+        "lon":100.39993,
+        "pop":4479
+    },
+    {
+        "id":1769646,
+        "name":"Derga",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.12092,
+        "lon":100.3893,
+        "pop":4449
+    },
+    {
+        "id":1735095,
+        "name":"Kampung Pantai Aceh",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Barat Daya",
+        "lat":5.41569,
+        "lon":100.19585,
+        "pop":4302
+    },
+    {
+        "id":1762598,
+        "name":"Kampong Tok Bali",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"",
+        "lat":5.89174,
+        "lon":102.48356,
+        "pop":4200
+    },
+    {
+        "id":6804974,
+        "name":"Kampung Kok",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Langkawi",
+        "lat":6.36759,
+        "lon":99.68252,
+        "pop":4160
+    },
+    {
+        "id":1764125,
+        "name":"Kampong Sungai Batu",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Bandar Baharu",
+        "lat":5.31764,
+        "lon":100.70043,
+        "pop":4140
+    },
+    {
+        "id":7619698,
+        "name":"Taman Mount Austin",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.5609,
+        "lon":103.782,
+        "pop":4137
+    },
+    {
+        "id":1764258,
+        "name":"Kampung Sirusa",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Port Dickson",
+        "lat":2.4957,
+        "lon":101.8415,
+        "pop":4112
+    },
+    {
+        "id":1737761,
+        "name":"Long Bedian",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Marudi",
+        "lat":3.8,
+        "lon":114.73333,
+        "pop":4107
+    },
+    {
+        "id":1736748,
+        "name":"Budu",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Pakan",
+        "lat":1.76667,
+        "lon":111.5,
+        "pop":4096
+    },
+    {
+        "id":1735756,
+        "name":"Lingga",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Sri Aman",
+        "lat":1.35,
+        "lon":111.16667,
+        "pop":4073
+    },
+    {
+        "id":13118275,
+        "name":"Kota Warisan",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Sepang",
+        "lat":2.82388,
+        "lon":101.69365,
+        "pop":4000
+    },
+    {
+        "id":12750643,
+        "name":"Forest City",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"",
+        "lat":1.33884,
+        "lon":103.58876,
+        "pop":4000
+    },
+    {
+        "id":7857021,
+        "name":"Kangkar Baru",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Batu Pahat",
+        "lat":1.9891,
+        "lon":103.0826,
+        "pop":4000
+    },
+    {
+        "id":1770925,
+        "name":"Kampung Batu Feringgi",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Daerah Timur Laut",
+        "lat":5.46948,
+        "lon":100.24449,
+        "pop":4000
+    },
+    {
+        "id":1766876,
+        "name":"Kampong Menumbok",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Kuala Penyu",
+        "lat":5.30316,
+        "lon":115.36997,
+        "pop":4000
+    },
+    {
+        "id":1735084,
+        "name":"Sungai Bakap",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Seberang Perai Selatan",
+        "lat":5.22231,
+        "lon":100.49541,
+        "pop":4000
+    },
+    {
+        "id":1764913,
+        "name":"Sala Kechik",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":5.98425,
+        "lon":100.34923,
+        "pop":3991
+    },
+    {
+        "id":1763755,
+        "name":"Kampung Sungai Terap",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kulim",
+        "lat":5.29352,
+        "lon":100.6283,
+        "pop":3975
+    },
+    {
+        "id":1734718,
+        "name":"Ajil",
+        "country":"MY",
+        "admin1":"Terengganu",
+        "admin2":"Hulu Terengganu",
+        "lat":5.0829,
+        "lon":103.0857,
+        "pop":3925
+    },
+    {
+        "id":7698020,
+        "name":"Taman Sepang Putra",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Sepang",
+        "lat":2.623,
+        "lon":101.7027,
+        "pop":3900
+    },
+    {
+        "id":1737585,
+        "name":"Trusan",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Lawas",
+        "lat":4.7849,
+        "lon":115.2728,
+        "pop":3796
+    },
+    {
+        "id":1771283,
+        "name":"Kampung Baharu Paroi",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Seremban",
+        "lat":2.7241,
+        "lon":102.0007,
+        "pop":3782
+    },
+    {
+        "id":1732883,
+        "name":"Bekok",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Segamat",
+        "lat":2.2972,
+        "lon":103.1302,
+        "pop":3761
+    },
+    {
+        "id":1773536,
+        "name":"Inanam",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Kota Kinabalu",
+        "lat":5.9922,
+        "lon":116.1321,
+        "pop":3604
+    },
+    {
+        "id":1781114,
+        "name":"Batang Kali",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Hulu Selangor",
+        "lat":3.4684,
+        "lon":101.6389,
+        "pop":3601
+    },
+    {
+        "id":12750605,
+        "name":"Batu Itam",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Barat Daya",
+        "lat":5.39513,
+        "lon":100.21659,
+        "pop":3574
+    },
+    {
+        "id":6823210,
+        "name":"Batu Hitam",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Barat Daya",
+        "lat":5.38961,
+        "lon":100.23262,
+        "pop":3574
+    },
+    {
+        "id":1767276,
+        "name":"Kampung Lubok Merbau",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Padang Terap",
+        "lat":6.01961,
+        "lon":100.72932,
+        "pop":3463
+    },
+    {
+        "id":1763732,
+        "name":"Kampung Sungai Udang Besar",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Seberang Perai Selatan",
+        "lat":5.16129,
+        "lon":100.42677,
+        "pop":3426
+    },
+    {
+        "id":1769833,
+        "name":"Kampong Chenderong Balai",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Hilir Perak",
+        "lat":4.13333,
+        "lon":101.08333,
+        "pop":3400
+    },
+    {
+        "id":12746838,
+        "name":"Assam Jawa",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Kuala Selangor",
+        "lat":3.30126,
+        "lon":101.28754,
+        "pop":3380
+    },
+    {
+        "id":1763158,
+        "name":"Telaga Mas",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Pokok Sena",
+        "lat":6.16667,
+        "lon":100.46667,
+        "pop":3367
+    },
+    {
+        "id":1765376,
+        "name":"Lepai",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.08333,
+        "lon":100.36667,
+        "pop":3362
+    },
+    {
+        "id":8379299,
+        "name":"Data Kakus",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Tatau",
+        "lat":2.65465,
+        "lon":113.62249,
+        "pop":3350
+    },
+    {
+        "id":1732675,
+        "name":"Kerling",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Hulu Selangor",
+        "lat":3.5908,
+        "lon":101.6024,
+        "pop":3309
+    },
+    {
+        "id":1734800,
+        "name":"Kuala Klawang",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Jelebu",
+        "lat":2.9395,
+        "lon":102.0704,
+        "pop":3300
+    },
+    {
+        "id":1769741,
+        "name":"Kampung Chui Chak",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Hilir Perak",
+        "lat":4.0453,
+        "lon":101.1715,
+        "pop":3272
+    },
+    {
+        "id":7854731,
+        "name":"Kemajuan Tanah Chemplak",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Segamat",
+        "lat":2.38,
+        "lon":102.944,
+        "pop":3208
+    },
+    {
+        "id":1734020,
+        "name":"Beluran",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Beluran",
+        "lat":5.8956,
+        "lon":117.5557,
+        "pop":3132
+    },
+    {
+        "id":1734783,
+        "name":"Morib",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Kuala Langat",
+        "lat":2.7518,
+        "lon":101.44433,
+        "pop":3122
+    },
+    {
+        "id":1735121,
+        "name":"Dabong",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Kuala Krai",
+        "lat":5.37676,
+        "lon":102.00968,
+        "pop":3097
+    },
+    {
+        "id":13118391,
+        "name":"FELDA Taib Andak",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Kulaijaya",
+        "lat":1.7336,
+        "lon":103.64521,
+        "pop":3058
+    },
+    {
+        "id":1782227,
+        "name":"Ayer Tawar",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Manjung (Dinding)",
+        "lat":4.3055,
+        "lon":100.7618,
+        "pop":3050
+    },
+    {
+        "id":1753885,
+        "name":"Nanga Merit",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Kapit",
+        "lat":2.28333,
+        "lon":113.13333,
+        "pop":3016
+    },
+    {
+        "id":6804979,
+        "name":"Kuala Teriang",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Langkawi",
+        "lat":6.36377,
+        "lon":99.71532,
+        "pop":3000
+    },
+    {
+        "id":1777206,
+        "name":"Chenderong",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Daerah Kinta",
+        "lat":4.4091,
+        "lon":101.0495,
+        "pop":3000
+    },
+    {
+        "id":1767716,
+        "name":"Kampung Labohan Dagang",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Kuala Langat",
+        "lat":2.80209,
+        "lon":101.61963,
+        "pop":3000
+    },
+    {
+        "id":1736831,
+        "name":"Igan",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Matu",
+        "lat":2.82281,
+        "lon":111.70794,
+        "pop":2989
+    },
+    {
+        "id":1734188,
+        "name":"Wallace Bay",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Bahagian Tawau",
+        "lat":4.2555,
+        "lon":117.6678,
+        "pop":2987
+    },
+    {
+        "id":7796214,
+        "name":"Kemajuan Tanah Sebertak",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Bera",
+        "lat":3.2562,
+        "lon":102.5975,
+        "pop":2965
+    },
+    {
+        "id":1732689,
+        "name":"Semerah",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Muar",
+        "lat":1.8845,
+        "lon":102.7832,
+        "pop":2945
+    },
+    {
+        "id":6854630,
+        "name":"Selama Kedah",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Bandar Baharu",
+        "lat":5.23242,
+        "lon":100.68284,
+        "pop":2941
+    },
+    {
+        "id":6862363,
+        "name":"Bandar Permaisuri",
+        "country":"MY",
+        "admin1":"Terengganu",
+        "admin2":"Setiu",
+        "lat":5.52241,
+        "lon":102.74854,
+        "pop":2900
+    },
+    {
+        "id":1734408,
+        "name":"Alur Pongsu",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Kerian",
+        "lat":5.03333,
+        "lon":100.58333,
+        "pop":2858
+    },
+    {
+        "id":1734395,
+        "name":"Mahang",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kulim",
+        "lat":5.32511,
+        "lon":100.74866,
+        "pop":2835
+    },
+    {
+        "id":1735828,
+        "name":"Belawai",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Daro",
+        "lat":2.23333,
+        "lon":111.21667,
+        "pop":2823
+    },
+    {
+        "id":1763820,
+        "name":"Kampong Sungai Rusa",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Barat Daya",
+        "lat":5.38333,
+        "lon":100.21667,
+        "pop":2817
+    },
+    {
+        "id":1762286,
+        "name":"Kampung Ulu Tris",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Sepang",
+        "lat":2.6677,
+        "lon":101.6684,
+        "pop":2800
+    },
+    {
+        "id":1769924,
+        "name":"Kampong Chap",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Bachok",
+        "lat":6.05,
+        "lon":102.35,
+        "pop":2780
+    },
+    {
+        "id":7620592,
+        "name":"Kemajuan Tanah Ulu Tebrau",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.6358,
+        "lon":103.756,
+        "pop":2741
+    },
+    {
+        "id":1734728,
+        "name":"Kampung Kuala Linggi",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"",
+        "lat":2.38527,
+        "lon":101.97311,
+        "pop":2738
+    },
+    {
+        "id":1734739,
+        "name":"Kampung Tebong",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Alor Gajah",
+        "lat":2.4382,
+        "lon":102.3269,
+        "pop":2725
+    },
+    {
+        "id":1747706,
+        "name":"Mulu",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Saratok",
+        "lat":1.68333,
+        "lon":111.38333,
+        "pop":2706
+    },
+    {
+        "id":1765106,
+        "name":"Kampung Ramuan China Kechil",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Alor Gajah",
+        "lat":2.4301,
+        "lon":102.075,
+        "pop":2696
+    },
+    {
+        "id":7650953,
+        "name":"Neram Satu",
+        "country":"MY",
+        "admin1":"Terengganu",
+        "admin2":"Kemaman",
+        "lat":4.0129,
+        "lon":103.2766,
+        "pop":2675
+    },
+    {
+        "id":1765725,
+        "name":"Kampung Pengkalan Gelong",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.19346,
+        "lon":100.38304,
+        "pop":2639
+    },
+    {
+        "id":1734736,
+        "name":"Lubok China",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Alor Gajah",
+        "lat":2.4536,
+        "lon":102.0695,
+        "pop":2627
+    },
+    {
+        "id":1732744,
+        "name":"Kampung Kangkar Pulai",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Kulaijaya",
+        "lat":1.5591,
+        "lon":103.5863,
+        "pop":2616
+    },
+    {
+        "id":1738060,
+        "name":"Kuala Baram",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Miri",
+        "lat":4.5855,
+        "lon":113.98974,
+        "pop":2600
+    },
+    {
+        "id":1734639,
+        "name":"Menglembu",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Daerah Kinta",
+        "lat":4.5594,
+        "lon":101.0484,
+        "pop":2600
+    },
+    {
+        "id":1735004,
+        "name":"Bukit Ibam",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Daerha Rompin",
+        "lat":3.1637,
+        "lon":102.9777,
+        "pop":2568
+    },
+    {
+        "id":1740736,
+        "name":"Teluk Bahang",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Barat Daya",
+        "lat":5.45834,
+        "lon":100.21541,
+        "pop":2531
+    },
+    {
+        "id":13118273,
+        "name":"FELDA Semenchu",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Kota Tinggi",
+        "lat":1.56929,
+        "lon":104.09993,
+        "pop":2470
+    },
+    {
+        "id":1759537,
+        "name":"Kuala Pegang",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Baling",
+        "lat":5.63623,
+        "lon":100.80913,
+        "pop":2466
+    },
+    {
+        "id":1765534,
+        "name":"Kampung Permatang Pasir",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Barat Daya",
+        "lat":5.37237,
+        "lon":100.21089,
+        "pop":2439
+    },
+    {
+        "id":1750491,
+        "name":"Permatang Pasir",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"S.P. Tengah",
+        "lat":5.41628,
+        "lon":100.43864,
+        "pop":2439
+    },
+    {
+        "id":13118221,
+        "name":"Padang Tengku",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Lipis",
+        "lat":4.23238,
+        "lon":101.98986,
+        "pop":2432
+    },
+    {
+        "id":1765022,
+        "name":"Kampung Relau",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Bandar Baharu",
+        "lat":5.23126,
+        "lon":100.55593,
+        "pop":2425
+    },
+    {
+        "id":1736773,
+        "name":"Kampung Kuala Matu",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"",
+        "lat":2.71667,
+        "lon":111.46667,
+        "pop":2423
+    },
+    {
+        "id":6893768,
+        "name":"Kampung Kuala Besut",
+        "country":"MY",
+        "admin1":"Terengganu",
+        "admin2":"Besut",
+        "lat":5.83297,
+        "lon":102.55061,
+        "pop":2400
+    },
+    {
+        "id":1736400,
+        "name":"Kuala Besut",
+        "country":"MY",
+        "admin1":"Terengganu",
+        "admin2":"Besut",
+        "lat":5.83303,
+        "lon":102.55514,
+        "pop":2400
+    },
+    {
+        "id":1734402,
+        "name":"Redang Panjang",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Kampar",
+        "lat":5.11667,
+        "lon":100.78333,
+        "pop":2400
+    },
+    {
+        "id":1770256,
+        "name":"Kampung Bukit Jering",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Jeli",
+        "lat":5.47746,
+        "lon":101.90779,
+        "pop":2396
+    },
+    {
+        "id":1736370,
+        "name":"Rantau Panjang",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Pasir Mas",
+        "lat":6.0219,
+        "lon":101.9767,
+        "pop":2364
+    },
+    {
+        "id":12750616,
+        "name":"Taman Naga Emas",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.07775,
+        "lon":101.69758,
+        "pop":2350
+    },
+    {
+        "id":1732656,
+        "name":"Ceruh",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Raub",
+        "lat":3.9042,
+        "lon":101.8132,
+        "pop":2350
+    },
+    {
+        "id":1734582,
+        "name":"Kampung Enggor",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Daerah Kuala Kangsar",
+        "lat":4.82577,
+        "lon":100.97038,
+        "pop":2342
+    },
+    {
+        "id":7857567,
+        "name":"Kemajuan Tanah Bukit Aping Timur",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Kota Tinggi",
+        "lat":1.8348,
+        "lon":104.0212,
+        "pop":2309
+    },
+    {
+        "id":1770315,
+        "name":"Kampung Bukit Bunga",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Tanah Merah",
+        "lat":5.83369,
+        "lon":101.90033,
+        "pop":2300
+    },
+    {
+        "id":13118053,
+        "name":"Gelung Pepuyu",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Perak Tengah",
+        "lat":4.36792,
+        "lon":100.8201,
+        "pop":2285
+    },
+    {
+        "id":1735439,
+        "name":"Kampung Lambor Kanan",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Perak Tengah",
+        "lat":4.2664,
+        "lon":100.9044,
+        "pop":2276
+    },
+    {
+        "id":1742800,
+        "name":"Sungai Durian",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Daerah Kinta",
+        "lat":4.31667,
+        "lon":101.05,
+        "pop":2253
+    },
+    {
+        "id":1766541,
+        "name":"Kampung Padang Cina",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kulim",
+        "lat":5.43809,
+        "lon":100.57905,
+        "pop":2252
+    },
+    {
+        "id":1736268,
+        "name":"Alor Janggus",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.17386,
+        "lon":100.31156,
+        "pop":2243
+    },
+    {
+        "id":8535334,
+        "name":"Kemajuan Tanah Sungai Pancing Utara",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Kuantan",
+        "lat":3.8382,
+        "lon":103.1598,
+        "pop":2234
+    },
+    {
+        "id":1756831,
+        "name":"Lubok Buntar",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Bandar Baharu",
+        "lat":5.14216,
+        "lon":100.58971,
+        "pop":2228
+    },
+    {
+        "id":7796593,
+        "name":"Taman Dusun Setia",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Seremban",
+        "lat":2.7141,
+        "lon":101.9644,
+        "pop":2215
+    },
+    {
+        "id":13117902,
+        "name":"Sungai Chenaam",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Seberang Perai Selatan",
+        "lat":5.14609,
+        "lon":100.4092,
+        "pop":2142
+    },
+    {
+        "id":1732709,
+        "name":"Ayer Baloi",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Pontian",
+        "lat":1.5915,
+        "lon":103.3327,
+        "pop":2062
+    },
+    {
+        "id":7650969,
+        "name":"Kemajuan Tanah Sungai Pancing Timur",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Kuantan",
+        "lat":3.8177,
+        "lon":103.1993,
+        "pop":2030
+    },
+    {
+        "id":7796112,
+        "name":"Kemajuan Tanah Bukit Kepayang",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"",
+        "lat":3.3229,
+        "lon":102.5794,
+        "pop":2019
+    },
+    {
+        "id":1734741,
+        "name":"Nyalas",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Jasin",
+        "lat":2.4338,
+        "lon":102.4714,
+        "pop":2009
+    },
+    {
+        "id":7620531,
+        "name":"Kemajuan Tanah Bukit Besar",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Kota Tinggi",
+        "lat":1.7698,
+        "lon":103.7064,
+        "pop":2000
+    },
+    {
+        "id":1781972,
+        "name":"Bagan Pulau Ketam",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Klang",
+        "lat":3.01667,
+        "lon":101.26667,
+        "pop":2000
+    },
+    {
+        "id":1735118,
+        "name":"Kuala Geris",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Kuala Krai",
+        "lat":5.38333,
+        "lon":102.06667,
+        "pop":2000
+    },
+    {
+        "id":1734949,
+        "name":"Kampung Tekek",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"",
+        "lat":2.8147,
+        "lon":104.1592,
+        "pop":2000
+    },
+    {
+        "id":1736294,
+        "name":"Padang Sira",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kubang Pasu",
+        "lat":6.36211,
+        "lon":100.33954,
+        "pop":1991
+    },
+    {
+        "id":1732702,
+        "name":"Senggarang",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Batu Pahat",
+        "lat":1.7511,
+        "lon":103.0494,
+        "pop":1991
+    },
+    {
+        "id":1767651,
+        "name":"Kampung Lalang",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Baling",
+        "lat":5.79179,
+        "lon":100.89719,
+        "pop":1976
+    },
+    {
+        "id":6823181,
+        "name":"Kampung Sungai Rusa",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Barat Daya",
+        "lat":5.38193,
+        "lon":100.21729,
+        "pop":1919
+    },
+    {
+        "id":1767431,
+        "name":"Limbong",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.13333,
+        "lon":100.41667,
+        "pop":1919
+    },
+    {
+        "id":7857579,
+        "name":"Kemajuan Tanah Bukit Easter",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Kota Tinggi",
+        "lat":1.7486,
+        "lon":104.0777,
+        "pop":1905
+    },
+    {
+        "id":1734830,
+        "name":"Simpang Pertang",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Jelebu",
+        "lat":2.9434,
+        "lon":102.2589,
+        "pop":1890
+    },
+    {
+        "id":13100479,
+        "name":"Bukit Jambul",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Daerah Timur Laut",
+        "lat":5.3337,
+        "lon":100.28996,
+        "pop":1875
+    },
+    {
+        "id":7656074,
+        "name":"FELDA Bukit Damar",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Temerluh",
+        "lat":3.5397,
+        "lon":102.1189,
+        "pop":1875
+    },
+    {
+        "id":13100287,
+        "name":"Mukim Tioman",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Mersing",
+        "lat":2.7825,
+        "lon":104.17,
+        "pop":1874
+    },
+    {
+        "id":1736299,
+        "name":"Kuala Sanglang",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"",
+        "lat":6.26116,
+        "lon":100.19644,
+        "pop":1862
+    },
+    {
+        "id":1762238,
+        "name":"Kampong Wang Tepus",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kubang Pasu",
+        "lat":6.25,
+        "lon":100.48333,
+        "pop":1857
+    },
+    {
+        "id":1735421,
+        "name":"Kampung Gula",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Kerian",
+        "lat":4.93333,
+        "lon":100.46667,
+        "pop":1805
+    },
+    {
+        "id":7638949,
+        "name":"Kampung Sri Jaya",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Raub",
+        "lat":3.8299,
+        "lon":101.9277,
+        "pop":1801
+    },
+    {
+        "id":7662105,
+        "name":"Kemajuan Tanah Sungai Pancing Selatan",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Kuantan",
+        "lat":3.7866,
+        "lon":103.1683,
+        "pop":1800
+    },
+    {
+        "id":1732711,
+        "name":"Pontian Kechil",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Pontian",
+        "lat":1.4866,
+        "lon":103.3896,
+        "pop":1787
+    },
+    {
+        "id":13117826,
+        "name":"Behrang Stesen",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Batang Padang",
+        "lat":3.74438,
+        "lon":101.45125,
+        "pop":1754
+    },
+    {
+        "id":1770325,
+        "name":"Kampung Bukit Beruang",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Melaka Tengah",
+        "lat":2.2414,
+        "lon":102.2792,
+        "pop":1746
+    },
+    {
+        "id":1732863,
+        "name":"Bandar Sungai Mati",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Ledang",
+        "lat":2.1467,
+        "lon":102.5655,
+        "pop":1737
+    },
+    {
+        "id":1762628,
+        "name":"Titi Gajah",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.20189,
+        "lon":100.39326,
+        "pop":1727
+    },
+    {
+        "id":1771005,
+        "name":"Kampung Batang Melaka Ulu",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Jasin",
+        "lat":2.4591,
+        "lon":102.4139,
+        "pop":1692
+    },
+    {
+        "id":7795548,
+        "name":"Kampung Gedung Siam",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Kuantan",
+        "lat":3.6942,
+        "lon":102.9635,
+        "pop":1658
+    },
+    {
+        "id":7857577,
+        "name":"Kemajuan Tanah Simpang Waha",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Kota Tinggi",
+        "lat":1.7615,
+        "lon":104.074,
+        "pop":1600
+    },
+    {
+        "id":1767967,
+        "name":"Kampung Kuala Selama",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Bandar Baharu",
+        "lat":5.23816,
+        "lon":100.68297,
+        "pop":1597
+    },
+    {
+        "id":13118232,
+        "name":"Kampung Baru",
+        "country":"MY",
+        "admin1":"Kuala Lumpur",
+        "admin2":"WP. Kuala Lumpur",
+        "lat":3.16544,
+        "lon":101.70394,
+        "pop":1587
+    },
+    {
+        "id":13117828,
+        "name":"FELDA Kemansul",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Bentong",
+        "lat":3.28562,
+        "lon":102.22616,
+        "pop":1582
+    },
+    {
+        "id":7854732,
+        "name":"Kemajuan Tanah Chemplak Barat",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Segamat",
+        "lat":2.388,
+        "lon":102.934,
+        "pop":1562
+    },
+    {
+        "id":1764145,
+        "name":"Sungai Baharu",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.16399,
+        "lon":100.33392,
+        "pop":1549
+    },
+    {
+        "id":1732661,
+        "name":"Kampung Dong",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Raub",
+        "lat":3.8959,
+        "lon":101.8947,
+        "pop":1530
+    },
+    {
+        "id":13118234,
+        "name":"Metro City New Township",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Kuching",
+        "lat":1.56798,
+        "lon":110.30588,
+        "pop":1500
+    },
+    {
+        "id":1753109,
+        "name":"Kampung On Lok",
+        "country":"MY",
+        "admin1":"Melaka",
+        "admin2":"Jasin",
+        "lat":2.4723,
+        "lon":102.3829,
+        "pop":1500
+    },
+    {
+        "id":13118196,
+        "name":"FELCRA Lubek Sireh",
+        "country":"MY",
+        "admin1":"Perlis",
+        "admin2":"Perlis",
+        "lat":6.65007,
+        "lon":100.22412,
+        "pop":1490
+    },
+    {
+        "id":1735272,
+        "name":"Malim Nawar",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Daerah Kinta",
+        "lat":4.3506,
+        "lon":101.1188,
+        "pop":1477
+    },
+    {
+        "id":1734595,
+        "name":"Terung",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Larut Matang & Selama",
+        "lat":4.71667,
+        "lon":100.73333,
+        "pop":1476
+    },
+    {
+        "id":1735144,
+        "name":"Rasa",
+        "country":"MY",
+        "admin1":"Selangor",
+        "admin2":"Hulu Selangor",
+        "lat":3.4955,
+        "lon":101.6294,
+        "pop":1470
+    },
+    {
+        "id":7620532,
+        "name":"Kemajuan Tanah Pasir Raja",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Kota Tinggi",
+        "lat":1.7578,
+        "lon":103.6742,
+        "pop":1467
+    },
+    {
+        "id":7857539,
+        "name":"Kemajuan Tanah Bukit Aping Barat",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Kota Tinggi",
+        "lat":1.8294,
+        "lon":103.9901,
+        "pop":1441
+    },
+    {
+        "id":1766120,
+        "name":"Kampung Parit Panjang",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Baling",
+        "lat":5.70566,
+        "lon":100.74618,
+        "pop":1434
+    },
+    {
+        "id":1763994,
+        "name":"Kampong Sungai Kechil Ulu",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Bandar Baharu",
+        "lat":5.10962,
+        "lon":100.5438,
+        "pop":1425
+    },
+    {
+        "id":1763152,
+        "name":"Kampung Telaga Papan",
+        "country":"MY",
+        "admin1":"Terengganu",
+        "admin2":"Besut",
+        "lat":5.76319,
+        "lon":102.63893,
+        "pop":1400
+    },
+    {
+        "id":1735276,
+        "name":"Cenderiang",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Batang Padang",
+        "lat":4.26667,
+        "lon":101.23333,
+        "pop":1400
+    },
+    {
+        "id":1732715,
+        "name":"Kukup",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Pontian",
+        "lat":1.3233,
+        "lon":103.4426,
+        "pop":1400
+    },
+    {
+        "id":7795583,
+        "name":"Kampung Ladang Sawit Lepar",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Pekan",
+        "lat":3.5827,
+        "lon":103.0962,
+        "pop":1392
+    },
+    {
+        "id":6807190,
+        "name":"Lengkuas",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Daerah Kota Setar",
+        "lat":6.02782,
+        "lon":100.38185,
+        "pop":1389
+    },
+    {
+        "id":1735267,
+        "name":"Gopeng",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Daerah Kinta",
+        "lat":4.4715,
+        "lon":101.1663,
+        "pop":1330
+    },
+    {
+        "id":8356577,
+        "name":"Linggi",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Port Dickson",
+        "lat":2.4857,
+        "lon":102.0096,
+        "pop":1322
+    },
+    {
+        "id":7691751,
+        "name":"Kampung Simpang Durian",
+        "country":"MY",
+        "admin1":"Negeri Sembilan",
+        "admin2":"Jelebu",
+        "lat":3.1014,
+        "lon":102.2222,
+        "pop":1319
+    },
+    {
+        "id":1735088,
+        "name":"Kampung Sungai Acheh",
+        "country":"MY",
+        "admin1":"Penang",
+        "admin2":"Seberang Perai Selatan",
+        "lat":5.15172,
+        "lon":100.42482,
+        "pop":1313
+    },
+    {
+        "id":1734629,
+        "name":"Tanjung Rambutan",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Daerah Kinta",
+        "lat":4.6706,
+        "lon":101.1546,
+        "pop":1311
+    },
+    {
+        "id":13118093,
+        "name":"Blue Valley",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Cameron Highlands",
+        "lat":4.58293,
+        "lon":101.41418,
+        "pop":1301
+    },
+    {
+        "id":12808701,
+        "name":"Hendrop",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Gua Musang",
+        "lat":4.719,
+        "lon":101.5521,
+        "pop":1295
+    },
+    {
+        "id":1735479,
+        "name":"Kampung Kobah",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Pendang",
+        "lat":5.96667,
+        "lon":100.43333,
+        "pop":1278
+    },
+    {
+        "id":7791657,
+        "name":"Kampung Kuala Sepetang",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Larut Matang & Selama",
+        "lat":4.5429,
+        "lon":100.6597,
+        "pop":1264
+    },
+    {
+        "id":1732730,
+        "name":"Mawai",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Kota Tinggi",
+        "lat":1.8685,
+        "lon":103.9568,
+        "pop":1229
+    },
+    {
+        "id":12750655,
+        "name":"Penyabong",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Kota Tinggi",
+        "lat":1.63109,
+        "lon":104.1469,
+        "pop":1218
+    },
+    {
+        "id":7614203,
+        "name":"Kemajuan Tanah Inas Utara dan Selatan",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Kulaijaya",
+        "lat":1.7734,
+        "lon":103.6098,
+        "pop":1174
+    },
+    {
+        "id":1769948,
+        "name":"Kampung Cangkat Keruing",
+        "country":"MY",
+        "admin1":"Perak",
+        "admin2":"Manjung (Dinding)",
+        "lat":4.3775,
+        "lon":100.6891,
+        "pop":1174
+    },
+    {
+        "id":13118092,
+        "name":"Brinchang",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Cameron Highlands",
+        "lat":4.4911,
+        "lon":101.38843,
+        "pop":1153
+    },
+    {
+        "id":1734615,
+        "name":"Berincang",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Cameron Highlands",
+        "lat":4.49112,
+        "lon":101.38694,
+        "pop":1153
+    },
+    {
+        "id":7620418,
+        "name":"Kampung Parit Belahan Tampok",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Batu Pahat",
+        "lat":1.661,
+        "lon":103.1936,
+        "pop":1147
+    },
+    {
+        "id":13100480,
+        "name":"Kampung Wakaf Sku",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Kota Bharu",
+        "lat":6.11625,
+        "lon":102.24229,
+        "pop":1125
+    },
+    {
+        "id":1769798,
+        "name":"Kampong Cherang Hangus",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Bachok",
+        "lat":6.03333,
+        "lon":102.35,
+        "pop":1123
+    },
+    {
+        "id":1738030,
+        "name":"Bekenu",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Miri",
+        "lat":4.05392,
+        "lon":113.84407,
+        "pop":1113
+    },
+    {
+        "id":12523943,
+        "name":"Kampung Haji Kudong",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Kuala Muda",
+        "lat":5.58314,
+        "lon":100.36238,
+        "pop":1070
+    },
+    {
+        "id":7620534,
+        "name":"Kemajuan Tanah Bukit Ramon",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Kota Tinggi",
+        "lat":1.7532,
+        "lon":103.7261,
+        "pop":1060
+    },
+    {
+        "id":1732770,
+        "name":"Kangkar Sedili Kecil",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Kota Tinggi",
+        "lat":1.75,
+        "lon":104.15,
+        "pop":1058
+    },
+    {
+        "id":7632907,
+        "name":"Kampung Batu Sembilan Luar",
+        "country":"MY",
+        "admin1":"Terengganu",
+        "admin2":"Kemaman",
+        "lat":4.3493,
+        "lon":103.394,
+        "pop":1028
+    },
+    {
+        "id":1775722,
+        "name":"Empaong",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Betong",
+        "lat":1.41667,
+        "lon":111.53333,
+        "pop":1015
+    },
+    {
+        "id":1735254,
+        "name":"Gambang",
+        "country":"MY",
+        "admin1":"Pahang",
+        "admin2":"Kuantan",
+        "lat":3.7068,
+        "lon":103.1002,
+        "pop":1013
+    },
+    {
+        "id":11102807,
+        "name":"Tanjung Rhu",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Langkawi",
+        "lat":6.45212,
+        "lon":99.82032,
+        "pop":1000
+    },
+    {
+        "id":6804846,
+        "name":"Kampung Bukit Hantu",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Langkawi",
+        "lat":6.36257,
+        "lon":99.7832,
+        "pop":1000
+    },
+    {
+        "id":1737224,
+        "name":"Batu Niah",
+        "country":"MY",
+        "admin1":"Sarawak",
+        "admin2":"Bahagian Miri",
+        "lat":3.8,
+        "lon":113.75,
+        "pop":1000
+    },
+    {
+        "id":1732753,
+        "name":"Tampoi",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Daerah Johor Baharu",
+        "lat":1.498,
+        "lon":103.704,
+        "pop":1000
+    },
+    {
+        "id":1732740,
+        "name":"Kampung Seelong",
+        "country":"MY",
+        "admin1":"Johor",
+        "admin2":"Kulaijaya",
+        "lat":1.63,
+        "lon":103.6957,
+        "pop":1000
+    },
+    {
+        "id":6619487,
+        "name":"Kg Ramayah",
+        "country":"MY",
+        "admin1":"Sabah",
+        "admin2":"Penampang",
+        "lat":5.88434,
+        "lon":116.09319,
+        "pop":600
+    },
+    {
+        "id":1770086,
+        "name":"Kampong Bukit Tinggi",
+        "country":"MY",
+        "admin1":"Kedah",
+        "admin2":"Pokok Sena",
+        "lat":6.2,
+        "lon":100.43333,
+        "pop":562
+    },
+    {
+        "id":1765067,
+        "name":"Kampung Rantau Panjang",
+        "country":"MY",
+        "admin1":"Kelantan",
+        "admin2":"Pasir Mas",
+        "lat":6.016,
+        "lon":101.9745,
+        "pop":500
+    }
+]

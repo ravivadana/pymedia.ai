@@ -1,0 +1,4012 @@
+[
+    {
+        "id":792680,
+        "name":"Belgrade",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.80401,
+        "lon":20.46513,
+        "pop":1273651
+    },
+    {
+        "id":787657,
+        "name":"Niš",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Nišava",
+        "lat":43.32472,
+        "lon":21.90333,
+        "pop":250000
+    },
+    {
+        "id":3194360,
+        "name":"Novi Sad",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.25167,
+        "lon":19.83694,
+        "pop":215400
+    },
+    {
+        "id":783920,
+        "name":"Zemun",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.8458,
+        "lon":20.40116,
+        "pop":155591
+    },
+    {
+        "id":789128,
+        "name":"Kragujevac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Šumadija",
+        "lat":44.01667,
+        "lon":20.91667,
+        "pop":147473
+    },
+    {
+        "id":792078,
+        "name":"Čačak",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Morava",
+        "lat":43.89139,
+        "lon":20.34972,
+        "pop":117072
+    },
+    {
+        "id":3189595,
+        "name":"Subotica",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Bačka",
+        "lat":46.1,
+        "lon":19.66667,
+        "pop":100000
+    },
+    {
+        "id":788709,
+        "name":"Leskovac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Jablanica",
+        "lat":42.99806,
+        "lon":21.94611,
+        "pop":94758
+    },
+    {
+        "id":787595,
+        "name":"Novi Pazar",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Raška",
+        "lat":43.13667,
+        "lon":20.51222,
+        "pop":85996
+    },
+    {
+        "id":789107,
+        "name":"Kraljevo",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Raška",
+        "lat":43.72583,
+        "lon":20.68944,
+        "pop":82846
+    },
+    {
+        "id":783814,
+        "name":"Zrenjanin",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.38361,
+        "lon":20.38194,
+        "pop":79773
+    },
+    {
+        "id":787237,
+        "name":"Pančevo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":44.87177,
+        "lon":20.64167,
+        "pop":76654
+    },
+    {
+        "id":788975,
+        "name":"Kruševac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Rasina",
+        "lat":43.58,
+        "lon":21.33389,
+        "pop":75256
+    },
+    {
+        "id":3188434,
+        "name":"Užice",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Zlatibor",
+        "lat":43.85861,
+        "lon":19.84878,
+        "pop":63577
+    },
+    {
+        "id":785756,
+        "name":"Smederevo",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Podunavlje District",
+        "lat":44.66436,
+        "lon":20.92763,
+        "pop":62000
+    },
+    {
+        "id":3188402,
+        "name":"Valjevo",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Kolubara",
+        "lat":44.27513,
+        "lon":19.89821,
+        "pop":61035
+    },
+    {
+        "id":784227,
+        "name":"Vranje",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Pčinja",
+        "lat":42.55139,
+        "lon":21.90028,
+        "pop":56199
+    },
+    {
+        "id":3191376,
+        "name":"Šabac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.74667,
+        "lon":19.69,
+        "pop":55114
+    },
+    {
+        "id":784024,
+        "name":"Zaječar",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Zaječar",
+        "lat":43.90358,
+        "lon":22.26405,
+        "pop":49800
+    },
+    {
+        "id":784873,
+        "name":"Trstenik",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Rasina",
+        "lat":43.61694,
+        "lon":21.0025,
+        "pop":49043
+    },
+    {
+        "id":3190342,
+        "name":"Sombor",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"West Bačka",
+        "lat":45.77417,
+        "lon":19.11222,
+        "pop":48454
+    },
+    {
+        "id":789518,
+        "name":"Kikinda",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":45.82972,
+        "lon":20.46528,
+        "pop":41935
+    },
+    {
+        "id":786827,
+        "name":"Požarevac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Branicevo",
+        "lat":44.62133,
+        "lon":21.18782,
+        "pop":41736
+    },
+    {
+        "id":787050,
+        "name":"Pirot",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Pirot",
+        "lat":43.15306,
+        "lon":22.58611,
+        "pop":40678
+    },
+    {
+        "id":792456,
+        "name":"Bor",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Bor",
+        "lat":44.07488,
+        "lon":22.09591,
+        "pop":39387
+    },
+    {
+        "id":3190103,
+        "name":"Sremska Mitrovica",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.97639,
+        "lon":19.61222,
+        "pop":39084
+    },
+    {
+        "id":784136,
+        "name":"Vršac",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.11667,
+        "lon":21.30361,
+        "pop":36300
+    },
+    {
+        "id":789923,
+        "name":"Jagodina",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Pomoravlje",
+        "lat":43.97713,
+        "lon":21.26121,
+        "pop":35589
+    },
+    {
+        "id":3191429,
+        "name":"Ruma",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":45.00806,
+        "lon":19.82222,
+        "pop":32229
+    },
+    {
+        "id":3204674,
+        "name":"Bačka Palanka",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.24966,
+        "lon":19.39664,
+        "pop":29449
+    },
+    {
+        "id":790015,
+        "name":"Inđija",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":45.04816,
+        "lon":20.08165,
+        "pop":28450
+    },
+    {
+        "id":786690,
+        "name":"Prokuplje",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Toplica",
+        "lat":43.23417,
+        "lon":21.58806,
+        "pop":27673
+    },
+    {
+        "id":785753,
+        "name":"Smederevska Palanka",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Podunavlje District",
+        "lat":44.36548,
+        "lon":20.95885,
+        "pop":27000
+    },
+    {
+        "id":3187297,
+        "name":"Vrbas",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.57139,
+        "lon":19.64083,
+        "pop":25907
+    },
+    {
+        "id":792814,
+        "name":"Bečej",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.61632,
+        "lon":20.03331,
+        "pop":25774
+    },
+    {
+        "id":6619277,
+        "name":"Knjazevac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Zaječar",
+        "lat":43.56634,
+        "lon":22.25701,
+        "pop":25000
+    },
+    {
+        "id":793111,
+        "name":"Aranđelovac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Šumadija",
+        "lat":44.30694,
+        "lon":20.56,
+        "pop":24309
+    },
+    {
+        "id":790367,
+        "name":"Gornji Milanovac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Morava",
+        "lat":44.02603,
+        "lon":20.46152,
+        "pop":23982
+    },
+    {
+        "id":788771,
+        "name":"Lazarevac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.38534,
+        "lon":20.2557,
+        "pop":23551
+    },
+    {
+        "id":785615,
+        "name":"Sremčica",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.67653,
+        "lon":20.39232,
+        "pop":23000
+    },
+    {
+        "id":791678,
+        "name":"Ćuprija",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Pomoravlje",
+        "lat":43.9275,
+        "lon":21.37,
+        "pop":20585
+    },
+    {
+        "id":785965,
+        "name":"Senta",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":45.9275,
+        "lon":20.07722,
+        "pop":20302
+    },
+    {
+        "id":3196153,
+        "name":"Loznica",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.53118,
+        "lon":19.24267,
+        "pop":19515
+    },
+    {
+        "id":3204793,
+        "name":"Apatin",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"West Bačka",
+        "lat":45.6726,
+        "lon":18.978,
+        "pop":18320
+    },
+    {
+        "id":3200802,
+        "name":"Futog",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.23874,
+        "lon":19.71416,
+        "pop":18018
+    },
+    {
+        "id":787718,
+        "name":"Negotin",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Bor",
+        "lat":44.22639,
+        "lon":22.53083,
+        "pop":17612
+    },
+    {
+        "id":787516,
+        "name":"Obrenovac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.65486,
+        "lon":20.20017,
+        "pop":16821
+    },
+    {
+        "id":785559,
+        "name":"Stara Pazova",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.985,
+        "lon":20.16083,
+        "pop":16217
+    },
+    {
+        "id":3204672,
+        "name":"Bačka Topola",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Bačka",
+        "lat":45.81516,
+        "lon":19.6318,
+        "pop":16154
+    },
+    {
+        "id":787615,
+        "name":"Nova Pazova",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.94366,
+        "lon":20.21931,
+        "pop":15488
+    },
+    {
+        "id":789168,
+        "name":"Kovin",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":44.7475,
+        "lon":20.97611,
+        "pop":14250
+    },
+    {
+        "id":3190104,
+        "name":"Sremska Kamenica",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.22334,
+        "lon":19.84263,
+        "pop":14205
+    },
+    {
+        "id":3193406,
+        "name":"Petrovaradin",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.24667,
+        "lon":19.87944,
+        "pop":13917
+    },
+    {
+        "id":785288,
+        "name":"Surčin",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.79306,
+        "lon":20.28028,
+        "pop":12575
+    },
+    {
+        "id":3198513,
+        "name":"Kać",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.30407,
+        "lon":19.94299,
+        "pop":11067
+    },
+    {
+        "id":786287,
+        "name":"Ripanj",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.63864,
+        "lon":20.52136,
+        "pop":11000
+    },
+    {
+        "id":792794,
+        "name":"Bela Crkva",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":44.8975,
+        "lon":21.41722,
+        "pop":10675
+    },
+    {
+        "id":3187829,
+        "name":"Veternik",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.25446,
+        "lon":19.7588,
+        "pop":10226
+    },
+    {
+        "id":784141,
+        "name":"Vrnjačka Banja",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Raška",
+        "lat":43.62725,
+        "lon":20.89634,
+        "pop":10207
+    },
+    {
+        "id":789600,
+        "name":"Kanjiža",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":46.06667,
+        "lon":20.05,
+        "pop":10200
+    },
+    {
+        "id":788357,
+        "name":"Majdanpek",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Bor",
+        "lat":44.42771,
+        "lon":21.94596,
+        "pop":10071
+    },
+    {
+        "id":791672,
+        "name":"Čurug",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.47221,
+        "lon":20.06861,
+        "pop":9231
+    },
+    {
+        "id":784170,
+        "name":"Vrčin",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.66845,
+        "lon":20.59325,
+        "pop":9088
+    },
+    {
+        "id":793014,
+        "name":"Bačko Petrovo Selo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.70681,
+        "lon":20.07928,
+        "pop":8959
+    },
+    {
+        "id":3190101,
+        "name":"Sremski Karlovci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.20285,
+        "lon":19.93373,
+        "pop":8839
+    },
+    {
+        "id":3204623,
+        "name":"Bajina Bašta",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Zlatibor",
+        "lat":43.97083,
+        "lon":19.5675,
+        "pop":8533
+    },
+    {
+        "id":3202318,
+        "name":"Crvenka",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"West Bačka",
+        "lat":45.66098,
+        "lon":19.45435,
+        "pop":8532
+    },
+    {
+        "id":837364,
+        "name":"Padinska Skela",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.94291,
+        "lon":20.42549,
+        "pop":8519
+    },
+    {
+        "id":784068,
+        "name":"Žabalj",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.37222,
+        "lon":20.06389,
+        "pop":8503
+    },
+    {
+        "id":787600,
+        "name":"Novi Kneževac",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":46.05,
+        "lon":20.1,
+        "pop":8166
+    },
+    {
+        "id":787855,
+        "name":"Mol",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":45.76457,
+        "lon":20.13286,
+        "pop":7950
+    },
+    {
+        "id":787584,
+        "name":"Novo Miloševo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.71916,
+        "lon":20.30364,
+        "pop":7805
+    },
+    {
+        "id":788040,
+        "name":"Melenci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.5168,
+        "lon":20.31961,
+        "pop":7685
+    },
+    {
+        "id":791471,
+        "name":"Dobanovci",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.82631,
+        "lon":20.22487,
+        "pop":7592
+    },
+    {
+        "id":788792,
+        "name":"Lapovo",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Šumadija",
+        "lat":44.18424,
+        "lon":21.09727,
+        "pop":7422
+    },
+    {
+        "id":789178,
+        "name":"Kovačica",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.11167,
+        "lon":20.62139,
+        "pop":7357
+    },
+    {
+        "id":3204665,
+        "name":"Bački Petrovac",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.36056,
+        "lon":19.59167,
+        "pop":7229
+    },
+    {
+        "id":3203840,
+        "name":"Bogatić",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.8375,
+        "lon":19.48056,
+        "pop":7225
+    },
+    {
+        "id":793093,
+        "name":"Arilje",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Zlatibor",
+        "lat":43.75306,
+        "lon":20.09556,
+        "pop":6762
+    },
+    {
+        "id":785544,
+        "name":"Starčevo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":44.80729,
+        "lon":20.70546,
+        "pop":6661
+    },
+    {
+        "id":784427,
+        "name":"Vinča",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.75907,
+        "lon":20.61747,
+        "pop":6580
+    },
+    {
+        "id":787857,
+        "name":"Mokrin",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":45.93362,
+        "lon":20.41215,
+        "pop":6567
+    },
+    {
+        "id":791589,
+        "name":"Debeljača",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.0707,
+        "lon":20.60153,
+        "pop":6413
+    },
+    {
+        "id":792651,
+        "name":"Beška",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":45.13092,
+        "lon":20.06698,
+        "pop":6377
+    },
+    {
+        "id":787271,
+        "name":"Padina",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.11988,
+        "lon":20.7286,
+        "pop":6367
+    },
+    {
+        "id":792945,
+        "name":"Banatski Karlovac",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.04987,
+        "lon":21.018,
+        "pop":6319
+    },
+    {
+        "id":785062,
+        "name":"Titel",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.20611,
+        "lon":20.29444,
+        "pop":6227
+    },
+    {
+        "id":787215,
+        "name":"Paraćin",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Pomoravlje",
+        "lat":43.86083,
+        "lon":21.40778,
+        "pop":6000
+    },
+    {
+        "id":3190335,
+        "name":"Sonta",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"West Bačka",
+        "lat":45.59427,
+        "lon":19.09719,
+        "pop":5991
+    },
+    {
+        "id":3204635,
+        "name":"Badovinci",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.78534,
+        "lon":19.37146,
+        "pop":5879
+    },
+    {
+        "id":793015,
+        "name":"Bačko Gradište",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.53271,
+        "lon":20.03082,
+        "pop":5764
+    },
+    {
+        "id":784764,
+        "name":"Umka",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.67806,
+        "lon":20.30472,
+        "pop":5618
+    },
+    {
+        "id":3193678,
+        "name":"Palić",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Bačka",
+        "lat":46.10646,
+        "lon":19.75647,
+        "pop":5476
+    },
+    {
+        "id":3190042,
+        "name":"Stanišić",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"West Bačka",
+        "lat":45.93895,
+        "lon":19.16709,
+        "pop":5476
+    },
+    {
+        "id":785603,
+        "name":"Srpska Crnja",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.72538,
+        "lon":20.69008,
+        "pop":5467
+    },
+    {
+        "id":791900,
+        "name":"Čoka",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":45.9425,
+        "lon":20.14333,
+        "pop":5414
+    },
+    {
+        "id":791887,
+        "name":"Crepaja",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.00984,
+        "lon":20.63702,
+        "pop":5369
+    },
+    {
+        "id":783768,
+        "name":"Zvečka",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.64025,
+        "lon":20.16432,
+        "pop":5321
+    },
+    {
+        "id":790847,
+        "name":"Ečka",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.32328,
+        "lon":20.44294,
+        "pop":5293
+    },
+    {
+        "id":789170,
+        "name":"Kovilj",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.23422,
+        "lon":20.02327,
+        "pop":5279
+    },
+    {
+        "id":784352,
+        "name":"Vladimirovac",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.03122,
+        "lon":20.86566,
+        "pop":5106
+    },
+    {
+        "id":792819,
+        "name":"Bavanište",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":44.81907,
+        "lon":20.87654,
+        "pop":5082
+    },
+    {
+        "id":792866,
+        "name":"Barič",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.6507,
+        "lon":20.25941,
+        "pop":5033
+    },
+    {
+        "id":3192420,
+        "name":"Prigrevica",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"West Bačka",
+        "lat":45.67636,
+        "lon":19.08809,
+        "pop":5026
+    },
+    {
+        "id":3202798,
+        "name":"Čelarevo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.26999,
+        "lon":19.52484,
+        "pop":5017
+    },
+    {
+        "id":3195895,
+        "name":"Majur",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.77105,
+        "lon":19.65512,
+        "pop":5000
+    },
+    {
+        "id":790842,
+        "name":"Elemir",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.44263,
+        "lon":20.30003,
+        "pop":4998
+    },
+    {
+        "id":3192328,
+        "name":"Prnjavor",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.70061,
+        "lon":19.38695,
+        "pop":4892
+    },
+    {
+        "id":10346045,
+        "name":"Irig",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":45.0523,
+        "lon":19.84448,
+        "pop":4848
+    },
+    {
+        "id":787461,
+        "name":"Opovo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.05222,
+        "lon":20.43028,
+        "pop":4769
+    },
+    {
+        "id":786175,
+        "name":"Rušanj",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.68477,
+        "lon":20.44993,
+        "pop":4769
+    },
+    {
+        "id":3196638,
+        "name":"Lešnica",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.6525,
+        "lon":19.31,
+        "pop":4678
+    },
+    {
+        "id":790898,
+        "name":"Ðurđevo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.32591,
+        "lon":20.06532,
+        "pop":4668
+    },
+    {
+        "id":789912,
+        "name":"Jakovo",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.75366,
+        "lon":20.26008,
+        "pop":4656
+    },
+    {
+        "id":3191397,
+        "name":"Ruski Krstur",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"West Bačka",
+        "lat":45.56392,
+        "lon":19.42002,
+        "pop":4585
+    },
+    {
+        "id":3186376,
+        "name":"Zmajevo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.45408,
+        "lon":19.6905,
+        "pop":4547
+    },
+    {
+        "id":790557,
+        "name":"Golubinci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.98533,
+        "lon":20.06339,
+        "pop":4510
+    },
+    {
+        "id":3191425,
+        "name":"Rumenka",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.294,
+        "lon":19.74306,
+        "pop":4367
+    },
+    {
+        "id":784288,
+        "name":"Vojka",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.93713,
+        "lon":20.15236,
+        "pop":4343
+    },
+    {
+        "id":788890,
+        "name":"Kumane",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.53946,
+        "lon":20.22902,
+        "pop":4321
+    },
+    {
+        "id":792807,
+        "name":"Torak",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.50928,
+        "lon":20.609,
+        "pop":4289
+    },
+    {
+        "id":787123,
+        "name":"Perlez",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.20813,
+        "lon":20.38197,
+        "pop":4283
+    },
+    {
+        "id":787032,
+        "name":"Plandište",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.22722,
+        "lon":21.12167,
+        "pop":4122
+    },
+    {
+        "id":784771,
+        "name":"Uljma",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.04213,
+        "lon":21.15393,
+        "pop":4115
+    },
+    {
+        "id":787306,
+        "name":"Ostružnica",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.72769,
+        "lon":20.31845,
+        "pop":4060
+    },
+    {
+        "id":3217047,
+        "name":"Pocerski Pričinović",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.72222,
+        "lon":19.70722,
+        "pop":4018
+    },
+    {
+        "id":787612,
+        "name":"Novi Banovci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.95691,
+        "lon":20.28076,
+        "pop":4007
+    },
+    {
+        "id":792467,
+        "name":"Boljevci",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.72355,
+        "lon":20.22348,
+        "pop":3990
+    },
+    {
+        "id":3200859,
+        "name":"Feketić",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Bačka",
+        "lat":45.66431,
+        "lon":19.69974,
+        "pop":3980
+    },
+    {
+        "id":784745,
+        "name":"Uzdin",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.20512,
+        "lon":20.62342,
+        "pop":3885
+    },
+    {
+        "id":792851,
+        "name":"Bašaid",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":45.64102,
+        "lon":20.41434,
+        "pop":3864
+    },
+    {
+        "id":793112,
+        "name":"Aradac",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.38346,
+        "lon":20.30137,
+        "pop":3825
+    },
+    {
+        "id":793134,
+        "name":"Alibunar",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.08083,
+        "lon":20.96583,
+        "pop":3803
+    },
+    {
+        "id":3197111,
+        "name":"Krupanj",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.36556,
+        "lon":19.36194,
+        "pop":3779
+    },
+    {
+        "id":3187252,
+        "name":"Vrdnik",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":45.12174,
+        "lon":19.79227,
+        "pop":3704
+    },
+    {
+        "id":3195962,
+        "name":"Mačvanska Mitrovica",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.96739,
+        "lon":19.59314,
+        "pop":3661
+    },
+    {
+        "id":836698,
+        "name":"Rusko Selo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":45.76291,
+        "lon":20.57117,
+        "pop":3657
+    },
+    {
+        "id":3198080,
+        "name":"Klenje",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.80794,
+        "lon":19.43508,
+        "pop":3653
+    },
+    {
+        "id":789875,
+        "name":"Jaša Tomić",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.44725,
+        "lon":20.85546,
+        "pop":3625
+    },
+    {
+        "id":3191802,
+        "name":"Ravno Selo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.44967,
+        "lon":19.62097,
+        "pop":3574
+    },
+    {
+        "id":3201108,
+        "name":"Dublje",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.80117,
+        "lon":19.50902,
+        "pop":3558
+    },
+    {
+        "id":786142,
+        "name":"Šajkaš",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.27315,
+        "lon":20.09051,
+        "pop":3541
+    },
+    {
+        "id":788507,
+        "name":"Lokve",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.15198,
+        "lon":21.03073,
+        "pop":3511
+    },
+    {
+        "id":788768,
+        "name":"Lazarevo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.38893,
+        "lon":20.53999,
+        "pop":3480
+    },
+    {
+        "id":787274,
+        "name":"Padej",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":45.82756,
+        "lon":20.16279,
+        "pop":3465
+    },
+    {
+        "id":3193944,
+        "name":"Osečina",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Kolubara",
+        "lat":44.37306,
+        "lon":19.60139,
+        "pop":3422
+    },
+    {
+        "id":3191877,
+        "name":"Ratkovo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"West Bačka",
+        "lat":45.45566,
+        "lon":19.33728,
+        "pop":3411
+    },
+    {
+        "id":787341,
+        "name":"Ostojićevo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":45.88863,
+        "lon":20.16642,
+        "pop":3395
+    },
+    {
+        "id":785541,
+        "name":"Stari Banovci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.9842,
+        "lon":20.28382,
+        "pop":3393
+    },
+    {
+        "id":3198082,
+        "name":"Klenak",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.78846,
+        "lon":19.71004,
+        "pop":3388
+    },
+    {
+        "id":792937,
+        "name":"Banatsko Veliko Selo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":45.81961,
+        "lon":20.60772,
+        "pop":3332
+    },
+    {
+        "id":788439,
+        "name":"Lugavčina",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Podunavlje District",
+        "lat":44.52314,
+        "lon":21.07083,
+        "pop":3300
+    },
+    {
+        "id":785600,
+        "name":"Srpski Itebej",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.56715,
+        "lon":20.7135,
+        "pop":3281
+    },
+    {
+        "id":784779,
+        "name":"Ugrinovci",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.87635,
+        "lon":20.18763,
+        "pop":3278
+    },
+    {
+        "id":3196511,
+        "name":"Lipolist",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.69783,
+        "lon":19.50101,
+        "pop":3212
+    },
+    {
+        "id":787592,
+        "name":"Novi Slankamen",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":45.12554,
+        "lon":20.23914,
+        "pop":3210
+    },
+    {
+        "id":3196959,
+        "name":"Kulpin",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.4024,
+        "lon":19.58814,
+        "pop":3207
+    },
+    {
+        "id":791998,
+        "name":"Čenta",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.10814,
+        "lon":20.38947,
+        "pop":3192
+    },
+    {
+        "id":3191660,
+        "name":"Riđica",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"West Bačka",
+        "lat":45.99088,
+        "lon":19.10635,
+        "pop":3186
+    },
+    {
+        "id":3194243,
+        "name":"Obrovac",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.32106,
+        "lon":19.35048,
+        "pop":3177
+    },
+    {
+        "id":3202900,
+        "name":"Čajetina",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Zlatibor",
+        "lat":43.74977,
+        "lon":19.71273,
+        "pop":3162
+    },
+    {
+        "id":3196185,
+        "name":"Lovćenac",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Bačka",
+        "lat":45.6816,
+        "lon":19.69205,
+        "pop":3161
+    },
+    {
+        "id":3192185,
+        "name":"Putinci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.99259,
+        "lon":19.97102,
+        "pop":3075
+    },
+    {
+        "id":790277,
+        "name":"Grabovac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.60049,
+        "lon":20.08539,
+        "pop":3072
+    },
+    {
+        "id":784604,
+        "name":"Aleksandrovo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.63755,
+        "lon":20.59288,
+        "pop":3061
+    },
+    {
+        "id":783887,
+        "name":"Žitište",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.485,
+        "lon":20.54972,
+        "pop":3060
+    },
+    {
+        "id":787601,
+        "name":"Novi Karlovci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":45.07636,
+        "lon":20.17948,
+        "pop":3050
+    },
+    {
+        "id":784236,
+        "name":"Vranić",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.60237,
+        "lon":20.32872,
+        "pop":3044
+    },
+    {
+        "id":788584,
+        "name":"Ljig",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Kolubara",
+        "lat":44.23007,
+        "lon":20.23819,
+        "pop":2979
+    },
+    {
+        "id":786498,
+        "name":"Ralja",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.57222,
+        "lon":20.56222,
+        "pop":2933
+    },
+    {
+        "id":785358,
+        "name":"Stubline",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.57476,
+        "lon":20.13477,
+        "pop":2898
+    },
+    {
+        "id":789076,
+        "name":"Krčedin",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":45.13871,
+        "lon":20.13308,
+        "pop":2877
+    },
+    {
+        "id":787929,
+        "name":"Miratovac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Pčinja",
+        "lat":42.25846,
+        "lon":21.66456,
+        "pop":2872
+    },
+    {
+        "id":3199251,
+        "name":"Hrtkovci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.88155,
+        "lon":19.76374,
+        "pop":2855
+    },
+    {
+        "id":792940,
+        "name":"Banatsko Karađorđevo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.58693,
+        "lon":20.56421,
+        "pop":2855
+    },
+    {
+        "id":786111,
+        "name":"Samoljica",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Pčinja",
+        "lat":42.38445,
+        "lon":21.73708,
+        "pop":2852
+    },
+    {
+        "id":786021,
+        "name":"Sefkerin",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.00501,
+        "lon":20.48256,
+        "pop":2836
+    },
+    {
+        "id":3193230,
+        "name":"Platičevo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.82213,
+        "lon":19.79487,
+        "pop":2812
+    },
+    {
+        "id":785489,
+        "name":"Stepojevac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.51278,
+        "lon":20.295,
+        "pop":2773
+    },
+    {
+        "id":784635,
+        "name":"Velika Moštanica",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.66486,
+        "lon":20.35395,
+        "pop":2751
+    },
+    {
+        "id":787621,
+        "name":"Nova Crnja",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.66833,
+        "lon":20.605,
+        "pop":2739
+    },
+    {
+        "id":3200886,
+        "name":"Erdevik",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":45.11721,
+        "lon":19.40881,
+        "pop":2736
+    },
+    {
+        "id":3195939,
+        "name":"Maglić",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.36248,
+        "lon":19.53211,
+        "pop":2733
+    },
+    {
+        "id":786035,
+        "name":"Sečanj",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.36667,
+        "lon":20.77222,
+        "pop":2718
+    },
+    {
+        "id":3196331,
+        "name":"Ljubovija",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.18944,
+        "lon":19.37667,
+        "pop":2717
+    },
+    {
+        "id":784991,
+        "name":"Torda",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.58423,
+        "lon":20.459,
+        "pop":2697
+    },
+    {
+        "id":3196910,
+        "name":"Kupusina",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"West Bačka",
+        "lat":45.73759,
+        "lon":19.01082,
+        "pop":2694
+    },
+    {
+        "id":787598,
+        "name":"Novi Kozarci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":45.78241,
+        "lon":20.62289,
+        "pop":2668
+    },
+    {
+        "id":3201216,
+        "name":"Drenovac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.86649,
+        "lon":19.70943,
+        "pop":2629
+    },
+    {
+        "id":786283,
+        "name":"Ritopek",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.73849,
+        "lon":20.65499,
+        "pop":2613
+    },
+    {
+        "id":3202477,
+        "name":"Crna Bara",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.87374,
+        "lon":19.3948,
+        "pop":2606
+    },
+    {
+        "id":787743,
+        "name":"Nakovo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":45.87503,
+        "lon":20.56709,
+        "pop":2604
+    },
+    {
+        "id":792404,
+        "name":"Botoš",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.30837,
+        "lon":20.63514,
+        "pop":2569
+    },
+    {
+        "id":787296,
+        "name":"Ovča",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.88349,
+        "lon":20.53336,
+        "pop":2567
+    },
+    {
+        "id":790394,
+        "name":"Gornji Breg",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":45.91995,
+        "lon":20.01766,
+        "pop":2536
+    },
+    {
+        "id":3200547,
+        "name":"Glušci",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.89021,
+        "lon":19.54913,
+        "pop":2512
+    },
+    {
+        "id":789124,
+        "name":"Krajišnik",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.45283,
+        "lon":20.72976,
+        "pop":2495
+    },
+    {
+        "id":792811,
+        "name":"Bečmen",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.77983,
+        "lon":20.20577,
+        "pop":2494
+    },
+    {
+        "id":3200560,
+        "name":"Gložan",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.27954,
+        "lon":19.56838,
+        "pop":2487
+    },
+    {
+        "id":787837,
+        "name":"Mošorin",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.30196,
+        "lon":20.16919,
+        "pop":2483
+    },
+    {
+        "id":792764,
+        "name":"Belegiš",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":45.0192,
+        "lon":20.33323,
+        "pop":2430
+    },
+    {
+        "id":790028,
+        "name":"Ilandža",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.16897,
+        "lon":20.92008,
+        "pop":2426
+    },
+    {
+        "id":3194498,
+        "name":"Nikinci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.85017,
+        "lon":19.82321,
+        "pop":2425
+    },
+    {
+        "id":791175,
+        "name":"Donji Milanovac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Bor",
+        "lat":44.46593,
+        "lon":22.1517,
+        "pop":2410
+    },
+    {
+        "id":3186633,
+        "name":"Novi Žednik",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Bačka",
+        "lat":45.94117,
+        "lon":19.67141,
+        "pop":2381
+    },
+    {
+        "id":785903,
+        "name":"Šimanovci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.87393,
+        "lon":20.09175,
+        "pop":2376
+    },
+    {
+        "id":3198963,
+        "name":"Jadranska Lešnica",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.58625,
+        "lon":19.34701,
+        "pop":2355
+    },
+    {
+        "id":7577033,
+        "name":"Sumulicë",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Pčinja",
+        "lat":42.38682,
+        "lon":21.734,
+        "pop":2350
+    },
+    {
+        "id":792623,
+        "name":"Biljača",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Pčinja",
+        "lat":42.3543,
+        "lon":21.7437,
+        "pop":2349
+    },
+    {
+        "id":3302765,
+        "name":"Zlatibor",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Zlatibor",
+        "lat":43.729,
+        "lon":19.70029,
+        "pop":2344
+    },
+    {
+        "id":789471,
+        "name":"Klek",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.42254,
+        "lon":20.48049,
+        "pop":2344
+    },
+    {
+        "id":790035,
+        "name":"Iđoš",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":45.82648,
+        "lon":20.31791,
+        "pop":2338
+    },
+    {
+        "id":3203822,
+        "name":"Bogojevo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"West Bačka",
+        "lat":45.53015,
+        "lon":19.13022,
+        "pop":2312
+    },
+    {
+        "id":789880,
+        "name":"Jarkovac",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.26985,
+        "lon":20.76078,
+        "pop":2291
+    },
+    {
+        "id":786137,
+        "name":"Sakule",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.14667,
+        "lon":20.48619,
+        "pop":2280
+    },
+    {
+        "id":792479,
+        "name":"Boka",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.3554,
+        "lon":20.82987,
+        "pop":2246
+    },
+    {
+        "id":3196517,
+        "name":"Lipnički Šor",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.58058,
+        "lon":19.26572,
+        "pop":2240
+    },
+    {
+        "id":3193540,
+        "name":"Pećinci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.90889,
+        "lon":19.96639,
+        "pop":2232
+    },
+    {
+        "id":789415,
+        "name":"Knićanin",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.18675,
+        "lon":20.319,
+        "pop":2226
+    },
+    {
+        "id":3191699,
+        "name":"Ribari",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.70961,
+        "lon":19.42472,
+        "pop":2206
+    },
+    {
+        "id":788421,
+        "name":"Lukićevo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.33815,
+        "lon":20.49895,
+        "pop":2186
+    },
+    {
+        "id":3189859,
+        "name":"Štitar",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.79415,
+        "lon":19.59529,
+        "pop":2183
+    },
+    {
+        "id":787391,
+        "name":"Orlovat",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.24171,
+        "lon":20.58089,
+        "pop":2159
+    },
+    {
+        "id":785041,
+        "name":"Tomaševac",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.26855,
+        "lon":20.62272,
+        "pop":2149
+    },
+    {
+        "id":785252,
+        "name":"Sutjeska",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.38312,
+        "lon":20.6962,
+        "pop":2145
+    },
+    {
+        "id":787164,
+        "name":"Pavliš",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.10569,
+        "lon":21.23952,
+        "pop":2137
+    },
+    {
+        "id":3201353,
+        "name":"Doroslovo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"West Bačka",
+        "lat":45.60699,
+        "lon":19.18868,
+        "pop":2131
+    },
+    {
+        "id":3202757,
+        "name":"Čenej",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.36826,
+        "lon":19.80423,
+        "pop":2125
+    },
+    {
+        "id":3200746,
+        "name":"Gakovo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"West Bačka",
+        "lat":45.90078,
+        "lon":19.06138,
+        "pop":2122
+    },
+    {
+        "id":792530,
+        "name":"Bočar",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.76994,
+        "lon":20.2839,
+        "pop":2095
+    },
+    {
+        "id":789972,
+        "name":"Izbište",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.02253,
+        "lon":21.18388,
+        "pop":2094
+    },
+    {
+        "id":3198868,
+        "name":"Jarak",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.91843,
+        "lon":19.75477,
+        "pop":2092
+    },
+    {
+        "id":3202059,
+        "name":"Despotovo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.45983,
+        "lon":19.52653,
+        "pop":2077
+    },
+    {
+        "id":784274,
+        "name":"Vojvoda Stepa",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.68537,
+        "lon":20.65536,
+        "pop":2032
+    },
+    {
+        "id":3187641,
+        "name":"Višnjićevo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.96731,
+        "lon":19.28993,
+        "pop":2030
+    },
+    {
+        "id":786532,
+        "name":"Rajince",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Pčinja",
+        "lat":42.3787,
+        "lon":21.69591,
+        "pop":2020
+    },
+    {
+        "id":791452,
+        "name":"Dobrica",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.21339,
+        "lon":20.84995,
+        "pop":2006
+    },
+    {
+        "id":788868,
+        "name":"Kupinovo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.70708,
+        "lon":20.04959,
+        "pop":2002
+    },
+    {
+        "id":783796,
+        "name":"Zuce",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.69806,
+        "lon":20.55524,
+        "pop":2001
+    },
+    {
+        "id":3203139,
+        "name":"Buđanovci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.89388,
+        "lon":19.86344,
+        "pop":1999
+    },
+    {
+        "id":3189891,
+        "name":"Stepanovićevo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.41369,
+        "lon":19.7,
+        "pop":1999
+    },
+    {
+        "id":792948,
+        "name":"Banatski Despotovac",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.36606,
+        "lon":20.66407,
+        "pop":1993
+    },
+    {
+        "id":785598,
+        "name":"Stajićevo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.29489,
+        "lon":20.45845,
+        "pop":1993
+    },
+    {
+        "id":3191256,
+        "name":"Šašinci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.96514,
+        "lon":19.74151,
+        "pop":1983
+    },
+    {
+        "id":3198711,
+        "name":"Jelenča",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.727,
+        "lon":19.735,
+        "pop":1950
+    },
+    {
+        "id":3215933,
+        "name":"Stari Žednik",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Bačka",
+        "lat":45.94864,
+        "lon":19.63029,
+        "pop":1947
+    },
+    {
+        "id":3198637,
+        "name":"Jevremovac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.72172,
+        "lon":19.66364,
+        "pop":1940
+    },
+    {
+        "id":3196704,
+        "name":"Ledinci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.18697,
+        "lon":19.80554,
+        "pop":1912
+    },
+    {
+        "id":787663,
+        "name":"Nikolinci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.05245,
+        "lon":21.06695,
+        "pop":1905
+    },
+    {
+        "id":3201307,
+        "name":"Draginje",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.53302,
+        "lon":19.7625,
+        "pop":1888
+    },
+    {
+        "id":3197862,
+        "name":"Kolut",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"West Bačka",
+        "lat":45.89292,
+        "lon":18.9276,
+        "pop":1886
+    },
+    {
+        "id":3191339,
+        "name":"Salaš Noćajski",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.94722,
+        "lon":19.58611,
+        "pop":1876
+    },
+    {
+        "id":786583,
+        "name":"Radojevo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.74617,
+        "lon":20.78917,
+        "pop":1872
+    },
+    {
+        "id":3187548,
+        "name":"Vladimirci",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.61472,
+        "lon":19.78528,
+        "pop":1857
+    },
+    {
+        "id":791890,
+        "name":"Čortanovci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":45.1546,
+        "lon":20.01851,
+        "pop":1853
+    },
+    {
+        "id":862735,
+        "name":"Preljina",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Morava",
+        "lat":43.91454,
+        "lon":20.40677,
+        "pop":1840
+    },
+    {
+        "id":790983,
+        "name":"Duboka",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Branicevo",
+        "lat":44.52281,
+        "lon":21.75987,
+        "pop":1804
+    },
+    {
+        "id":3204307,
+        "name":"Belotić",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.81782,
+        "lon":19.54801,
+        "pop":1801
+    },
+    {
+        "id":3204670,
+        "name":"Bački Breg",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"West Bačka",
+        "lat":45.92034,
+        "lon":18.92944,
+        "pop":1770
+    },
+    {
+        "id":786001,
+        "name":"Seleuš",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.1277,
+        "lon":20.91461,
+        "pop":1765
+    },
+    {
+        "id":792718,
+        "name":"Belo Blato",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.27278,
+        "lon":20.375,
+        "pop":1746
+    },
+    {
+        "id":862740,
+        "name":"Prislonica",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Morava",
+        "lat":43.95223,
+        "lon":20.43521,
+        "pop":1735
+    },
+    {
+        "id":3204517,
+        "name":"Banovo Polje",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.9104,
+        "lon":19.44916,
+        "pop":1732
+    },
+    {
+        "id":784519,
+        "name":"Veliko Središte",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.17919,
+        "lon":21.40353,
+        "pop":1698
+    },
+    {
+        "id":3201487,
+        "name":"Donji Dobrić",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.61183,
+        "lon":19.33109,
+        "pop":1695
+    },
+    {
+        "id":3191810,
+        "name":"Ravnje",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.94326,
+        "lon":19.4228,
+        "pop":1692
+    },
+    {
+        "id":3203497,
+        "name":"Brdarica",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.55376,
+        "lon":19.7715,
+        "pop":1690
+    },
+    {
+        "id":790823,
+        "name":"Farkaždin",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.19172,
+        "lon":20.47239,
+        "pop":1662
+    },
+    {
+        "id":786109,
+        "name":"Samoš",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.20255,
+        "lon":20.77392,
+        "pop":1658
+    },
+    {
+        "id":787682,
+        "name":"Neuzina",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.3446,
+        "lon":20.71418,
+        "pop":1657
+    },
+    {
+        "id":792888,
+        "name":"Baranda",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.08459,
+        "lon":20.44264,
+        "pop":1656
+    },
+    {
+        "id":786395,
+        "name":"Ravni Topolovac",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.46082,
+        "lon":20.56939,
+        "pop":1656
+    },
+    {
+        "id":790560,
+        "name":"Golubac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Branicevo",
+        "lat":44.65296,
+        "lon":21.63199,
+        "pop":1655
+    },
+    {
+        "id":786146,
+        "name":"Sajan",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":45.84227,
+        "lon":20.27815,
+        "pop":1655
+    },
+    {
+        "id":788073,
+        "name":"Međa",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.53815,
+        "lon":20.80677,
+        "pop":1636
+    },
+    {
+        "id":784661,
+        "name":"Velika Greda",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.24376,
+        "lon":21.03498,
+        "pop":1585
+    },
+    {
+        "id":784653,
+        "name":"Velika Ivanča",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.42639,
+        "lon":20.58028,
+        "pop":1585
+    },
+    {
+        "id":786106,
+        "name":"Sanad",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":45.97596,
+        "lon":20.10816,
+        "pop":1584
+    },
+    {
+        "id":791948,
+        "name":"Čestereg",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.56361,
+        "lon":20.53194,
+        "pop":1581
+    },
+    {
+        "id":787602,
+        "name":"Novi Itebej",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.55918,
+        "lon":20.7003,
+        "pop":1553
+    },
+    {
+        "id":788153,
+        "name":"Margita",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.21598,
+        "lon":21.17527,
+        "pop":1550
+    },
+    {
+        "id":3198859,
+        "name":"Jarebice",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.53995,
+        "lon":19.42418,
+        "pop":1549
+    },
+    {
+        "id":3188361,
+        "name":"Varna",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.67914,
+        "lon":19.6515,
+        "pop":1549
+    },
+    {
+        "id":3198140,
+        "name":"Kisač",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.35421,
+        "lon":19.72975,
+        "pop":1545
+    },
+    {
+        "id":3200272,
+        "name":"Gornja Bukovica",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Kolubara",
+        "lat":44.34233,
+        "lon":19.78647,
+        "pop":1541
+    },
+    {
+        "id":786615,
+        "name":"Radenka",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Branicevo",
+        "lat":44.58345,
+        "lon":21.76469,
+        "pop":1541
+    },
+    {
+        "id":3191340,
+        "name":"Salaš Crnobarski",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.82843,
+        "lon":19.39437,
+        "pop":1538
+    },
+    {
+        "id":3186366,
+        "name":"Zminjak",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.75711,
+        "lon":19.4707,
+        "pop":1536
+    },
+    {
+        "id":790063,
+        "name":"Hajdučica",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.2501,
+        "lon":20.96016,
+        "pop":1519
+    },
+    {
+        "id":790772,
+        "name":"Gardinovci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.20359,
+        "lon":20.13558,
+        "pop":1515
+    },
+    {
+        "id":788515,
+        "name":"Lok",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.21583,
+        "lon":20.21222,
+        "pop":1509
+    },
+    {
+        "id":3199813,
+        "name":"Grabovci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.76496,
+        "lon":19.84489,
+        "pop":1480
+    },
+    {
+        "id":3203551,
+        "name":"Brasina",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.4652,
+        "lon":19.15673,
+        "pop":1479
+    },
+    {
+        "id":792950,
+        "name":"Banatska Topola",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":45.67248,
+        "lon":20.4653,
+        "pop":1463
+    },
+    {
+        "id":3190958,
+        "name":"Ševarice",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.86704,
+        "lon":19.66006,
+        "pop":1458
+    },
+    {
+        "id":789787,
+        "name":"Jermenovci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.18635,
+        "lon":21.0455,
+        "pop":1454
+    },
+    {
+        "id":3194334,
+        "name":"Novo Selo",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.67041,
+        "lon":19.34495,
+        "pop":1452
+    },
+    {
+        "id":790104,
+        "name":"Gudurica",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.16816,
+        "lon":21.44264,
+        "pop":1448
+    },
+    {
+        "id":790033,
+        "name":"Idvor",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.18895,
+        "lon":20.51442,
+        "pop":1442
+    },
+    {
+        "id":3318643,
+        "name":"Osječenik",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Zlatibor",
+        "lat":43.14528,
+        "lon":19.85889,
+        "pop":1430
+    },
+    {
+        "id":786697,
+        "name":"Progar",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.71744,
+        "lon":20.16047,
+        "pop":1428
+    },
+    {
+        "id":3195220,
+        "name":"Metković",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.85617,
+        "lon":19.54654,
+        "pop":1419
+    },
+    {
+        "id":788243,
+        "name":"Mali Požarevac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.56327,
+        "lon":20.65433,
+        "pop":1391
+    },
+    {
+        "id":3201946,
+        "name":"Dobrić",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.70224,
+        "lon":19.57931,
+        "pop":1375
+    },
+    {
+        "id":792946,
+        "name":"Banatski Dvor",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.51866,
+        "lon":20.51146,
+        "pop":1374
+    },
+    {
+        "id":789888,
+        "name":"Janošik",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.17141,
+        "lon":21.00658,
+        "pop":1372
+    },
+    {
+        "id":3198410,
+        "name":"Kamenica",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Kolubara",
+        "lat":44.343,
+        "lon":19.72333,
+        "pop":1371
+    },
+    {
+        "id":784344,
+        "name":"Vlajkovac",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.07207,
+        "lon":21.19945,
+        "pop":1356
+    },
+    {
+        "id":785530,
+        "name":"Stari Lec",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.28401,
+        "lon":20.96433,
+        "pop":1341
+    },
+    {
+        "id":785287,
+        "name":"Surduk",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":45.07118,
+        "lon":20.3251,
+        "pop":1332
+    },
+    {
+        "id":785125,
+        "name":"Taraš",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.46737,
+        "lon":20.19867,
+        "pop":1328
+    },
+    {
+        "id":787998,
+        "name":"Mihajlovo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.47085,
+        "lon":20.41508,
+        "pop":1318
+    },
+    {
+        "id":3203628,
+        "name":"Bosut",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.92977,
+        "lon":19.36086,
+        "pop":1311
+    },
+    {
+        "id":3197266,
+        "name":"Krivaja",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.55021,
+        "lon":19.59153,
+        "pop":1296
+    },
+    {
+        "id":3189229,
+        "name":"Tabanović",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.82018,
+        "lon":19.64128,
+        "pop":1286
+    },
+    {
+        "id":783793,
+        "name":"Žujince",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Pčinja",
+        "lat":42.31568,
+        "lon":21.70212,
+        "pop":1284
+    },
+    {
+        "id":3188429,
+        "name":"Uzveće",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.87861,
+        "lon":19.60356,
+        "pop":1263
+    },
+    {
+        "id":3202545,
+        "name":"Čokešina",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.65319,
+        "lon":19.39016,
+        "pop":1262
+    },
+    {
+        "id":3318618,
+        "name":"Sokolovo Brdo",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Zlatibor",
+        "lat":43.13694,
+        "lon":19.80556,
+        "pop":1261
+    },
+    {
+        "id":789828,
+        "name":"Jazovo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":45.89876,
+        "lon":20.2213,
+        "pop":1261
+    },
+    {
+        "id":785941,
+        "name":"Ševica",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Branicevo",
+        "lat":44.50883,
+        "lon":21.72296,
+        "pop":1249
+    },
+    {
+        "id":3190855,
+        "name":"Sinošević",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.61503,
+        "lon":19.63601,
+        "pop":1246
+    },
+    {
+        "id":792453,
+        "name":"Borča",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.86969,
+        "lon":20.45413,
+        "pop":1246
+    },
+    {
+        "id":3198582,
+        "name":"Joševa",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.58772,
+        "lon":19.40967,
+        "pop":1228
+    },
+    {
+        "id":3193437,
+        "name":"Petkovica",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.66627,
+        "lon":19.43923,
+        "pop":1227
+    },
+    {
+        "id":788329,
+        "name":"Mala Ivanča",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.58961,
+        "lon":20.61634,
+        "pop":1222
+    },
+    {
+        "id":3188725,
+        "name":"Tršić",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.49502,
+        "lon":19.2649,
+        "pop":1214
+    },
+    {
+        "id":789346,
+        "name":"Konak",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.31575,
+        "lon":20.91468,
+        "pop":1211
+    },
+    {
+        "id":3318985,
+        "name":"Rumska",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.57261,
+        "lon":19.58988,
+        "pop":1208
+    },
+    {
+        "id":787747,
+        "name":"Adorjan",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":46.00333,
+        "lon":20.04007,
+        "pop":1203
+    },
+    {
+        "id":3197451,
+        "name":"Kozjak",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.58727,
+        "lon":19.28412,
+        "pop":1201
+    },
+    {
+        "id":786203,
+        "name":"Rudnik",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Morava",
+        "lat":44.13982,
+        "lon":20.49398,
+        "pop":1201
+    },
+    {
+        "id":8394219,
+        "name":"Lagja e Poshtme",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Pčinja",
+        "lat":42.38853,
+        "lon":21.72971,
+        "pop":1200
+    },
+    {
+        "id":3203817,
+        "name":"Bogosavac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.71799,
+        "lon":19.59533,
+        "pop":1191
+    },
+    {
+        "id":788539,
+        "name":"Ljukovo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":45.02604,
+        "lon":20.02737,
+        "pop":1191
+    },
+    {
+        "id":788838,
+        "name":"Kuštilj",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.03487,
+        "lon":21.37989,
+        "pop":1189
+    },
+    {
+        "id":787597,
+        "name":"Kozjak",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.18264,
+        "lon":20.86381,
+        "pop":1170
+    },
+    {
+        "id":3203083,
+        "name":"Bukor",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.49523,
+        "lon":19.57116,
+        "pop":1167
+    },
+    {
+        "id":790053,
+        "name":"Hetin",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.66202,
+        "lon":20.79138,
+        "pop":1139
+    },
+    {
+        "id":788315,
+        "name":"Mala Moštanica",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.63834,
+        "lon":20.306,
+        "pop":1125
+    },
+    {
+        "id":789918,
+        "name":"Jajinci",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.74061,
+        "lon":20.48634,
+        "pop":1105
+    },
+    {
+        "id":785053,
+        "name":"Toba",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.68943,
+        "lon":20.55714,
+        "pop":1099
+    },
+    {
+        "id":784434,
+        "name":"Vilovo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Bačka",
+        "lat":45.24859,
+        "lon":20.15521,
+        "pop":1089
+    },
+    {
+        "id":3300709,
+        "name":"Ðurići",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Zlatibor",
+        "lat":43.84678,
+        "lon":19.40935,
+        "pop":1081
+    },
+    {
+        "id":786562,
+        "name":"Radovnica",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Pčinja",
+        "lat":42.43364,
+        "lon":22.22861,
+        "pop":1062
+    },
+    {
+        "id":792864,
+        "name":"Barice",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.18189,
+        "lon":21.08279,
+        "pop":1044
+    },
+    {
+        "id":3192138,
+        "name":"Radenković",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.92191,
+        "lon":19.49543,
+        "pop":1040
+    },
+    {
+        "id":784820,
+        "name":"Turija",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Branicevo",
+        "lat":44.52273,
+        "lon":21.63945,
+        "pop":1039
+    },
+    {
+        "id":784588,
+        "name":"Veliki Gaj",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.28849,
+        "lon":21.17057,
+        "pop":1039
+    },
+    {
+        "id":836063,
+        "name":"Sokolovica",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Raška",
+        "lat":43.21528,
+        "lon":20.31556,
+        "pop":1022
+    },
+    {
+        "id":792277,
+        "name":"Brezovica",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Jablanica",
+        "lat":42.95229,
+        "lon":22.17869,
+        "pop":1000
+    },
+    {
+        "id":792275,
+        "name":"Brezovica",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Morava",
+        "lat":43.74669,
+        "lon":20.41436,
+        "pop":1000
+    },
+    {
+        "id":790698,
+        "name":"Glogovac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.04213,
+        "lon":21.3134,
+        "pop":1000
+    },
+    {
+        "id":3200572,
+        "name":"Glogovac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.86341,
+        "lon":19.41532,
+        "pop":998
+    },
+    {
+        "id":792091,
+        "name":"Buštranje",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Pčinja",
+        "lat":42.33152,
+        "lon":21.75407,
+        "pop":988
+    },
+    {
+        "id":790981,
+        "name":"Donja Dubona",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.52136,
+        "lon":20.7268,
+        "pop":988
+    },
+    {
+        "id":862859,
+        "name":"Donja Gorevnica",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Morava",
+        "lat":43.87701,
+        "lon":20.50004,
+        "pop":981
+    },
+    {
+        "id":786284,
+        "name":"Ritiševo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.06454,
+        "lon":21.2281,
+        "pop":954
+    },
+    {
+        "id":3190102,
+        "name":"Sremska Rača",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.92077,
+        "lon":19.28577,
+        "pop":942
+    },
+    {
+        "id":3186754,
+        "name":"Zasavica Prva",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":44.95448,
+        "lon":19.48938,
+        "pop":924
+    },
+    {
+        "id":3200029,
+        "name":"Gornji Dobrić",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.58286,
+        "lon":19.30858,
+        "pop":884
+    },
+    {
+        "id":8520912,
+        "name":"Dolac naselje",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Pirot",
+        "lat":43.29511,
+        "lon":22.20626,
+        "pop":855
+    },
+    {
+        "id":3204264,
+        "name":"Bešenovo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":45.08364,
+        "lon":19.70408,
+        "pop":841
+    },
+    {
+        "id":789891,
+        "name":"Jankov Most",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.47498,
+        "lon":20.43835,
+        "pop":841
+    },
+    {
+        "id":3202281,
+        "name":"Culjković",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.66595,
+        "lon":19.54562,
+        "pop":840
+    },
+    {
+        "id":3200107,
+        "name":"Gornje Nedeljice",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.51645,
+        "lon":19.33915,
+        "pop":811
+    },
+    {
+        "id":787972,
+        "name":"Miletićevo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.30508,
+        "lon":21.06404,
+        "pop":811
+    },
+    {
+        "id":783881,
+        "name":"Žitni Potok",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Toplica",
+        "lat":43.09021,
+        "lon":21.57476,
+        "pop":810
+    },
+    {
+        "id":837365,
+        "name":"Kovilovo",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Belgrade",
+        "lat":44.90791,
+        "lon":20.42319,
+        "pop":808
+    },
+    {
+        "id":3204308,
+        "name":"Belotić",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.58099,
+        "lon":19.71932,
+        "pop":784
+    },
+    {
+        "id":792706,
+        "name":"Beloljin",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Toplica",
+        "lat":43.23846,
+        "lon":21.39673,
+        "pop":769
+    },
+    {
+        "id":3201726,
+        "name":"Donja Badanja",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.50556,
+        "lon":19.47543,
+        "pop":756
+    },
+    {
+        "id":3194593,
+        "name":"Nakučani",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.6014,
+        "lon":19.66718,
+        "pop":749
+    },
+    {
+        "id":3197303,
+        "name":"Kremna",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Zlatibor",
+        "lat":43.83807,
+        "lon":19.57433,
+        "pop":727
+    },
+    {
+        "id":784271,
+        "name":"Vojvodinci",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.01557,
+        "lon":21.34793,
+        "pop":727
+    },
+    {
+        "id":8394222,
+        "name":"Lagja e Shimshirve",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Pčinja",
+        "lat":42.38025,
+        "lon":21.74045,
+        "pop":720
+    },
+    {
+        "id":788139,
+        "name":"Markovac",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.14964,
+        "lon":21.47242,
+        "pop":717
+    },
+    {
+        "id":3194715,
+        "name":"Mrovska",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.54278,
+        "lon":19.675,
+        "pop":715
+    },
+    {
+        "id":788420,
+        "name":"Lukino Selo",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.30244,
+        "lon":20.42632,
+        "pop":703
+    },
+    {
+        "id":6942384,
+        "name":"Kriva Feja",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Pčinja",
+        "lat":42.55909,
+        "lon":22.17487,
+        "pop":700
+    },
+    {
+        "id":8394221,
+        "name":"Lagja e Korbajve",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Pčinja",
+        "lat":42.38674,
+        "lon":21.7434,
+        "pop":680
+    },
+    {
+        "id":3190309,
+        "name":"Sot",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":45.16077,
+        "lon":19.31782,
+        "pop":679
+    },
+    {
+        "id":791864,
+        "name":"Crna Bara",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":45.97326,
+        "lon":20.27614,
+        "pop":678
+    },
+    {
+        "id":784190,
+        "name":"Vrbica",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"North Banat",
+        "lat":46.00584,
+        "lon":20.31325,
+        "pop":654
+    },
+    {
+        "id":3190827,
+        "name":"Sirogojno",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Zlatibor",
+        "lat":43.689,
+        "lon":19.88746,
+        "pop":643
+    },
+    {
+        "id":785529,
+        "name":"Stari Slankamen",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Srem",
+        "lat":45.14249,
+        "lon":20.25765,
+        "pop":638
+    },
+    {
+        "id":3189175,
+        "name":"Tekeriš",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.55726,
+        "lon":19.5297,
+        "pop":616
+    },
+    {
+        "id":3199539,
+        "name":"Grnčara",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Mačva",
+        "lat":44.53516,
+        "lon":19.29971,
+        "pop":608
+    },
+    {
+        "id":3194918,
+        "name":"Mokra Gora",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Zlatibor",
+        "lat":43.78853,
+        "lon":19.50033,
+        "pop":605
+    },
+    {
+        "id":785231,
+        "name":"Suvi Do",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Toplica",
+        "lat":43.25829,
+        "lon":21.33269,
+        "pop":605
+    },
+    {
+        "id":785653,
+        "name":"Spančevac",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Pčinja",
+        "lat":42.36263,
+        "lon":21.85619,
+        "pop":578
+    },
+    {
+        "id":792953,
+        "name":"Banatska Dubica",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"Central Banat",
+        "lat":45.27146,
+        "lon":20.82833,
+        "pop":566
+    },
+    {
+        "id":788224,
+        "name":"Mali Žam",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.20979,
+        "lon":21.33729,
+        "pop":565
+    },
+    {
+        "id":788872,
+        "name":"Kupinik",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.29254,
+        "lon":21.13702,
+        "pop":545
+    },
+    {
+        "id":786418,
+        "name":"Ravanica",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Raška",
+        "lat":43.74771,
+        "lon":20.8843,
+        "pop":545
+    },
+    {
+        "id":790776,
+        "name":"Gamzigrad",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Zaječar",
+        "lat":43.90873,
+        "lon":22.17507,
+        "pop":537
+    },
+    {
+        "id":789942,
+        "name":"Jablanka",
+        "country":"RS",
+        "admin1":"Vojvodina",
+        "admin2":"South Banat",
+        "lat":45.07524,
+        "lon":21.39067,
+        "pop":536
+    },
+    {
+        "id":784851,
+        "name":"Tulare",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Toplica",
+        "lat":43.228,
+        "lon":21.37961,
+        "pop":533
+    },
+    {
+        "id":8394220,
+        "name":"Lagja e Ternovcalive",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Pčinja",
+        "lat":42.38999,
+        "lon":21.74365,
+        "pop":520
+    },
+    {
+        "id":793030,
+        "name":"Bace",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Toplica",
+        "lat":43.21963,
+        "lon":21.34463,
+        "pop":509
+    },
+    {
+        "id":791295,
+        "name":"Donja Konjuša",
+        "country":"RS",
+        "admin1":"Central Serbia",
+        "admin2":"Toplica",
+        "lat":43.22293,
+        "lon":21.41421,
+        "pop":508
+    }
+]

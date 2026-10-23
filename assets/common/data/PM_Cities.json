@@ -1,0 +1,22 @@
+[
+    {
+        "id":3424934,
+        "name":"Saint-Pierre",
+        "country":"PM",
+        "admin1":"Saint-Pierre",
+        "admin2":"",
+        "lat":46.77914,
+        "lon":-56.1773,
+        "pop":6200
+    },
+    {
+        "id":3424941,
+        "name":"Miquelon",
+        "country":"PM",
+        "admin1":"Miquelon-Langlade",
+        "admin2":"",
+        "lat":47.0975,
+        "lon":-56.38139,
+        "pop":1141
+    }
+]

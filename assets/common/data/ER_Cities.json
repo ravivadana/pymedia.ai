@@ -1,0 +1,142 @@
+[
+    {
+        "id":343300,
+        "name":"Asmara",
+        "country":"ER",
+        "admin1":"Maekel",
+        "admin2":"South Western Subregion",
+        "lat":15.33805,
+        "lon":38.93184,
+        "pop":563930
+    },
+    {
+        "id":333287,
+        "name":"Keren",
+        "country":"ER",
+        "admin1":"Anseba",
+        "admin2":"Keren Subregion",
+        "lat":15.77792,
+        "lon":38.45107,
+        "pop":74800
+    },
+    {
+        "id":334717,
+        "name":"Himora",
+        "country":"ER",
+        "admin1":"Gash-Barka",
+        "admin2":"Omhajer",
+        "lat":14.30427,
+        "lon":36.60601,
+        "pop":46100
+    },
+    {
+        "id":330546,
+        "name":"Massawa",
+        "country":"ER",
+        "admin1":"Northern Red Sea",
+        "admin2":"Massawa Subregion",
+        "lat":15.60811,
+        "lon":39.47455,
+        "pop":23100
+    },
+    {
+        "id":343386,
+        "name":"Assab",
+        "country":"ER",
+        "admin1":"Southern Red Sea",
+        "admin2":"Asseb",
+        "lat":13.00917,
+        "lon":42.73944,
+        "pop":21300
+    },
+    {
+        "id":344901,
+        "name":"Mendefera",
+        "country":"ER",
+        "admin1":"Debub",
+        "admin2":"Mendefera Subregion",
+        "lat":14.88722,
+        "lon":38.81528,
+        "pop":17781
+    },
+    {
+        "id":342711,
+        "name":"Barentu",
+        "country":"ER",
+        "admin1":"Gash-Barka",
+        "admin2":"Barentu Subregion",
+        "lat":15.10582,
+        "lon":37.59067,
+        "pop":15891
+    },
+    {
+        "id":345046,
+        "name":"Adi Keyh",
+        "country":"ER",
+        "admin1":"Debub",
+        "admin2":"Adi Keyh",
+        "lat":14.84444,
+        "lon":39.37722,
+        "pop":13061
+    },
+    {
+        "id":338345,
+        "name":"Edd",
+        "country":"ER",
+        "admin1":"Southern Red Sea",
+        "admin2":"Central Denkalya Subregion",
+        "lat":13.93088,
+        "lon":41.6938,
+        "pop":11259
+    },
+    {
+        "id":339537,
+        "name":"Dek’emhāre",
+        "country":"ER",
+        "admin1":"Debub",
+        "admin2":"Dekemhare Subregion",
+        "lat":15.07,
+        "lon":39.0475,
+        "pop":10959
+    },
+    {
+        "id":344426,
+        "name":"Ak’ordat",
+        "country":"ER",
+        "admin1":"Gash-Barka",
+        "admin2":"Akurdet Subregion",
+        "lat":15.54798,
+        "lon":37.88291,
+        "pop":8857
+    },
+    {
+        "id":339165,
+        "name":"Dbarwa",
+        "country":"ER",
+        "admin1":"Debub",
+        "admin2":"Dbarwa",
+        "lat":15.09683,
+        "lon":38.83331,
+        "pop":4902
+    },
+    {
+        "id":339563,
+        "name":"Dehalak’ Kebīr",
+        "country":"ER",
+        "admin1":"Northern Red Sea",
+        "admin2":"",
+        "lat":15.68333,
+        "lon":40.01667,
+        "pop":2500
+    },
+    {
+        "id":7115028,
+        "name":"Quandeba",
+        "country":"ER",
+        "admin1":"Maekel",
+        "admin2":"Serejaka",
+        "lat":15.50914,
+        "lon":38.87825,
+        "pop":1000
+    }
+]

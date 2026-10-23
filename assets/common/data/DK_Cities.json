@@ -1,0 +1,4832 @@
+[
+    {
+        "id":2618425,
+        "name":"Copenhagen",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"København",
+        "lat":55.67594,
+        "lon":12.56553,
+        "pop":1153615
+    },
+    {
+        "id":2624652,
+        "name":"Århus",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.15674,
+        "lon":10.21076,
+        "pop":285273
+    },
+    {
+        "id":2615876,
+        "name":"Odense",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Odense Kommune",
+        "lat":55.39594,
+        "lon":10.38831,
+        "pop":180863
+    },
+    {
+        "id":2624886,
+        "name":"Aalborg",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Ålborg Kommune",
+        "lat":57.048,
+        "lon":9.9187,
+        "pop":142937
+    },
+    {
+        "id":2621942,
+        "name":"Frederiksberg",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Frederiksberg Kommune",
+        "lat":55.67938,
+        "lon":12.53463,
+        "pop":95029
+    },
+    {
+        "id":2622447,
+        "name":"Esbjerg",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Esbjerg Kommune",
+        "lat":55.47028,
+        "lon":8.45187,
+        "pop":71698
+    },
+    {
+        "id":2615006,
+        "name":"Randers",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Randers Kommune",
+        "lat":56.4607,
+        "lon":10.03639,
+        "pop":62802
+    },
+    {
+        "id":2618528,
+        "name":"Kolding",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Kolding Kommune",
+        "lat":55.4904,
+        "lon":9.47216,
+        "pop":61638
+    },
+    {
+        "id":2619771,
+        "name":"Horsens",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Horsens Kommune",
+        "lat":55.86066,
+        "lon":9.85034,
+        "pop":61074
+    },
+    {
+        "id":2610613,
+        "name":"Vejle",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Vejle Kommune",
+        "lat":55.70927,
+        "lon":9.5357,
+        "pop":60231
+    },
+    {
+        "id":2619528,
+        "name":"Hvidovre",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Hvidovre Kommune",
+        "lat":55.64297,
+        "lon":12.47708,
+        "pop":53527
+    },
+    {
+        "id":2624427,
+        "name":"Avedøre",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Hvidovre Kommune",
+        "lat":55.62722,
+        "lon":12.45644,
+        "pop":53443
+    },
+    {
+        "id":2618741,
+        "name":"Klinteby Frihed",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Næstved Kommune",
+        "lat":55.19705,
+        "lon":11.59603,
+        "pop":53443
+    },
+    {
+        "id":2614481,
+        "name":"Roskilde",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Roskilde Kommune",
+        "lat":55.64152,
+        "lon":12.08035,
+        "pop":51916
+    },
+    {
+        "id":2620425,
+        "name":"Herning",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Herning Kommune",
+        "lat":56.13615,
+        "lon":8.97662,
+        "pop":50565
+    },
+    {
+        "id":2614030,
+        "name":"Silkeborg",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Silkeborg Kommune",
+        "lat":56.1697,
+        "lon":9.54508,
+        "pop":49747
+    },
+    {
+        "id":2619856,
+        "name":"Hørsholm",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Hørsholm Kommune",
+        "lat":55.88098,
+        "lon":12.50111,
+        "pop":47680
+    },
+    {
+        "id":2621215,
+        "name":"Greve",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Greve Kommune",
+        "lat":55.58333,
+        "lon":12.3,
+        "pop":47671
+    },
+    {
+        "id":2620583,
+        "name":"Hedensted",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Hedensted Kommune",
+        "lat":55.77043,
+        "lon":9.7011,
+        "pop":47099
+    },
+    {
+        "id":2616038,
+        "name":"Næstved",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Næstved Kommune",
+        "lat":55.22992,
+        "lon":11.76092,
+        "pop":44331
+    },
+    {
+        "id":2610319,
+        "name":"Viborg",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Viborg Kommune",
+        "lat":56.45319,
+        "lon":9.40201,
+        "pop":41239
+    },
+    {
+        "id":2621951,
+        "name":"Fredericia",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Fredericia Kommune",
+        "lat":55.56568,
+        "lon":9.75257,
+        "pop":40886
+    },
+    {
+        "id":2614600,
+        "name":"Rødovre",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Rødovre Kommune",
+        "lat":55.68062,
+        "lon":12.45373,
+        "pop":40652
+    },
+    {
+        "id":2624341,
+        "name":"Ballerup",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Ballerup Kommune",
+        "lat":55.73165,
+        "lon":12.36328,
+        "pop":40000
+    },
+    {
+        "id":2623188,
+        "name":"Charlottenlund",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Gentofte Kommune",
+        "lat":55.75238,
+        "lon":12.5745,
+        "pop":40000
+    },
+    {
+        "id":2618415,
+        "name":"Køge",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Køge Kommune",
+        "lat":55.45802,
+        "lon":12.18214,
+        "pop":38304
+    },
+    {
+        "id":2620320,
+        "name":"Hillerød",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Hillerød Kommune",
+        "lat":55.92791,
+        "lon":12.30081,
+        "pop":35357
+    },
+    {
+        "id":2611828,
+        "name":"Taastrup",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Høje-Taastrup Kommune",
+        "lat":55.65006,
+        "lon":12.3016,
+        "pop":35238
+    },
+    {
+        "id":2620473,
+        "name":"Helsingør",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Helsingør Kommune",
+        "lat":56.03606,
+        "lon":12.6136,
+        "pop":35048
+    },
+    {
+        "id":2620046,
+        "name":"Holstebro",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Holstebro Kommune",
+        "lat":56.36009,
+        "lon":8.61607,
+        "pop":32072
+    },
+    {
+        "id":2613460,
+        "name":"Slagelse",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Slagelse Kommune",
+        "lat":55.40276,
+        "lon":11.35459,
+        "pop":31896
+    },
+    {
+        "id":2610310,
+        "name":"Viby",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.12259,
+        "lon":10.15145,
+        "pop":31756
+    },
+    {
+        "id":2624906,
+        "name":"Albertslund",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Albertslund Kommune",
+        "lat":55.65691,
+        "lon":12.36381,
+        "pop":30000
+    },
+    {
+        "id":2620147,
+        "name":"Holbæk",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Holbæk Kommune",
+        "lat":55.7175,
+        "lon":11.71279,
+        "pop":29608
+    },
+    {
+        "id":2613102,
+        "name":"Sønderborg",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Sønderborg Kommune",
+        "lat":54.90896,
+        "lon":9.78917,
+        "pop":27766
+    },
+    {
+        "id":2612045,
+        "name":"Svendborg",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Svendborg Kommune",
+        "lat":55.05982,
+        "lon":10.60677,
+        "pop":27300
+    },
+    {
+        "id":2624843,
+        "name":"Allerød",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Allerød Kommune",
+        "lat":55.87035,
+        "lon":12.35737,
+        "pop":25867
+    },
+    {
+        "id":2620214,
+        "name":"Hjørring",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Hjørring Kommune",
+        "lat":57.46417,
+        "lon":9.98229,
+        "pop":25644
+    },
+    {
+        "id":2616235,
+        "name":"Nørresundby",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Ålborg Kommune",
+        "lat":57.05877,
+        "lon":9.92284,
+        "pop":23718
+    },
+    {
+        "id":2621356,
+        "name":"Glostrup",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Glostrup Kommune",
+        "lat":55.6666,
+        "lon":12.40377,
+        "pop":23128
+    },
+    {
+        "id":2614764,
+        "name":"Ringsted",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Ringsted Kommune",
+        "lat":55.4426,
+        "lon":11.79011,
+        "pop":23086
+    },
+    {
+        "id":2621927,
+        "name":"Frederikshavn",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Frederikshavn Kommune",
+        "lat":57.44073,
+        "lon":10.53661,
+        "pop":22672
+    },
+    {
+        "id":2620964,
+        "name":"Haderslev",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Haderslev Kommune",
+        "lat":55.24943,
+        "lon":9.48771,
+        "pop":22011
+    },
+    {
+        "id":2624112,
+        "name":"Birkerød",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Rudersdal Kommune",
+        "lat":55.84759,
+        "lon":12.42791,
+        "pop":20877
+    },
+    {
+        "id":2622306,
+        "name":"Farum",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Furesø Kommune",
+        "lat":55.80858,
+        "lon":12.36066,
+        "pop":20312
+    },
+    {
+        "id":2613731,
+        "name":"Skive",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Skive Kommune",
+        "lat":56.56699,
+        "lon":9.02707,
+        "pop":20190
+    },
+    {
+        "id":2623340,
+        "name":"Brøndbyvester",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Brøndby Kommune",
+        "lat":55.6455,
+        "lon":12.41008,
+        "pop":20000
+    },
+    {
+        "id":2612629,
+        "name":"Stenløse",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Egedal Kommune",
+        "lat":55.76828,
+        "lon":12.19723,
+        "pop":19998
+    },
+    {
+        "id":2615961,
+        "name":"Nykøbing Falster",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Guldborgsund Kommune",
+        "lat":54.76906,
+        "lon":11.87425,
+        "pop":19976
+    },
+    {
+        "id":2619377,
+        "name":"Ishøj",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Ishøj Kommune",
+        "lat":55.61543,
+        "lon":12.35182,
+        "pop":19453
+    },
+    {
+        "id":2610020,
+        "name":"Vordingborg",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Vordingborg Kommune",
+        "lat":55.00801,
+        "lon":11.91057,
+        "pop":17868
+    },
+    {
+        "id":2616015,
+        "name":"Nyborg",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Nyborg Kommune",
+        "lat":55.31274,
+        "lon":10.78964,
+        "pop":17525
+    },
+    {
+        "id":2621912,
+        "name":"Frederikssund",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Frederikssund Kommune",
+        "lat":55.83956,
+        "lon":12.06896,
+        "pop":16850
+    },
+    {
+        "id":2617658,
+        "name":"Lillerød",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Allerød Kommune",
+        "lat":55.87496,
+        "lon":12.34579,
+        "pop":16741
+    },
+    {
+        "id":2610789,
+        "name":"Vallensbæk",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Vallensbæk Kommune",
+        "lat":55.62199,
+        "lon":12.38511,
+        "pop":16515
+    },
+    {
+        "id":2625070,
+        "name":"Aabenraa",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Aabenraa Kommune",
+        "lat":55.04434,
+        "lon":9.41741,
+        "pop":16401
+    },
+    {
+        "id":2611497,
+        "name":"Tønder",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Tønder Kommune",
+        "lat":54.93306,
+        "lon":8.86674,
+        "pop":16401
+    },
+    {
+        "id":2616933,
+        "name":"Middelfart",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Middelfart Kommune",
+        "lat":55.50591,
+        "lon":9.73054,
+        "pop":16277
+    },
+    {
+        "id":2619154,
+        "name":"Kalundborg",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Kalundborg Kommune",
+        "lat":55.67954,
+        "lon":11.08864,
+        "pop":16211
+    },
+    {
+        "id":2611720,
+        "name":"Tilst",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.19376,
+        "lon":10.11283,
+        "pop":15617
+    },
+    {
+        "id":2619426,
+        "name":"Ikast",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Ikast-Brande Kommune",
+        "lat":56.13883,
+        "lon":9.15768,
+        "pop":14692
+    },
+    {
+        "id":2618361,
+        "name":"Korsør",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Slagelse Kommune",
+        "lat":55.32993,
+        "lon":11.13857,
+        "pop":14463
+    },
+    {
+        "id":2621230,
+        "name":"Grenaa",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Norddjurs Kommune",
+        "lat":56.41578,
+        "lon":10.87825,
+        "pop":14176
+    },
+    {
+        "id":2610726,
+        "name":"Varde",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Varde Kommune",
+        "lat":55.62112,
+        "lon":8.48069,
+        "pop":14039
+    },
+    {
+        "id":2614553,
+        "name":"Rønne",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Bornholm Kommune",
+        "lat":55.10091,
+        "lon":14.70664,
+        "pop":13807
+    },
+    {
+        "id":2620587,
+        "name":"Hedehusene",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Høje-Taastrup Kommune",
+        "lat":55.64951,
+        "lon":12.19827,
+        "pop":13663
+    },
+    {
+        "id":2613887,
+        "name":"Skanderborg",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Skanderborg Kommune",
+        "lat":56.03434,
+        "lon":9.93177,
+        "pop":13543
+    },
+    {
+        "id":2611755,
+        "name":"Thisted",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Thisted Kommune",
+        "lat":56.95523,
+        "lon":8.69491,
+        "pop":13461
+    },
+    {
+        "id":2617626,
+        "name":"Værløse",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Furesø Kommune",
+        "lat":55.78251,
+        "lon":12.36856,
+        "pop":13069
+    },
+    {
+        "id":2621910,
+        "name":"Frederiksværk",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Halsnæs Kommune",
+        "lat":55.97073,
+        "lon":12.0225,
+        "pop":12718
+    },
+    {
+        "id":2623337,
+        "name":"Brønderslev",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Brønderslev Kommune",
+        "lat":57.27021,
+        "lon":9.94102,
+        "pop":12549
+    },
+    {
+        "id":2616599,
+        "name":"Nakskov",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Lolland Kommune",
+        "lat":54.83038,
+        "lon":11.13567,
+        "pop":12495
+    },
+    {
+        "id":2615886,
+        "name":"Odder",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Odder Kommune",
+        "lat":55.97313,
+        "lon":10.153,
+        "pop":12454
+    },
+    {
+        "id":2622937,
+        "name":"Dragør",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Dragør Kommune",
+        "lat":55.5928,
+        "lon":12.67221,
+        "pop":12401
+    },
+    {
+        "id":2611307,
+        "name":"Tranekær",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Langeland Kommune",
+        "lat":54.9976,
+        "lon":10.84381,
+        "pop":12367
+    },
+    {
+        "id":2617423,
+        "name":"Løsning",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Hedensted Kommune",
+        "lat":55.80236,
+        "lon":9.69539,
+        "pop":12220
+    },
+    {
+        "id":2620712,
+        "name":"Haslev",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Faxe Kommune",
+        "lat":55.32346,
+        "lon":11.96389,
+        "pop":12119
+    },
+    {
+        "id":2620167,
+        "name":"Hobro",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Mariagerfjord Kommune",
+        "lat":56.64306,
+        "lon":9.79029,
+        "pop":12071
+    },
+    {
+        "id":2623341,
+        "name":"Brøndby Strand",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Ishøj Kommune",
+        "lat":55.61782,
+        "lon":12.42219,
+        "pop":11915
+    },
+    {
+        "id":2621435,
+        "name":"Gjellerup",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.15683,
+        "lon":10.13008,
+        "pop":11406
+    },
+    {
+        "id":2622418,
+        "name":"Espergærde",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Helsingør Kommune",
+        "lat":55.99464,
+        "lon":12.54733,
+        "pop":11358
+    },
+    {
+        "id":2612204,
+        "name":"Struer",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Struer Kommune",
+        "lat":56.49205,
+        "lon":8.59397,
+        "pop":11317
+    },
+    {
+        "id":2622061,
+        "name":"Fløng",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Høje-Taastrup Kommune",
+        "lat":55.66212,
+        "lon":12.18698,
+        "pop":11108
+    },
+    {
+        "id":2618468,
+        "name":"Kongens Lyngby",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Lyngby-Tårbæk Kommune",
+        "lat":55.77044,
+        "lon":12.50378,
+        "pop":10600
+    },
+    {
+        "id":2617176,
+        "name":"Lystrup",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.2375,
+        "lon":10.23778,
+        "pop":10273
+    },
+    {
+        "id":2617175,
+        "name":"Lystrup",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Norddjurs Kommune",
+        "lat":56.49839,
+        "lon":10.46887,
+        "pop":10273
+    },
+    {
+        "id":2619216,
+        "name":"Jyllinge",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Roskilde Kommune",
+        "lat":55.75295,
+        "lon":12.10315,
+        "pop":10134
+    },
+    {
+        "id":2611862,
+        "name":"Tårnby",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Tårnby Kommune",
+        "lat":55.6303,
+        "lon":12.60035,
+        "pop":10000
+    },
+    {
+        "id":2614776,
+        "name":"Ringkøbing",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Ringkøbing-Skjern Kommune",
+        "lat":56.09006,
+        "lon":8.24402,
+        "pop":9894
+    },
+    {
+        "id":2624853,
+        "name":"Alholm",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Guldborgsund Kommune",
+        "lat":54.66483,
+        "lon":11.72303,
+        "pop":9848
+    },
+    {
+        "id":2621193,
+        "name":"Grindsted",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Billund Kommune",
+        "lat":55.75726,
+        "lon":8.9275,
+        "pop":9750
+    },
+    {
+        "id":2613345,
+        "name":"Smørumnedre",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Egedal Kommune",
+        "lat":55.74232,
+        "lon":12.30276,
+        "pop":9507
+    },
+    {
+        "id":2612500,
+        "name":"Støvring",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Rebild Kommune",
+        "lat":56.88536,
+        "lon":9.83839,
+        "pop":9089
+    },
+    {
+        "id":2615964,
+        "name":"Nykøbing Mors",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Morsø Kommune",
+        "lat":56.79334,
+        "lon":8.85282,
+        "pop":9033
+    },
+    {
+        "id":2621956,
+        "name":"Fredensborg",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Fredensborg Kommune",
+        "lat":55.97558,
+        "lon":12.40314,
+        "pop":8965
+    },
+    {
+        "id":2619669,
+        "name":"Humlebæk",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Fredensborg Kommune",
+        "lat":55.9618,
+        "lon":12.5341,
+        "pop":8965
+    },
+    {
+        "id":2614172,
+        "name":"Sæby",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Frederikshavn Kommune",
+        "lat":57.33188,
+        "lon":10.52251,
+        "pop":8838
+    },
+    {
+        "id":2617443,
+        "name":"Løkken",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Hjørring Kommune",
+        "lat":57.37047,
+        "lon":9.71466,
+        "pop":8828
+    },
+    {
+        "id":2617112,
+        "name":"Måløv",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Ballerup Kommune",
+        "lat":55.75528,
+        "lon":12.32327,
+        "pop":8787
+    },
+    {
+        "id":2617463,
+        "name":"Løgten",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.27459,
+        "lon":10.31181,
+        "pop":8659
+    },
+    {
+        "id":2620476,
+        "name":"Helsinge",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Gribskov Kommune",
+        "lat":56.02283,
+        "lon":12.19752,
+        "pop":8616
+    },
+    {
+        "id":2611189,
+        "name":"Trørød",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Rudersdal Kommune",
+        "lat":55.83946,
+        "lon":12.54432,
+        "pop":8576
+    },
+    {
+        "id":2619650,
+        "name":"Hundested",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Halsnæs Kommune",
+        "lat":55.96397,
+        "lon":11.85044,
+        "pop":8543
+    },
+    {
+        "id":2610634,
+        "name":"Vejen",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Vejen Kommune",
+        "lat":55.48117,
+        "lon":9.13795,
+        "pop":8525
+    },
+    {
+        "id":2624602,
+        "name":"Aars",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Vesthimmerland Kommune",
+        "lat":56.80399,
+        "lon":9.51441,
+        "pop":8474
+    },
+    {
+        "id":2619860,
+        "name":"Hørning",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Skanderborg Kommune",
+        "lat":56.08701,
+        "lon":10.03716,
+        "pop":8395
+    },
+    {
+        "id":2619859,
+        "name":"Hørning",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Randers Kommune",
+        "lat":56.412,
+        "lon":10.20018,
+        "pop":8395
+    },
+    {
+        "id":2614813,
+        "name":"Ribe",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Esbjerg Kommune",
+        "lat":55.33051,
+        "lon":8.76966,
+        "pop":8257
+    },
+    {
+        "id":2620956,
+        "name":"Hadsten",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Favrskov Kommune",
+        "lat":56.32819,
+        "lon":10.04931,
+        "pop":8254
+    },
+    {
+        "id":2620288,
+        "name":"Hinnerup",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Favrskov Kommune",
+        "lat":56.26608,
+        "lon":10.06299,
+        "pop":8164
+    },
+    {
+        "id":2620287,
+        "name":"Hinnerup",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Skive Kommune",
+        "lat":56.7347,
+        "lon":9.05874,
+        "pop":8164
+    },
+    {
+        "id":2612862,
+        "name":"Sorø",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Sorø Kommune",
+        "lat":55.43184,
+        "lon":11.55547,
+        "pop":7999
+    },
+    {
+        "id":2616450,
+        "name":"Nivå",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Fredensborg Kommune",
+        "lat":55.93405,
+        "lon":12.50485,
+        "pop":7997
+    },
+    {
+        "id":2612022,
+        "name":"Svenstrup",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Mariagerfjord Kommune",
+        "lat":56.60263,
+        "lon":9.94361,
+        "pop":7650
+    },
+    {
+        "id":2612021,
+        "name":"Svenstrup",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Ålborg Kommune",
+        "lat":56.9723,
+        "lon":9.84806,
+        "pop":7650
+    },
+    {
+        "id":2613939,
+        "name":"Skagen",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Frederikshavn Kommune",
+        "lat":57.72093,
+        "lon":10.58394,
+        "pop":7571
+    },
+    {
+        "id":2610075,
+        "name":"Vojens",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Haderslev Kommune",
+        "lat":55.24639,
+        "lon":9.30603,
+        "pop":7475
+    },
+    {
+        "id":2623554,
+        "name":"Brande",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Ikast-Brande Kommune",
+        "lat":55.94316,
+        "lon":9.12798,
+        "pop":7449
+    },
+    {
+        "id":2624019,
+        "name":"Bjerringbro",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Viborg Kommune",
+        "lat":56.37797,
+        "lon":9.66065,
+        "pop":7437
+    },
+    {
+        "id":2620704,
+        "name":"Hasselager",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.10555,
+        "lon":10.10003,
+        "pop":7437
+    },
+    {
+        "id":2617812,
+        "name":"Lemvig",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Lemvig Kommune",
+        "lat":56.54856,
+        "lon":8.31019,
+        "pop":7330
+    },
+    {
+        "id":2611316,
+        "name":"Tranbjerg",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.09519,
+        "lon":10.13605,
+        "pop":7307
+    },
+    {
+        "id":2622793,
+        "name":"Ebeltoft",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Syddjurs Kommune",
+        "lat":56.19442,
+        "lon":10.6821,
+        "pop":7204
+    },
+    {
+        "id":2614387,
+        "name":"Ry",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Skanderborg Kommune",
+        "lat":56.09038,
+        "lon":9.76505,
+        "pop":7151
+    },
+    {
+        "id":2613715,
+        "name":"Skjern",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Ringkøbing-Skjern Kommune",
+        "lat":55.95,
+        "lon":8.5,
+        "pop":7145
+    },
+    {
+        "id":2623570,
+        "name":"Bramming",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Esbjerg Kommune",
+        "lat":55.46946,
+        "lon":8.70007,
+        "pop":7111
+    },
+    {
+        "id":2622383,
+        "name":"Faaborg",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Faaborg-Midtfyn Kommune",
+        "lat":55.0951,
+        "lon":10.24226,
+        "pop":6944
+    },
+    {
+        "id":2620835,
+        "name":"Hammel",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Favrskov Kommune",
+        "lat":56.25762,
+        "lon":9.86316,
+        "pop":6854
+    },
+    {
+        "id":2613451,
+        "name":"Slangerup",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Frederikssund Kommune",
+        "lat":55.85,
+        "lon":12.18333,
+        "pop":6826
+    },
+    {
+        "id":2621471,
+        "name":"Gilleleje",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Gribskov Kommune",
+        "lat":56.12196,
+        "lon":12.31056,
+        "pop":6781
+    },
+    {
+        "id":2624144,
+        "name":"Billund",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Billund Kommune",
+        "lat":55.73349,
+        "lon":9.10785,
+        "pop":6725
+    },
+    {
+        "id":2614790,
+        "name":"Ringe",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Faaborg-Midtfyn Kommune",
+        "lat":55.23828,
+        "lon":10.4786,
+        "pop":6474
+    },
+    {
+        "id":2613694,
+        "name":"Skælskør",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Slagelse Kommune",
+        "lat":55.25058,
+        "lon":11.29352,
+        "pop":6472
+    },
+    {
+        "id":2625037,
+        "name":"Åbybro",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Jammerbugt Kommune",
+        "lat":57.16249,
+        "lon":9.72996,
+        "pop":6318
+    },
+    {
+        "id":2617114,
+        "name":"Malling",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.03632,
+        "lon":10.19632,
+        "pop":6194
+    },
+    {
+        "id":2619787,
+        "name":"Hornslet",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Syddjurs Kommune",
+        "lat":56.3155,
+        "lon":10.32041,
+        "pop":6171
+    },
+    {
+        "id":2624502,
+        "name":"Assens",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Assens Kommune",
+        "lat":55.27023,
+        "lon":9.90081,
+        "pop":6050
+    },
+    {
+        "id":2614611,
+        "name":"Rødekro",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Aabenraa Kommune",
+        "lat":55.07076,
+        "lon":9.33531,
+        "pop":5950
+    },
+    {
+        "id":2624784,
+        "name":"Ålsgårde",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Helsingør Kommune",
+        "lat":56.07559,
+        "lon":12.53995,
+        "pop":5790
+    },
+    {
+        "id":2620528,
+        "name":"Hellebæk",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Helsingør Kommune",
+        "lat":56.06823,
+        "lon":12.55782,
+        "pop":5790
+    },
+    {
+        "id":2618944,
+        "name":"Kerteminde",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Kerteminde Kommune",
+        "lat":55.44903,
+        "lon":10.65769,
+        "pop":5748
+    },
+    {
+        "id":2617072,
+        "name":"Maribo",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Lolland Kommune",
+        "lat":54.77662,
+        "lon":11.50017,
+        "pop":5722
+    },
+    {
+        "id":2616176,
+        "name":"Nordborg",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Sønderborg Kommune",
+        "lat":55.05732,
+        "lon":9.7408,
+        "pop":5709
+    },
+    {
+        "id":2612710,
+        "name":"Stavnsholt",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Furesø Kommune",
+        "lat":55.81479,
+        "lon":12.40545,
+        "pop":5658
+    },
+    {
+        "id":2616540,
+        "name":"Neder Holluf",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Odense Kommune",
+        "lat":55.36451,
+        "lon":10.44824,
+        "pop":5612
+    },
+    {
+        "id":2616672,
+        "name":"Munkebo",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Kerteminde Kommune",
+        "lat":55.45553,
+        "lon":10.55433,
+        "pop":5571
+    },
+    {
+        "id":2620279,
+        "name":"Hirtshals",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Hjørring Kommune",
+        "lat":57.58812,
+        "lon":9.95922,
+        "pop":5532
+    },
+    {
+        "id":2624193,
+        "name":"Bellinge",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Odense Kommune",
+        "lat":55.33535,
+        "lon":10.32045,
+        "pop":5483
+    },
+    {
+        "id":2616483,
+        "name":"Nibe",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Ålborg Kommune",
+        "lat":56.9815,
+        "lon":9.63917,
+        "pop":5433
+    },
+    {
+        "id":2615730,
+        "name":"Ølstykke",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Egedal Kommune",
+        "lat":55.79567,
+        "lon":12.15509,
+        "pop":5348
+    },
+    {
+        "id":2619807,
+        "name":"Hornbæk",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Helsingør Kommune",
+        "lat":56.09027,
+        "lon":12.45693,
+        "pop":5334
+    },
+    {
+        "id":2611132,
+        "name":"Tune",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Greve Kommune",
+        "lat":55.59287,
+        "lon":12.16968,
+        "pop":5300
+    },
+    {
+        "id":2615351,
+        "name":"Otterup",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Nordfyns Kommune",
+        "lat":55.51527,
+        "lon":10.39756,
+        "pop":5269
+    },
+    {
+        "id":2620952,
+        "name":"Hadsund",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Mariagerfjord Kommune",
+        "lat":56.71482,
+        "lon":10.11682,
+        "pop":5066
+    },
+    {
+        "id":2618489,
+        "name":"Kolt",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.10845,
+        "lon":10.06986,
+        "pop":5061
+    },
+    {
+        "id":2617034,
+        "name":"Mårslet",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.0669,
+        "lon":10.16112,
+        "pop":5004
+    },
+    {
+        "id":2615962,
+        "name":"Nykøbing Sjælland",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Odsherred Kommune",
+        "lat":55.92491,
+        "lon":11.67109,
+        "pop":5002
+    },
+    {
+        "id":2618787,
+        "name":"Klarup",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Ålborg Kommune",
+        "lat":57.01194,
+        "lon":10.05617,
+        "pop":4969
+    },
+    {
+        "id":2621710,
+        "name":"Galten",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Skanderborg Kommune",
+        "lat":56.15902,
+        "lon":9.91691,
+        "pop":4895
+    },
+    {
+        "id":2612224,
+        "name":"Strib",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Middelfart Kommune",
+        "lat":55.54021,
+        "lon":9.76748,
+        "pop":4872
+    },
+    {
+        "id":2610760,
+        "name":"Vamdrup",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Kolding Kommune",
+        "lat":55.42764,
+        "lon":9.28435,
+        "pop":4809
+    },
+    {
+        "id":2610311,
+        "name":"Viby",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Roskilde Kommune",
+        "lat":55.54872,
+        "lon":12.02391,
+        "pop":4773
+    },
+    {
+        "id":2623628,
+        "name":"Borup",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Køge Kommune",
+        "lat":55.49472,
+        "lon":11.97584,
+        "pop":4728
+    },
+    {
+        "id":2623627,
+        "name":"Borup",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Holbæk Kommune",
+        "lat":55.69369,
+        "lon":11.63424,
+        "pop":4728
+    },
+    {
+        "id":2610095,
+        "name":"Vodskov",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Ålborg Kommune",
+        "lat":57.10854,
+        "lon":10.02215,
+        "pop":4663
+    },
+    {
+        "id":2614328,
+        "name":"Sakskøbing",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Guldborgsund Kommune",
+        "lat":54.7997,
+        "lon":11.62599,
+        "pop":4595
+    },
+    {
+        "id":2621448,
+        "name":"Give",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Vejle Kommune",
+        "lat":55.84523,
+        "lon":9.23769,
+        "pop":4550
+    },
+    {
+        "id":2614432,
+        "name":"Rudkøbing",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Langeland Kommune",
+        "lat":54.93639,
+        "lon":10.71019,
+        "pop":4521
+    },
+    {
+        "id":2623321,
+        "name":"Brørup",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Vejen Kommune",
+        "lat":55.48194,
+        "lon":9.01756,
+        "pop":4516
+    },
+    {
+        "id":2618814,
+        "name":"Kjellerup",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Silkeborg Kommune",
+        "lat":56.28581,
+        "lon":9.43528,
+        "pop":4514
+    },
+    {
+        "id":2619967,
+        "name":"Højby",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Odense Kommune",
+        "lat":55.33177,
+        "lon":10.43725,
+        "pop":4406
+    },
+    {
+        "id":2620664,
+        "name":"Havdrup",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Solrød Kommune",
+        "lat":55.54481,
+        "lon":12.12392,
+        "pop":4365
+    },
+    {
+        "id":2619882,
+        "name":"Høng",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Kalundborg Kommune",
+        "lat":55.50736,
+        "lon":11.28873,
+        "pop":4355
+    },
+    {
+        "id":2619220,
+        "name":"Jyderup",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Odsherred Kommune",
+        "lat":55.83689,
+        "lon":11.55333,
+        "pop":4325
+    },
+    {
+        "id":2615242,
+        "name":"Padborg",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Aabenraa Kommune",
+        "lat":54.82657,
+        "lon":9.36247,
+        "pop":4311
+    },
+    {
+        "id":2619221,
+        "name":"Jyderup",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Holbæk Kommune",
+        "lat":55.66399,
+        "lon":11.42029,
+        "pop":4303
+    },
+    {
+        "id":2618872,
+        "name":"Kirke Hvalsø",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Lejre Kommune",
+        "lat":55.5917,
+        "lon":11.86253,
+        "pop":4294
+    },
+    {
+        "id":2621258,
+        "name":"Gråsten",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Sønderborg Kommune",
+        "lat":54.91918,
+        "lon":9.59523,
+        "pop":4274
+    },
+    {
+        "id":2611982,
+        "name":"Svogerslev",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Roskilde Kommune",
+        "lat":55.63423,
+        "lon":12.01465,
+        "pop":4267
+    },
+    {
+        "id":2622372,
+        "name":"Faxe",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Faxe Kommune",
+        "lat":55.25561,
+        "lon":12.11926,
+        "pop":4246
+    },
+    {
+        "id":2610307,
+        "name":"Videbæk",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Ringkøbing-Skjern Kommune",
+        "lat":56.0876,
+        "lon":8.62852,
+        "pop":4242
+    },
+    {
+        "id":2613254,
+        "name":"Solbjerg",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.04271,
+        "lon":10.08631,
+        "pop":4240
+    },
+    {
+        "id":2620275,
+        "name":"Hjallerup",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Brønderslev Kommune",
+        "lat":57.16466,
+        "lon":10.14571,
+        "pop":4235
+    },
+    {
+        "id":2617936,
+        "name":"Langeskov",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Kerteminde Kommune",
+        "lat":55.35655,
+        "lon":10.58447,
+        "pop":4222
+    },
+    {
+        "id":2624212,
+        "name":"Beder",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.06025,
+        "lon":10.21179,
+        "pop":4214
+    },
+    {
+        "id":2622226,
+        "name":"Fensmark",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Næstved Kommune",
+        "lat":55.27919,
+        "lon":11.80382,
+        "pop":4203
+    },
+    {
+        "id":2624595,
+        "name":"Årslev",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Faaborg-Midtfyn Kommune",
+        "lat":55.30353,
+        "lon":10.46428,
+        "pop":4193
+    },
+    {
+        "id":2617220,
+        "name":"Lynge",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Allerød Kommune",
+        "lat":55.83941,
+        "lon":12.27725,
+        "pop":4163
+    },
+    {
+        "id":2623857,
+        "name":"Bogense",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Nordfyns Kommune",
+        "lat":55.56691,
+        "lon":10.08863,
+        "pop":4059
+    },
+    {
+        "id":2619287,
+        "name":"Jægerspris",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Frederikssund Kommune",
+        "lat":55.85248,
+        "lon":11.98565,
+        "pop":4020
+    },
+    {
+        "id":2611865,
+        "name":"Tarm",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Ringkøbing-Skjern Kommune",
+        "lat":55.90861,
+        "lon":8.53041,
+        "pop":4010
+    },
+    {
+        "id":2623516,
+        "name":"Brædstrup",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Horsens Kommune",
+        "lat":55.97153,
+        "lon":9.61129,
+        "pop":3992
+    },
+    {
+        "id":2620750,
+        "name":"Harlev",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.14105,
+        "lon":9.99601,
+        "pop":3990
+    },
+    {
+        "id":2617467,
+        "name":"Løgstør",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Vesthimmerland Kommune",
+        "lat":56.96245,
+        "lon":9.2583,
+        "pop":3967
+    },
+    {
+        "id":2615089,
+        "name":"Præstø",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Vordingborg Kommune",
+        "lat":55.12374,
+        "lon":12.04477,
+        "pop":3857
+    },
+    {
+        "id":2624499,
+        "name":"Assentoft",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Randers Kommune",
+        "lat":56.4421,
+        "lon":10.1517,
+        "pop":3811
+    },
+    {
+        "id":2612689,
+        "name":"Stege",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Vordingborg Kommune",
+        "lat":54.98704,
+        "lon":12.28461,
+        "pop":3792
+    },
+    {
+        "id":2617619,
+        "name":"Lind",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Herning Kommune",
+        "lat":56.106,
+        "lon":8.97915,
+        "pop":3777
+    },
+    {
+        "id":2610259,
+        "name":"Vildbjerg",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Herning Kommune",
+        "lat":56.2,
+        "lon":8.76667,
+        "pop":3773
+    },
+    {
+        "id":2611509,
+        "name":"Tølløse",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Holbæk Kommune",
+        "lat":55.6125,
+        "lon":11.77034,
+        "pop":3759
+    },
+    {
+        "id":2612053,
+        "name":"Svejbæk",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Silkeborg Kommune",
+        "lat":56.13255,
+        "lon":9.63289,
+        "pop":3743
+    },
+    {
+        "id":2621436,
+        "name":"Gjellerup",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Herning Kommune",
+        "lat":56.14616,
+        "lon":9.05467,
+        "pop":3731
+    },
+    {
+        "id":2615749,
+        "name":"Ølgod",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Varde Kommune",
+        "lat":55.80682,
+        "lon":8.62859,
+        "pop":3705
+    },
+    {
+        "id":2616504,
+        "name":"Nexø",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Bornholm Kommune",
+        "lat":55.06067,
+        "lon":15.13058,
+        "pop":3668
+    },
+    {
+        "id":2612411,
+        "name":"Store Heddinge",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Stevns Kommune",
+        "lat":55.30965,
+        "lon":12.38885,
+        "pop":3668
+    },
+    {
+        "id":2619251,
+        "name":"Juelsminde",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Hedensted Kommune",
+        "lat":55.70876,
+        "lon":10.01668,
+        "pop":3667
+    },
+    {
+        "id":2621449,
+        "name":"Gistrup",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Ålborg Kommune",
+        "lat":56.9943,
+        "lon":9.99085,
+        "pop":3664
+    },
+    {
+        "id":2619340,
+        "name":"Jelling",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Vejle Kommune",
+        "lat":55.75588,
+        "lon":9.4258,
+        "pop":3658
+    },
+    {
+        "id":2612541,
+        "name":"Stilling",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Skanderborg Kommune",
+        "lat":56.06224,
+        "lon":9.98822,
+        "pop":3655
+    },
+    {
+        "id":2623028,
+        "name":"Dianalund",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Sorø Kommune",
+        "lat":55.53133,
+        "lon":11.4925,
+        "pop":3605
+    },
+    {
+        "id":2620186,
+        "name":"Hjortshøj",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.24811,
+        "lon":10.26533,
+        "pop":3590
+    },
+    {
+        "id":2623736,
+        "name":"Børkop",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Vejle Kommune",
+        "lat":55.64195,
+        "lon":9.64958,
+        "pop":3561
+    },
+    {
+        "id":2621101,
+        "name":"Græsted",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Gribskov Kommune",
+        "lat":56.06558,
+        "lon":12.28512,
+        "pop":3561
+    },
+    {
+        "id":2612107,
+        "name":"Sunds",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Herning Kommune",
+        "lat":56.20743,
+        "lon":9.01386,
+        "pop":3525
+    },
+    {
+        "id":2612695,
+        "name":"Stavtrup",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.13124,
+        "lon":10.11987,
+        "pop":3519
+    },
+    {
+        "id":2613322,
+        "name":"Snejbjerg",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Herning Kommune",
+        "lat":56.13291,
+        "lon":8.90353,
+        "pop":3513
+    },
+    {
+        "id":2622888,
+        "name":"Dronninglund",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Brønderslev Kommune",
+        "lat":57.16035,
+        "lon":10.29287,
+        "pop":3487
+    },
+    {
+        "id":2617457,
+        "name":"Løgumkloster",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Tønder Kommune",
+        "lat":55.05941,
+        "lon":8.95508,
+        "pop":3480
+    },
+    {
+        "id":2611565,
+        "name":"Toftlund",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Tønder Kommune",
+        "lat":55.18858,
+        "lon":9.06925,
+        "pop":3438
+    },
+    {
+        "id":2612301,
+        "name":"Storvorde",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Ålborg Kommune",
+        "lat":57.00392,
+        "lon":10.10125,
+        "pop":3425
+    },
+    {
+        "id":2611817,
+        "name":"Taulov",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Fredericia Kommune",
+        "lat":55.54582,
+        "lon":9.61553,
+        "pop":3402
+    },
+    {
+        "id":2614135,
+        "name":"Seden",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Odense Kommune",
+        "lat":55.42648,
+        "lon":10.44265,
+        "pop":3350
+    },
+    {
+        "id":2611742,
+        "name":"Thurø By",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Svendborg Kommune",
+        "lat":55.0474,
+        "lon":10.66385,
+        "pop":3350
+    },
+    {
+        "id":2622310,
+        "name":"Farsø",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Vesthimmerland Kommune",
+        "lat":56.77276,
+        "lon":9.33925,
+        "pop":3349
+    },
+    {
+        "id":2621393,
+        "name":"Glamsbjerg",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Assens Kommune",
+        "lat":55.27237,
+        "lon":10.10483,
+        "pop":3344
+    },
+    {
+        "id":2622139,
+        "name":"Fjerritslev",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Jammerbugt Kommune",
+        "lat":57.08822,
+        "lon":9.26622,
+        "pop":3326
+    },
+    {
+        "id":2612955,
+        "name":"Søndersø",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Nordfyns Kommune",
+        "lat":55.48526,
+        "lon":10.2554,
+        "pop":3319
+    },
+    {
+        "id":2614343,
+        "name":"Sabro",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.21333,
+        "lon":10.03441,
+        "pop":3309
+    },
+    {
+        "id":2624587,
+        "name":"Årup",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Assens Kommune",
+        "lat":55.37315,
+        "lon":10.04131,
+        "pop":3259
+    },
+    {
+        "id":2624419,
+        "name":"Avlum",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Herning Kommune",
+        "lat":56.26539,
+        "lon":8.79256,
+        "pop":3249
+    },
+    {
+        "id":2623394,
+        "name":"Broager",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Sønderborg Kommune",
+        "lat":54.8894,
+        "lon":9.67465,
+        "pop":3238
+    },
+    {
+        "id":2610140,
+        "name":"Vissenbjerg",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Assens Kommune",
+        "lat":55.38482,
+        "lon":10.13784,
+        "pop":3232
+    },
+    {
+        "id":2614565,
+        "name":"Rønde",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Syddjurs Kommune",
+        "lat":56.30145,
+        "lon":10.47505,
+        "pop":3191
+    },
+    {
+        "id":2611256,
+        "name":"Trige",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.25291,
+        "lon":10.1484,
+        "pop":3191
+    },
+    {
+        "id":2624439,
+        "name":"Augustenborg",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Sønderborg Kommune",
+        "lat":54.95201,
+        "lon":9.87216,
+        "pop":3171
+    },
+    {
+        "id":2621945,
+        "name":"Frederiksberg",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Sorø Kommune",
+        "lat":55.41618,
+        "lon":11.56934,
+        "pop":3142
+    },
+    {
+        "id":2616368,
+        "name":"Nørre Åby",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Middelfart Kommune",
+        "lat":55.46107,
+        "lon":9.8794,
+        "pop":3133
+    },
+    {
+        "id":2622665,
+        "name":"Ejby",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Køge Kommune",
+        "lat":55.4858,
+        "lon":12.08171,
+        "pop":3131
+    },
+    {
+        "id":2617832,
+        "name":"Lejre",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Lejre Kommune",
+        "lat":55.60461,
+        "lon":11.97477,
+        "pop":3127
+    },
+    {
+        "id":2613766,
+        "name":"Skibby",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Frederikssund Kommune",
+        "lat":55.75122,
+        "lon":11.96083,
+        "pop":3120
+    },
+    {
+        "id":2610159,
+        "name":"Virklund",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Silkeborg Kommune",
+        "lat":56.13218,
+        "lon":9.55582,
+        "pop":3113
+    },
+    {
+        "id":2624521,
+        "name":"Asnæs",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Odsherred Kommune",
+        "lat":55.81229,
+        "lon":11.50129,
+        "pop":3100
+    },
+    {
+        "id":2614010,
+        "name":"Sindal",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Hjørring Kommune",
+        "lat":57.47117,
+        "lon":10.20312,
+        "pop":3095
+    },
+    {
+        "id":2610196,
+        "name":"Vinderup",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Holstebro Kommune",
+        "lat":56.48176,
+        "lon":8.77991,
+        "pop":3077
+    },
+    {
+        "id":2613172,
+        "name":"Søften",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Favrskov Kommune",
+        "lat":56.23801,
+        "lon":10.0851,
+        "pop":3072
+    },
+    {
+        "id":2621967,
+        "name":"Framlev",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.15664,
+        "lon":10.01318,
+        "pop":3067
+    },
+    {
+        "id":3229248,
+        "name":"Sundby",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Guldborgsund Kommune",
+        "lat":54.76711,
+        "lon":11.84979,
+        "pop":3065
+    },
+    {
+        "id":2613539,
+        "name":"Skaerbaek",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Tønder Kommune",
+        "lat":55.15735,
+        "lon":8.76901,
+        "pop":3062
+    },
+    {
+        "id":2624435,
+        "name":"Auning",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Norddjurs Kommune",
+        "lat":56.43079,
+        "lon":10.37818,
+        "pop":3061
+    },
+    {
+        "id":2610189,
+        "name":"Vindinge",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Roskilde Kommune",
+        "lat":55.62298,
+        "lon":12.1387,
+        "pop":3059
+    },
+    {
+        "id":2621896,
+        "name":"Frejlev",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Ålborg Kommune",
+        "lat":57.00623,
+        "lon":9.81711,
+        "pop":3056
+    },
+    {
+        "id":2620042,
+        "name":"Holsted",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Vejen Kommune",
+        "lat":55.51086,
+        "lon":8.91872,
+        "pop":3046
+    },
+    {
+        "id":2620814,
+        "name":"Hammerum",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Herning Kommune",
+        "lat":56.13361,
+        "lon":9.06121,
+        "pop":3025
+    },
+    {
+        "id":2623978,
+        "name":"Bjæverskov",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Køge Kommune",
+        "lat":55.45756,
+        "lon":12.03651,
+        "pop":2988
+    },
+    {
+        "id":2623247,
+        "name":"Bullerup",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Odense Kommune",
+        "lat":55.42686,
+        "lon":10.47137,
+        "pop":2982
+    },
+    {
+        "id":2623183,
+        "name":"Christiansfeld",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Kolding Kommune",
+        "lat":55.35817,
+        "lon":9.48701,
+        "pop":2977
+    },
+    {
+        "id":2613672,
+        "name":"Skørping",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Rebild Kommune",
+        "lat":56.83626,
+        "lon":9.89255,
+        "pop":2971
+    },
+    {
+        "id":2623905,
+        "name":"Blovstrød",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Allerød Kommune",
+        "lat":55.87038,
+        "lon":12.3864,
+        "pop":2968
+    },
+    {
+        "id":2611610,
+        "name":"Tjæreborg",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Esbjerg Kommune",
+        "lat":55.46457,
+        "lon":8.57968,
+        "pop":2904
+    },
+    {
+        "id":2610499,
+        "name":"Vestbjerg",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Ålborg Kommune",
+        "lat":57.13166,
+        "lon":9.95942,
+        "pop":2888
+    },
+    {
+        "id":2622369,
+        "name":"Faxe Ladeplads",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Faxe Kommune",
+        "lat":55.21981,
+        "lon":12.17013,
+        "pop":2884
+    },
+    {
+        "id":2619537,
+        "name":"Hvide Sande",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Ringkøbing-Skjern Kommune",
+        "lat":55.99866,
+        "lon":8.12605,
+        "pop":2874
+    },
+    {
+        "id":2620751,
+        "name":"Hårlev",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Stevns Kommune",
+        "lat":55.34936,
+        "lon":12.23382,
+        "pop":2865
+    },
+    {
+        "id":2615222,
+        "name":"Pandrup",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Jammerbugt Kommune",
+        "lat":57.22147,
+        "lon":9.67569,
+        "pop":2862
+    },
+    {
+        "id":2621614,
+        "name":"Ganløse",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Egedal Kommune",
+        "lat":55.79124,
+        "lon":12.26421,
+        "pop":2843
+    },
+    {
+        "id":2615859,
+        "name":"Oksbøl",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Varde Kommune",
+        "lat":55.6268,
+        "lon":8.28757,
+        "pop":2815
+    },
+    {
+        "id":2617981,
+        "name":"Langå",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Randers Kommune",
+        "lat":56.39026,
+        "lon":9.89486,
+        "pop":2811
+    },
+    {
+        "id":2611998,
+        "name":"Svinninge",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Odsherred Kommune",
+        "lat":55.88306,
+        "lon":11.60991,
+        "pop":2808
+    },
+    {
+        "id":2624864,
+        "name":"Ålestrup",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Vesthimmerland Kommune",
+        "lat":56.6947,
+        "lon":9.49336,
+        "pop":2780
+    },
+    {
+        "id":2620997,
+        "name":"Gundsømagle",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Roskilde Kommune",
+        "lat":55.73565,
+        "lon":12.15158,
+        "pop":2770
+    },
+    {
+        "id":2619624,
+        "name":"Hurup",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Thisted Kommune",
+        "lat":56.74944,
+        "lon":8.41953,
+        "pop":2769
+    },
+    {
+        "id":2614547,
+        "name":"Rønnede",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Faxe Kommune",
+        "lat":55.2571,
+        "lon":12.02125,
+        "pop":2746
+    },
+    {
+        "id":2616172,
+        "name":"Nordby",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Fanø Kommune",
+        "lat":55.44603,
+        "lon":8.39786,
+        "pop":2736
+    },
+    {
+        "id":2611684,
+        "name":"Tinglev",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Aabenraa Kommune",
+        "lat":54.93788,
+        "lon":9.25547,
+        "pop":2731
+    },
+    {
+        "id":2614623,
+        "name":"Rødding",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Vejen Kommune",
+        "lat":55.36569,
+        "lon":9.06316,
+        "pop":2712
+    },
+    {
+        "id":2619845,
+        "name":"Høruphav",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Sønderborg Kommune",
+        "lat":54.91017,
+        "lon":9.89872,
+        "pop":2701
+    },
+    {
+        "id":2612211,
+        "name":"Strøby Egede",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Stevns Kommune",
+        "lat":55.41382,
+        "lon":12.24502,
+        "pop":2700
+    },
+    {
+        "id":2617312,
+        "name":"Lunderskov",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Kolding Kommune",
+        "lat":55.48375,
+        "lon":9.29917,
+        "pop":2687
+    },
+    {
+        "id":2618931,
+        "name":"Kibæk",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Herning Kommune",
+        "lat":56.0317,
+        "lon":8.85697,
+        "pop":2667
+    },
+    {
+        "id":2615626,
+        "name":"Østbirk",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Horsens Kommune",
+        "lat":55.96482,
+        "lon":9.75556,
+        "pop":2644
+    },
+    {
+        "id":2610942,
+        "name":"Ullerslev",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Nyborg Kommune",
+        "lat":55.36172,
+        "lon":10.6519,
+        "pop":2640
+    },
+    {
+        "id":2623306,
+        "name":"Brovst",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Jammerbugt Kommune",
+        "lat":57.0975,
+        "lon":9.52264,
+        "pop":2624
+    },
+    {
+        "id":2613471,
+        "name":"Skævinge",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Hillerød Kommune",
+        "lat":55.90785,
+        "lon":12.15036,
+        "pop":2613
+    },
+    {
+        "id":2610437,
+        "name":"Vester Hassing",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Ålborg Kommune",
+        "lat":57.06767,
+        "lon":10.12558,
+        "pop":2589
+    },
+    {
+        "id":2612529,
+        "name":"Stoholm",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Viborg Kommune",
+        "lat":56.48454,
+        "lon":9.14617,
+        "pop":2533
+    },
+    {
+        "id":2621279,
+        "name":"Gram",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Haderslev Kommune",
+        "lat":55.28948,
+        "lon":9.04913,
+        "pop":2521
+    },
+    {
+        "id":2612274,
+        "name":"Strandby",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Frederikshavn Kommune",
+        "lat":57.4915,
+        "lon":10.49609,
+        "pop":2518
+    },
+    {
+        "id":2624660,
+        "name":"Arden",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Mariagerfjord Kommune",
+        "lat":56.76899,
+        "lon":9.86184,
+        "pop":2516
+    },
+    {
+        "id":2609990,
+        "name":"Vrå",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Hjørring Kommune",
+        "lat":57.3537,
+        "lon":9.94176,
+        "pop":2509
+    },
+    {
+        "id":2617538,
+        "name":"Liseleje",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Halsnæs Kommune",
+        "lat":56.01295,
+        "lon":11.96544,
+        "pop":2507
+    },
+    {
+        "id":2617076,
+        "name":"Mariager",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Mariagerfjord Kommune",
+        "lat":56.64985,
+        "lon":9.97515,
+        "pop":2506
+    },
+    {
+        "id":2614353,
+        "name":"Ryomgård",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Syddjurs Kommune",
+        "lat":56.3843,
+        "lon":10.50295,
+        "pop":2498
+    },
+    {
+        "id":2613621,
+        "name":"Skovby",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Skanderborg Kommune",
+        "lat":56.15672,
+        "lon":9.94523,
+        "pop":2489
+    },
+    {
+        "id":2611518,
+        "name":"Tommerup Stationsby",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Assens Kommune",
+        "lat":55.34535,
+        "lon":10.17594,
+        "pop":2482
+    },
+    {
+        "id":2622686,
+        "name":"Egtved",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Vejle Kommune",
+        "lat":55.61613,
+        "lon":9.30763,
+        "pop":2446
+    },
+    {
+        "id":2620765,
+        "name":"Haarby",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Assens Kommune",
+        "lat":55.22357,
+        "lon":10.12268,
+        "pop":2400
+    },
+    {
+        "id":2621304,
+        "name":"Gørlev",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Kalundborg Kommune",
+        "lat":55.53926,
+        "lon":11.22708,
+        "pop":2397
+    },
+    {
+        "id":2619102,
+        "name":"Karise",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Faxe Kommune",
+        "lat":55.30734,
+        "lon":12.1972,
+        "pop":2392
+    },
+    {
+        "id":2620871,
+        "name":"Hals",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Ålborg Kommune",
+        "lat":56.99609,
+        "lon":10.30807,
+        "pop":2388
+    },
+    {
+        "id":2619844,
+        "name":"Hørve",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Odsherred Kommune",
+        "lat":55.75292,
+        "lon":11.45298,
+        "pop":2382
+    },
+    {
+        "id":2616365,
+        "name":"Nørre Alslev",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Guldborgsund Kommune",
+        "lat":54.89784,
+        "lon":11.88414,
+        "pop":2379
+    },
+    {
+        "id":2611999,
+        "name":"Svinninge",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Holbæk Kommune",
+        "lat":55.72111,
+        "lon":11.46547,
+        "pop":2376
+    },
+    {
+        "id":2611761,
+        "name":"Them",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Silkeborg Kommune",
+        "lat":56.09426,
+        "lon":9.54866,
+        "pop":2376
+    },
+    {
+        "id":2621072,
+        "name":"Guderup",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Sønderborg Kommune",
+        "lat":54.98978,
+        "lon":9.87174,
+        "pop":2372
+    },
+    {
+        "id":2613293,
+        "name":"Snoghøj",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Fredericia Kommune",
+        "lat":55.52253,
+        "lon":9.72125,
+        "pop":2371
+    },
+    {
+        "id":2611486,
+        "name":"Tørring",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Hedensted Kommune",
+        "lat":55.85,
+        "lon":9.48333,
+        "pop":2370
+    },
+    {
+        "id":2610162,
+        "name":"Vipperød",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Holbæk Kommune",
+        "lat":55.66768,
+        "lon":11.73967,
+        "pop":2345
+    },
+    {
+        "id":2622854,
+        "name":"Dybbøl",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Sønderborg Kommune",
+        "lat":54.91079,
+        "lon":9.73601,
+        "pop":2339
+    },
+    {
+        "id":2610207,
+        "name":"Vindeby",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Svendborg Kommune",
+        "lat":55.04489,
+        "lon":10.61309,
+        "pop":2339
+    },
+    {
+        "id":2621546,
+        "name":"Gedved",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Horsens Kommune",
+        "lat":55.93085,
+        "lon":9.84601,
+        "pop":2336
+    },
+    {
+        "id":2621805,
+        "name":"Fuglebjerg",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Næstved Kommune",
+        "lat":55.30604,
+        "lon":11.54766,
+        "pop":2268
+    },
+    {
+        "id":2612192,
+        "name":"Stubbekøbing",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Guldborgsund Kommune",
+        "lat":54.88875,
+        "lon":12.04102,
+        "pop":2268
+    },
+    {
+        "id":2615932,
+        "name":"Nyråd",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Vordingborg Kommune",
+        "lat":55.00511,
+        "lon":11.9606,
+        "pop":2224
+    },
+    {
+        "id":2623441,
+        "name":"Brejning",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Vejle Kommune",
+        "lat":55.66594,
+        "lon":9.67217,
+        "pop":2220
+    },
+    {
+        "id":2615359,
+        "name":"Osted",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Lejre Kommune",
+        "lat":55.56228,
+        "lon":11.95786,
+        "pop":2204
+    },
+    {
+        "id":2612057,
+        "name":"Svebølle",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Kalundborg Kommune",
+        "lat":55.65183,
+        "lon":11.28658,
+        "pop":2186
+    },
+    {
+        "id":2612552,
+        "name":"Stige",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Odense Kommune",
+        "lat":55.43941,
+        "lon":10.4094,
+        "pop":2182
+    },
+    {
+        "id":2619068,
+        "name":"Karup",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Viborg Kommune",
+        "lat":56.30673,
+        "lon":9.16835,
+        "pop":2176
+    },
+    {
+        "id":2612823,
+        "name":"Spentrup",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Randers Kommune",
+        "lat":56.53703,
+        "lon":10.03792,
+        "pop":2155
+    },
+    {
+        "id":2621348,
+        "name":"Glumsø",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Næstved Kommune",
+        "lat":55.35679,
+        "lon":11.68557,
+        "pop":2121
+    },
+    {
+        "id":2617030,
+        "name":"Marstal",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Ærø Kommune",
+        "lat":54.85621,
+        "lon":10.51726,
+        "pop":2120
+    },
+    {
+        "id":2624929,
+        "name":"Åkirkeby",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Bornholm Kommune",
+        "lat":55.0708,
+        "lon":14.91978,
+        "pop":2119
+    },
+    {
+        "id":2623694,
+        "name":"Bording Kirkeby",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Ikast-Brande Kommune",
+        "lat":56.16871,
+        "lon":9.24384,
+        "pop":2104
+    },
+    {
+        "id":2620786,
+        "name":"Hanstholm",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Thisted Kommune",
+        "lat":57.11548,
+        "lon":8.6172,
+        "pop":2104
+    },
+    {
+        "id":2616423,
+        "name":"Nødebo",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Hillerød Kommune",
+        "lat":55.97877,
+        "lon":12.34685,
+        "pop":2093
+    },
+    {
+        "id":2612730,
+        "name":"Starup",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Haderslev Kommune",
+        "lat":55.24097,
+        "lon":9.53503,
+        "pop":2091
+    },
+    {
+        "id":2622002,
+        "name":"Forlev",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Slagelse Kommune",
+        "lat":55.37445,
+        "lon":11.25966,
+        "pop":2058
+    },
+    {
+        "id":2613106,
+        "name":"Sønder Bjert",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Kolding Kommune",
+        "lat":55.45272,
+        "lon":9.56741,
+        "pop":2025
+    },
+    {
+        "id":2621727,
+        "name":"Gadstrup",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Roskilde Kommune",
+        "lat":55.56915,
+        "lon":12.09493,
+        "pop":2014
+    },
+    {
+        "id":2613234,
+        "name":"Solrød",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Solrød Kommune",
+        "lat":55.53628,
+        "lon":12.1827,
+        "pop":2000
+    },
+    {
+        "id":2622666,
+        "name":"Ejby",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Middelfart Kommune",
+        "lat":55.4301,
+        "lon":9.92973,
+        "pop":1996
+    },
+    {
+        "id":2610959,
+        "name":"Ulfborg",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Holstebro Kommune",
+        "lat":56.26725,
+        "lon":8.32167,
+        "pop":1994
+    },
+    {
+        "id":2619061,
+        "name":"Kås",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Jammerbugt Kommune",
+        "lat":57.19774,
+        "lon":9.67173,
+        "pop":1990
+    },
+    {
+        "id":2617879,
+        "name":"Låsby",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Skanderborg Kommune",
+        "lat":56.15022,
+        "lon":9.80683,
+        "pop":1989
+    },
+    {
+        "id":2614626,
+        "name":"Rødby",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Lolland Kommune",
+        "lat":54.69495,
+        "lon":11.38885,
+        "pop":1983
+    },
+    {
+        "id":2622664,
+        "name":"Ejby",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Lejre Kommune",
+        "lat":55.68923,
+        "lon":11.84725,
+        "pop":1978
+    },
+    {
+        "id":2610823,
+        "name":"Vadum",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Ålborg Kommune",
+        "lat":57.1179,
+        "lon":9.857,
+        "pop":1978
+    },
+    {
+        "id":2617450,
+        "name":"Løjt Kirkeby",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Aabenraa Kommune",
+        "lat":55.08959,
+        "lon":9.46084,
+        "pop":1975
+    },
+    {
+        "id":2610908,
+        "name":"Ulstrup",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Favrskov Kommune",
+        "lat":56.38994,
+        "lon":9.79354,
+        "pop":1963
+    },
+    {
+        "id":2617464,
+        "name":"Løgstrup",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Viborg Kommune",
+        "lat":56.51032,
+        "lon":9.33538,
+        "pop":1939
+    },
+    {
+        "id":2624679,
+        "name":"Ans",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Silkeborg Kommune",
+        "lat":56.30712,
+        "lon":9.59276,
+        "pop":1912
+    },
+    {
+        "id":2612633,
+        "name":"Stenlille",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Sorø Kommune",
+        "lat":55.53888,
+        "lon":11.5912,
+        "pop":1905
+    },
+    {
+        "id":2616518,
+        "name":"Neder Vindinge",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Vordingborg Kommune",
+        "lat":55.03211,
+        "lon":11.88356,
+        "pop":1900
+    },
+    {
+        "id":2615736,
+        "name":"Ølsted",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Halsnæs Kommune",
+        "lat":55.92318,
+        "lon":12.07071,
+        "pop":1894
+    },
+    {
+        "id":2611738,
+        "name":"Thyborøn",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Lemvig Kommune",
+        "lat":56.69846,
+        "lon":8.21238,
+        "pop":1890
+    },
+    {
+        "id":2611852,
+        "name":"Tårs",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Hjørring Kommune",
+        "lat":57.38333,
+        "lon":10.11667,
+        "pop":1873
+    },
+    {
+        "id":2624819,
+        "name":"Allingåbro",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Norddjurs Kommune",
+        "lat":56.46432,
+        "lon":10.31957,
+        "pop":1842
+    },
+    {
+        "id":2620676,
+        "name":"Hatting",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Horsens Kommune",
+        "lat":55.85295,
+        "lon":9.76948,
+        "pop":1823
+    },
+    {
+        "id":2615666,
+        "name":"Ørslev",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Vordingborg Kommune",
+        "lat":55.04356,
+        "lon":11.96792,
+        "pop":1801
+    },
+    {
+        "id":2610566,
+        "name":"Veksø",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Egedal Kommune",
+        "lat":55.75473,
+        "lon":12.23837,
+        "pop":1792
+    },
+    {
+        "id":2614595,
+        "name":"Rødvig",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Stevns Kommune",
+        "lat":55.2554,
+        "lon":12.37936,
+        "pop":1783
+    },
+    {
+        "id":2612876,
+        "name":"Søvang",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Dragør Kommune",
+        "lat":55.56886,
+        "lon":12.61608,
+        "pop":1772
+    },
+    {
+        "id":2614349,
+        "name":"Ryslinge",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Faaborg-Midtfyn Kommune",
+        "lat":55.2416,
+        "lon":10.53675,
+        "pop":1768
+    },
+    {
+        "id":2613896,
+        "name":"Skals",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Viborg Kommune",
+        "lat":56.55676,
+        "lon":9.40381,
+        "pop":1759
+    },
+    {
+        "id":2611747,
+        "name":"Thorsø",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Favrskov Kommune",
+        "lat":56.29953,
+        "lon":9.78916,
+        "pop":1751
+    },
+    {
+        "id":2620767,
+        "name":"Harboøre",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Lemvig Kommune",
+        "lat":56.61752,
+        "lon":8.18069,
+        "pop":1745
+    },
+    {
+        "id":2623486,
+        "name":"Bredsten",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Vejle Kommune",
+        "lat":55.70129,
+        "lon":9.385,
+        "pop":1711
+    },
+    {
+        "id":2621522,
+        "name":"Gelsted",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Middelfart Kommune",
+        "lat":55.39878,
+        "lon":9.97314,
+        "pop":1711
+    },
+    {
+        "id":2615718,
+        "name":"Ørbæk",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Nyborg Kommune",
+        "lat":55.25849,
+        "lon":10.67075,
+        "pop":1702
+    },
+    {
+        "id":2614427,
+        "name":"Ruds-Vedby",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Sorø Kommune",
+        "lat":55.54093,
+        "lon":11.37957,
+        "pop":1696
+    },
+    {
+        "id":2621478,
+        "name":"Gevninge",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Lejre Kommune",
+        "lat":55.64544,
+        "lon":11.95724,
+        "pop":1649
+    },
+    {
+        "id":2620716,
+        "name":"Hasle",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Bornholm Kommune",
+        "lat":55.18212,
+        "lon":14.71117,
+        "pop":1634
+    },
+    {
+        "id":2619782,
+        "name":"Hornsyld",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Hedensted Kommune",
+        "lat":55.75621,
+        "lon":9.85643,
+        "pop":1634
+    },
+    {
+        "id":2620210,
+        "name":"Hjordkær",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Aabenraa Kommune",
+        "lat":55.02658,
+        "lon":9.30509,
+        "pop":1607
+    },
+    {
+        "id":2612588,
+        "name":"Stensved",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Vordingborg Kommune",
+        "lat":54.99714,
+        "lon":12.02983,
+        "pop":1585
+    },
+    {
+        "id":2621618,
+        "name":"Gandrup",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Ålborg Kommune",
+        "lat":57.05744,
+        "lon":10.18137,
+        "pop":1573
+    },
+    {
+        "id":2617648,
+        "name":"Lille Skensved",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Køge Kommune",
+        "lat":55.50977,
+        "lon":12.13506,
+        "pop":1565
+    },
+    {
+        "id":2618148,
+        "name":"Kruså",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Aabenraa Kommune",
+        "lat":54.85097,
+        "lon":9.40129,
+        "pop":1560
+    },
+    {
+        "id":2615304,
+        "name":"Over Holluf",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Odense Kommune",
+        "lat":55.35771,
+        "lon":10.46977,
+        "pop":1548
+    },
+    {
+        "id":2611520,
+        "name":"Tommerup",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Assens Kommune",
+        "lat":55.31952,
+        "lon":10.20659,
+        "pop":1545
+    },
+    {
+        "id":2614624,
+        "name":"Rødbyhavn",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Lolland Kommune",
+        "lat":54.65944,
+        "lon":11.35504,
+        "pop":1544
+    },
+    {
+        "id":2615023,
+        "name":"Ramløse",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Gribskov Kommune",
+        "lat":56.01398,
+        "lon":12.11608,
+        "pop":1540
+    },
+    {
+        "id":2612130,
+        "name":"Sulsted",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Ålborg Kommune",
+        "lat":57.16343,
+        "lon":9.95667,
+        "pop":1524
+    },
+    {
+        "id":2616349,
+        "name":"Nørre Broby",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Faaborg-Midtfyn Kommune",
+        "lat":55.25164,
+        "lon":10.22953,
+        "pop":1460
+    },
+    {
+        "id":2624817,
+        "name":"Allinge",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Bornholm Kommune",
+        "lat":55.27589,
+        "lon":14.80236,
+        "pop":1446
+    },
+    {
+        "id":2611651,
+        "name":"Tisvilde",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Gribskov Kommune",
+        "lat":56.05743,
+        "lon":12.09752,
+        "pop":1444
+    },
+    {
+        "id":2624896,
+        "name":"Ålbæk",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Frederikshavn Kommune",
+        "lat":57.59253,
+        "lon":10.40456,
+        "pop":1437
+    },
+    {
+        "id":2611653,
+        "name":"Tistrup",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Varde Kommune",
+        "lat":55.72363,
+        "lon":8.61028,
+        "pop":1433
+    },
+    {
+        "id":2624501,
+        "name":"Assens",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Mariagerfjord Kommune",
+        "lat":56.67604,
+        "lon":10.06238,
+        "pop":1422
+    },
+    {
+        "id":2619965,
+        "name":"Højby",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Odsherred Kommune",
+        "lat":55.91148,
+        "lon":11.59756,
+        "pop":1422
+    },
+    {
+        "id":2615644,
+        "name":"Ørum",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Viborg Kommune",
+        "lat":56.48072,
+        "lon":9.62537,
+        "pop":1420
+    },
+    {
+        "id":2623505,
+        "name":"Bredebro",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Tønder Kommune",
+        "lat":55.05483,
+        "lon":8.82932,
+        "pop":1412
+    },
+    {
+        "id":2620134,
+        "name":"Holeby",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Lolland Kommune",
+        "lat":54.71148,
+        "lon":11.46416,
+        "pop":1400
+    },
+    {
+        "id":2621431,
+        "name":"Gjern",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Silkeborg Kommune",
+        "lat":56.23023,
+        "lon":9.73912,
+        "pop":1398
+    },
+    {
+        "id":2623432,
+        "name":"Brenderup",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Middelfart Kommune",
+        "lat":55.48407,
+        "lon":9.97908,
+        "pop":1366
+    },
+    {
+        "id":2610960,
+        "name":"Uldum",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Hedensted Kommune",
+        "lat":55.84714,
+        "lon":9.58956,
+        "pop":1364
+    },
+    {
+        "id":2613136,
+        "name":"Søllested",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Lolland Kommune",
+        "lat":54.81019,
+        "lon":11.27123,
+        "pop":1345
+    },
+    {
+        "id":2610328,
+        "name":"Væggerløse",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Guldborgsund Kommune",
+        "lat":54.71242,
+        "lon":11.92545,
+        "pop":1333
+    },
+    {
+        "id":2616279,
+        "name":"Nørre Nebel",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Varde Kommune",
+        "lat":55.77981,
+        "lon":8.29524,
+        "pop":1316
+    },
+    {
+        "id":2610380,
+        "name":"Vester-Skerninge",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Svendborg Kommune",
+        "lat":55.07322,
+        "lon":10.45536,
+        "pop":1315
+    },
+    {
+        "id":2610025,
+        "name":"Vorbasse",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Billund Kommune",
+        "lat":55.62992,
+        "lon":9.08239,
+        "pop":1300
+    },
+    {
+        "id":2615911,
+        "name":"Nysted",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Guldborgsund Kommune",
+        "lat":54.66513,
+        "lon":11.73426,
+        "pop":1292
+    },
+    {
+        "id":2610543,
+        "name":"Vemb",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Holstebro Kommune",
+        "lat":56.3423,
+        "lon":8.33749,
+        "pop":1276
+    },
+    {
+        "id":2613685,
+        "name":"Skodsborg",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Rudersdal Kommune",
+        "lat":55.8225,
+        "lon":12.57324,
+        "pop":1269
+    },
+    {
+        "id":2611041,
+        "name":"Tylstrup",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Ålborg Kommune",
+        "lat":57.1947,
+        "lon":9.95308,
+        "pop":1258
+    },
+    {
+        "id":2611227,
+        "name":"Troense",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Svendborg Kommune",
+        "lat":55.03324,
+        "lon":10.64361,
+        "pop":1240
+    },
+    {
+        "id":2618888,
+        "name":"Kirke-Esbønderup",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Gribskov Kommune",
+        "lat":56.04975,
+        "lon":12.34636,
+        "pop":1190
+    },
+    {
+        "id":2612381,
+        "name":"Store Merløse",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Holbæk Kommune",
+        "lat":55.54382,
+        "lon":11.71303,
+        "pop":1184
+    },
+    {
+        "id":2622587,
+        "name":"Elling",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Frederikshavn Kommune",
+        "lat":57.47689,
+        "lon":10.47988,
+        "pop":1168
+    },
+    {
+        "id":2616412,
+        "name":"Nørager",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Rebild Kommune",
+        "lat":56.70642,
+        "lon":9.62996,
+        "pop":1168
+    },
+    {
+        "id":2619439,
+        "name":"Idestrup",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Guldborgsund Kommune",
+        "lat":54.74312,
+        "lon":11.95674,
+        "pop":1153
+    },
+    {
+        "id":2610884,
+        "name":"Undløse",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Holbæk Kommune",
+        "lat":55.60451,
+        "lon":11.58826,
+        "pop":1147
+    },
+    {
+        "id":2618091,
+        "name":"Kvistgård",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Helsingør Kommune",
+        "lat":55.99348,
+        "lon":12.50446,
+        "pop":1133
+    },
+    {
+        "id":2618718,
+        "name":"Klitmøller",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Thisted Kommune",
+        "lat":57.04072,
+        "lon":8.49144,
+        "pop":1114
+    },
+    {
+        "id":2619951,
+        "name":"Højer",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Tønder Kommune",
+        "lat":54.96344,
+        "lon":8.69853,
+        "pop":1102
+    },
+    {
+        "id":2612078,
+        "name":"Svaneke",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Bornholm Kommune",
+        "lat":55.13574,
+        "lon":15.14139,
+        "pop":1079
+    },
+    {
+        "id":2623973,
+        "name":"Bække",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Vejen Kommune",
+        "lat":55.57025,
+        "lon":9.13974,
+        "pop":1067
+    },
+    {
+        "id":2622431,
+        "name":"Eskilstrup",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Guldborgsund Kommune",
+        "lat":54.85574,
+        "lon":11.88668,
+        "pop":1066
+    },
+    {
+        "id":2617543,
+        "name":"Lisbjerg",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.22075,
+        "lon":10.16861,
+        "pop":1063
+    },
+    {
+        "id":2618660,
+        "name":"Knabstrup",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Holbæk Kommune",
+        "lat":55.66423,
+        "lon":11.55129,
+        "pop":1052
+    },
+    {
+        "id":2614515,
+        "name":"Rørvig",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Odsherred Kommune",
+        "lat":55.94405,
+        "lon":11.75268,
+        "pop":1042
+    },
+    {
+        "id":2615267,
+        "name":"Outrup",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Varde Kommune",
+        "lat":55.71919,
+        "lon":8.34466,
+        "pop":1040
+    },
+    {
+        "id":2616357,
+        "name":"Nørre Bindslev",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Hjørring Kommune",
+        "lat":57.54161,
+        "lon":10.19868,
+        "pop":1031
+    },
+    {
+        "id":2616945,
+        "name":"Mern",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Vordingborg Kommune",
+        "lat":55.04824,
+        "lon":12.0556,
+        "pop":1005
+    },
+    {
+        "id":2616455,
+        "name":"Nissumby",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Lemvig Kommune",
+        "lat":56.55624,
+        "lon":8.39707,
+        "pop":981
+    },
+    {
+        "id":2625001,
+        "name":"Ærøskøbing",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Ærø Kommune",
+        "lat":54.88803,
+        "lon":10.41117,
+        "pop":935
+    },
+    {
+        "id":2624302,
+        "name":"Båring",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Middelfart Kommune",
+        "lat":55.48825,
+        "lon":9.90866,
+        "pop":933
+    },
+    {
+        "id":2614977,
+        "name":"Ranum",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Vesthimmerland Kommune",
+        "lat":56.89725,
+        "lon":9.22872,
+        "pop":929
+    },
+    {
+        "id":2621401,
+        "name":"Gjøl",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Jammerbugt Kommune",
+        "lat":57.06837,
+        "lon":9.71994,
+        "pop":923
+    },
+    {
+        "id":2624859,
+        "name":"Algestrup",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Køge Kommune",
+        "lat":55.37731,
+        "lon":12.07801,
+        "pop":876
+    },
+    {
+        "id":2621547,
+        "name":"Gedsted",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Vesthimmerland Kommune",
+        "lat":56.68915,
+        "lon":9.33667,
+        "pop":866
+    },
+    {
+        "id":2611794,
+        "name":"Tejn",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Bornholm Kommune",
+        "lat":55.2469,
+        "lon":14.8405,
+        "pop":858
+    },
+    {
+        "id":2611718,
+        "name":"Tim",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Ringkøbing-Skjern Kommune",
+        "lat":56.19563,
+        "lon":8.30785,
+        "pop":857
+    },
+    {
+        "id":2620411,
+        "name":"Herskind",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Skanderborg Kommune",
+        "lat":56.18333,
+        "lon":9.96667,
+        "pop":845
+    },
+    {
+        "id":2617332,
+        "name":"Lundby Stationsby",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Vordingborg Kommune",
+        "lat":55.10888,
+        "lon":11.87468,
+        "pop":843
+    },
+    {
+        "id":2611311,
+        "name":"Tranebjerg",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Samsø Kommune",
+        "lat":55.8326,
+        "lon":10.59723,
+        "pop":839
+    },
+    {
+        "id":2612155,
+        "name":"Studstrup",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Aarhus Kommune",
+        "lat":56.25859,
+        "lon":10.34185,
+        "pop":838
+    },
+    {
+        "id":2612457,
+        "name":"Store Andst",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Vejen Kommune",
+        "lat":55.48338,
+        "lon":9.23197,
+        "pop":810
+    },
+    {
+        "id":2623277,
+        "name":"Bruunshåb",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Viborg Kommune",
+        "lat":56.42084,
+        "lon":9.4399,
+        "pop":801
+    },
+    {
+        "id":2617367,
+        "name":"Lumby",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Odense Kommune",
+        "lat":55.45878,
+        "lon":10.3781,
+        "pop":797
+    },
+    {
+        "id":2619363,
+        "name":"Janderup",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Varde Kommune",
+        "lat":55.62546,
+        "lon":8.37283,
+        "pop":788
+    },
+    {
+        "id":2610104,
+        "name":"Vivild",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Norddjurs Kommune",
+        "lat":56.4837,
+        "lon":10.44531,
+        "pop":788
+    },
+    {
+        "id":2619211,
+        "name":"Jystrup",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Ringsted Kommune",
+        "lat":55.51674,
+        "lon":11.86437,
+        "pop":781
+    },
+    {
+        "id":2618124,
+        "name":"Kundby",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Holbæk Kommune",
+        "lat":55.71065,
+        "lon":11.52323,
+        "pop":776
+    },
+    {
+        "id":2623861,
+        "name":"Boeslunde",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Slagelse Kommune",
+        "lat":55.30079,
+        "lon":11.27121,
+        "pop":765
+    },
+    {
+        "id":2612789,
+        "name":"Særslev",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Nordfyns Kommune",
+        "lat":55.51251,
+        "lon":10.17646,
+        "pop":757
+    },
+    {
+        "id":2615039,
+        "name":"Rågeleje",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Gribskov Kommune",
+        "lat":56.0981,
+        "lon":12.16538,
+        "pop":739
+    },
+    {
+        "id":2621070,
+        "name":"Gudhjem",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Bornholm Kommune",
+        "lat":55.21047,
+        "lon":14.97128,
+        "pop":736
+    },
+    {
+        "id":2623745,
+        "name":"Bønnerup Strand",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Norddjurs Kommune",
+        "lat":56.52807,
+        "lon":10.72268,
+        "pop":731
+    },
+    {
+        "id":2617063,
+        "name":"Marielyst",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Guldborgsund Kommune",
+        "lat":54.69218,
+        "lon":11.96405,
+        "pop":726
+    },
+    {
+        "id":2623894,
+        "name":"Bælum",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Rebild Kommune",
+        "lat":56.83002,
+        "lon":10.11978,
+        "pop":722
+    },
+    {
+        "id":2614208,
+        "name":"Sandved",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Næstved Kommune",
+        "lat":55.263,
+        "lon":11.52168,
+        "pop":704
+    },
+    {
+        "id":2615968,
+        "name":"Nyker",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Bornholm Kommune",
+        "lat":55.13865,
+        "lon":14.76117,
+        "pop":700
+    },
+    {
+        "id":2613294,
+        "name":"Snogebæk",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Bornholm Kommune",
+        "lat":55.02551,
+        "lon":15.11738,
+        "pop":700
+    },
+    {
+        "id":2611723,
+        "name":"Tikøb",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Helsingør Kommune",
+        "lat":56.02058,
+        "lon":12.45312,
+        "pop":695
+    },
+    {
+        "id":2618887,
+        "name":"Kirke Eskilstrup",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Holbæk Kommune",
+        "lat":55.57461,
+        "lon":11.76723,
+        "pop":661
+    },
+    {
+        "id":2621551,
+        "name":"Gedser",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Guldborgsund Kommune",
+        "lat":54.57644,
+        "lon":11.93004,
+        "pop":657
+    },
+    {
+        "id":2624115,
+        "name":"Birkende",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Kerteminde Kommune",
+        "lat":55.38074,
+        "lon":10.56317,
+        "pop":655
+    },
+    {
+        "id":2620747,
+        "name":"Harndrup",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Middelfart Kommune",
+        "lat":55.46658,
+        "lon":10.02165,
+        "pop":652
+    },
+    {
+        "id":2619588,
+        "name":"Hvalpsund",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Vesthimmerland Kommune",
+        "lat":56.70037,
+        "lon":9.19752,
+        "pop":649
+    },
+    {
+        "id":2624119,
+        "name":"Birkelse",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Jammerbugt Kommune",
+        "lat":57.15002,
+        "lon":9.68599,
+        "pop":645
+    },
+    {
+        "id":2619380,
+        "name":"Isenvad",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Ikast-Brande Kommune",
+        "lat":56.09915,
+        "lon":9.2047,
+        "pop":645
+    },
+    {
+        "id":2616207,
+        "name":"Nørre Vorupør",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Thisted Kommune",
+        "lat":56.95103,
+        "lon":8.37533,
+        "pop":635
+    },
+    {
+        "id":2618764,
+        "name":"Klemensker",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Bornholm Kommune",
+        "lat":55.17267,
+        "lon":14.8099,
+        "pop":633
+    },
+    {
+        "id":2611452,
+        "name":"Toreby",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Guldborgsund Kommune",
+        "lat":54.75359,
+        "lon":11.7866,
+        "pop":611
+    },
+    {
+        "id":2619760,
+        "name":"Horslunde",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Lolland Kommune",
+        "lat":54.91176,
+        "lon":11.21648,
+        "pop":610
+    },
+    {
+        "id":2618689,
+        "name":"Kloster",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Ringkøbing-Skjern Kommune",
+        "lat":56.12519,
+        "lon":8.17673,
+        "pop":606
+    },
+    {
+        "id":2619670,
+        "name":"Humble",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Langeland Kommune",
+        "lat":54.82972,
+        "lon":10.69961,
+        "pop":604
+    },
+    {
+        "id":2618646,
+        "name":"Knebel",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Syddjurs Kommune",
+        "lat":56.21411,
+        "lon":10.48865,
+        "pop":603
+    },
+    {
+        "id":2610348,
+        "name":"Vestervig",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Thisted Kommune",
+        "lat":56.76279,
+        "lon":8.31942,
+        "pop":591
+    },
+    {
+        "id":2612443,
+        "name":"Store Damme",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Vordingborg Kommune",
+        "lat":54.9151,
+        "lon":12.1631,
+        "pop":587
+    },
+    {
+        "id":2622844,
+        "name":"Dybvad",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Frederikshavn Kommune",
+        "lat":57.27204,
+        "lon":10.35946,
+        "pop":585
+    },
+    {
+        "id":2614922,
+        "name":"Ravnsnæs",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Rudersdal Kommune",
+        "lat":55.86279,
+        "lon":12.45575,
+        "pop":583
+    },
+    {
+        "id":2617431,
+        "name":"Lønstrup",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Hjørring Kommune",
+        "lat":57.46956,
+        "lon":9.79616,
+        "pop":577
+    },
+    {
+        "id":2619809,
+        "name":"Horbelev",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Guldborgsund Kommune",
+        "lat":54.82303,
+        "lon":12.05838,
+        "pop":572
+    },
+    {
+        "id":2619300,
+        "name":"Jerup",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Frederikshavn Kommune",
+        "lat":57.53435,
+        "lon":10.41662,
+        "pop":571
+    },
+    {
+        "id":2620451,
+        "name":"Hemmet",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Ringkøbing-Skjern Kommune",
+        "lat":55.85016,
+        "lon":8.37562,
+        "pop":569
+    },
+    {
+        "id":2624459,
+        "name":"Astrup",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Hjørring Kommune",
+        "lat":57.47881,
+        "lon":10.09821,
+        "pop":558
+    },
+    {
+        "id":2610758,
+        "name":"Vammen",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Viborg Kommune",
+        "lat":56.53062,
+        "lon":9.573,
+        "pop":544
+    },
+    {
+        "id":2610430,
+        "name":"Vester Hornum",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Vesthimmerland Kommune",
+        "lat":56.8316,
+        "lon":9.3599,
+        "pop":541
+    },
+    {
+        "id":2623909,
+        "name":"Blommenslyst",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Odense Kommune",
+        "lat":55.38952,
+        "lon":10.26287,
+        "pop":538
+    },
+    {
+        "id":2623917,
+        "name":"Blenstrup",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Rebild Kommune",
+        "lat":56.88002,
+        "lon":10.01241,
+        "pop":536
+    },
+    {
+        "id":2621042,
+        "name":"Guldborg",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Guldborgsund Kommune",
+        "lat":54.86786,
+        "lon":11.73921,
+        "pop":536
+    },
+    {
+        "id":2610086,
+        "name":"Voerså",
+        "country":"DK",
+        "admin1":"North Denmark",
+        "admin2":"Frederikshavn Kommune",
+        "lat":57.20788,
+        "lon":10.48691,
+        "pop":532
+    },
+    {
+        "id":2619307,
+        "name":"Jersie",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Solrød Kommune",
+        "lat":55.52507,
+        "lon":12.16435,
+        "pop":526
+    },
+    {
+        "id":2620577,
+        "name":"Hee",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Ringkøbing-Skjern Kommune",
+        "lat":56.14437,
+        "lon":8.28439,
+        "pop":521
+    },
+    {
+        "id":2623964,
+        "name":"Bækmarksbro",
+        "country":"DK",
+        "admin1":"Central Jutland",
+        "admin2":"Lemvig Kommune",
+        "lat":56.41528,
+        "lon":8.307,
+        "pop":518
+    },
+    {
+        "id":2616620,
+        "name":"Nagelsti",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Guldborgsund Kommune",
+        "lat":54.74757,
+        "lon":11.84497,
+        "pop":518
+    },
+    {
+        "id":2614897,
+        "name":"Reersø",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Kalundborg Kommune",
+        "lat":55.52472,
+        "lon":11.11027,
+        "pop":510
+    },
+    {
+        "id":2623659,
+        "name":"Borre",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Vordingborg Kommune",
+        "lat":54.99593,
+        "lon":12.44629,
+        "pop":509
+    },
+    {
+        "id":2618936,
+        "name":"Kettinge",
+        "country":"DK",
+        "admin1":"Zealand",
+        "admin2":"Guldborgsund Kommune",
+        "lat":54.69669,
+        "lon":11.72828,
+        "pop":509
+    },
+    {
+        "id":2616710,
+        "name":"Muleby",
+        "country":"DK",
+        "admin1":"Capital Region",
+        "admin2":"Bornholm Kommune",
+        "lat":55.15569,
+        "lon":14.71896,
+        "pop":508
+    },
+    {
+        "id":11205166,
+        "name":"Cortex Park",
+        "country":"DK",
+        "admin1":"South Denmark",
+        "admin2":"Odense Kommune",
+        "lat":55.37414,
+        "lon":10.43079,
+        "pop":500
+    }
+]

@@ -1,0 +1,292 @@
+[
+    {
+        "id":287286,
+        "name":"Muscat",
+        "country":"OM",
+        "admin1":"Muscat",
+        "admin2":"",
+        "lat":23.58413,
+        "lon":58.40778,
+        "pop":797000
+    },
+    {
+        "id":288967,
+        "name":"Seeb",
+        "country":"OM",
+        "admin1":"Muscat",
+        "admin2":"",
+        "lat":23.67027,
+        "lon":58.18911,
+        "pop":470878
+    },
+    {
+        "id":288764,
+        "name":"Bawshar",
+        "country":"OM",
+        "admin1":"Muscat",
+        "admin2":"",
+        "lat":23.57769,
+        "lon":58.39982,
+        "pop":383257
+    },
+    {
+        "id":287830,
+        "name":"‘Ibrī",
+        "country":"OM",
+        "admin1":"Ad Dhahirah",
+        "admin2":"",
+        "lat":23.22573,
+        "lon":56.51572,
+        "pop":163473
+    },
+    {
+        "id":286621,
+        "name":"Şalālah",
+        "country":"OM",
+        "admin1":"Dhofar",
+        "admin2":"",
+        "lat":17.01505,
+        "lon":54.09237,
+        "pop":163140
+    },
+    {
+        "id":286647,
+        "name":"Şaḩam",
+        "country":"OM",
+        "admin1":"Al Batinah North",
+        "admin2":"",
+        "lat":24.17222,
+        "lon":56.88861,
+        "pop":140000
+    },
+    {
+        "id":289011,
+        "name":"Rustaq",
+        "country":"OM",
+        "admin1":"Al Batinah South",
+        "admin2":"",
+        "lat":23.39083,
+        "lon":57.42444,
+        "pop":120000
+    },
+    {
+        "id":286282,
+        "name":"Sohar",
+        "country":"OM",
+        "admin1":"Al Batinah North",
+        "admin2":"",
+        "lat":24.34745,
+        "lon":56.70937,
+        "pop":108274
+    },
+    {
+        "id":288955,
+        "name":"As Suwayq",
+        "country":"OM",
+        "admin1":"Al Batinah North",
+        "admin2":"",
+        "lat":23.84944,
+        "lon":57.43861,
+        "pop":107143
+    },
+    {
+        "id":289317,
+        "name":"Al Buraymī",
+        "country":"OM",
+        "admin1":"Al Buraimi",
+        "admin2":"",
+        "lat":24.25088,
+        "lon":55.79312,
+        "pop":73670
+    },
+    {
+        "id":286987,
+        "name":"Nizwá",
+        "country":"OM",
+        "admin1":"Ad Dakhiliyah",
+        "admin2":"",
+        "lat":22.93333,
+        "lon":57.53333,
+        "pop":72076
+    },
+    {
+        "id":286245,
+        "name":"Sur",
+        "country":"OM",
+        "admin1":"Southeastern Governorate",
+        "admin2":"",
+        "lat":22.56667,
+        "lon":59.52889,
+        "pop":71152
+    },
+    {
+        "id":288899,
+        "name":"Bahlā’",
+        "country":"OM",
+        "admin1":"Ad Dakhiliyah",
+        "admin2":"",
+        "lat":22.97886,
+        "lon":57.3047,
+        "pop":54338
+    },
+    {
+        "id":289199,
+        "name":"Al Khābūrah",
+        "country":"OM",
+        "admin1":"Al Batinah North",
+        "admin2":"",
+        "lat":23.97144,
+        "lon":57.09313,
+        "pop":50223
+    },
+    {
+        "id":286402,
+        "name":"Shināş",
+        "country":"OM",
+        "admin1":"Al Batinah North",
+        "admin2":"",
+        "lat":24.7426,
+        "lon":56.46698,
+        "pop":48009
+    },
+    {
+        "id":286293,
+        "name":"Sufālat Samā’il",
+        "country":"OM",
+        "admin1":"Ad Dakhiliyah",
+        "admin2":"",
+        "lat":23.31667,
+        "lon":58.01667,
+        "pop":47718
+    },
+    {
+        "id":287814,
+        "name":"Izkī",
+        "country":"OM",
+        "admin1":"Ad Dakhiliyah",
+        "admin2":"",
+        "lat":22.93333,
+        "lon":57.76667,
+        "pop":36203
+    },
+    {
+        "id":289174,
+        "name":"Liwá",
+        "country":"OM",
+        "admin1":"Al Batinah North",
+        "admin2":"",
+        "lat":24.53077,
+        "lon":56.563,
+        "pop":26372
+    },
+    {
+        "id":287832,
+        "name":"Ibrā’",
+        "country":"OM",
+        "admin1":"Northeastern Governorate",
+        "admin2":"",
+        "lat":22.69057,
+        "lon":58.53337,
+        "pop":25265
+    },
+    {
+        "id":288721,
+        "name":"Bidbid",
+        "country":"OM",
+        "admin1":"Ad Dakhiliyah",
+        "admin2":"",
+        "lat":23.40787,
+        "lon":58.1283,
+        "pop":21188
+    },
+    {
+        "id":288902,
+        "name":"Badīyah",
+        "country":"OM",
+        "admin1":"Northeastern Governorate",
+        "admin2":"",
+        "lat":22.45,
+        "lon":58.8,
+        "pop":18479
+    },
+    {
+        "id":287614,
+        "name":"Khasab",
+        "country":"OM",
+        "admin1":"Musandam Governorate",
+        "admin2":"",
+        "lat":26.17993,
+        "lon":56.24774,
+        "pop":17904
+    },
+    {
+        "id":289433,
+        "name":"Adam",
+        "country":"OM",
+        "admin1":"Ad Dakhiliyah",
+        "admin2":"",
+        "lat":22.37934,
+        "lon":57.52718,
+        "pop":17283
+    },
+    {
+        "id":411849,
+        "name":"Yanqul",
+        "country":"OM",
+        "admin1":"Ad Dhahirah",
+        "admin2":"",
+        "lat":23.58645,
+        "lon":56.53969,
+        "pop":16599
+    },
+    {
+        "id":289142,
+        "name":"Al Qābil",
+        "country":"OM",
+        "admin1":"Northeastern Governorate",
+        "admin2":"",
+        "lat":22.571,
+        "lon":58.69472,
+        "pop":14008
+    },
+    {
+        "id":288507,
+        "name":"Dib Dibba",
+        "country":"OM",
+        "admin1":"Musandam Governorate",
+        "admin2":"",
+        "lat":26.19778,
+        "lon":56.25778,
+        "pop":5000
+    },
+    {
+        "id":291586,
+        "name":"Madḩā’ al Jadīdah",
+        "country":"OM",
+        "admin1":"Musandam Governorate",
+        "admin2":"",
+        "lat":25.28345,
+        "lon":56.3328,
+        "pop":2260
+    },
+    {
+        "id":287939,
+        "name":"Haymā’",
+        "country":"OM",
+        "admin1":"Al Wusta Governorate",
+        "admin2":"",
+        "lat":19.95931,
+        "lon":56.27575,
+        "pop":1294
+    },
+    {
+        "id":12470176,
+        "name":"Al Wadan",
+        "country":"OM",
+        "admin1":"Al Buraimi",
+        "admin2":"",
+        "lat":23.6237,
+        "lon":55.56348,
+        "pop":1000
+    }
+]

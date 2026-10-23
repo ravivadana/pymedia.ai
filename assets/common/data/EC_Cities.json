@@ -1,0 +1,1252 @@
+[
+    {
+        "id":3652462,
+        "name":"Quito",
+        "country":"EC",
+        "admin1":"Pichincha",
+        "admin2":"Quito",
+        "lat":-0.22985,
+        "lon":-78.52495,
+        "pop":2781641
+    },
+    {
+        "id":3657509,
+        "name":"Guayaquil",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Guayaquil",
+        "lat":-2.19616,
+        "lon":-79.88621,
+        "pop":2723665
+    },
+    {
+        "id":3658666,
+        "name":"Cuenca",
+        "country":"EC",
+        "admin1":"Azuay",
+        "admin2":"Cuenca",
+        "lat":-2.8953,
+        "lon":-78.9963,
+        "pop":636996
+    },
+    {
+        "id":3651297,
+        "name":"Santo Domingo de los Colorados",
+        "country":"EC",
+        "admin1":"Santo Domingo de los Tsáchilas",
+        "admin2":"Santo Domingo",
+        "lat":-0.25368,
+        "lon":-79.17628,
+        "pop":458580
+    },
+    {
+        "id":3660689,
+        "name":"Ambato",
+        "country":"EC",
+        "admin1":"Tungurahua Province",
+        "admin2":"Ambato",
+        "lat":-1.24908,
+        "lon":-78.61675,
+        "pop":387309
+    },
+    {
+        "id":3652941,
+        "name":"Portoviejo",
+        "country":"EC",
+        "admin1":"Manabí",
+        "admin2":"Portoviejo",
+        "lat":-1.05764,
+        "lon":-80.45145,
+        "pop":321800
+    },
+    {
+        "id":3658192,
+        "name":"Eloy Alfaro",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Durán",
+        "lat":-2.16919,
+        "lon":-79.83987,
+        "pop":315724
+    },
+    {
+        "id":3654533,
+        "name":"Machala",
+        "country":"EC",
+        "admin1":"El Oro",
+        "admin2":"Machala",
+        "lat":-3.25886,
+        "lon":-79.95876,
+        "pop":289141
+    },
+    {
+        "id":3654667,
+        "name":"Loja",
+        "country":"EC",
+        "admin1":"Loja",
+        "admin2":"Loja",
+        "lat":-3.99313,
+        "lon":-79.20422,
+        "pop":274112
+    },
+    {
+        "id":3654410,
+        "name":"Manta",
+        "country":"EC",
+        "admin1":"Manabí",
+        "admin2":"Manta",
+        "lat":-0.94937,
+        "lon":-80.73137,
+        "pop":264281
+    },
+    {
+        "id":3652350,
+        "name":"Riobamba",
+        "country":"EC",
+        "admin1":"Chimborazo Province",
+        "admin2":"Riobamba",
+        "lat":-1.66506,
+        "lon":-78.65887,
+        "pop":264048
+    },
+    {
+        "id":3655673,
+        "name":"Ibarra",
+        "country":"EC",
+        "admin1":"Imbabura",
+        "admin2":"Ibarra",
+        "lat":0.34881,
+        "lon":-78.12462,
+        "pop":221149
+    },
+    {
+        "id":3657990,
+        "name":"Esmeraldas",
+        "country":"EC",
+        "admin1":"Esmeraldas",
+        "admin2":"Esmeraldas",
+        "lat":0.9592,
+        "lon":-79.65397,
+        "pop":218727
+    },
+    {
+        "id":3652567,
+        "name":"Quevedo",
+        "country":"EC",
+        "admin1":"Los Ríos",
+        "admin2":"Quevedo",
+        "lat":-1.02881,
+        "lon":-79.46264,
+        "pop":213842
+    },
+    {
+        "id":3654870,
+        "name":"Latacunga",
+        "country":"EC",
+        "admin1":"Cotopaxi",
+        "admin2":"Latacunga",
+        "lat":-0.93424,
+        "lon":-78.6152,
+        "pop":205624
+    },
+    {
+        "id":3658501,
+        "name":"Daule",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Daule",
+        "lat":-1.86032,
+        "lon":-79.97683,
+        "pop":173684
+    },
+    {
+        "id":3654215,
+        "name":"Milagro",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Milagro",
+        "lat":-2.13396,
+        "lon":-79.59337,
+        "pop":133508
+    },
+    {
+        "id":3650472,
+        "name":"Tulcán",
+        "country":"EC",
+        "admin1":"Carchi",
+        "admin2":"Cantón Tulcán",
+        "lat":0.8124,
+        "lon":-77.71709,
+        "pop":86498
+    },
+    {
+        "id":3660418,
+        "name":"Babahoyo",
+        "country":"EC",
+        "admin1":"Los Ríos",
+        "admin2":"Babahoyo",
+        "lat":-1.80493,
+        "lon":-79.52492,
+        "pop":76279
+    },
+    {
+        "id":3655131,
+        "name":"La Libertad",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"",
+        "lat":-2.233,
+        "lon":-80.91039,
+        "pop":75881
+    },
+    {
+        "id":3650273,
+        "name":"El Empalme",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"El Empalme",
+        "lat":-1.04491,
+        "lon":-79.6384,
+        "pop":48754
+    },
+    {
+        "id":3652743,
+        "name":"Puerto Francisco de Orellana",
+        "country":"EC",
+        "admin1":"Orellana Province",
+        "admin2":"Francisco de Orellana Canton",
+        "lat":-0.44967,
+        "lon":-76.99724,
+        "pop":48144
+    },
+    {
+        "id":3653403,
+        "name":"Pasaje",
+        "country":"EC",
+        "admin1":"El Oro",
+        "admin2":"Pasaje",
+        "lat":-3.32561,
+        "lon":-79.80697,
+        "pop":44860
+    },
+    {
+        "id":3659139,
+        "name":"Chone",
+        "country":"EC",
+        "admin1":"Manabí",
+        "admin2":"Chone",
+        "lat":-0.6985,
+        "lon":-80.0925,
+        "pop":44751
+    },
+    {
+        "id":3652100,
+        "name":"Salinas",
+        "country":"EC",
+        "admin1":"Santa Elena",
+        "admin2":"Salinas",
+        "lat":-2.21452,
+        "lon":-80.95151,
+        "pop":43862
+    },
+    {
+        "id":3651438,
+        "name":"Santa Elena",
+        "country":"EC",
+        "admin1":"Santa Elena",
+        "admin2":"Santa Elena",
+        "lat":-2.22652,
+        "lon":-80.85807,
+        "pop":42214
+    },
+    {
+        "id":3652257,
+        "name":"Rosa Zarate",
+        "country":"EC",
+        "admin1":"Esmeraldas",
+        "admin2":"Cantón Quinindé",
+        "lat":0.32779,
+        "lon":-79.47407,
+        "pop":42121
+    },
+    {
+        "id":3651356,
+        "name":"Santa Rosa",
+        "country":"EC",
+        "admin1":"El Oro",
+        "admin2":"Cantón Santa Rosa",
+        "lat":-3.45571,
+        "lon":-79.9637,
+        "pop":41816
+    },
+    {
+        "id":3660361,
+        "name":"Balzar",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Balzar",
+        "lat":-1.36553,
+        "lon":-79.90507,
+        "pop":40115
+    },
+    {
+        "id":3655720,
+        "name":"Huaquillas",
+        "country":"EC",
+        "admin1":"El Oro",
+        "admin2":"Huaquillas",
+        "lat":-3.47523,
+        "lon":-80.23084,
+        "pop":39757
+    },
+    {
+        "id":3650267,
+        "name":"Ventanas",
+        "country":"EC",
+        "admin1":"Los Ríos",
+        "admin2":"Ventanas",
+        "lat":-1.44285,
+        "lon":-79.46274,
+        "pop":38168
+    },
+    {
+        "id":3660401,
+        "name":"Bahía de Caráquez",
+        "country":"EC",
+        "admin1":"Manabí",
+        "admin2":"Cantón Sucre",
+        "lat":-0.60033,
+        "lon":-80.42444,
+        "pop":37056
+    },
+    {
+        "id":3654853,
+        "name":"La Troncal",
+        "country":"EC",
+        "admin1":"Cañar",
+        "admin2":"La Troncal",
+        "lat":-2.42466,
+        "lon":-79.34159,
+        "pop":36353
+    },
+    {
+        "id":3655446,
+        "name":"Jipijapa",
+        "country":"EC",
+        "admin1":"Manabí",
+        "admin2":"Jipijapa",
+        "lat":-1.34841,
+        "lon":-80.57913,
+        "pop":35901
+    },
+    {
+        "id":3660434,
+        "name":"Azogues",
+        "country":"EC",
+        "admin1":"Cañar",
+        "admin2":"Azogues",
+        "lat":-2.73982,
+        "lon":-78.84561,
+        "pop":34877
+    },
+    {
+        "id":3653873,
+        "name":"Naranjito",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Naranjito",
+        "lat":-2.17071,
+        "lon":-79.465,
+        "pop":34206
+    },
+    {
+        "id":3650186,
+        "name":"Vinces",
+        "country":"EC",
+        "admin1":"Los Ríos",
+        "admin2":"Vinces",
+        "lat":-1.55637,
+        "lon":-79.75249,
+        "pop":32497
+    },
+    {
+        "id":3653693,
+        "name":"Otavalo",
+        "country":"EC",
+        "admin1":"Imbabura",
+        "admin2":"Otavalo",
+        "lat":0.23457,
+        "lon":-78.26248,
+        "pop":32330
+    },
+    {
+        "id":3658053,
+        "name":"El Triunfo",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Daule",
+        "lat":-1.93333,
+        "lon":-79.96667,
+        "pop":32282
+    },
+    {
+        "id":3653882,
+        "name":"Naranjal",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Naranjal",
+        "lat":-2.67638,
+        "lon":-79.61735,
+        "pop":32045
+    },
+    {
+        "id":3652928,
+        "name":"Posorja",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Guayaquil",
+        "lat":-2.70924,
+        "lon":-80.24719,
+        "pop":30886
+    },
+    {
+        "id":3653015,
+        "name":"Playas",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Playas",
+        "lat":-2.63199,
+        "lon":-80.38808,
+        "pop":30564
+    },
+    {
+        "id":3652977,
+        "name":"Pomasqui",
+        "country":"EC",
+        "admin1":"Pichincha",
+        "admin2":"Quito",
+        "lat":-0.0542,
+        "lon":-78.45382,
+        "pop":28724
+    },
+    {
+        "id":3650121,
+        "name":"Yaguachi Nuevo",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Cantón Yaguachi",
+        "lat":-2.09757,
+        "lon":-79.69261,
+        "pop":27947
+    },
+    {
+        "id":3657722,
+        "name":"Guabo",
+        "country":"EC",
+        "admin1":"El Oro",
+        "admin2":"El Guabo",
+        "lat":-3.24401,
+        "lon":-79.82874,
+        "pop":26635
+    },
+    {
+        "id":3659578,
+        "name":"Cayambe",
+        "country":"EC",
+        "admin1":"Pichincha",
+        "admin2":"Cayambe",
+        "lat":0.04103,
+        "lon":-78.14636,
+        "pop":26582
+    },
+    {
+        "id":3660559,
+        "name":"Arenillas",
+        "country":"EC",
+        "admin1":"El Oro",
+        "admin2":"Arenillas",
+        "lat":-3.55399,
+        "lon":-80.06682,
+        "pop":26000
+    },
+    {
+        "id":3654536,
+        "name":"Machachi",
+        "country":"EC",
+        "admin1":"Pichincha",
+        "admin2":"Cantón Mejía",
+        "lat":-0.51273,
+        "lon":-78.57066,
+        "pop":25742
+    },
+    {
+        "id":3652584,
+        "name":"Puyo",
+        "country":"EC",
+        "admin1":"Pastaza Province",
+        "admin2":"Pastaza",
+        "lat":-1.49156,
+        "lon":-78.00337,
+        "pop":24881
+    },
+    {
+        "id":3655185,
+        "name":"Nueva Loja",
+        "country":"EC",
+        "admin1":"Sucumbíos",
+        "admin2":"Lago Agrio",
+        "lat":0.086,
+        "lon":-76.89528,
+        "pop":24211
+    },
+    {
+        "id":3652065,
+        "name":"Samborondón",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Cantón Samborondón",
+        "lat":-1.96071,
+        "lon":-79.72566,
+        "pop":24118
+    },
+    {
+        "id":3654541,
+        "name":"Macas",
+        "country":"EC",
+        "admin1":"Morona-Santiago Province",
+        "admin2":"Morona",
+        "lat":-2.30741,
+        "lon":-78.12026,
+        "pop":23687
+    },
+    {
+        "id":3653295,
+        "name":"Pedro Carbo",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Pedro Carbo",
+        "lat":-1.81619,
+        "lon":-80.23431,
+        "pop":23372
+    },
+    {
+        "id":3657571,
+        "name":"Guaranda",
+        "country":"EC",
+        "admin1":"Bolívar",
+        "admin2":"Guaranda",
+        "lat":-1.59106,
+        "lon":-78.99903,
+        "pop":22199
+    },
+    {
+        "id":3660152,
+        "name":"Boca Suno",
+        "country":"EC",
+        "admin1":"Orellana Province",
+        "admin2":"",
+        "lat":-0.69832,
+        "lon":-77.14083,
+        "pop":20313
+    },
+    {
+        "id":3651694,
+        "name":"San Lorenzo de Esmeraldas",
+        "country":"EC",
+        "admin1":"Esmeraldas",
+        "admin2":"San Lorenzo",
+        "lat":1.28626,
+        "lon":-78.83514,
+        "pop":20209
+    },
+    {
+        "id":3650301,
+        "name":"Valencia",
+        "country":"EC",
+        "admin1":"Los Ríos",
+        "admin2":"Valencia",
+        "lat":-0.95312,
+        "lon":-79.35513,
+        "pop":18841
+    },
+    {
+        "id":3659599,
+        "name":"Catamayo",
+        "country":"EC",
+        "admin1":"Loja",
+        "admin2":"Catamayo",
+        "lat":-3.98661,
+        "lon":-79.35763,
+        "pop":18565
+    },
+    {
+        "id":3654055,
+        "name":"Montecristi",
+        "country":"EC",
+        "admin1":"Manabí",
+        "admin2":"Montecristi",
+        "lat":-1.04576,
+        "lon":-80.65889,
+        "pop":18351
+    },
+    {
+        "id":3660478,
+        "name":"Atuntaqui",
+        "country":"EC",
+        "admin1":"Imbabura",
+        "admin2":"Cantón Antonio Ante",
+        "lat":0.32759,
+        "lon":-78.21908,
+        "pop":17456
+    },
+    {
+        "id":3659926,
+        "name":"Calceta",
+        "country":"EC",
+        "admin1":"Manabí",
+        "admin2":"Cantón Bolívar",
+        "lat":-0.84582,
+        "lon":-80.16389,
+        "pop":17286
+    },
+    {
+        "id":3650721,
+        "name":"Tena",
+        "country":"EC",
+        "admin1":"Napo",
+        "admin2":"Tena",
+        "lat":-0.9961,
+        "lon":-77.81315,
+        "pop":17172
+    },
+    {
+        "id":3657670,
+        "name":"Gualaceo",
+        "country":"EC",
+        "admin1":"Azuay",
+        "admin2":"Gualaceo",
+        "lat":-2.89418,
+        "lon":-78.77907,
+        "pop":17122
+    },
+    {
+        "id":3653130,
+        "name":"Piñas",
+        "country":"EC",
+        "admin1":"El Oro",
+        "admin2":"Cantón Piñas",
+        "lat":-3.68017,
+        "lon":-79.68169,
+        "pop":16981
+    },
+    {
+        "id":3659711,
+        "name":"Cariamanga",
+        "country":"EC",
+        "admin1":"Loja",
+        "admin2":"Calvas",
+        "lat":-4.32804,
+        "lon":-79.55575,
+        "pop":16862
+    },
+    {
+        "id":3653287,
+        "name":"Pelileo",
+        "country":"EC",
+        "admin1":"Tungurahua Province",
+        "admin2":"San Pedro de Pelileo",
+        "lat":-1.33057,
+        "lon":-78.54523,
+        "pop":16572
+    },
+    {
+        "id":3655117,
+        "name":"La Maná",
+        "country":"EC",
+        "admin1":"Cotopaxi",
+        "admin2":"La Maná",
+        "lat":-0.94096,
+        "lon":-79.22655,
+        "pop":16450
+    },
+    {
+        "id":3652684,
+        "name":"Pujilí",
+        "country":"EC",
+        "admin1":"Cotopaxi",
+        "admin2":"Cantón Pujilí",
+        "lat":-0.95759,
+        "lon":-78.69636,
+        "pop":16168
+    },
+    {
+        "id":3654064,
+        "name":"Montalvo",
+        "country":"EC",
+        "admin1":"Los Ríos",
+        "admin2":"Montalvo",
+        "lat":-1.79008,
+        "lon":-79.28759,
+        "pop":15547
+    },
+    {
+        "id":3650960,
+        "name":"Sucre",
+        "country":"EC",
+        "admin1":"Manabí",
+        "admin2":"Cantón Veinticuatro de Mayo",
+        "lat":-1.27987,
+        "lon":-80.41776,
+        "pop":15286
+    },
+    {
+        "id":3649959,
+        "name":"Zamora",
+        "country":"EC",
+        "admin1":"Zamora Chinchipe",
+        "admin2":"Zamora",
+        "lat":-4.06446,
+        "lon":-78.95123,
+        "pop":15276
+    },
+    {
+        "id":3650554,
+        "name":"Tosagua",
+        "country":"EC",
+        "admin1":"Manabí",
+        "admin2":"Tosagua",
+        "lat":-0.78585,
+        "lon":-80.2346,
+        "pop":14680
+    },
+    {
+        "id":3651868,
+        "name":"San Gabriel",
+        "country":"EC",
+        "admin1":"Carchi",
+        "admin2":"Cantón Montúfar",
+        "lat":0.59354,
+        "lon":-77.83066,
+        "pop":14487
+    },
+    {
+        "id":3660798,
+        "name":"Alausí",
+        "country":"EC",
+        "admin1":"Chimborazo Province",
+        "admin2":"Cantón Alausí",
+        "lat":-2.20128,
+        "lon":-78.84781,
+        "pop":14294
+    },
+    {
+        "id":3653967,
+        "name":"Muisne",
+        "country":"EC",
+        "admin1":"Esmeraldas",
+        "admin2":"Cantón Muisne",
+        "lat":0.61045,
+        "lon":-80.0186,
+        "pop":13393
+    },
+    {
+        "id":3654545,
+        "name":"Macará",
+        "country":"EC",
+        "admin1":"Loja",
+        "admin2":"Cantón Macará",
+        "lat":-4.38184,
+        "lon":-79.94521,
+        "pop":13035
+    },
+    {
+        "id":3651495,
+        "name":"Santa Ana de Vuelta Larga",
+        "country":"EC",
+        "admin1":"Manabí",
+        "admin2":"Santa Ana",
+        "lat":-1.20784,
+        "lon":-80.37059,
+        "pop":12833
+    },
+    {
+        "id":3651726,
+        "name":"San Juan",
+        "country":"EC",
+        "admin1":"Los Ríos",
+        "admin2":"Vinces",
+        "lat":-1.66667,
+        "lon":-79.76667,
+        "pop":12819
+    },
+    {
+        "id":3652764,
+        "name":"Puerto Ayora",
+        "country":"EC",
+        "admin1":"Galápagos",
+        "admin2":"Santa Cruz",
+        "lat":-0.74018,
+        "lon":-90.3138,
+        "pop":12696
+    },
+    {
+        "id":3657594,
+        "name":"Guano",
+        "country":"EC",
+        "admin1":"Chimborazo Province",
+        "admin2":"Guano",
+        "lat":-1.60689,
+        "lon":-78.63726,
+        "pop":12659
+    },
+    {
+        "id":3660773,
+        "name":"Alfredo Baquerizo Moreno",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Alfredo Baquerizo Moreno (Juján)",
+        "lat":-1.91667,
+        "lon":-79.51667,
+        "pop":12617
+    },
+    {
+        "id":3651639,
+        "name":"San Miguel de Bolívar",
+        "country":"EC",
+        "admin1":"Bolívar",
+        "admin2":"San Miguel",
+        "lat":-1.70935,
+        "lon":-79.04201,
+        "pop":12575
+    },
+    {
+        "id":3651411,
+        "name":"Santa Lucía",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Guayaquil",
+        "lat":-2.18333,
+        "lon":-80.0,
+        "pop":12523
+    },
+    {
+        "id":3649914,
+        "name":"Zaruma",
+        "country":"EC",
+        "admin1":"El Oro",
+        "admin2":"Zaruma",
+        "lat":-3.69227,
+        "lon":-79.61254,
+        "pop":12505
+    },
+    {
+        "id":3660387,
+        "name":"Balao",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Balao",
+        "lat":-2.9106,
+        "lon":-79.81505,
+        "pop":12205
+    },
+    {
+        "id":3650312,
+        "name":"Valdez",
+        "country":"EC",
+        "admin1":"Esmeraldas",
+        "admin2":"Eloy Alfaro",
+        "lat":1.24917,
+        "lon":-78.98306,
+        "pop":11441
+    },
+    {
+        "id":3659602,
+        "name":"Catacocha",
+        "country":"EC",
+        "admin1":"Loja",
+        "admin2":"Paltas",
+        "lat":-4.05031,
+        "lon":-79.64982,
+        "pop":10872
+    },
+    {
+        "id":3651613,
+        "name":"San Miguel",
+        "country":"EC",
+        "admin1":"Cotopaxi",
+        "admin2":"Salcedo",
+        "lat":-1.04559,
+        "lon":-78.59019,
+        "pop":10838
+    },
+    {
+        "id":3652315,
+        "name":"Rocafuerte",
+        "country":"EC",
+        "admin1":"Manabí",
+        "admin2":"Rocafuerte",
+        "lat":-0.92447,
+        "lon":-80.45017,
+        "pop":10274
+    },
+    {
+        "id":3650053,
+        "name":"Yantzaza",
+        "country":"EC",
+        "admin1":"Zamora Chinchipe",
+        "admin2":"Yantzaza",
+        "lat":-3.83299,
+        "lon":-78.76122,
+        "pop":9970
+    },
+    {
+        "id":3659852,
+        "name":"Cañar",
+        "country":"EC",
+        "admin1":"Cañar",
+        "admin2":"Cantón Cañar",
+        "lat":-2.55941,
+        "lon":-78.93808,
+        "pop":9900
+    },
+    {
+        "id":3659592,
+        "name":"Catarama",
+        "country":"EC",
+        "admin1":"Los Ríos",
+        "admin2":"Urdaneta",
+        "lat":-1.57091,
+        "lon":-79.47335,
+        "pop":9723
+    },
+    {
+        "id":3652943,
+        "name":"Portovelo",
+        "country":"EC",
+        "admin1":"El Oro",
+        "admin2":"Portovelo",
+        "lat":-3.71601,
+        "lon":-79.61893,
+        "pop":9708
+    },
+    {
+        "id":3660346,
+        "name":"Baños",
+        "country":"EC",
+        "admin1":"Tungurahua Province",
+        "admin2":"Baños de Agua Santa",
+        "lat":-1.39699,
+        "lon":-78.42289,
+        "pop":9501
+    },
+    {
+        "id":3658948,
+        "name":"Colimes",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Canton Colimes",
+        "lat":-1.54566,
+        "lon":-80.01158,
+        "pop":9384
+    },
+    {
+        "id":3653581,
+        "name":"Palestina",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Cantón Salitre",
+        "lat":-1.93709,
+        "lon":-79.71396,
+        "pop":9364
+    },
+    {
+        "id":3653609,
+        "name":"Paján",
+        "country":"EC",
+        "admin1":"Manabí",
+        "admin2":"Cantón Paján",
+        "lat":-1.55266,
+        "lon":-80.42846,
+        "pop":9183
+    },
+    {
+        "id":3655385,
+        "name":"Junín",
+        "country":"EC",
+        "admin1":"Manabí",
+        "admin2":"Cantón Junín",
+        "lat":-0.92777,
+        "lon":-80.20583,
+        "pop":9128
+    },
+    {
+        "id":3653587,
+        "name":"Palenque",
+        "country":"EC",
+        "admin1":"Los Ríos",
+        "admin2":"Palenque",
+        "lat":-1.43757,
+        "lon":-79.7569,
+        "pop":9083
+    },
+    {
+        "id":3660422,
+        "name":"Baba",
+        "country":"EC",
+        "admin1":"Los Ríos",
+        "admin2":"Cantón Baba",
+        "lat":-1.78443,
+        "lon":-79.6787,
+        "pop":8790
+    },
+    {
+        "id":3652757,
+        "name":"Puerto Bolívar",
+        "country":"EC",
+        "admin1":"El Oro",
+        "admin2":"Machala",
+        "lat":-3.26649,
+        "lon":-79.99749,
+        "pop":8300
+    },
+    {
+        "id":3658781,
+        "name":"Cotacachi",
+        "country":"EC",
+        "admin1":"Imbabura",
+        "admin2":"Cotacachi",
+        "lat":0.29947,
+        "lon":-78.26565,
+        "pop":8238
+    },
+    {
+        "id":12238293,
+        "name":"Oyambarillo",
+        "country":"EC",
+        "admin1":"Pichincha",
+        "admin2":"Quito",
+        "lat":-0.19516,
+        "lon":-78.33173,
+        "pop":8000
+    },
+    {
+        "id":3660356,
+        "name":"Balsas",
+        "country":"EC",
+        "admin1":"El Oro",
+        "admin2":"Balsas",
+        "lat":-3.76146,
+        "lon":-79.82422,
+        "pop":7875
+    },
+    {
+        "id":3654650,
+        "name":"Lomas de Sargentillo",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Lomas De Sargentillo",
+        "lat":-1.88082,
+        "lon":-80.08354,
+        "pop":7542
+    },
+    {
+        "id":3653159,
+        "name":"Píllaro",
+        "country":"EC",
+        "admin1":"Tungurahua Province",
+        "admin2":"Santiago de Píllaro",
+        "lat":-1.17381,
+        "lon":-78.55092,
+        "pop":7462
+    },
+    {
+        "id":3650956,
+        "name":"Sucúa",
+        "country":"EC",
+        "admin1":"Morona-Santiago Province",
+        "admin2":"Cantón Sucúa",
+        "lat":-2.45737,
+        "lon":-78.17102,
+        "pop":7413
+    },
+    {
+        "id":3653146,
+        "name":"Pimampiro",
+        "country":"EC",
+        "admin1":"Imbabura",
+        "admin2":"Pimampiro",
+        "lat":0.39093,
+        "lon":-77.94094,
+        "pop":7408
+    },
+    {
+        "id":3660573,
+        "name":"Archidona",
+        "country":"EC",
+        "admin1":"Napo",
+        "admin2":"Archidona",
+        "lat":-0.9095,
+        "lon":-77.80772,
+        "pop":7309
+    },
+    {
+        "id":3658822,
+        "name":"Coronel Marcelino Maridueña",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Coronel Marcelino Maridueña",
+        "lat":-2.21025,
+        "lon":-79.43734,
+        "pop":7303
+    },
+    {
+        "id":3652758,
+        "name":"Puerto Baquerizo Moreno",
+        "country":"EC",
+        "admin1":"Galápagos",
+        "admin2":"Cantón San Cristóbal",
+        "lat":-0.90172,
+        "lon":-89.61021,
+        "pop":7290
+    },
+    {
+        "id":12238029,
+        "name":"Tres Postes",
+        "country":"EC",
+        "admin1":"Guayas",
+        "admin2":"Milagro",
+        "lat":-1.98745,
+        "lon":-79.60451,
+        "pop":7000
+    },
+    {
+        "id":3653523,
+        "name":"Palora",
+        "country":"EC",
+        "admin1":"Morona-Santiago Province",
+        "admin2":"Palora",
+        "lat":-1.70087,
+        "lon":-77.96609,
+        "pop":6472
+    },
+    {
+        "id":3653307,
+        "name":"Pedernales",
+        "country":"EC",
+        "admin1":"Manabí",
+        "admin2":"Canton Pedernales",
+        "lat":0.07168,
+        "lon":-80.05216,
+        "pop":5983
+    },
+    {
+        "id":3659544,
+        "name":"Celica",
+        "country":"EC",
+        "admin1":"Loja",
+        "admin2":"Cantón Celica",
+        "lat":-4.10304,
+        "lon":-79.95598,
+        "pop":5499
+    },
+    {
+        "id":3654367,
+        "name":"Marcabelí",
+        "country":"EC",
+        "admin1":"El Oro",
+        "admin2":"Marcabelí",
+        "lat":-3.7839,
+        "lon":-79.91227,
+        "pop":5450
+    },
+    {
+        "id":3651857,
+        "name":"Sangolquí",
+        "country":"EC",
+        "admin1":"Pichincha",
+        "admin2":"Cantón Rumiñahui",
+        "lat":-0.33405,
+        "lon":-78.45217,
+        "pop":5114
+    },
+    {
+        "id":3657661,
+        "name":"Gualaquiza",
+        "country":"EC",
+        "admin1":"Morona-Santiago Province",
+        "admin2":"Gualaquiza",
+        "lat":-3.40352,
+        "lon":-78.58148,
+        "pop":4611
+    },
+    {
+        "id":3653771,
+        "name":"Nulti",
+        "country":"EC",
+        "admin1":"Azuay",
+        "admin2":"Gualaceo",
+        "lat":-2.91667,
+        "lon":-78.85,
+        "pop":4589
+    },
+    {
+        "id":3654724,
+        "name":"Llacao",
+        "country":"EC",
+        "admin1":"Azuay",
+        "admin2":"Cuenca",
+        "lat":-2.86667,
+        "lon":-78.88333,
+        "pop":4501
+    },
+    {
+        "id":3658379,
+        "name":"El Ángel",
+        "country":"EC",
+        "admin1":"Carchi",
+        "admin2":"Espejo",
+        "lat":0.62022,
+        "lon":-77.94098,
+        "pop":3983
+    },
+    {
+        "id":3651251,
+        "name":"Saquisilí",
+        "country":"EC",
+        "admin1":"Cotopaxi",
+        "admin2":"Saquisilí",
+        "lat":-0.8399,
+        "lon":-78.667,
+        "pop":3778
+    },
+    {
+        "id":3652694,
+        "name":"Puerto Villamil",
+        "country":"EC",
+        "admin1":"Galápagos",
+        "admin2":"Isabela",
+        "lat":-0.95542,
+        "lon":-90.96654,
+        "pop":2200
+    },
+    {
+        "id":3654842,
+        "name":"La Unión",
+        "country":"EC",
+        "admin1":"Azuay",
+        "admin2":"Paute",
+        "lat":-2.85,
+        "lon":-78.78333,
+        "pop":1622
+    },
+    {
+        "id":3660134,
+        "name":"Pampanal de Bolívar",
+        "country":"EC",
+        "admin1":"Esmeraldas",
+        "admin2":"",
+        "lat":1.35251,
+        "lon":-78.8936,
+        "pop":1118
+    }
+]

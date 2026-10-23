@@ -1,0 +1,112 @@
+[
+    {
+        "id":3579925,
+        "name":"Saint George's",
+        "country":"GD",
+        "admin1":"Saint George Parish",
+        "admin2":"",
+        "lat":12.05288,
+        "lon":-61.75226,
+        "pop":7500
+    },
+    {
+        "id":3580279,
+        "name":"Gouyave",
+        "country":"GD",
+        "admin1":"Saint John Parish",
+        "admin2":"",
+        "lat":12.16462,
+        "lon":-61.72965,
+        "pop":3378
+    },
+    {
+        "id":3580236,
+        "name":"Grenville",
+        "country":"GD",
+        "admin1":"Saint Andrew Parish",
+        "admin2":"",
+        "lat":12.12278,
+        "lon":-61.62498,
+        "pop":2476
+    },
+    {
+        "id":3580257,
+        "name":"Grand Roy",
+        "country":"GD",
+        "admin1":"Saint John Parish",
+        "admin2":"",
+        "lat":12.1322,
+        "lon":-61.74537,
+        "pop":2400
+    },
+    {
+        "id":3579833,
+        "name":"Victoria",
+        "country":"GD",
+        "admin1":"Saint Mark Parish",
+        "admin2":"",
+        "lat":12.19021,
+        "lon":-61.70677,
+        "pop":2256
+    },
+    {
+        "id":3579931,
+        "name":"Saint David’s",
+        "country":"GD",
+        "admin1":"Saint David Parish",
+        "admin2":"",
+        "lat":12.04903,
+        "lon":-61.66875,
+        "pop":1321
+    },
+    {
+        "id":3579891,
+        "name":"Sauteurs",
+        "country":"GD",
+        "admin1":"Saint Patrick Parish",
+        "admin2":"",
+        "lat":12.21833,
+        "lon":-61.63917,
+        "pop":1320
+    },
+    {
+        "id":3579837,
+        "name":"Upper La Taste",
+        "country":"GD",
+        "admin1":"Saint Patrick Parish",
+        "admin2":"",
+        "lat":12.19302,
+        "lon":-61.61813,
+        "pop":1300
+    },
+    {
+        "id":3580215,
+        "name":"Hillsborough",
+        "country":"GD",
+        "admin1":"Carriacou and Petite Martinique",
+        "admin2":"",
+        "lat":12.48292,
+        "lon":-61.45597,
+        "pop":1000
+    },
+    {
+        "id":3579854,
+        "name":"Tivoli",
+        "country":"GD",
+        "admin1":"Saint Andrew Parish",
+        "admin2":"",
+        "lat":12.17268,
+        "lon":-61.61641,
+        "pop":700
+    },
+    {
+        "id":3579819,
+        "name":"Willis",
+        "country":"GD",
+        "admin1":"Saint George Parish",
+        "admin2":"",
+        "lat":12.0856,
+        "lon":-61.71957,
+        "pop":500
+    }
+]

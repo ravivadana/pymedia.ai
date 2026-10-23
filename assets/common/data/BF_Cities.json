@@ -1,0 +1,832 @@
+[
+    {
+        "id":2357048,
+        "name":"Ouagadougou",
+        "country":"BF",
+        "admin1":"Centre",
+        "admin2":"Kadiogo Province",
+        "lat":12.36566,
+        "lon":-1.53388,
+        "pop":2415266
+    },
+    {
+        "id":2362344,
+        "name":"Bobo-Dioulasso",
+        "country":"BF",
+        "admin1":"Hauts-Bassins",
+        "admin2":"Province du Houet",
+        "lat":11.17715,
+        "lon":-4.2979,
+        "pop":904920
+    },
+    {
+        "id":2358946,
+        "name":"Koudougou",
+        "country":"BF",
+        "admin1":"Centre-Ouest",
+        "admin2":"Province du Boulkiemdé",
+        "lat":12.25263,
+        "lon":-2.36272,
+        "pop":160239
+    },
+    {
+        "id":2356157,
+        "name":"Saaba",
+        "country":"BF",
+        "admin1":"Centre",
+        "admin2":"Kadiogo Province",
+        "lat":12.37136,
+        "lon":-1.41468,
+        "pop":136011
+    },
+    {
+        "id":2357043,
+        "name":"Ouahigouya",
+        "country":"BF",
+        "admin1":"Nord",
+        "admin2":"Province du Yatenga",
+        "lat":13.58278,
+        "lon":-2.42158,
+        "pop":124587
+    },
+    {
+        "id":2359608,
+        "name":"Kaya",
+        "country":"BF",
+        "admin1":"Centre-Nord",
+        "admin2":"Province du Sanmatenga",
+        "lat":13.09167,
+        "lon":-1.08444,
+        "pop":121970
+    },
+    {
+        "id":2362909,
+        "name":"Banfora",
+        "country":"BF",
+        "admin1":"Cascades Region",
+        "admin2":"Province de la Comoé",
+        "lat":10.63333,
+        "lon":-4.76667,
+        "pop":117452
+    },
+    {
+        "id":2356300,
+        "name":"Pouytenga",
+        "country":"BF",
+        "admin1":"Centre-Est",
+        "admin2":"Kouritenga Province",
+        "lat":12.25162,
+        "lon":-0.42565,
+        "pop":96469
+    },
+    {
+        "id":2360073,
+        "name":"Houndé",
+        "country":"BF",
+        "admin1":"Hauts-Bassins",
+        "admin2":"Province du Tuy",
+        "lat":11.5,
+        "lon":-3.51667,
+        "pop":87151
+    },
+    {
+        "id":2360886,
+        "name":"Fada N'gourma",
+        "country":"BF",
+        "admin1":"Est",
+        "admin2":"Province du Gourma",
+        "lat":12.06157,
+        "lon":0.35843,
+        "pop":73200
+    },
+    {
+        "id":2357109,
+        "name":"Nioko I",
+        "country":"BF",
+        "admin1":"Centre",
+        "admin2":"Kadiogo Province",
+        "lat":12.39501,
+        "lon":-1.43861,
+        "pop":65263
+    },
+    {
+        "id":2361477,
+        "name":"Dédougou",
+        "country":"BF",
+        "admin1":"Boucle du Mouhoun",
+        "admin2":"Province du Mouhoun",
+        "lat":12.46338,
+        "lon":-3.46075,
+        "pop":63617
+    },
+    {
+        "id":2354675,
+        "name":"Tenkodogo",
+        "country":"BF",
+        "admin1":"Centre-Est",
+        "admin2":"Province du Boulgou",
+        "lat":11.78,
+        "lon":-0.36972,
+        "pop":61936
+    },
+    {
+        "id":2361177,
+        "name":"Djibo",
+        "country":"BF",
+        "admin1":"Sahel",
+        "admin2":"Province du Soum",
+        "lat":14.0994,
+        "lon":-1.62554,
+        "pop":61462
+    },
+    {
+        "id":2359142,
+        "name":"Kongoussi",
+        "country":"BF",
+        "admin1":"Centre-Nord",
+        "admin2":"Province du Bam",
+        "lat":13.32583,
+        "lon":-1.53472,
+        "pop":53627
+    },
+    {
+        "id":2358382,
+        "name":"Léo",
+        "country":"BF",
+        "admin1":"Centre-Ouest",
+        "admin2":"Province de la Sissili",
+        "lat":11.10033,
+        "lon":-2.10654,
+        "pop":51743
+    },
+    {
+        "id":2358738,
+        "name":"Koupéla",
+        "country":"BF",
+        "admin1":"Centre-Est",
+        "admin2":"Kouritenga Province",
+        "lat":12.17864,
+        "lon":-0.35103,
+        "pop":49372
+    },
+    {
+        "id":2354349,
+        "name":"Titao",
+        "country":"BF",
+        "admin1":"Nord",
+        "admin2":"Province du Loroum",
+        "lat":13.76667,
+        "lon":-2.06667,
+        "pop":48241
+    },
+    {
+        "id":2355886,
+        "name":"Saonré",
+        "country":"BF",
+        "admin1":"Centre",
+        "admin2":"Kadiogo Province",
+        "lat":12.2751,
+        "lon":-1.57692,
+        "pop":47728
+    },
+    {
+        "id":2361082,
+        "name":"Dori",
+        "country":"BF",
+        "admin1":"Sahel",
+        "admin2":"Province du Séno",
+        "lat":14.0341,
+        "lon":-0.03261,
+        "pop":46512
+    },
+    {
+        "id":2363174,
+        "name":"Aribinda",
+        "country":"BF",
+        "admin1":"Sahel",
+        "admin2":"Province du Soum",
+        "lat":14.22963,
+        "lon":-0.86537,
+        "pop":45818
+    },
+    {
+        "id":2360620,
+        "name":"Gaoua",
+        "country":"BF",
+        "admin1":"Sud-Ouest",
+        "admin2":"",
+        "lat":10.33137,
+        "lon":-3.18202,
+        "pop":45284
+    },
+    {
+        "id":2360615,
+        "name":"Garango",
+        "country":"BF",
+        "admin1":"Centre-Est",
+        "admin2":"Province du Boulgou",
+        "lat":11.8,
+        "lon":-0.55056,
+        "pop":40404
+    },
+    {
+        "id":2360238,
+        "name":"Gourcy",
+        "country":"BF",
+        "admin1":"Nord",
+        "admin2":"Province du Zondoma",
+        "lat":13.20776,
+        "lon":-2.35893,
+        "pop":40141
+    },
+    {
+        "id":2353688,
+        "name":"Yako",
+        "country":"BF",
+        "admin1":"Nord",
+        "admin2":"Province du Passoré",
+        "lat":12.9591,
+        "lon":-2.26075,
+        "pop":38679
+    },
+    {
+        "id":2353197,
+        "name":"Zorgo",
+        "country":"BF",
+        "admin1":"Plateau-Central",
+        "admin2":"Province du Ganzourgou",
+        "lat":12.24922,
+        "lon":-0.61527,
+        "pop":35398
+    },
+    {
+        "id":2356228,
+        "name":"Réo",
+        "country":"BF",
+        "admin1":"Centre-Ouest",
+        "admin2":"Province du Sanguié",
+        "lat":12.31963,
+        "lon":-2.47094,
+        "pop":33894
+    },
+    {
+        "id":2357062,
+        "name":"Orodara",
+        "country":"BF",
+        "admin1":"Hauts-Bassins",
+        "admin2":"Province du Kénédougou",
+        "lat":10.98115,
+        "lon":-4.91885,
+        "pop":33422
+    },
+    {
+        "id":2353257,
+        "name":"Ziniaré",
+        "country":"BF",
+        "admin1":"Plateau-Central",
+        "admin2":"Oubritenga",
+        "lat":12.58186,
+        "lon":-1.2971,
+        "pop":33296
+    },
+    {
+        "id":2357371,
+        "name":"Niangoloko",
+        "country":"BF",
+        "admin1":"Cascades Region",
+        "admin2":"",
+        "lat":10.28333,
+        "lon":-4.91667,
+        "pop":33292
+    },
+    {
+        "id":2357163,
+        "name":"Nouna",
+        "country":"BF",
+        "admin1":"Boucle du Mouhoun",
+        "admin2":"Province de la Kossi",
+        "lat":12.72939,
+        "lon":-3.86305,
+        "pop":32428
+    },
+    {
+        "id":2362970,
+        "name":"Bama",
+        "country":"BF",
+        "admin1":"Boucle du Mouhoun",
+        "admin2":"Province de la Kossi",
+        "lat":12.0357,
+        "lon":-4.3987,
+        "pop":31215
+    },
+    {
+        "id":2362376,
+        "name":"Bittou",
+        "country":"BF",
+        "admin1":"Centre-Est",
+        "admin2":"Province du Boulgou",
+        "lat":11.25806,
+        "lon":-0.30611,
+        "pop":31210
+    },
+    {
+        "id":2359227,
+        "name":"Kombissiri",
+        "country":"BF",
+        "admin1":"Centre-Sud",
+        "admin2":"Bazega Province",
+        "lat":12.06884,
+        "lon":-1.33644,
+        "pop":28617
+    },
+    {
+        "id":2358100,
+        "name":"Manga",
+        "country":"BF",
+        "admin1":"Centre-Sud",
+        "admin2":"Zoundweogo Province",
+        "lat":11.66361,
+        "lon":-1.07306,
+        "pop":28615
+    },
+    {
+        "id":2356454,
+        "name":"Pô",
+        "country":"BF",
+        "admin1":"Centre-Sud",
+        "admin2":"Nahouri Province",
+        "lat":11.16972,
+        "lon":-1.145,
+        "pop":28079
+    },
+    {
+        "id":2361853,
+        "name":"Bourzanga",
+        "country":"BF",
+        "admin1":"Centre-Nord",
+        "admin2":"Province du Bam",
+        "lat":13.67806,
+        "lon":-1.54611,
+        "pop":27213
+    },
+    {
+        "id":2362740,
+        "name":"Barogo",
+        "country":"BF",
+        "admin1":"Plateau-Central",
+        "admin2":"",
+        "lat":12.55,
+        "lon":-0.96667,
+        "pop":26539
+    },
+    {
+        "id":2354176,
+        "name":"Tougan",
+        "country":"BF",
+        "admin1":"Boucle du Mouhoun",
+        "admin2":"Province du Sourou",
+        "lat":13.0725,
+        "lon":-3.0694,
+        "pop":26347
+    },
+    {
+        "id":2355869,
+        "name":"Sapouy",
+        "country":"BF",
+        "admin1":"Centre-Ouest",
+        "admin2":"Province du Ziro",
+        "lat":11.55444,
+        "lon":-1.77361,
+        "pop":26345
+    },
+    {
+        "id":2353670,
+        "name":"Yalgo",
+        "country":"BF",
+        "admin1":"Centre-Nord",
+        "admin2":"",
+        "lat":12.93333,
+        "lon":-0.85,
+        "pop":26340
+    },
+    {
+        "id":2359317,
+        "name":"Kokologo",
+        "country":"BF",
+        "admin1":"Centre-Ouest",
+        "admin2":"Province du Boulkiemdé",
+        "lat":12.19392,
+        "lon":-1.87687,
+        "pop":25958
+    },
+    {
+        "id":2361586,
+        "name":"Dano",
+        "country":"BF",
+        "admin1":"Sud-Ouest",
+        "admin2":"Province du Ioba",
+        "lat":11.1464,
+        "lon":-3.05784,
+        "pop":25922
+    },
+    {
+        "id":2357931,
+        "name":"Mogtédo",
+        "country":"BF",
+        "admin1":"Plateau-Central",
+        "admin2":"Province du Ganzourgou",
+        "lat":12.28444,
+        "lon":-0.83722,
+        "pop":25699
+    },
+    {
+        "id":2361342,
+        "name":"Diébougou",
+        "country":"BF",
+        "admin1":"Sud-Ouest",
+        "admin2":"Province de la Bougouriba",
+        "lat":10.96209,
+        "lon":-3.24967,
+        "pop":25688
+    },
+    {
+        "id":2361845,
+        "name":"Boussé",
+        "country":"BF",
+        "admin1":"Plateau-Central",
+        "admin2":"Province du Kourwéogo",
+        "lat":12.66121,
+        "lon":-1.89515,
+        "pop":25022
+    },
+    {
+        "id":2355404,
+        "name":"Solenzo",
+        "country":"BF",
+        "admin1":"Boucle du Mouhoun",
+        "admin2":"Province des Banwa",
+        "lat":12.17423,
+        "lon":-4.08477,
+        "pop":24783
+    },
+    {
+        "id":2361946,
+        "name":"Boulsa",
+        "country":"BF",
+        "admin1":"Centre-Nord",
+        "admin2":"Province du Namentenga",
+        "lat":12.66664,
+        "lon":-0.57469,
+        "pop":24200
+    },
+    {
+        "id":2356467,
+        "name":"Pissila",
+        "country":"BF",
+        "admin1":"Centre-Nord",
+        "admin2":"Province du Sanmatenga",
+        "lat":13.16417,
+        "lon":-0.8225,
+        "pop":23420
+    },
+    {
+        "id":2362626,
+        "name":"Béguédo",
+        "country":"BF",
+        "admin1":"Centre-Est",
+        "admin2":"Province du Boulgou",
+        "lat":11.78083,
+        "lon":-0.73389,
+        "pop":21894
+    },
+    {
+        "id":2353436,
+        "name":"Zabré",
+        "country":"BF",
+        "admin1":"Centre-Est",
+        "admin2":"Province du Boulgou",
+        "lat":11.1825,
+        "lon":-0.63222,
+        "pop":21726
+    },
+    {
+        "id":2362323,
+        "name":"Bogandé",
+        "country":"BF",
+        "admin1":"Est",
+        "admin2":"Gnagna Province",
+        "lat":12.9704,
+        "lon":-0.14953,
+        "pop":21443
+    },
+    {
+        "id":2360855,
+        "name":"Fara Department",
+        "country":"BF",
+        "admin1":"Boucle du Mouhoun",
+        "admin2":"",
+        "lat":11.52941,
+        "lon":-2.76797,
+        "pop":20434
+    },
+    {
+        "id":2362150,
+        "name":"Boromo",
+        "country":"BF",
+        "admin1":"Boucle du Mouhoun",
+        "admin2":"Province des Balé",
+        "lat":11.74542,
+        "lon":-2.93006,
+        "pop":20193
+    },
+    {
+        "id":12640343,
+        "name":"Cinkansé",
+        "country":"BF",
+        "admin1":"Centre-Est",
+        "admin2":"Province du Koulpélogo",
+        "lat":11.11857,
+        "lon":0.00993,
+        "pop":19815
+    },
+    {
+        "id":2353332,
+        "name":"Zinguédéssé",
+        "country":"BF",
+        "admin1":"Centre",
+        "admin2":"Kadiogo Province",
+        "lat":12.24661,
+        "lon":-1.58402,
+        "pop":19648
+    },
+    {
+        "id":2359042,
+        "name":"Korsimoro",
+        "country":"BF",
+        "admin1":"Centre-Nord",
+        "admin2":"Province du Sanmatenga",
+        "lat":12.82506,
+        "lon":-1.06737,
+        "pop":18875
+    },
+    {
+        "id":2362669,
+        "name":"Batié",
+        "country":"BF",
+        "admin1":"Sud-Ouest",
+        "admin2":"Province du Noumbièl",
+        "lat":9.88333,
+        "lon":-2.91667,
+        "pop":17997
+    },
+    {
+        "id":2358898,
+        "name":"Kouka",
+        "country":"BF",
+        "admin1":"Centre-Nord",
+        "admin2":"Province du Bam",
+        "lat":13.4345,
+        "lon":-1.61361,
+        "pop":17286
+    },
+    {
+        "id":2357487,
+        "name":"Natiaboani",
+        "country":"BF",
+        "admin1":"Est",
+        "admin2":"Province du Gourma",
+        "lat":11.69917,
+        "lon":0.50611,
+        "pop":16640
+    },
+    {
+        "id":2354351,
+        "name":"Tita",
+        "country":"BF",
+        "admin1":"Centre-Ouest",
+        "admin2":"",
+        "lat":11.92092,
+        "lon":-2.51536,
+        "pop":16450
+    },
+    {
+        "id":2359495,
+        "name":"Kindi",
+        "country":"BF",
+        "admin1":"Centre-Ouest",
+        "admin2":"Province du Boulkiemdé",
+        "lat":12.4386,
+        "lon":-2.03279,
+        "pop":16424
+    },
+    {
+        "id":12217144,
+        "name":"Namponkoré",
+        "country":"BF",
+        "admin1":"Est",
+        "admin2":"Province de la Tapoa",
+        "lat":11.73748,
+        "lon":1.77718,
+        "pop":16423
+    },
+    {
+        "id":2354340,
+        "name":"Tô",
+        "country":"BF",
+        "admin1":"Centre-Ouest",
+        "admin2":"",
+        "lat":11.44379,
+        "lon":-2.22548,
+        "pop":16026
+    },
+    {
+        "id":2354265,
+        "name":"Toma",
+        "country":"BF",
+        "admin1":"Boucle du Mouhoun",
+        "admin2":"Province du Nayala",
+        "lat":12.75844,
+        "lon":-2.89879,
+        "pop":15851
+    },
+    {
+        "id":2361373,
+        "name":"Diapaga",
+        "country":"BF",
+        "admin1":"Est",
+        "admin2":"Province de la Tapoa",
+        "lat":12.07305,
+        "lon":1.78838,
+        "pop":15515
+    },
+    {
+        "id":2359695,
+        "name":"Karankasso",
+        "country":"BF",
+        "admin1":"Hauts-Bassins",
+        "admin2":"Province du Houet",
+        "lat":11.22191,
+        "lon":-4.64423,
+        "pop":15474
+    },
+    {
+        "id":2361778,
+        "name":"Gomboussougou",
+        "country":"BF",
+        "admin1":"Centre-Sud",
+        "admin2":"Zoundweogo Province",
+        "lat":11.42611,
+        "lon":-0.77278,
+        "pop":15336
+    },
+    {
+        "id":2360541,
+        "name":"Gayéri",
+        "country":"BF",
+        "admin1":"Est",
+        "admin2":"Province de la Komandjoari",
+        "lat":12.64824,
+        "lon":0.49314,
+        "pop":15170
+    },
+    {
+        "id":2356765,
+        "name":"Pa",
+        "country":"BF",
+        "admin1":"Boucle du Mouhoun",
+        "admin2":"",
+        "lat":12.66667,
+        "lon":-3.95,
+        "pop":15170
+    },
+    {
+        "id":10342754,
+        "name":"Mani",
+        "country":"BF",
+        "admin1":"Est",
+        "admin2":"Gnagna Province",
+        "lat":13.25833,
+        "lon":-0.21306,
+        "pop":15066
+    },
+    {
+        "id":2356136,
+        "name":"Sabou",
+        "country":"BF",
+        "admin1":"Centre-Ouest",
+        "admin2":"",
+        "lat":12.06667,
+        "lon":-2.23333,
+        "pop":15060
+    },
+    {
+        "id":12640344,
+        "name":"Kompienga",
+        "country":"BF",
+        "admin1":"Est",
+        "admin2":"Province de la Kompienga",
+        "lat":11.08169,
+        "lon":0.72365,
+        "pop":15024
+    },
+    {
+        "id":2356738,
+        "name":"Pama",
+        "country":"BF",
+        "admin1":"Est",
+        "admin2":"Province de la Kompienga",
+        "lat":11.24972,
+        "lon":0.7075,
+        "pop":13579
+    },
+    {
+        "id":2357012,
+        "name":"Ouargaye",
+        "country":"BF",
+        "admin1":"Centre-Est",
+        "admin2":"Province du Koulpélogo",
+        "lat":11.50202,
+        "lon":0.05886,
+        "pop":13431
+    },
+    {
+        "id":2355803,
+        "name":"Sebba",
+        "country":"BF",
+        "admin1":"Sahel",
+        "admin2":"Province du Yagha",
+        "lat":13.43641,
+        "lon":0.53044,
+        "pop":11298
+    },
+    {
+        "id":2360372,
+        "name":"Gorom-Gorom",
+        "country":"BF",
+        "admin1":"Sahel",
+        "admin2":"Oudalan",
+        "lat":14.4429,
+        "lon":-0.23468,
+        "pop":9752
+    },
+    {
+        "id":2356459,
+        "name":"Pitmoaga",
+        "country":"BF",
+        "admin1":"Centre-Ouest",
+        "admin2":"Province du Boulkiemdé",
+        "lat":12.24564,
+        "lon":-1.88148,
+        "pop":7991
+    },
+    {
+        "id":2355548,
+        "name":"Sindou",
+        "country":"BF",
+        "admin1":"Cascades Region",
+        "admin2":"Province de la Léraba",
+        "lat":10.66667,
+        "lon":-5.16667,
+        "pop":7053
+    },
+    {
+        "id":2360286,
+        "name":"Goulouré",
+        "country":"BF",
+        "admin1":"Centre-Ouest",
+        "admin2":"Province du Boulkiemdé",
+        "lat":12.23484,
+        "lon":-1.93394,
+        "pop":6677
+    },
+    {
+        "id":2362781,
+        "name":"Barani",
+        "country":"BF",
+        "admin1":"Boucle du Mouhoun",
+        "admin2":"Province de la Kossi",
+        "lat":13.1691,
+        "lon":-3.8899,
+        "pop":5000
+    },
+    {
+        "id":2355662,
+        "name":"Sièn",
+        "country":"BF",
+        "admin1":"Boucle du Mouhoun",
+        "admin2":"",
+        "lat":12.6926,
+        "lon":-2.8987,
+        "pop":707
+    },
+    {
+        "id":2360210,
+        "name":"Gousi",
+        "country":"BF",
+        "admin1":"Boucle du Mouhoun",
+        "admin2":"",
+        "lat":12.6561,
+        "lon":-2.7953,
+        "pop":516
+    }
+]

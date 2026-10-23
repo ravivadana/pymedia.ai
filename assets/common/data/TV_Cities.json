@@ -1,0 +1,32 @@
+[
+    {
+        "id":2110394,
+        "name":"Funafuti",
+        "country":"TV",
+        "admin1":"Funafuti",
+        "admin2":"",
+        "lat":-8.52425,
+        "lon":179.19417,
+        "pop":6320
+    },
+    {
+        "id":7602373,
+        "name":"Savave Village",
+        "country":"TV",
+        "admin1":"Nukufetau",
+        "admin2":"",
+        "lat":-8.02731,
+        "lon":178.31351,
+        "pop":586
+    },
+    {
+        "id":7602271,
+        "name":"Motufoua School",
+        "country":"TV",
+        "admin1":"Vaitupu",
+        "admin2":"",
+        "lat":-7.48996,
+        "lon":178.69256,
+        "pop":506
+    }
+]

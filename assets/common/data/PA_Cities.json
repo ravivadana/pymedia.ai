@@ -1,0 +1,4482 @@
+[
+    {
+        "id":3703443,
+        "name":"Panamá",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Panamá",
+        "lat":8.9936,
+        "lon":-79.51973,
+        "pop":408168
+    },
+    {
+        "id":3701329,
+        "name":"San Miguelito",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de San Miguelito",
+        "lat":9.05032,
+        "lon":-79.47068,
+        "pop":321501
+    },
+    {
+        "id":3708306,
+        "name":"Juan Díaz",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Panamá",
+        "lat":9.04059,
+        "lon":-79.44083,
+        "pop":100636
+    },
+    {
+        "id":3711668,
+        "name":"David",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de David",
+        "lat":8.42729,
+        "lon":-82.43085,
+        "pop":81957
+    },
+    {
+        "id":3714637,
+        "name":"Arraiján",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Arraiján",
+        "lat":8.9398,
+        "lon":-79.64038,
+        "pop":76815
+    },
+    {
+        "id":3712076,
+        "name":"Colón",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Colón",
+        "lat":9.36025,
+        "lon":-79.90019,
+        "pop":76643
+    },
+    {
+        "id":3707961,
+        "name":"La Chorrera",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de La Chorrera",
+        "lat":8.87763,
+        "lon":-79.78007,
+        "pop":61232
+    },
+    {
+        "id":3700563,
+        "name":"Tocumen",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Panamá",
+        "lat":9.08939,
+        "lon":-79.3831,
+        "pop":50844
+    },
+    {
+        "id":3701117,
+        "name":"Santiago de Veraguas",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Santiago",
+        "lat":8.1,
+        "lon":-80.98333,
+        "pop":45355
+    },
+    {
+        "id":3712455,
+        "name":"Chilibre",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Panamá",
+        "lat":9.15403,
+        "lon":-79.62019,
+        "pop":33536
+    },
+    {
+        "id":3712884,
+        "name":"Cativá",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Colón",
+        "lat":9.36218,
+        "lon":-79.83232,
+        "pop":29607
+    },
+    {
+        "id":3714734,
+        "name":"Ancón",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Panamá",
+        "lat":8.96015,
+        "lon":-79.5514,
+        "pop":20706
+    },
+    {
+        "id":3714932,
+        "name":"Alcalde Díaz",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Panamá",
+        "lat":9.12273,
+        "lon":-79.55667,
+        "pop":20285
+    },
+    {
+        "id":3712560,
+        "name":"Changuinola",
+        "country":"PA",
+        "admin1":"Bocas del Toro Province",
+        "admin2":"Distrito de Changuinola",
+        "lat":9.43,
+        "lon":-82.52,
+        "pop":17997
+    },
+    {
+        "id":3707899,
+        "name":"La Concepción",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.51667,
+        "lon":-82.62393,
+        "pop":17698
+    },
+    {
+        "id":3703229,
+        "name":"Pedregal",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de David",
+        "lat":8.37698,
+        "lon":-82.42947,
+        "pop":17427
+    },
+    {
+        "id":3700164,
+        "name":"Veracruz",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Arraiján",
+        "lat":8.89319,
+        "lon":-79.62338,
+        "pop":17144
+    },
+    {
+        "id":3711699,
+        "name":"Curundú",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Panamá",
+        "lat":8.97092,
+        "lon":-79.54612,
+        "pop":16361
+    },
+    {
+        "id":3703068,
+        "name":"Penonomé",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.51889,
+        "lon":-80.35727,
+        "pop":16250
+    },
+    {
+        "id":3701682,
+        "name":"Sabanitas",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Colón",
+        "lat":9.34521,
+        "lon":-79.80543,
+        "pop":15577
+    },
+    {
+        "id":3703833,
+        "name":"Nuevo Arraiján",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Arraiján",
+        "lat":8.92643,
+        "lon":-79.72023,
+        "pop":14920
+    },
+    {
+        "id":3712505,
+        "name":"Chepo",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Chepo",
+        "lat":9.17019,
+        "lon":-79.10083,
+        "pop":12912
+    },
+    {
+        "id":3702412,
+        "name":"Puerto Escondido",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Chagres",
+        "lat":9.19419,
+        "lon":-80.09566,
+        "pop":12371
+    },
+    {
+        "id":3702631,
+        "name":"Pocrí",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Aguadulce",
+        "lat":8.25639,
+        "lon":-80.54626,
+        "pop":12304
+    },
+    {
+        "id":3711056,
+        "name":"El Coco",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de La Chorrera",
+        "lat":8.87692,
+        "lon":-79.80806,
+        "pop":11935
+    },
+    {
+        "id":10179345,
+        "name":"San Juan Bautista",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Chitré",
+        "lat":7.96466,
+        "lon":-80.41622,
+        "pop":11798
+    },
+    {
+        "id":3702431,
+        "name":"Puerto Armuelles",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Barú",
+        "lat":8.27775,
+        "lon":-82.86206,
+        "pop":11743
+    },
+    {
+        "id":3706410,
+        "name":"Las Lomas",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de David",
+        "lat":8.42897,
+        "lon":-82.38901,
+        "pop":11726
+    },
+    {
+        "id":3710920,
+        "name":"El Empalme",
+        "country":"PA",
+        "admin1":"Bocas del Toro Province",
+        "admin2":"Distrito de Changuinola",
+        "lat":9.41468,
+        "lon":-82.52244,
+        "pop":11035
+    },
+    {
+        "id":3704187,
+        "name":"Monagrillo",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Chitré",
+        "lat":7.98262,
+        "lon":-80.43302,
+        "pop":10821
+    },
+    {
+        "id":3700017,
+        "name":"Volcán",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Tierras Altas",
+        "lat":8.78046,
+        "lon":-82.63896,
+        "pop":10286
+    },
+    {
+        "id":3705779,
+        "name":"Llano Bonito",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Chitré",
+        "lat":7.97404,
+        "lon":-80.42091,
+        "pop":9716
+    },
+    {
+        "id":8581466,
+        "name":"Unión Chocó",
+        "country":"PA",
+        "admin1":"Emberá",
+        "admin2":"Cémaco",
+        "lat":8.08404,
+        "lon":-77.53507,
+        "pop":9497
+    },
+    {
+        "id":3712384,
+        "name":"Chitré",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Chitré",
+        "lat":7.96011,
+        "lon":-80.42876,
+        "pop":8969
+    },
+    {
+        "id":3706208,
+        "name":"Las Tablas",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Las Tablas",
+        "lat":7.7665,
+        "lon":-80.27798,
+        "pop":8939
+    },
+    {
+        "id":3702384,
+        "name":"Puerto Pilón",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Colón",
+        "lat":9.36316,
+        "lon":-79.79333,
+        "pop":8754
+    },
+    {
+        "id":3714896,
+        "name":"Almirante",
+        "country":"PA",
+        "admin1":"Bocas del Toro Province",
+        "admin2":"Almirante",
+        "lat":9.30091,
+        "lon":-82.4018,
+        "pop":8744
+    },
+    {
+        "id":3700038,
+        "name":"Vista Alegre",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Arraiján",
+        "lat":8.92923,
+        "lon":-79.69964,
+        "pop":8673
+    },
+    {
+        "id":3715042,
+        "name":"Aguadulce",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Aguadulce",
+        "lat":8.24146,
+        "lon":-80.53978,
+        "pop":8501
+    },
+    {
+        "id":3713065,
+        "name":"Canto del Llano",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Santiago",
+        "lat":8.12307,
+        "lon":-80.96422,
+        "pop":7854
+    },
+    {
+        "id":3700888,
+        "name":"Soná",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Soná",
+        "lat":8.00877,
+        "lon":-81.31727,
+        "pop":7669
+    },
+    {
+        "id":3708171,
+        "name":"La Arena",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Chitré",
+        "lat":7.9694,
+        "lon":-80.46152,
+        "pop":7175
+    },
+    {
+        "id":3703647,
+        "name":"Pacora",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Panamá",
+        "lat":9.08252,
+        "lon":-79.28957,
+        "pop":6856
+    },
+    {
+        "id":3714710,
+        "name":"Antón",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Antón",
+        "lat":8.39677,
+        "lon":-80.26499,
+        "pop":6851
+    },
+    {
+        "id":3708954,
+        "name":"Guadalupe",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de La Chorrera",
+        "lat":8.86064,
+        "lon":-79.81184,
+        "pop":6561
+    },
+    {
+        "id":3713860,
+        "name":"Boquete",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Boquete",
+        "lat":8.78024,
+        "lon":-82.44136,
+        "pop":6123
+    },
+    {
+        "id":3701313,
+        "name":"San Pablo Viejo Abajo",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de David",
+        "lat":8.45461,
+        "lon":-82.50487,
+        "pop":5992
+    },
+    {
+        "id":3704964,
+        "name":"Los Santos",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Los Santos",
+        "lat":7.93445,
+        "lon":-80.41218,
+        "pop":5970
+    },
+    {
+        "id":3707150,
+        "name":"La Mitra",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de La Chorrera",
+        "lat":8.84261,
+        "lon":-79.78445,
+        "pop":5699
+    },
+    {
+        "id":3701861,
+        "name":"Río Hato",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Antón",
+        "lat":8.3794,
+        "lon":-80.16621,
+        "pop":5615
+    },
+    {
+        "id":3703938,
+        "name":"Natá",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Natá",
+        "lat":8.33588,
+        "lon":-80.5213,
+        "pop":5470
+    },
+    {
+        "id":3713959,
+        "name":"Bocas del Toro",
+        "country":"PA",
+        "admin1":"Bocas del Toro Province",
+        "admin2":"Distrito de Bocas del Toro",
+        "lat":9.34031,
+        "lon":-82.24204,
+        "pop":5380
+    },
+    {
+        "id":3714875,
+        "name":"Alto Boquete",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Boquete",
+        "lat":8.73615,
+        "lon":-82.43331,
+        "pop":4746
+    },
+    {
+        "id":3709285,
+        "name":"Gatuncillo",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Colón",
+        "lat":9.24475,
+        "lon":-79.64588,
+        "pop":4605
+    },
+    {
+        "id":10347282,
+        "name":"El Palmar",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Barú",
+        "lat":8.30563,
+        "lon":-82.85081,
+        "pop":4536
+    },
+    {
+        "id":3710087,
+        "name":"El Progreso",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Chepo",
+        "lat":9.25737,
+        "lon":-79.11488,
+        "pop":4292
+    },
+    {
+        "id":3705894,
+        "name":"Lídice",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"",
+        "lat":8.74869,
+        "lon":-79.90974,
+        "pop":4245
+    },
+    {
+        "id":3702427,
+        "name":"Puerto Caimito",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de La Chorrera",
+        "lat":8.87392,
+        "lon":-79.71572,
+        "pop":4174
+    },
+    {
+        "id":3706396,
+        "name":"Las Margaritas",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Chepo",
+        "lat":9.19181,
+        "lon":-79.08672,
+        "pop":4165
+    },
+    {
+        "id":3705562,
+        "name":"Los Algarrobos",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Dolega",
+        "lat":8.49674,
+        "lon":-82.42417,
+        "pop":4160
+    },
+    {
+        "id":3713715,
+        "name":"Buena Vista",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Colón",
+        "lat":9.27389,
+        "lon":-79.6958,
+        "pop":4077
+    },
+    {
+        "id":3703786,
+        "name":"Ocú",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Ocú",
+        "lat":7.94525,
+        "lon":-80.7773,
+        "pop":3939
+    },
+    {
+        "id":3714201,
+        "name":"Bejuco",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Chame",
+        "lat":8.60501,
+        "lon":-79.88654,
+        "pop":3897
+    },
+    {
+        "id":3700070,
+        "name":"Villa Rosario",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Capira",
+        "lat":8.77972,
+        "lon":-79.87351,
+        "pop":3843
+    },
+    {
+        "id":10347320,
+        "name":"Los Algarrobos Arriba",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Dolega",
+        "lat":8.52001,
+        "lon":-82.42451,
+        "pop":3727
+    },
+    {
+        "id":3703839,
+        "name":"Nueva Gorgona",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Chame",
+        "lat":8.55479,
+        "lon":-79.87427,
+        "pop":3530
+    },
+    {
+        "id":3708948,
+        "name":"Gualaca",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Gualaca",
+        "lat":8.53006,
+        "lon":-82.29971,
+        "pop":3453
+    },
+    {
+        "id":3713047,
+        "name":"Capira",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Capira",
+        "lat":8.7584,
+        "lon":-79.8776,
+        "pop":3432
+    },
+    {
+        "id":3704571,
+        "name":"Margarita",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Colón",
+        "lat":9.32603,
+        "lon":-79.89028,
+        "pop":3302
+    },
+    {
+        "id":3706455,
+        "name":"Las Lajas",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de San Carlos",
+        "lat":8.55267,
+        "lon":-79.93315,
+        "pop":3291
+    },
+    {
+        "id":3713667,
+        "name":"Bugaba",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.48606,
+        "lon":-82.62023,
+        "pop":3263
+    },
+    {
+        "id":3708911,
+        "name":"Guararé",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Guararé",
+        "lat":7.8198,
+        "lon":-80.2809,
+        "pop":3243
+    },
+    {
+        "id":3713196,
+        "name":"Cañazas",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Cañazas",
+        "lat":8.32004,
+        "lon":-81.21152,
+        "pop":3219
+    },
+    {
+        "id":3700033,
+        "name":"Vista Hermosa",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.52687,
+        "lon":-80.37486,
+        "pop":3063
+    },
+    {
+        "id":3702269,
+        "name":"Canoa",
+        "country":"PA",
+        "admin1":"Ngöbe-Buglé Comarca",
+        "admin2":"Nole Düima",
+        "lat":8.43858,
+        "lon":-81.77933,
+        "pop":3061
+    },
+    {
+        "id":3712462,
+        "name":"Chigoré",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.53035,
+        "lon":-80.35117,
+        "pop":2899
+    },
+    {
+        "id":3703354,
+        "name":"Parita",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Parita",
+        "lat":7.99609,
+        "lon":-80.52001,
+        "pop":2864
+    },
+    {
+        "id":3700559,
+        "name":"Tolé",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Tolé",
+        "lat":8.2433,
+        "lon":-81.66973,
+        "pop":2794
+    },
+    {
+        "id":3714598,
+        "name":"Atalaya",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Atalaya",
+        "lat":8.04358,
+        "lon":-80.92482,
+        "pop":2686
+    },
+    {
+        "id":3700933,
+        "name":"Sioguí Abajo",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.48141,
+        "lon":-82.66303,
+        "pop":2675
+    },
+    {
+        "id":3703011,
+        "name":"Pesé",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Pesé",
+        "lat":7.90863,
+        "lon":-80.61433,
+        "pop":2565
+    },
+    {
+        "id":3700269,
+        "name":"Ustupo",
+        "country":"PA",
+        "admin1":"Guna Yala",
+        "admin2":"El Porvenir",
+        "lat":9.13112,
+        "lon":-77.9262,
+        "pop":2514
+    },
+    {
+        "id":3711631,
+        "name":"Divalá",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Alanje",
+        "lat":8.41289,
+        "lon":-82.71367,
+        "pop":2506
+    },
+    {
+        "id":3712419,
+        "name":"Chiriquí",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de David",
+        "lat":8.39707,
+        "lon":-82.32162,
+        "pop":2429
+    },
+    {
+        "id":3710875,
+        "name":"El Espino",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de La Chorrera",
+        "lat":8.83919,
+        "lon":-79.84671,
+        "pop":2422
+    },
+    {
+        "id":3711828,
+        "name":"Cristóbal",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Colón",
+        "lat":9.35222,
+        "lon":-79.90444,
+        "pop":2366
+    },
+    {
+        "id":3712579,
+        "name":"Chame",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Chame",
+        "lat":8.58148,
+        "lon":-79.88433,
+        "pop":2362
+    },
+    {
+        "id":3704327,
+        "name":"Metetí",
+        "country":"PA",
+        "admin1":"Darién",
+        "admin2":"Distrito de Pinogana",
+        "lat":8.49909,
+        "lon":-77.97897,
+        "pop":2298
+    },
+    {
+        "id":3714513,
+        "name":"Bajo Boquete",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Boquete",
+        "lat":8.77058,
+        "lon":-82.43306,
+        "pop":2257
+    },
+    {
+        "id":3713051,
+        "name":"Capellanía",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Natá",
+        "lat":8.30222,
+        "lon":-80.55326,
+        "pop":2252
+    },
+    {
+        "id":3702276,
+        "name":"Quebrada Bonita Adentro",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Colón",
+        "lat":9.29648,
+        "lon":-79.70628,
+        "pop":2229
+    },
+    {
+        "id":3704874,
+        "name":"Macaracas",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Macaracas",
+        "lat":7.73168,
+        "lon":-80.55364,
+        "pop":2224
+    },
+    {
+        "id":3706974,
+        "name":"La Peña",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Santiago",
+        "lat":8.13413,
+        "lon":-81.02821,
+        "pop":2223
+    },
+    {
+        "id":3702509,
+        "name":"Progreso",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Barú",
+        "lat":8.44669,
+        "lon":-82.83859,
+        "pop":2211
+    },
+    {
+        "id":3703818,
+        "name":"Nuevo Vigía",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Colón",
+        "lat":9.2442,
+        "lon":-79.60873,
+        "pop":2163
+    },
+    {
+        "id":3707227,
+        "name":"La Mesa",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de La Mesa",
+        "lat":8.14947,
+        "lon":-81.18427,
+        "pop":2090
+    },
+    {
+        "id":3702647,
+        "name":"Playón Chico",
+        "country":"PA",
+        "admin1":"Guna Yala",
+        "admin2":"El Porvenir",
+        "lat":9.31128,
+        "lon":-78.2327,
+        "pop":2042
+    },
+    {
+        "id":3709939,
+        "name":"El Silencio",
+        "country":"PA",
+        "admin1":"Bocas del Toro Province",
+        "admin2":"Distrito de Changuinola",
+        "lat":9.38557,
+        "lon":-82.53365,
+        "pop":2017
+    },
+    {
+        "id":3703828,
+        "name":"Nuevo Emperador",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Arraiján",
+        "lat":9.00282,
+        "lon":-79.73038,
+        "pop":2003
+    },
+    {
+        "id":3708989,
+        "name":"Guabito",
+        "country":"PA",
+        "admin1":"Bocas del Toro Province",
+        "admin2":"Distrito de Changuinola",
+        "lat":9.49437,
+        "lon":-82.61152,
+        "pop":1978
+    },
+    {
+        "id":3705563,
+        "name":"Los Algarrobos",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Santiago",
+        "lat":8.11291,
+        "lon":-81.01524,
+        "pop":1977
+    },
+    {
+        "id":3710855,
+        "name":"Farallón",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Antón",
+        "lat":8.35658,
+        "lon":-80.13723,
+        "pop":1967
+    },
+    {
+        "id":3764343,
+        "name":"Santa Rita Arriba",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Colón",
+        "lat":9.33263,
+        "lon":-79.79159,
+        "pop":1960
+    },
+    {
+        "id":3701163,
+        "name":"Santa Marta",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.52289,
+        "lon":-82.70113,
+        "pop":1952
+    },
+    {
+        "id":3708307,
+        "name":"Juan Díaz",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Antón",
+        "lat":8.46069,
+        "lon":-80.28532,
+        "pop":1935
+    },
+    {
+        "id":3704123,
+        "name":"Montijo",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Montijo",
+        "lat":7.99179,
+        "lon":-81.05546,
+        "pop":1932
+    },
+    {
+        "id":3703239,
+        "name":"Pedasí",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Pedasí",
+        "lat":7.53034,
+        "lon":-80.02699,
+        "pop":1920
+    },
+    {
+        "id":3706931,
+        "name":"La Pintada",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de La Pintada",
+        "lat":8.59616,
+        "lon":-80.44693,
+        "pop":1917
+    },
+    {
+        "id":3701484,
+        "name":"San Francisco",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Soná",
+        "lat":8.05836,
+        "lon":-81.37431,
+        "pop":1898
+    },
+    {
+        "id":3707758,
+        "name":"La Esperanza",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Barú",
+        "lat":8.40608,
+        "lon":-82.79014,
+        "pop":1890
+    },
+    {
+        "id":3714611,
+        "name":"Aserrío de Gariché",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.48641,
+        "lon":-82.78932,
+        "pop":1804
+    },
+    {
+        "id":3709742,
+        "name":"Escobal",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Colón",
+        "lat":9.14758,
+        "lon":-79.9638,
+        "pop":1790
+    },
+    {
+        "id":3701483,
+        "name":"San Francisco",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de San Francisco",
+        "lat":8.24541,
+        "lon":-80.97368,
+        "pop":1785
+    },
+    {
+        "id":3701103,
+        "name":"Santo Domingo",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Las Tablas",
+        "lat":7.74856,
+        "lon":-80.2414,
+        "pop":1772
+    },
+    {
+        "id":3705691,
+        "name":"Llano Marín",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.48847,
+        "lon":-80.32928,
+        "pop":1757
+    },
+    {
+        "id":3715156,
+        "name":"Achutupo",
+        "country":"PA",
+        "admin1":"Guna Yala",
+        "admin2":"El Porvenir",
+        "lat":9.19827,
+        "lon":-77.98729,
+        "pop":1753
+    },
+    {
+        "id":3707058,
+        "name":"La Palma",
+        "country":"PA",
+        "admin1":"Darién",
+        "admin2":"Distrito de Chepigana",
+        "lat":8.40498,
+        "lon":-78.14041,
+        "pop":1728
+    },
+    {
+        "id":10347321,
+        "name":"Nuevo San Carlitos",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de David",
+        "lat":8.46153,
+        "lon":-82.44183,
+        "pop":1724
+    },
+    {
+        "id":3700871,
+        "name":"Sortová",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.55109,
+        "lon":-82.65094,
+        "pop":1706
+    },
+    {
+        "id":3699980,
+        "name":"Yaviza",
+        "country":"PA",
+        "admin1":"Darién",
+        "admin2":"Distrito de Pinogana",
+        "lat":8.15835,
+        "lon":-77.69276,
+        "pop":1700
+    },
+    {
+        "id":3701174,
+        "name":"Santa María",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Santa María",
+        "lat":8.11402,
+        "lon":-80.66464,
+        "pop":1679
+    },
+    {
+        "id":3713873,
+        "name":"Boquerón",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Boquerón",
+        "lat":8.50773,
+        "lon":-82.5707,
+        "pop":1658
+    },
+    {
+        "id":3713381,
+        "name":"Calzada Larga",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Panamá",
+        "lat":9.17447,
+        "lon":-79.56259,
+        "pop":1656
+    },
+    {
+        "id":3711618,
+        "name":"Dolega District",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Dolega",
+        "lat":8.56667,
+        "lon":-82.41407,
+        "pop":1653
+    },
+    {
+        "id":3714956,
+        "name":"Ailigandí",
+        "country":"PA",
+        "admin1":"Guna Yala",
+        "admin2":"El Porvenir",
+        "lat":9.2281,
+        "lon":-78.02778,
+        "pop":1652
+    },
+    {
+        "id":3713058,
+        "name":"San Isidro",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.53368,
+        "lon":-82.83086,
+        "pop":1648
+    },
+    {
+        "id":3710026,
+        "name":"El Roble",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Aguadulce",
+        "lat":8.16883,
+        "lon":-80.66022,
+        "pop":1648
+    },
+    {
+        "id":10194186,
+        "name":"Tortí",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Chepo",
+        "lat":8.92151,
+        "lon":-78.39845,
+        "pop":1611
+    },
+    {
+        "id":3708892,
+        "name":"Guarumal",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Alanje",
+        "lat":8.34787,
+        "lon":-82.52977,
+        "pop":1575
+    },
+    {
+        "id":3712636,
+        "name":"Cerro Punta",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Tierras Altas",
+        "lat":8.85217,
+        "lon":-82.57363,
+        "pop":1568
+    },
+    {
+        "id":3701870,
+        "name":"Gatún",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Colón",
+        "lat":9.2891,
+        "lon":-79.76799,
+        "pop":1553
+    },
+    {
+        "id":3707311,
+        "name":"La Loma",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Aguadulce",
+        "lat":8.1664,
+        "lon":-80.63617,
+        "pop":1542
+    },
+    {
+        "id":3712401,
+        "name":"Chiriquí Grande",
+        "country":"PA",
+        "admin1":"Bocas del Toro Province",
+        "admin2":"Distrito Chiriquí Grande",
+        "lat":8.94938,
+        "lon":-82.11707,
+        "pop":1525
+    },
+    {
+        "id":3710808,
+        "name":"El Giral",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Colón",
+        "lat":9.24509,
+        "lon":-79.69266,
+        "pop":1522
+    },
+    {
+        "id":3712280,
+        "name":"Churuquita Grande",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.59941,
+        "lon":-80.27064,
+        "pop":1518
+    },
+    {
+        "id":3714260,
+        "name":"Isla Bastimentos",
+        "country":"PA",
+        "admin1":"Bocas del Toro Province",
+        "admin2":"Distrito de Bocas del Toro",
+        "lat":9.3,
+        "lon":-82.13333,
+        "pop":1500
+    },
+    {
+        "id":3701195,
+        "name":"Santa Fé",
+        "country":"PA",
+        "admin1":"Darién",
+        "admin2":"Santa Fe",
+        "lat":8.65841,
+        "lon":-78.15886,
+        "pop":1499
+    },
+    {
+        "id":3703820,
+        "name":"Nuevo San Juan",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Colón",
+        "lat":9.22552,
+        "lon":-79.66559,
+        "pop":1494
+    },
+    {
+        "id":3700538,
+        "name":"Tonosí",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Tonosí",
+        "lat":7.40718,
+        "lon":-80.43936,
+        "pop":1478
+    },
+    {
+        "id":3708432,
+        "name":"Jaqué",
+        "country":"PA",
+        "admin1":"Darién",
+        "admin2":"Distrito de Chepigana",
+        "lat":7.51826,
+        "lon":-78.16343,
+        "pop":1466
+    },
+    {
+        "id":3707220,
+        "name":"La Mesa",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Panamá",
+        "lat":9.17573,
+        "lon":-79.27235,
+        "pop":1448
+    },
+    {
+        "id":3706590,
+        "name":"Las Colinas",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de San Carlos",
+        "lat":8.55,
+        "lon":-80.08333,
+        "pop":1447
+    },
+    {
+        "id":3701451,
+        "name":"San José",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de San Carlos",
+        "lat":8.53542,
+        "lon":-79.92357,
+        "pop":1444
+    },
+    {
+        "id":10180024,
+        "name":"San Antonio",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Panamá",
+        "lat":9.1729,
+        "lon":-79.54743,
+        "pop":1435
+    },
+    {
+        "id":3701466,
+        "name":"San Ignacio de Tupile",
+        "country":"PA",
+        "admin1":"Guna Yala",
+        "admin2":"",
+        "lat":9.29505,
+        "lon":-78.15501,
+        "pop":1429
+    },
+    {
+        "id":10348468,
+        "name":"Los Pollos",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Antón",
+        "lat":8.40698,
+        "lon":-80.15715,
+        "pop":1419
+    },
+    {
+        "id":3701239,
+        "name":"Santa Clara",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Arraiján",
+        "lat":9.03386,
+        "lon":-79.75341,
+        "pop":1410
+    },
+    {
+        "id":3711694,
+        "name":"Kusapín",
+        "country":"PA",
+        "admin1":"Ngöbe-Buglé Comarca",
+        "admin2":"Kusapín",
+        "lat":9.18157,
+        "lon":-81.88788,
+        "pop":1408
+    },
+    {
+        "id":3714336,
+        "name":"Barranco",
+        "country":"PA",
+        "admin1":"Bocas del Toro Province",
+        "admin2":"Distrito de Changuinola",
+        "lat":9.51984,
+        "lon":-82.70424,
+        "pop":1398
+    },
+    {
+        "id":3702577,
+        "name":"Portobelo",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Portobelo",
+        "lat":9.55303,
+        "lon":-79.65693,
+        "pop":1393
+    },
+    {
+        "id":3714101,
+        "name":"Bisira",
+        "country":"PA",
+        "admin1":"Ngöbe-Buglé Comarca",
+        "admin2":"Kankintú",
+        "lat":8.9008,
+        "lon":-81.86358,
+        "pop":1383
+    },
+    {
+        "id":3714000,
+        "name":"Boca de Parita",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Chitré",
+        "lat":8.01114,
+        "lon":-80.45065,
+        "pop":1381
+    },
+    {
+        "id":3701874,
+        "name":"Río Duque",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Colón",
+        "lat":9.26117,
+        "lon":-79.67858,
+        "pop":1374
+    },
+    {
+        "id":3714939,
+        "name":"Alanje",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Alanje",
+        "lat":8.39997,
+        "lon":-82.55873,
+        "pop":1373
+    },
+    {
+        "id":3701810,
+        "name":"Río Sereno",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Renacimiento",
+        "lat":8.81952,
+        "lon":-82.86044,
+        "pop":1368
+    },
+    {
+        "id":3702637,
+        "name":"Plaza de Caisán",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Renacimiento",
+        "lat":8.74346,
+        "lon":-82.82066,
+        "pop":1363
+    },
+    {
+        "id":3702342,
+        "name":"Burica",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Barú",
+        "lat":8.03389,
+        "lon":-82.86866,
+        "pop":1360
+    },
+    {
+        "id":3701240,
+        "name":"Santa Clara",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Renacimiento",
+        "lat":8.8348,
+        "lon":-82.78189,
+        "pop":1360
+    },
+    {
+        "id":10211200,
+        "name":"Barranco Adentro",
+        "country":"PA",
+        "admin1":"Bocas del Toro Province",
+        "admin2":"Distrito de Changuinola",
+        "lat":9.53163,
+        "lon":-82.72867,
+        "pop":1349
+    },
+    {
+        "id":3710040,
+        "name":"El Rincón",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Santa María",
+        "lat":8.11961,
+        "lon":-80.6151,
+        "pop":1341
+    },
+    {
+        "id":3703523,
+        "name":"Palmas Bellas",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Chagres",
+        "lat":9.22838,
+        "lon":-80.08503,
+        "pop":1337
+    },
+    {
+        "id":3710066,
+        "name":"El Quiteño",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de David",
+        "lat":8.46974,
+        "lon":-82.39365,
+        "pop":1324
+    },
+    {
+        "id":3705229,
+        "name":"Los Lotes",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Panamá",
+        "lat":9.12542,
+        "lon":-79.29101,
+        "pop":1323
+    },
+    {
+        "id":3704029,
+        "name":"Mulatupo",
+        "country":"PA",
+        "admin1":"Guna Yala",
+        "admin2":"El Porvenir",
+        "lat":8.94672,
+        "lon":-77.7508,
+        "pop":1303
+    },
+    {
+        "id":3712164,
+        "name":"Coclé",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.46515,
+        "lon":-80.41547,
+        "pop":1298
+    },
+    {
+        "id":10347303,
+        "name":"Manaca Norte",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Barú",
+        "lat":8.33976,
+        "lon":-82.80862,
+        "pop":1294
+    },
+    {
+        "id":3706292,
+        "name":"Las Palmas",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Las Palmas",
+        "lat":8.13623,
+        "lon":-81.4541,
+        "pop":1291
+    },
+    {
+        "id":3712786,
+        "name":"Cerro Azul",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Panamá",
+        "lat":9.15735,
+        "lon":-79.42097,
+        "pop":1287
+    },
+    {
+        "id":3707063,
+        "name":"La Palma",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Guararé",
+        "lat":7.72857,
+        "lon":-80.38226,
+        "pop":1283
+    },
+    {
+        "id":3712765,
+        "name":"Cerro Cama",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de La Chorrera",
+        "lat":9.02802,
+        "lon":-79.90744,
+        "pop":1274
+    },
+    {
+        "id":3709228,
+        "name":"Gómez",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.56485,
+        "lon":-82.74019,
+        "pop":1257
+    },
+    {
+        "id":3708731,
+        "name":"Hato Montaña",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Arraiján",
+        "lat":8.91938,
+        "lon":-79.73915,
+        "pop":1239
+    },
+    {
+        "id":3709703,
+        "name":"Espavé",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Chame",
+        "lat":8.66339,
+        "lon":-79.8725,
+        "pop":1236
+    },
+    {
+        "id":10211213,
+        "name":"La Mesa",
+        "country":"PA",
+        "admin1":"Bocas del Toro Province",
+        "admin2":"Distrito de Changuinola",
+        "lat":9.49587,
+        "lon":-82.67534,
+        "pop":1235
+    },
+    {
+        "id":9409143,
+        "name":"Howard",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"",
+        "lat":8.93942,
+        "lon":-79.59097,
+        "pop":1222
+    },
+    {
+        "id":3701816,
+        "name":"Río Rita",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Colón",
+        "lat":9.30854,
+        "lon":-79.79096,
+        "pop":1222
+    },
+    {
+        "id":10347304,
+        "name":"Manaca Civil",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Barú",
+        "lat":8.32548,
+        "lon":-82.81807,
+        "pop":1220
+    },
+    {
+        "id":3713077,
+        "name":"Kankintú",
+        "country":"PA",
+        "admin1":"Ngöbe-Buglé Comarca",
+        "admin2":"Kankintú",
+        "lat":8.84627,
+        "lon":-81.81272,
+        "pop":1218
+    },
+    {
+        "id":3701101,
+        "name":"Santo Domingo",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.5104,
+        "lon":-82.71365,
+        "pop":1216
+    },
+    {
+        "id":3707921,
+        "name":"La Colorada",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Santiago",
+        "lat":8.01472,
+        "lon":-80.98432,
+        "pop":1214
+    },
+    {
+        "id":3709361,
+        "name":"Garachiné",
+        "country":"PA",
+        "admin1":"Darién",
+        "admin2":"Distrito de Chepigana",
+        "lat":8.06684,
+        "lon":-78.36436,
+        "pop":1188
+    },
+    {
+        "id":3702332,
+        "name":"Punta Peña",
+        "country":"PA",
+        "admin1":"Bocas del Toro Province",
+        "admin2":"Distrito Chiriquí Grande",
+        "lat":8.91659,
+        "lon":-82.18488,
+        "pop":1187
+    },
+    {
+        "id":3702550,
+        "name":"Potrerillos Abajo",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Dolega",
+        "lat":8.6452,
+        "lon":-82.48567,
+        "pop":1182
+    },
+    {
+        "id":3711009,
+        "name":"El Copé",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de La Pintada",
+        "lat":8.62036,
+        "lon":-80.58433,
+        "pop":1176
+    },
+    {
+        "id":3707752,
+        "name":"La Espigadilla",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Los Santos",
+        "lat":7.88778,
+        "lon":-80.38893,
+        "pop":1172
+    },
+    {
+        "id":3701784,
+        "name":"Valle de Riscó",
+        "country":"PA",
+        "admin1":"Bocas del Toro Province",
+        "admin2":"Almirante",
+        "lat":9.23118,
+        "lon":-82.42969,
+        "pop":1171
+    },
+    {
+        "id":3710978,
+        "name":"El Cortezo",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Natá",
+        "lat":8.34617,
+        "lon":-80.58705,
+        "pop":1157
+    },
+    {
+        "id":3701578,
+        "name":"San Andrés",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.6022,
+        "lon":-82.72449,
+        "pop":1152
+    },
+    {
+        "id":3706091,
+        "name":"La Tiza",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Las Tablas",
+        "lat":7.75284,
+        "lon":-80.28837,
+        "pop":1150
+    },
+    {
+        "id":3700620,
+        "name":"Tijeras",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Boquerón",
+        "lat":8.46926,
+        "lon":-82.54838,
+        "pop":1148
+    },
+    {
+        "id":3704547,
+        "name":"María Chiquita",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Portobelo",
+        "lat":9.44289,
+        "lon":-79.75301,
+        "pop":1146
+    },
+    {
+        "id":3707064,
+        "name":"La Palma",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Las Tablas",
+        "lat":7.69185,
+        "lon":-80.19202,
+        "pop":1144
+    },
+    {
+        "id":3703505,
+        "name":"Palmira",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Boquete",
+        "lat":8.73401,
+        "lon":-82.45887,
+        "pop":1144
+    },
+    {
+        "id":3712281,
+        "name":"Churuquita Chiquita",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.57347,
+        "lon":-80.27652,
+        "pop":1142
+    },
+    {
+        "id":3711240,
+        "name":"El Caño",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Natá",
+        "lat":8.40784,
+        "lon":-80.51722,
+        "pop":1129
+    },
+    {
+        "id":3710923,
+        "name":"El Ejido",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Los Santos",
+        "lat":7.91724,
+        "lon":-80.382,
+        "pop":1120
+    },
+    {
+        "id":3710864,
+        "name":"El Espino de Santa Rosa",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Santiago",
+        "lat":8.09286,
+        "lon":-80.8238,
+        "pop":1113
+    },
+    {
+        "id":3700931,
+        "name":"Sioguí Arriba",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.53914,
+        "lon":-82.68358,
+        "pop":1112
+    },
+    {
+        "id":3705549,
+        "name":"Los Anastacios",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Dolega",
+        "lat":8.53027,
+        "lon":-82.42295,
+        "pop":1110
+    },
+    {
+        "id":10347339,
+        "name":"Pueblo Nuevo",
+        "country":"PA",
+        "admin1":"Ngöbe-Buglé Comarca",
+        "admin2":"Jirondai",
+        "lat":8.8807,
+        "lon":-82.22411,
+        "pop":1109
+    },
+    {
+        "id":3707784,
+        "name":"La Enea",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Guararé",
+        "lat":7.83227,
+        "lon":-80.27314,
+        "pop":1105
+    },
+    {
+        "id":3714176,
+        "name":"Bella Vista",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Las Tablas",
+        "lat":7.74307,
+        "lon":-80.23428,
+        "pop":1104
+    },
+    {
+        "id":10347255,
+        "name":"Paso Canoas Arriba",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Barú",
+        "lat":8.56516,
+        "lon":-82.82214,
+        "pop":1090
+    },
+    {
+        "id":3703946,
+        "name":"Narganá",
+        "country":"PA",
+        "admin1":"Guna Yala",
+        "admin2":"",
+        "lat":9.44394,
+        "lon":-78.58666,
+        "pop":1090
+    },
+    {
+        "id":3712828,
+        "name":"Celmira",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.54508,
+        "lon":-82.80207,
+        "pop":1087
+    },
+    {
+        "id":3714849,
+        "name":"Alto de La Estancia",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Antón",
+        "lat":8.59234,
+        "lon":-80.17643,
+        "pop":1081
+    },
+    {
+        "id":3709823,
+        "name":"El Valle de La Unión",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Colón",
+        "lat":9.23804,
+        "lon":-79.65955,
+        "pop":1081
+    },
+    {
+        "id":3702548,
+        "name":"Potrerillos Arriba",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Dolega",
+        "lat":8.68832,
+        "lon":-82.4924,
+        "pop":1074
+    },
+    {
+        "id":3701868,
+        "name":"Río Grande",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.43189,
+        "lon":-80.48699,
+        "pop":1070
+    },
+    {
+        "id":3713491,
+        "name":"Caimito",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Dolega",
+        "lat":8.54658,
+        "lon":-82.42088,
+        "pop":1066
+    },
+    {
+        "id":3709569,
+        "name":"Finca Blanco",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Barú",
+        "lat":8.38263,
+        "lon":-82.87405,
+        "pop":1063
+    },
+    {
+        "id":3700393,
+        "name":"Tubualá",
+        "country":"PA",
+        "admin1":"Guna Yala",
+        "admin2":"El Porvenir",
+        "lat":9.50959,
+        "lon":-79.04492,
+        "pop":1061
+    },
+    {
+        "id":3701882,
+        "name":"Río de Jesús",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Río de Jesús",
+        "lat":7.9839,
+        "lon":-81.16141,
+        "pop":1060
+    },
+    {
+        "id":3705743,
+        "name":"Llano de Piedra",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Macaracas",
+        "lat":7.66573,
+        "lon":-80.56253,
+        "pop":1054
+    },
+    {
+        "id":3715008,
+        "name":"Aguas Blancas",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.50704,
+        "lon":-80.3079,
+        "pop":1053
+    },
+    {
+        "id":3704460,
+        "name":"Mata del Nance",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de David",
+        "lat":8.45169,
+        "lon":-82.4003,
+        "pop":1051
+    },
+    {
+        "id":3701491,
+        "name":"San Félix",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de San Félix",
+        "lat":8.29325,
+        "lon":-81.86916,
+        "pop":1051
+    },
+    {
+        "id":3712951,
+        "name":"Cartí Sugtupu",
+        "country":"PA",
+        "admin1":"Guna Yala",
+        "admin2":"El Porvenir",
+        "lat":9.47065,
+        "lon":-78.96119,
+        "pop":1050
+    },
+    {
+        "id":3710910,
+        "name":"Entradero",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Antón",
+        "lat":8.56674,
+        "lon":-80.21255,
+        "pop":1049
+    },
+    {
+        "id":3700080,
+        "name":"Villa Carmen",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Capira",
+        "lat":8.80337,
+        "lon":-79.86791,
+        "pop":1043
+    },
+    {
+        "id":3702448,
+        "name":"Pueblo Viejo",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Tolé",
+        "lat":8.25081,
+        "lon":-81.66259,
+        "pop":1042
+    },
+    {
+        "id":3713490,
+        "name":"Caimito",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.62454,
+        "lon":-80.2385,
+        "pop":1032
+    },
+    {
+        "id":3712481,
+        "name":"Chichica",
+        "country":"PA",
+        "admin1":"Ngöbe-Buglé Comarca",
+        "admin2":"Müna",
+        "lat":8.36446,
+        "lon":-81.66715,
+        "pop":1026
+    },
+    {
+        "id":3701371,
+        "name":"San Lorenzo",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de San Lorenzo",
+        "lat":8.30942,
+        "lon":-82.10256,
+        "pop":1025
+    },
+    {
+        "id":3701264,
+        "name":"Santa Ana Arriba",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Los Santos",
+        "lat":7.93457,
+        "lon":-80.36378,
+        "pop":1025
+    },
+    {
+        "id":3712320,
+        "name":"Barrio Guadalupe",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Tierras Altas",
+        "lat":8.86964,
+        "lon":-82.56226,
+        "pop":1019
+    },
+    {
+        "id":3711059,
+        "name":"El Coco",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.39595,
+        "lon":-80.35449,
+        "pop":1017
+    },
+    {
+        "id":3705710,
+        "name":"Llano Largo",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Los Santos",
+        "lat":7.90859,
+        "lon":-80.42397,
+        "pop":1013
+    },
+    {
+        "id":3715111,
+        "name":"Agua Buena",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Los Santos",
+        "lat":7.83682,
+        "lon":-80.39965,
+        "pop":1012
+    },
+    {
+        "id":3706459,
+        "name":"Las Lajas",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de San Félix",
+        "lat":8.2452,
+        "lon":-81.87006,
+        "pop":1012
+    },
+    {
+        "id":10181567,
+        "name":"Unión de Azuero",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Chepo",
+        "lat":9.15771,
+        "lon":-79.16783,
+        "pop":1004
+    },
+    {
+        "id":3704935,
+        "name":"Los Uveros",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.53363,
+        "lon":-80.39424,
+        "pop":999
+    },
+    {
+        "id":3710961,
+        "name":"El Cristo",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Aguadulce",
+        "lat":8.2535,
+        "lon":-80.62035,
+        "pop":989
+    },
+    {
+        "id":3701148,
+        "name":"Santa Rita",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de La Chorrera",
+        "lat":8.85968,
+        "lon":-79.88039,
+        "pop":987
+    },
+    {
+        "id":3701649,
+        "name":"Salamanca",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Colón",
+        "lat":9.33632,
+        "lon":-79.60297,
+        "pop":981
+    },
+    {
+        "id":3700212,
+        "name":"Vaquilla",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.69607,
+        "lon":-80.19753,
+        "pop":980
+    },
+    {
+        "id":3701928,
+        "name":"Rincón Largo",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Dolega",
+        "lat":8.52363,
+        "lon":-82.40865,
+        "pop":979
+    },
+    {
+        "id":3705493,
+        "name":"Los Boquerones",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Santiago",
+        "lat":8.08196,
+        "lon":-80.8529,
+        "pop":970
+    },
+    {
+        "id":3701196,
+        "name":"Santa Fe",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Santa Fe",
+        "lat":8.51185,
+        "lon":-81.07789,
+        "pop":968
+    },
+    {
+        "id":3701345,
+        "name":"San Miguel",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Balboa",
+        "lat":8.45685,
+        "lon":-78.93695,
+        "pop":967
+    },
+    {
+        "id":3705464,
+        "name":"Los Canelos",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Santa María",
+        "lat":8.12217,
+        "lon":-80.70526,
+        "pop":965
+    },
+    {
+        "id":3714776,
+        "name":"Alto Quiel",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Boquete",
+        "lat":8.80773,
+        "lon":-82.47073,
+        "pop":963
+    },
+    {
+        "id":3707249,
+        "name":"La Mata",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Santiago",
+        "lat":8.08944,
+        "lon":-80.87963,
+        "pop":959
+    },
+    {
+        "id":3701663,
+        "name":"Sajalices",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"",
+        "lat":8.68188,
+        "lon":-79.86764,
+        "pop":945
+    },
+    {
+        "id":3705741,
+        "name":"Llano de Santa Rosa",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Capira",
+        "lat":8.76059,
+        "lon":-79.86309,
+        "pop":944
+    },
+    {
+        "id":3713197,
+        "name":"Cañazas Abajo",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Santiago",
+        "lat":8.14693,
+        "lon":-80.71882,
+        "pop":936
+    },
+    {
+        "id":3712104,
+        "name":"Gannirdup",
+        "country":"PA",
+        "admin1":"Guna Yala",
+        "admin2":"El Porvenir",
+        "lat":8.90308,
+        "lon":-77.69567,
+        "pop":930
+    },
+    {
+        "id":3712809,
+        "name":"Cermeño",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Capira",
+        "lat":8.74243,
+        "lon":-79.84367,
+        "pop":928
+    },
+    {
+        "id":10348472,
+        "name":"San Miguel Centro",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.74369,
+        "lon":-80.18542,
+        "pop":926
+    },
+    {
+        "id":3711073,
+        "name":"El Cocal",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Las Tablas",
+        "lat":7.73848,
+        "lon":-80.27892,
+        "pop":926
+    },
+    {
+        "id":3703497,
+        "name":"Palmira Centro",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Boquete",
+        "lat":8.74156,
+        "lon":-82.4505,
+        "pop":920
+    },
+    {
+        "id":3703327,
+        "name":"Paso Blanco",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Panamá",
+        "lat":9.12767,
+        "lon":-79.24468,
+        "pop":915
+    },
+    {
+        "id":3714543,
+        "name":"Bágala",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Boquerón",
+        "lat":8.46711,
+        "lon":-82.52688,
+        "pop":910
+    },
+    {
+        "id":3700609,
+        "name":"Tinajas",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Dolega",
+        "lat":8.5592,
+        "lon":-82.46217,
+        "pop":905
+    },
+    {
+        "id":3701889,
+        "name":"Río Congo",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de La Chorrera",
+        "lat":8.96733,
+        "lon":-79.76017,
+        "pop":898
+    },
+    {
+        "id":3703358,
+        "name":"París",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Parita",
+        "lat":8.05267,
+        "lon":-80.55379,
+        "pop":894
+    },
+    {
+        "id":3706347,
+        "name":"Las Minas",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Las Minas",
+        "lat":7.79947,
+        "lon":-80.74573,
+        "pop":889
+    },
+    {
+        "id":3707736,
+        "name":"La Estrella",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.51814,
+        "lon":-82.67039,
+        "pop":885
+    },
+    {
+        "id":3700199,
+        "name":"Veladero",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Tolé",
+        "lat":8.23455,
+        "lon":-81.65246,
+        "pop":885
+    },
+    {
+        "id":3702382,
+        "name":"Puerto Piña",
+        "country":"PA",
+        "admin1":"Darién",
+        "admin2":"Distrito de Chepigana",
+        "lat":7.58297,
+        "lon":-78.17777,
+        "pop":883
+    },
+    {
+        "id":3702098,
+        "name":"Querévalo",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Alanje",
+        "lat":8.37236,
+        "lon":-82.51989,
+        "pop":882
+    },
+    {
+        "id":3708020,
+        "name":"La Candelaria",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.43916,
+        "lon":-80.49005,
+        "pop":881
+    },
+    {
+        "id":3714043,
+        "name":"Boca de Cupe",
+        "country":"PA",
+        "admin1":"Darién",
+        "admin2":"Distrito de Pinogana",
+        "lat":8.03464,
+        "lon":-77.58614,
+        "pop":877
+    },
+    {
+        "id":3708616,
+        "name":"Horconcitos",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de San Lorenzo",
+        "lat":8.31466,
+        "lon":-82.15334,
+        "pop":877
+    },
+    {
+        "id":3700391,
+        "name":"Tubualá",
+        "country":"PA",
+        "admin1":"Guna Yala",
+        "admin2":"El Porvenir",
+        "lat":8.92098,
+        "lon":-77.72394,
+        "pop":877
+    },
+    {
+        "id":3703876,
+        "name":"Nombre de Dios",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Santa Isabel",
+        "lat":9.58154,
+        "lon":-79.46846,
+        "pop":872
+    },
+    {
+        "id":10347263,
+        "name":"Chuchupate",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Barú",
+        "lat":8.43592,
+        "lon":-82.86219,
+        "pop":868
+    },
+    {
+        "id":3714125,
+        "name":"Bijagual",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Antón",
+        "lat":8.37399,
+        "lon":-80.26105,
+        "pop":865
+    },
+    {
+        "id":3701527,
+        "name":"San Carlos",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de San Carlos",
+        "lat":8.47343,
+        "lon":-79.95645,
+        "pop":857
+    },
+    {
+        "id":3715088,
+        "name":"Aguacatal",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de David",
+        "lat":8.4667,
+        "lon":-82.45559,
+        "pop":856
+    },
+    {
+        "id":3709348,
+        "name":"Gariché",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.48333,
+        "lon":-82.78333,
+        "pop":852
+    },
+    {
+        "id":3708456,
+        "name":"Jacú",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.48361,
+        "lon":-82.81641,
+        "pop":840
+    },
+    {
+        "id":3713489,
+        "name":"Caimito",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Capira",
+        "lat":8.81564,
+        "lon":-79.94661,
+        "pop":836
+    },
+    {
+        "id":3708974,
+        "name":"Guacá Arriba",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de David",
+        "lat":8.53952,
+        "lon":-82.49408,
+        "pop":834
+    },
+    {
+        "id":3703373,
+        "name":"Paraíso",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Panamá",
+        "lat":9.03315,
+        "lon":-79.62749,
+        "pop":833
+    },
+    {
+        "id":10347297,
+        "name":"Berba",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Barú",
+        "lat":8.38391,
+        "lon":-82.81417,
+        "pop":831
+    },
+    {
+        "id":3701994,
+        "name":"Remedios",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Remedios",
+        "lat":8.22541,
+        "lon":-81.82923,
+        "pop":829
+    },
+    {
+        "id":10347259,
+        "name":"Santa María",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Barú",
+        "lat":8.44836,
+        "lon":-82.84289,
+        "pop":827
+    },
+    {
+        "id":3713208,
+        "name":"Cañaveral",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.51667,
+        "lon":-80.43044,
+        "pop":827
+    },
+    {
+        "id":10348504,
+        "name":"Marica Abajo",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.54263,
+        "lon":-80.40679,
+        "pop":823
+    },
+    {
+        "id":3706584,
+        "name":"Las Cruces",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Los Santos",
+        "lat":7.8272,
+        "lon":-80.42973,
+        "pop":823
+    },
+    {
+        "id":3706375,
+        "name":"Las Matas",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de San Félix",
+        "lat":8.30632,
+        "lon":-81.86637,
+        "pop":823
+    },
+    {
+        "id":3706278,
+        "name":"Las Palmitas",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Las Tablas",
+        "lat":7.76697,
+        "lon":-80.29035,
+        "pop":821
+    },
+    {
+        "id":3704368,
+        "name":"Membrillo",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.58313,
+        "lon":-80.21975,
+        "pop":818
+    },
+    {
+        "id":3708484,
+        "name":"Isla Tigre",
+        "country":"PA",
+        "admin1":"Guna Yala",
+        "admin2":"El Porvenir",
+        "lat":9.43177,
+        "lon":-78.52139,
+        "pop":817
+    },
+    {
+        "id":10347301,
+        "name":"San Valentín",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Barú",
+        "lat":8.36725,
+        "lon":-82.77959,
+        "pop":814
+    },
+    {
+        "id":10194321,
+        "name":"Zapallal",
+        "country":"PA",
+        "admin1":"Darién",
+        "admin2":"Santa Fe",
+        "lat":8.64945,
+        "lon":-78.12862,
+        "pop":813
+    },
+    {
+        "id":10347257,
+        "name":"Cuervito Abajo",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Barú",
+        "lat":8.46397,
+        "lon":-82.84121,
+        "pop":812
+    },
+    {
+        "id":3714426,
+        "name":"Balboa",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Panamá",
+        "lat":8.94814,
+        "lon":-79.56672,
+        "pop":807
+    },
+    {
+        "id":3710058,
+        "name":"El Real de Santa María",
+        "country":"PA",
+        "admin1":"Darién",
+        "admin2":"Distrito de Pinogana",
+        "lat":8.108,
+        "lon":-77.734,
+        "pop":804
+    },
+    {
+        "id":3703126,
+        "name":"Peña Blanca",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Las Tablas",
+        "lat":7.72035,
+        "lon":-80.2837,
+        "pop":804
+    },
+    {
+        "id":3712007,
+        "name":"El Congo",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.44339,
+        "lon":-80.42128,
+        "pop":803
+    },
+    {
+        "id":3704264,
+        "name":"Miraflores",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.62507,
+        "lon":-80.27693,
+        "pop":799
+    },
+    {
+        "id":3703494,
+        "name":"Palmarito",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Renacimiento",
+        "lat":8.82438,
+        "lon":-82.82262,
+        "pop":797
+    },
+    {
+        "id":3713396,
+        "name":"Calobre",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Calobre",
+        "lat":8.32078,
+        "lon":-80.84104,
+        "pop":795
+    },
+    {
+        "id":3702534,
+        "name":"Potuga",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Parita",
+        "lat":8.06588,
+        "lon":-80.6209,
+        "pop":795
+    },
+    {
+        "id":10348027,
+        "name":"Miraflores",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Renacimiento",
+        "lat":8.84375,
+        "lon":-82.83172,
+        "pop":786
+    },
+    {
+        "id":3712448,
+        "name":"Chimán",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Chimán",
+        "lat":8.71596,
+        "lon":-78.63335,
+        "pop":786
+    },
+    {
+        "id":3701939,
+        "name":"Rincón de Las Palmas",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.55534,
+        "lon":-80.25429,
+        "pop":781
+    },
+    {
+        "id":3712285,
+        "name":"Churubé Abajo",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Natá",
+        "lat":8.39889,
+        "lon":-80.54156,
+        "pop":774
+    },
+    {
+        "id":3711571,
+        "name":"Dos Ríos Arriba",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Dolega",
+        "lat":8.55166,
+        "lon":-82.39811,
+        "pop":773
+    },
+    {
+        "id":3704118,
+        "name":"Montilla",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de David",
+        "lat":8.46478,
+        "lon":-82.47798,
+        "pop":772
+    },
+    {
+        "id":3709945,
+        "name":"El Sesteadero",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Las Tablas",
+        "lat":7.746,
+        "lon":-80.25079,
+        "pop":771
+    },
+    {
+        "id":3701933,
+        "name":"Rincón Largo",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Montijo",
+        "lat":7.94614,
+        "lon":-81.0645,
+        "pop":767
+    },
+    {
+        "id":3703707,
+        "name":"Orillas del Río",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Alanje",
+        "lat":8.36119,
+        "lon":-82.50791,
+        "pop":762
+    },
+    {
+        "id":3706724,
+        "name":"La Raya de Santa María",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Santiago",
+        "lat":8.16636,
+        "lon":-80.81638,
+        "pop":757
+    },
+    {
+        "id":3701330,
+        "name":"San Miguel del Yuco",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.54404,
+        "lon":-82.62442,
+        "pop":756
+    },
+    {
+        "id":3702584,
+        "name":"Portachuelo",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de David",
+        "lat":8.47718,
+        "lon":-82.42096,
+        "pop":743
+    },
+    {
+        "id":3707919,
+        "name":"La Colorada",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de La Chorrera",
+        "lat":8.98021,
+        "lon":-79.91872,
+        "pop":742
+    },
+    {
+        "id":3702469,
+        "name":"Pueblo Nuevo",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Antón",
+        "lat":8.3909,
+        "lon":-80.20478,
+        "pop":741
+    },
+    {
+        "id":3714263,
+        "name":"Bastimentos",
+        "country":"PA",
+        "admin1":"Bocas del Toro Province",
+        "admin2":"Distrito de Bocas del Toro",
+        "lat":9.34862,
+        "lon":-82.21091,
+        "pop":738
+    },
+    {
+        "id":3706658,
+        "name":"Salitrosa",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Aguadulce",
+        "lat":8.21066,
+        "lon":-80.63674,
+        "pop":729
+    },
+    {
+        "id":3704348,
+        "name":"Mendoza",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de La Chorrera",
+        "lat":9.01589,
+        "lon":-79.84856,
+        "pop":729
+    },
+    {
+        "id":10194746,
+        "name":"Pueblo Nuevo",
+        "country":"PA",
+        "admin1":"Darién",
+        "admin2":"Distrito de Pinogana",
+        "lat":8.15155,
+        "lon":-77.69198,
+        "pop":723
+    },
+    {
+        "id":3700802,
+        "name":"San Pedro",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Taboga",
+        "lat":8.79462,
+        "lon":-79.55475,
+        "pop":722
+    },
+    {
+        "id":3705620,
+        "name":"Loma de San Pedro",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Alanje",
+        "lat":8.43188,
+        "lon":-82.55204,
+        "pop":719
+    },
+    {
+        "id":3704138,
+        "name":"Monte Lirio",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Renacimiento",
+        "lat":8.7933,
+        "lon":-82.82453,
+        "pop":715
+    },
+    {
+        "id":3700433,
+        "name":"Tres Quebradas",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Los Santos",
+        "lat":7.84018,
+        "lon":-80.4074,
+        "pop":715
+    },
+    {
+        "id":3705684,
+        "name":"Llano Sánchez",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Aguadulce",
+        "lat":8.20148,
+        "lon":-80.70487,
+        "pop":702
+    },
+    {
+        "id":3704832,
+        "name":"Machuca",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de La Pintada",
+        "lat":8.62561,
+        "lon":-80.54623,
+        "pop":702
+    },
+    {
+        "id":3713571,
+        "name":"Cabuya",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Chame",
+        "lat":8.57656,
+        "lon":-79.92335,
+        "pop":699
+    },
+    {
+        "id":3701530,
+        "name":"San Carlitos",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de David",
+        "lat":8.49096,
+        "lon":-82.45503,
+        "pop":698
+    },
+    {
+        "id":10348128,
+        "name":"San Bartolo Línea",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Barú",
+        "lat":8.31417,
+        "lon":-82.88106,
+        "pop":693
+    },
+    {
+        "id":3706562,
+        "name":"Las Delicias",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.54112,
+        "lon":-80.36612,
+        "pop":693
+    },
+    {
+        "id":3700429,
+        "name":"Tríbique",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Soná",
+        "lat":7.99498,
+        "lon":-81.31518,
+        "pop":693
+    },
+    {
+        "id":3701951,
+        "name":"Rincón",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Gualaca",
+        "lat":8.46603,
+        "lon":-82.28104,
+        "pop":692
+    },
+    {
+        "id":3707207,
+        "name":"La Meseta",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Boquerón",
+        "lat":8.5533,
+        "lon":-82.59266,
+        "pop":691
+    },
+    {
+        "id":3702570,
+        "name":"Portón",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.56538,
+        "lon":-82.78561,
+        "pop":689
+    },
+    {
+        "id":3705298,
+        "name":"Los Hatillos",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Pesé",
+        "lat":7.93466,
+        "lon":-80.53797,
+        "pop":687
+    },
+    {
+        "id":9252016,
+        "name":"Puerto Indio",
+        "country":"PA",
+        "admin1":"Darién",
+        "admin2":"",
+        "lat":8.02171,
+        "lon":-78.20528,
+        "pop":686
+    },
+    {
+        "id":3711347,
+        "name":"El Bongo",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Montijo",
+        "lat":7.94858,
+        "lon":-81.04838,
+        "pop":686
+    },
+    {
+        "id":3710372,
+        "name":"El Nance",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de San Carlos",
+        "lat":8.47092,
+        "lon":-79.96581,
+        "pop":677
+    },
+    {
+        "id":3701292,
+        "name":"San Pedro",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.72554,
+        "lon":-80.22218,
+        "pop":677
+    },
+    {
+        "id":3703592,
+        "name":"Pajonal Abajo",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.58479,
+        "lon":-80.26354,
+        "pop":676
+    },
+    {
+        "id":3710230,
+        "name":"Pedernal",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Santiago",
+        "lat":8.14494,
+        "lon":-80.784,
+        "pop":675
+    },
+    {
+        "id":10347253,
+        "name":"El Roble",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.5075,
+        "lon":-82.77577,
+        "pop":666
+    },
+    {
+        "id":3701312,
+        "name":"San Pablo Viejo Arriba",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de David",
+        "lat":8.48323,
+        "lon":-82.50401,
+        "pop":666
+    },
+    {
+        "id":3701482,
+        "name":"San Francisco",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.63404,
+        "lon":-82.72818,
+        "pop":665
+    },
+    {
+        "id":3710847,
+        "name":"El Flor",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Dolega",
+        "lat":8.57126,
+        "lon":-82.43903,
+        "pop":660
+    },
+    {
+        "id":10347489,
+        "name":"El Porvenir",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Remedios",
+        "lat":8.232,
+        "lon":-81.83353,
+        "pop":659
+    },
+    {
+        "id":3701091,
+        "name":"San Vicente",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.59199,
+        "lon":-82.63686,
+        "pop":656
+    },
+    {
+        "id":8643384,
+        "name":"Sambú",
+        "country":"PA",
+        "admin1":"Darién",
+        "admin2":"Distrito de Chepigana",
+        "lat":8.0254,
+        "lon":-78.20927,
+        "pop":653
+    },
+    {
+        "id":3713189,
+        "name":"Cañazas",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Chepo",
+        "lat":8.9008,
+        "lon":-78.22487,
+        "pop":653
+    },
+    {
+        "id":3701093,
+        "name":"Santo Tomás",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Alanje",
+        "lat":8.39702,
+        "lon":-82.64769,
+        "pop":653
+    },
+    {
+        "id":3764114,
+        "name":"Ipetí Chocó",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Chepo",
+        "lat":8.96991,
+        "lon":-78.51469,
+        "pop":652
+    },
+    {
+        "id":3708288,
+        "name":"Juan Gil",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Panamá",
+        "lat":9.1806,
+        "lon":-79.25622,
+        "pop":652
+    },
+    {
+        "id":3702921,
+        "name":"Piedra Candela",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Renacimiento",
+        "lat":8.87551,
+        "lon":-82.77789,
+        "pop":648
+    },
+    {
+        "id":3709949,
+        "name":"El Santo",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Bugaba",
+        "lat":8.56507,
+        "lon":-82.67772,
+        "pop":647
+    },
+    {
+        "id":3702470,
+        "name":"Pueblo Nuevo",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de San Lorenzo",
+        "lat":8.3029,
+        "lon":-82.10006,
+        "pop":647
+    },
+    {
+        "id":3708558,
+        "name":"Icantí",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Chepo",
+        "lat":9.21444,
+        "lon":-78.68333,
+        "pop":644
+    },
+    {
+        "id":3700742,
+        "name":"Tavidal Arriba",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.67398,
+        "lon":-80.17357,
+        "pop":643
+    },
+    {
+        "id":3708747,
+        "name":"Hato Chamí",
+        "country":"PA",
+        "admin1":"Ngöbe-Buglé Comarca",
+        "admin2":"Nole Düima",
+        "lat":8.44853,
+        "lon":-81.77025,
+        "pop":641
+    },
+    {
+        "id":3701381,
+        "name":"San Juan del Tejal",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de David",
+        "lat":8.48746,
+        "lon":-82.49124,
+        "pop":641
+    },
+    {
+        "id":3714646,
+        "name":"Armila",
+        "country":"PA",
+        "admin1":"Guna Yala",
+        "admin2":"El Porvenir",
+        "lat":8.66269,
+        "lon":-77.45142,
+        "pop":637
+    },
+    {
+        "id":3712291,
+        "name":"Chupampa",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Santa María",
+        "lat":8.07714,
+        "lon":-80.77832,
+        "pop":637
+    },
+    {
+        "id":3711302,
+        "name":"Cacao",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Capira",
+        "lat":8.76016,
+        "lon":-80.01342,
+        "pop":636
+    },
+    {
+        "id":3712763,
+        "name":"Cerro Campana",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"",
+        "lat":8.70686,
+        "lon":-79.91219,
+        "pop":635
+    },
+    {
+        "id":11398376,
+        "name":"Cerro El Castillo",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Arraiján",
+        "lat":8.96105,
+        "lon":-79.67876,
+        "pop":630
+    },
+    {
+        "id":3713131,
+        "name":"Cañita",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Chepo",
+        "lat":9.22236,
+        "lon":-78.89509,
+        "pop":629
+    },
+    {
+        "id":3706519,
+        "name":"Las Guabas",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.388,
+        "lon":-80.4477,
+        "pop":625
+    },
+    {
+        "id":3710882,
+        "name":"El Espino",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Santiago",
+        "lat":8.19469,
+        "lon":-80.95956,
+        "pop":620
+    },
+    {
+        "id":11398371,
+        "name":"Monte Claro",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Arraiján",
+        "lat":8.92874,
+        "lon":-79.66831,
+        "pop":618
+    },
+    {
+        "id":3705131,
+        "name":"Los Olivos",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Los Santos",
+        "lat":7.91852,
+        "lon":-80.48801,
+        "pop":618
+    },
+    {
+        "id":10348109,
+        "name":"Lajero",
+        "country":"PA",
+        "admin1":"Ngöbe-Buglé Comarca",
+        "admin2":"Nole Düima",
+        "lat":8.29003,
+        "lon":-81.77012,
+        "pop":617
+    },
+    {
+        "id":3712168,
+        "name":"Angostura de Cochea Arriba",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de David",
+        "lat":8.5412,
+        "lon":-82.37627,
+        "pop":615
+    },
+    {
+        "id":3704471,
+        "name":"Mata Ahogado",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de San Carlos",
+        "lat":8.62764,
+        "lon":-80.09683,
+        "pop":614
+    },
+    {
+        "id":10347474,
+        "name":"Cerro Ceniza",
+        "country":"PA",
+        "admin1":"Ngöbe-Buglé Comarca",
+        "admin2":"Müna",
+        "lat":8.34217,
+        "lon":-81.7656,
+        "pop":612
+    },
+    {
+        "id":3706893,
+        "name":"La Pita",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Capira",
+        "lat":8.81499,
+        "lon":-79.84649,
+        "pop":608
+    },
+    {
+        "id":3703349,
+        "name":"Paritilla",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Pocrí",
+        "lat":7.62928,
+        "lon":-80.1742,
+        "pop":608
+    },
+    {
+        "id":3700773,
+        "name":"Tambo",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.6622,
+        "lon":-80.2942,
+        "pop":607
+    },
+    {
+        "id":3700572,
+        "name":"Tobobe",
+        "country":"PA",
+        "admin1":"Ngöbe-Buglé Comarca",
+        "admin2":"Kusapín",
+        "lat":9.12079,
+        "lon":-81.828,
+        "pop":607
+    },
+    {
+        "id":3700579,
+        "name":"Toabré",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.65073,
+        "lon":-80.32119,
+        "pop":603
+    },
+    {
+        "id":3702156,
+        "name":"Quebrada Pastor",
+        "country":"PA",
+        "admin1":"Bocas del Toro Province",
+        "admin2":"Almirante",
+        "lat":9.20777,
+        "lon":-82.36673,
+        "pop":602
+    },
+    {
+        "id":10347249,
+        "name":"La Bonita",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Renacimiento",
+        "lat":8.61903,
+        "lon":-82.76392,
+        "pop":598
+    },
+    {
+        "id":3700878,
+        "name":"Sorá",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Chame",
+        "lat":8.63451,
+        "lon":-80.0093,
+        "pop":598
+    },
+    {
+        "id":3701242,
+        "name":"Santa Clara",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Antón",
+        "lat":8.38245,
+        "lon":-80.1086,
+        "pop":597
+    },
+    {
+        "id":3703102,
+        "name":"Peña Prieta",
+        "country":"PA",
+        "admin1":"Ngöbe-Buglé Comarca",
+        "admin2":"Müna",
+        "lat":8.36876,
+        "lon":-81.71975,
+        "pop":596
+    },
+    {
+        "id":3700336,
+        "name":"Turega",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.61219,
+        "lon":-80.19513,
+        "pop":591
+    },
+    {
+        "id":3711513,
+        "name":"Alto de Capira",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Capira",
+        "lat":8.73653,
+        "lon":-79.88313,
+        "pop":585
+    },
+    {
+        "id":3708854,
+        "name":"Guayabal",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de David",
+        "lat":8.45986,
+        "lon":-82.35146,
+        "pop":582
+    },
+    {
+        "id":3713669,
+        "name":"Buen Retiro",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Antón",
+        "lat":8.41774,
+        "lon":-80.23462,
+        "pop":581
+    },
+    {
+        "id":10179199,
+        "name":"La Tollosa",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Soná",
+        "lat":7.99016,
+        "lon":-81.32575,
+        "pop":580
+    },
+    {
+        "id":3701457,
+        "name":"San José",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Ocú",
+        "lat":7.95526,
+        "lon":-80.84825,
+        "pop":580
+    },
+    {
+        "id":3712673,
+        "name":"Cerro Mosquito",
+        "country":"PA",
+        "admin1":"Ngöbe-Buglé Comarca",
+        "admin2":"Müna",
+        "lat":8.35275,
+        "lon":-81.68975,
+        "pop":579
+    },
+    {
+        "id":3701258,
+        "name":"Santa Catalina",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Soná",
+        "lat":7.6317,
+        "lon":-81.25377,
+        "pop":578
+    },
+    {
+        "id":10347245,
+        "name":"Alto Quiel",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Renacimiento",
+        "lat":8.72881,
+        "lon":-82.88839,
+        "pop":576
+    },
+    {
+        "id":3711410,
+        "name":"El Barrero",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Aguadulce",
+        "lat":8.15581,
+        "lon":-80.6901,
+        "pop":576
+    },
+    {
+        "id":10179832,
+        "name":"Nuevo Tonosí",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Portobelo",
+        "lat":9.55576,
+        "lon":-79.61259,
+        "pop":575
+    },
+    {
+        "id":3701703,
+        "name":"Sabana Grande",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Pesé",
+        "lat":7.88069,
+        "lon":-80.63817,
+        "pop":574
+    },
+    {
+        "id":3700912,
+        "name":"Sófre",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.61881,
+        "lon":-80.21893,
+        "pop":571
+    },
+    {
+        "id":3704073,
+        "name":"Mortí",
+        "country":"PA",
+        "admin1":"Darién",
+        "admin2":"Distrito de Pinogana",
+        "lat":8.84246,
+        "lon":-77.97539,
+        "pop":567
+    },
+    {
+        "id":3710668,
+        "name":"El Higo",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de San Carlos",
+        "lat":8.45034,
+        "lon":-80.03671,
+        "pop":566
+    },
+    {
+        "id":3706629,
+        "name":"Las Barreras",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Santiago",
+        "lat":8.10475,
+        "lon":-80.99738,
+        "pop":566
+    },
+    {
+        "id":3706306,
+        "name":"Las Ollas Abajo",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de La Chorrera",
+        "lat":8.84178,
+        "lon":-79.90524,
+        "pop":566
+    },
+    {
+        "id":3703574,
+        "name":"Palenque",
+        "country":"PA",
+        "admin1":"Colón",
+        "admin2":"Distrito de Colón",
+        "lat":9.20928,
+        "lon":-79.67702,
+        "pop":565
+    },
+    {
+        "id":11398374,
+        "name":"La Cresta",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de Chame",
+        "lat":8.63805,
+        "lon":-79.88031,
+        "pop":564
+    },
+    {
+        "id":3707006,
+        "name":"La Pasera",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Guararé",
+        "lat":7.798,
+        "lon":-80.30438,
+        "pop":563
+    },
+    {
+        "id":3702358,
+        "name":"Punta Alegre",
+        "country":"PA",
+        "admin1":"Darién",
+        "admin2":"Distrito de Chepigana",
+        "lat":8.29525,
+        "lon":-78.25409,
+        "pop":563
+    },
+    {
+        "id":3705721,
+        "name":"Llano Grande",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"",
+        "lat":8.62787,
+        "lon":-79.93129,
+        "pop":556
+    },
+    {
+        "id":3703451,
+        "name":"Palo Verde",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Antón",
+        "lat":8.38779,
+        "lon":-80.19722,
+        "pop":556
+    },
+    {
+        "id":3702661,
+        "name":"Playa Leona",
+        "country":"PA",
+        "admin1":"Panamá Oeste Province",
+        "admin2":"Distrito de La Chorrera",
+        "lat":8.78868,
+        "lon":-79.77237,
+        "pop":556
+    },
+    {
+        "id":3701290,
+        "name":"San Pedro del Espino",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Santiago",
+        "lat":8.13868,
+        "lon":-81.08205,
+        "pop":554
+    },
+    {
+        "id":3703972,
+        "name":"Naranjal",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Chepo",
+        "lat":9.13292,
+        "lon":-79.22899,
+        "pop":552
+    },
+    {
+        "id":3700732,
+        "name":"Tebujo",
+        "country":"PA",
+        "admin1":"Ngöbe-Buglé Comarca",
+        "admin2":"Müna",
+        "lat":8.39593,
+        "lon":-81.7263,
+        "pop":552
+    },
+    {
+        "id":3710107,
+        "name":"El Potrero",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de La Pintada",
+        "lat":8.52199,
+        "lon":-80.5209,
+        "pop":550
+    },
+    {
+        "id":10347870,
+        "name":"Llano Limón",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Tolé",
+        "lat":8.2493,
+        "lon":-81.65498,
+        "pop":549
+    },
+    {
+        "id":3706346,
+        "name":"Las Minas",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.6421,
+        "lon":-80.40036,
+        "pop":548
+    },
+    {
+        "id":3703807,
+        "name":"Nutiví",
+        "country":"PA",
+        "admin1":"Ngöbe-Buglé Comarca",
+        "admin2":"Kankintú",
+        "lat":8.87064,
+        "lon":-81.84103,
+        "pop":546
+    },
+    {
+        "id":3711437,
+        "name":"El Banco",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Dolega",
+        "lat":8.68939,
+        "lon":-82.51104,
+        "pop":542
+    },
+    {
+        "id":10211038,
+        "name":"Isla Tigre",
+        "country":"PA",
+        "admin1":"Bocas del Toro Province",
+        "admin2":"Distrito de Bocas del Toro",
+        "lat":9.17561,
+        "lon":-82.0822,
+        "pop":540
+    },
+    {
+        "id":3705001,
+        "name":"Los Remedios",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Santiago",
+        "lat":8.14315,
+        "lon":-81.02362,
+        "pop":540
+    },
+    {
+        "id":10180900,
+        "name":"Las Tablas Abajo",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Las Tablas",
+        "lat":7.79376,
+        "lon":-80.25254,
+        "pop":538
+    },
+    {
+        "id":3711749,
+        "name":"Cucunatí",
+        "country":"PA",
+        "admin1":"Darién",
+        "admin2":"Santa Fe",
+        "lat":8.57906,
+        "lon":-78.25579,
+        "pop":537
+    },
+    {
+        "id":3705712,
+        "name":"Llano Junco",
+        "country":"PA",
+        "admin1":"Ngöbe-Buglé Comarca",
+        "admin2":"Müna",
+        "lat":8.35317,
+        "lon":-81.75445,
+        "pop":537
+    },
+    {
+        "id":10347473,
+        "name":"Oma",
+        "country":"PA",
+        "admin1":"Ngöbe-Buglé Comarca",
+        "admin2":"Nole Düima",
+        "lat":8.34565,
+        "lon":-81.79827,
+        "pop":535
+    },
+    {
+        "id":10347308,
+        "name":"Pueblo Nuevo",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de David",
+        "lat":8.53586,
+        "lon":-82.50606,
+        "pop":535
+    },
+    {
+        "id":3702464,
+        "name":"Pueblo Nuevo",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Dolega",
+        "lat":8.58399,
+        "lon":-82.42282,
+        "pop":534
+    },
+    {
+        "id":3702390,
+        "name":"Puerto Obaldía",
+        "country":"PA",
+        "admin1":"Guna Yala",
+        "admin2":"El Porvenir",
+        "lat":8.66632,
+        "lon":-77.41922,
+        "pop":533
+    },
+    {
+        "id":3701343,
+        "name":"San Miguel",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Panamá",
+        "lat":9.22574,
+        "lon":-79.2551,
+        "pop":532
+    },
+    {
+        "id":3700317,
+        "name":"Ualá",
+        "country":"PA",
+        "admin1":"Darién",
+        "admin2":"Distrito de Pinogana",
+        "lat":8.98572,
+        "lon":-78.06078,
+        "pop":532
+    },
+    {
+        "id":3711133,
+        "name":"El Chirú",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Antón",
+        "lat":8.40307,
+        "lon":-80.18991,
+        "pop":531
+    },
+    {
+        "id":3705417,
+        "name":"Los Cerritos",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Los Pozos",
+        "lat":7.79952,
+        "lon":-80.60641,
+        "pop":531
+    },
+    {
+        "id":10211037,
+        "name":"Cayo de Agua",
+        "country":"PA",
+        "admin1":"Bocas del Toro Province",
+        "admin2":"Distrito de Bocas del Toro",
+        "lat":9.15247,
+        "lon":-82.05801,
+        "pop":529
+    },
+    {
+        "id":3704075,
+        "name":"Mortí",
+        "country":"PA",
+        "admin1":"Darién",
+        "admin2":"Distrito de Pinogana",
+        "lat":8.85266,
+        "lon":-77.9169,
+        "pop":528
+    },
+    {
+        "id":3712212,
+        "name":"Ciruelito",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.45572,
+        "lon":-80.44973,
+        "pop":526
+    },
+    {
+        "id":10211084,
+        "name":"San Cristóbal",
+        "country":"PA",
+        "admin1":"Bocas del Toro Province",
+        "admin2":"Distrito de Bocas del Toro",
+        "lat":9.28129,
+        "lon":-82.26763,
+        "pop":525
+    },
+    {
+        "id":3707762,
+        "name":"La Esmeralda",
+        "country":"PA",
+        "admin1":"Panamá",
+        "admin2":"Distrito de Balboa",
+        "lat":8.26817,
+        "lon":-78.9246,
+        "pop":524
+    },
+    {
+        "id":3701459,
+        "name":"San José",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Las Tablas",
+        "lat":7.67704,
+        "lon":-80.24339,
+        "pop":523
+    },
+    {
+        "id":3706374,
+        "name":"La Mata",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Antón",
+        "lat":8.47239,
+        "lon":-80.09644,
+        "pop":522
+    },
+    {
+        "id":3704781,
+        "name":"Majagual",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Barú",
+        "lat":8.33074,
+        "lon":-82.76336,
+        "pop":521
+    },
+    {
+        "id":3701704,
+        "name":"Sabana Grande",
+        "country":"PA",
+        "admin1":"Los Santos Province",
+        "admin2":"Distrito de Los Santos",
+        "lat":7.83876,
+        "lon":-80.36595,
+        "pop":521
+    },
+    {
+        "id":3709561,
+        "name":"Finca Corredor",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Barú",
+        "lat":8.34568,
+        "lon":-82.87399,
+        "pop":520
+    },
+    {
+        "id":3708704,
+        "name":"Hicaco",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Soná",
+        "lat":7.6547,
+        "lon":-81.20307,
+        "pop":520
+    },
+    {
+        "id":3713349,
+        "name":"Camarón Arriba",
+        "country":"PA",
+        "admin1":"Ngöbe-Buglé Comarca",
+        "admin2":"Besiko",
+        "lat":8.38774,
+        "lon":-81.9965,
+        "pop":515
+    },
+    {
+        "id":3706300,
+        "name":"La Sonadora",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.55319,
+        "lon":-80.32911,
+        "pop":515
+    },
+    {
+        "id":3702494,
+        "name":"Pueblito de San Juan",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de San Lorenzo",
+        "lat":8.2637,
+        "lon":-81.97478,
+        "pop":515
+    },
+    {
+        "id":3705394,
+        "name":"Los Chiricanos",
+        "country":"PA",
+        "admin1":"Bocas del Toro Province",
+        "admin2":"Distrito Chiriquí Grande",
+        "lat":8.97805,
+        "lon":-82.21438,
+        "pop":513
+    },
+    {
+        "id":3705445,
+        "name":"Los Castillos",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Río de Jesús",
+        "lat":8.02459,
+        "lon":-81.11667,
+        "pop":510
+    },
+    {
+        "id":3702882,
+        "name":"Piedras Gordas",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de La Pintada",
+        "lat":8.63886,
+        "lon":-80.51137,
+        "pop":510
+    },
+    {
+        "id":3712459,
+        "name":"Chiguirí Arriba",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito Penonomé",
+        "lat":8.67545,
+        "lon":-80.18906,
+        "pop":509
+    },
+    {
+        "id":3702601,
+        "name":"Ponuga",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Santiago",
+        "lat":7.88273,
+        "lon":-80.97709,
+        "pop":509
+    },
+    {
+        "id":3705024,
+        "name":"Los Pozos",
+        "country":"PA",
+        "admin1":"Herrera Province",
+        "admin2":"Distrito de Los Pozos",
+        "lat":7.78805,
+        "lon":-80.64569,
+        "pop":508
+    },
+    {
+        "id":3708999,
+        "name":"Guabas Arriba",
+        "country":"PA",
+        "admin1":"Coclé",
+        "admin2":"Distrito de Antón",
+        "lat":8.46759,
+        "lon":-80.26181,
+        "pop":506
+    },
+    {
+        "id":3702371,
+        "name":"Puerto Vidal",
+        "country":"PA",
+        "admin1":"Veraguas Province",
+        "admin2":"Distrito de Las Palmas",
+        "lat":8.04934,
+        "lon":-81.60454,
+        "pop":506
+    },
+    {
+        "id":10347264,
+        "name":"Finca Balsa",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Barú",
+        "lat":8.42891,
+        "lon":-82.89726,
+        "pop":502
+    },
+    {
+        "id":10194335,
+        "name":"Villa Darién",
+        "country":"PA",
+        "admin1":"Darién",
+        "admin2":"Distrito de Pinogana",
+        "lat":8.54518,
+        "lon":-78.00797,
+        "pop":502
+    },
+    {
+        "id":10194322,
+        "name":"Quebrada Honda",
+        "country":"PA",
+        "admin1":"Darién",
+        "admin2":"Santa Fe",
+        "lat":8.63607,
+        "lon":-78.11224,
+        "pop":501
+    },
+    {
+        "id":3704794,
+        "name":"Mague",
+        "country":"PA",
+        "admin1":"Chiriquí Province",
+        "admin2":"Distrito de Boquete",
+        "lat":8.66699,
+        "lon":-82.36454,
+        "pop":501
+    }
+]

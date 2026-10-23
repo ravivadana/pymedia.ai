@@ -1,0 +1,32 @@
+[
+    {
+        "id":3578037,
+        "name":"Salem",
+        "country":"MS",
+        "admin1":"Saint Peter",
+        "admin2":"",
+        "lat":16.75095,
+        "lon":-62.22175,
+        "pop":1140
+    },
+    {
+        "id":7266440,
+        "name":"Brades",
+        "country":"MS",
+        "admin1":"Saint Peter",
+        "admin2":"",
+        "lat":16.79183,
+        "lon":-62.21058,
+        "pop":1000
+    },
+    {
+        "id":3578041,
+        "name":"Saint John's Village",
+        "country":"MS",
+        "admin1":"Saint Peter",
+        "admin2":"",
+        "lat":16.78215,
+        "lon":-62.19103,
+        "pop":627
+    }
+]

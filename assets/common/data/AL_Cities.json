@@ -1,0 +1,1732 @@
+[
+    {
+        "id":3183875,
+        "name":"Tirana",
+        "country":"AL",
+        "admin1":"Tirana",
+        "admin2":"Bashkia Tiranë",
+        "lat":41.32744,
+        "lon":19.81866,
+        "pop":418495
+    },
+    {
+        "id":3185728,
+        "name":"Durrës",
+        "country":"AL",
+        "admin1":"Durrës County",
+        "admin2":"Bashkia Durrës",
+        "lat":41.32355,
+        "lon":19.45469,
+        "pop":195920
+    },
+    {
+        "id":3183719,
+        "name":"Vlorë",
+        "country":"AL",
+        "admin1":"Vlorë County",
+        "admin2":"Bashkia Vlorë",
+        "lat":40.4696,
+        "lon":19.48379,
+        "pop":115261
+    },
+    {
+        "id":783263,
+        "name":"Elbasan",
+        "country":"AL",
+        "admin1":"Elbasan County",
+        "admin2":"Bashkia Elbasan",
+        "lat":41.11138,
+        "lon":20.08224,
+        "pop":100903
+    },
+    {
+        "id":3184081,
+        "name":"Shkodër",
+        "country":"AL",
+        "admin1":"Shkodër County",
+        "admin2":"Bashkia Shkodër",
+        "lat":42.06828,
+        "lon":19.51258,
+        "pop":95553
+    },
+    {
+        "id":3184862,
+        "name":"Lushnjë",
+        "country":"AL",
+        "admin1":"Fier County",
+        "admin2":"Bashkia Lushnje",
+        "lat":40.94194,
+        "lon":19.705,
+        "pop":63135
+    },
+    {
+        "id":3186084,
+        "name":"Berat",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Berat",
+        "lat":40.70583,
+        "lon":19.95222,
+        "pop":62232
+    },
+    {
+        "id":782756,
+        "name":"Korçë",
+        "country":"AL",
+        "admin1":"Korçë County",
+        "admin2":"Bashkia Korçë",
+        "lat":40.61861,
+        "lon":20.78083,
+        "pop":58259
+    },
+    {
+        "id":3185672,
+        "name":"Fier",
+        "country":"AL",
+        "admin1":"Fier County",
+        "admin2":"Bashkia Fier",
+        "lat":40.7251,
+        "lon":19.55823,
+        "pop":56297
+    },
+    {
+        "id":3185082,
+        "name":"Krujë",
+        "country":"AL",
+        "admin1":"Durrës County",
+        "admin2":"Bashkia Krujë",
+        "lat":41.50917,
+        "lon":19.79278,
+        "pop":51191
+    },
+    {
+        "id":781988,
+        "name":"Pogradec",
+        "country":"AL",
+        "admin1":"Korçë County",
+        "admin2":"",
+        "lat":40.9025,
+        "lon":20.6525,
+        "pop":46070
+    },
+    {
+        "id":782661,
+        "name":"Kukës",
+        "country":"AL",
+        "admin1":"Kukës County",
+        "admin2":"Bashkia Kukës",
+        "lat":42.07694,
+        "lon":20.42194,
+        "pop":36125
+    },
+    {
+        "id":3185060,
+        "name":"Kuçovë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Kuçovë",
+        "lat":40.80028,
+        "lon":19.91667,
+        "pop":31077
+    },
+    {
+        "id":3185211,
+        "name":"Kavajë",
+        "country":"AL",
+        "admin1":"Tirana",
+        "admin2":"Bashkia Kavajë",
+        "lat":41.18556,
+        "lon":19.55694,
+        "pop":30012
+    },
+    {
+        "id":783508,
+        "name":"Bulqizë",
+        "country":"AL",
+        "admin1":"Dibër County",
+        "admin2":"Bashkia Bulqizë",
+        "lat":41.49167,
+        "lon":20.22194,
+        "pop":26826
+    },
+    {
+        "id":783148,
+        "name":"Gjirokastër",
+        "country":"AL",
+        "admin1":"Gjirokastër County",
+        "admin2":"Bashkia Gjirokastër",
+        "lat":40.07583,
+        "lon":20.13889,
+        "pop":23437
+    },
+    {
+        "id":782519,
+        "name":"Librazhd",
+        "country":"AL",
+        "admin1":"Elbasan County",
+        "admin2":"Bashkia Librazhd",
+        "lat":41.17944,
+        "lon":20.315,
+        "pop":23312
+    },
+    {
+        "id":3184517,
+        "name":"Patos Fshat",
+        "country":"AL",
+        "admin1":"Fier County",
+        "admin2":"Bashkia Patos",
+        "lat":40.64278,
+        "lon":19.65083,
+        "pop":22679
+    },
+    {
+        "id":363243,
+        "name":"Sarandë",
+        "country":"AL",
+        "admin1":"Vlorë County",
+        "admin2":"Bashkia Sarandë",
+        "lat":39.87534,
+        "lon":20.00477,
+        "pop":22613
+    },
+    {
+        "id":3184935,
+        "name":"Lezhë",
+        "country":"AL",
+        "admin1":"Lezhë County",
+        "admin2":"Bashkia Lezhë",
+        "lat":41.78361,
+        "lon":19.64361,
+        "pop":18695
+    },
+    {
+        "id":3184497,
+        "name":"Peqin",
+        "country":"AL",
+        "admin1":"Elbasan County",
+        "admin2":"Bashkia Peqin",
+        "lat":41.04611,
+        "lon":19.75111,
+        "pop":16580
+    },
+    {
+        "id":3184518,
+        "name":"Patos",
+        "country":"AL",
+        "admin1":"Fier County",
+        "admin2":"Bashkia Patos",
+        "lat":40.68333,
+        "lon":19.61944,
+        "pop":16000
+    },
+    {
+        "id":782061,
+        "name":"Peshkopi",
+        "country":"AL",
+        "admin1":"Dibër County",
+        "admin2":"Bashkia Dibër",
+        "lat":41.685,
+        "lon":20.42858,
+        "pop":14710
+    },
+    {
+        "id":3185897,
+        "name":"Cërrik",
+        "country":"AL",
+        "admin1":"Elbasan County",
+        "admin2":"Bashkia Cërrik",
+        "lat":41.03167,
+        "lon":19.97583,
+        "pop":14269
+    },
+    {
+        "id":3184099,
+        "name":"Shijak",
+        "country":"AL",
+        "admin1":"Durrës County",
+        "admin2":"Bashkia Shijak",
+        "lat":41.34556,
+        "lon":19.56722,
+        "pop":14138
+    },
+    {
+        "id":3185012,
+        "name":"Laç",
+        "country":"AL",
+        "admin1":"Lezhë County",
+        "admin2":"Bashkia Kurbin",
+        "lat":41.63556,
+        "lon":19.71306,
+        "pop":12854
+    },
+    {
+        "id":832209,
+        "name":"Librazhd-Qendër",
+        "country":"AL",
+        "admin1":"Elbasan County",
+        "admin2":"Bashkia Librazhd",
+        "lat":41.19694,
+        "lon":20.33556,
+        "pop":12691
+    },
+    {
+        "id":3183684,
+        "name":"Xhafzotaj",
+        "country":"AL",
+        "admin1":"Durrës County",
+        "admin2":"Bashkia Shijak",
+        "lat":41.34444,
+        "lon":19.5475,
+        "pop":12381
+    },
+    {
+        "id":781443,
+        "name":"Tepelenë",
+        "country":"AL",
+        "admin1":"Gjirokastër County",
+        "admin2":"Bashkia Tepelenë",
+        "lat":40.29583,
+        "lon":20.01917,
+        "pop":11955
+    },
+    {
+        "id":783059,
+        "name":"Gramsh",
+        "country":"AL",
+        "admin1":"Elbasan County",
+        "admin2":"Bashkia Gramsh",
+        "lat":40.86972,
+        "lon":20.18444,
+        "pop":11556
+    },
+    {
+        "id":3185270,
+        "name":"Kamëz",
+        "country":"AL",
+        "admin1":"Tirana",
+        "admin2":"Bashkia Kamëz",
+        "lat":41.38167,
+        "lon":19.76028,
+        "pop":11026
+    },
+    {
+        "id":3185638,
+        "name":"Fushë-Krujë",
+        "country":"AL",
+        "admin1":"Durrës County",
+        "admin2":"Bashkia Krujë",
+        "lat":41.47833,
+        "lon":19.71778,
+        "pop":10458
+    },
+    {
+        "id":3185017,
+        "name":"Kutalli",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.78389,
+        "lon":19.78667,
+        "pop":9643
+    },
+    {
+        "id":3184594,
+        "name":"Nikël",
+        "country":"AL",
+        "admin1":"Durrës County",
+        "admin2":"Bashkia Krujë",
+        "lat":41.44417,
+        "lon":19.74833,
+        "pop":9518
+    },
+    {
+        "id":3183653,
+        "name":"Zall-Herr",
+        "country":"AL",
+        "admin1":"Tirana",
+        "admin2":"Bashkia Tiranë",
+        "lat":41.38944,
+        "lon":19.8275,
+        "pop":9389
+    },
+    {
+        "id":3184568,
+        "name":"Otllak",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Berat",
+        "lat":40.74389,
+        "lon":19.93528,
+        "pop":9218
+    },
+    {
+        "id":3184487,
+        "name":"Perondi",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Kuçovë",
+        "lat":40.77889,
+        "lon":19.92306,
+        "pop":9005
+    },
+    {
+        "id":3183780,
+        "name":"Velabisht",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Berat",
+        "lat":40.70167,
+        "lon":19.93222,
+        "pop":8453
+    },
+    {
+        "id":781795,
+        "name":"Rajcë",
+        "country":"AL",
+        "admin1":"Elbasan County",
+        "admin2":"Bashkia Prrenjas",
+        "lat":41.09028,
+        "lon":20.57639,
+        "pop":8421
+    },
+    {
+        "id":3184806,
+        "name":"Mamurras",
+        "country":"AL",
+        "admin1":"Lezhë County",
+        "admin2":"Bashkia Kurbin",
+        "lat":41.5775,
+        "lon":19.69222,
+        "pop":8282
+    },
+    {
+        "id":3184588,
+        "name":"Novoselë",
+        "country":"AL",
+        "admin1":"Vlorë County",
+        "admin2":"Bashkia Vlorë",
+        "lat":40.625,
+        "lon":19.46694,
+        "pop":8209
+    },
+    {
+        "id":782070,
+        "name":"Përmet",
+        "country":"AL",
+        "admin1":"Gjirokastër County",
+        "admin2":"Bashkia Përmet",
+        "lat":40.23361,
+        "lon":20.35167,
+        "pop":7980
+    },
+    {
+        "id":783493,
+        "name":"Burrel",
+        "country":"AL",
+        "admin1":"Dibër County",
+        "admin2":"Bashkia Mat",
+        "lat":41.61028,
+        "lon":20.00889,
+        "pop":7928
+    },
+    {
+        "id":783259,
+        "name":"Ersekë",
+        "country":"AL",
+        "admin1":"Korçë County",
+        "admin2":"Bashkia Kolonjë",
+        "lat":40.33778,
+        "lon":20.67889,
+        "pop":7890
+    },
+    {
+        "id":782806,
+        "name":"Klos",
+        "country":"AL",
+        "admin1":"Dibër County",
+        "admin2":"Bashkia Klos",
+        "lat":41.50694,
+        "lon":20.08667,
+        "pop":7873
+    },
+    {
+        "id":3184417,
+        "name":"Poshnjë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.78028,
+        "lon":19.84417,
+        "pop":7375
+    },
+    {
+        "id":783606,
+        "name":"Bilisht",
+        "country":"AL",
+        "admin1":"Korçë County",
+        "admin2":"Bashkia Devoll",
+        "lat":40.6275,
+        "lon":20.99,
+        "pop":7287
+    },
+    {
+        "id":3183814,
+        "name":"Ura Vajgurore",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Berat",
+        "lat":40.76889,
+        "lon":19.87778,
+        "pop":7232
+    },
+    {
+        "id":3184252,
+        "name":"Rrogozhinë",
+        "country":"AL",
+        "admin1":"Tirana",
+        "admin2":"Bashkia Rrogozhinë",
+        "lat":41.07639,
+        "lon":19.66528,
+        "pop":7049
+    },
+    {
+        "id":3185527,
+        "name":"Golem",
+        "country":"AL",
+        "admin1":"Fier County",
+        "admin2":"Bashkia Lushnje",
+        "lat":40.96778,
+        "lon":19.68528,
+        "pop":6994
+    },
+    {
+        "id":3184136,
+        "name":"Shëngjin",
+        "country":"AL",
+        "admin1":"Lezhë County",
+        "admin2":"Bashkia Lezhë",
+        "lat":41.81361,
+        "lon":19.59389,
+        "pop":6963
+    },
+    {
+        "id":3184197,
+        "name":"Selenicë",
+        "country":"AL",
+        "admin1":"Vlorë County",
+        "admin2":"Bashkia Selenicë",
+        "lat":40.53056,
+        "lon":19.63583,
+        "pop":6912
+    },
+    {
+        "id":3184264,
+        "name":"Rrëshen",
+        "country":"AL",
+        "admin1":"Lezhë County",
+        "admin2":"Bashkia Mirditë",
+        "lat":41.7675,
+        "lon":19.87556,
+        "pop":6773
+    },
+    {
+        "id":3184290,
+        "name":"Roskovec",
+        "country":"AL",
+        "admin1":"Fier County",
+        "admin2":"Bashkia Roskovec",
+        "lat":40.7375,
+        "lon":19.70222,
+        "pop":6657
+    },
+    {
+        "id":3184388,
+        "name":"Pukë",
+        "country":"AL",
+        "admin1":"Shkodër County",
+        "admin2":"Bashkia Pukë",
+        "lat":42.04444,
+        "lon":19.89972,
+        "pop":6495
+    },
+    {
+        "id":3184538,
+        "name":"Papër",
+        "country":"AL",
+        "admin1":"Elbasan County",
+        "admin2":"Bashkia Elbasan",
+        "lat":41.05167,
+        "lon":19.96083,
+        "pop":6348
+    },
+    {
+        "id":363383,
+        "name":"Delvinë",
+        "country":"AL",
+        "admin1":"Vlorë County",
+        "admin2":"Bashkia Delvinë",
+        "lat":39.95111,
+        "lon":20.09778,
+        "pop":6166
+    },
+    {
+        "id":781920,
+        "name":"Përrenjas",
+        "country":"AL",
+        "admin1":"Elbasan County",
+        "admin2":"Bashkia Prrenjas",
+        "lat":41.07306,
+        "lon":20.54889,
+        "pop":5847
+    },
+    {
+        "id":782963,
+        "name":"Hotolisht",
+        "country":"AL",
+        "admin1":"Elbasan County",
+        "admin2":"Bashkia Librazhd",
+        "lat":41.15667,
+        "lon":20.39722,
+        "pop":5706
+    },
+    {
+        "id":3185107,
+        "name":"Kozarë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Kuçovë",
+        "lat":40.83083,
+        "lon":19.90056,
+        "pop":5622
+    },
+    {
+        "id":3184474,
+        "name":"Petrelë",
+        "country":"AL",
+        "admin1":"Tirana",
+        "admin2":"Bashkia Tiranë",
+        "lat":41.25306,
+        "lon":19.85306,
+        "pop":5542
+    },
+    {
+        "id":781601,
+        "name":"Shupenzë",
+        "country":"AL",
+        "admin1":"Dibër County",
+        "admin2":"Bashkia Bulqizë",
+        "lat":41.53,
+        "lon":20.42361,
+        "pop":5503
+    },
+    {
+        "id":3183625,
+        "name":"Zharrëz",
+        "country":"AL",
+        "admin1":"Fier County",
+        "admin2":"Bashkia Fier",
+        "lat":40.70917,
+        "lon":19.64972,
+        "pop":5236
+    },
+    {
+        "id":3184611,
+        "name":"Ndroq",
+        "country":"AL",
+        "admin1":"Tirana",
+        "admin2":"Bashkia Tiranë",
+        "lat":41.26389,
+        "lon":19.65583,
+        "pop":5035
+    },
+    {
+        "id":3183708,
+        "name":"Vorë",
+        "country":"AL",
+        "admin1":"Tirana",
+        "admin2":"Bashkia Vorë",
+        "lat":41.39083,
+        "lon":19.655,
+        "pop":4973
+    },
+    {
+        "id":3184743,
+        "name":"Memaliaj",
+        "country":"AL",
+        "admin1":"Gjirokastër County",
+        "admin2":"Bashkia Memaliaj",
+        "lat":40.35167,
+        "lon":19.98028,
+        "pop":4951
+    },
+    {
+        "id":3186145,
+        "name":"Ballsh",
+        "country":"AL",
+        "admin1":"Fier County",
+        "admin2":"Bashkia Mallakastër",
+        "lat":40.59889,
+        "lon":19.73472,
+        "pop":4944
+    },
+    {
+        "id":781250,
+        "name":"Vërtop",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Poliçan",
+        "lat":40.62889,
+        "lon":20.05389,
+        "pop":4919
+    },
+    {
+        "id":782843,
+        "name":"Këlcyrë",
+        "country":"AL",
+        "admin1":"Gjirokastër County",
+        "admin2":"Bashkia Kelcyrë",
+        "lat":40.31306,
+        "lon":20.18944,
+        "pop":4900
+    },
+    {
+        "id":782685,
+        "name":"Krumë",
+        "country":"AL",
+        "admin1":"Kukës County",
+        "admin2":"Bashkia Has",
+        "lat":42.19694,
+        "lon":20.41333,
+        "pop":4814
+    },
+    {
+        "id":3185377,
+        "name":"Himarë",
+        "country":"AL",
+        "admin1":"Vlorë County",
+        "admin2":"Bashkia Himarë",
+        "lat":40.10167,
+        "lon":19.74472,
+        "pop":4596
+    },
+    {
+        "id":781979,
+        "name":"Poliçan",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Poliçan",
+        "lat":40.61222,
+        "lon":20.09806,
+        "pop":4318
+    },
+    {
+        "id":363200,
+        "name":"Xarrë",
+        "country":"AL",
+        "admin1":"Vlorë County",
+        "admin2":"Bashkia Konispol",
+        "lat":39.72833,
+        "lon":20.05444,
+        "pop":4263
+    },
+    {
+        "id":7932375,
+        "name":"Bajram Curri",
+        "country":"AL",
+        "admin1":"Kukës County",
+        "admin2":"Bashkia Tropojë",
+        "lat":42.35734,
+        "lon":20.07679,
+        "pop":4113
+    },
+    {
+        "id":781110,
+        "name":"Zerqan",
+        "country":"AL",
+        "admin1":"Dibër County",
+        "admin2":"Bashkia Bulqizë",
+        "lat":41.50222,
+        "lon":20.36056,
+        "pop":4111
+    },
+    {
+        "id":3185133,
+        "name":"Koplik",
+        "country":"AL",
+        "admin1":"Shkodër County",
+        "admin2":"Bashkia Malësi e Madhe",
+        "lat":42.21361,
+        "lon":19.43639,
+        "pop":4078
+    },
+    {
+        "id":781919,
+        "name":"Përrenjas-Fshat",
+        "country":"AL",
+        "admin1":"Elbasan County",
+        "admin2":"Bashkia Prrenjas",
+        "lat":41.06667,
+        "lon":20.53528,
+        "pop":4015
+    },
+    {
+        "id":13264709,
+        "name":"Lumas",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Kuçovë",
+        "lat":40.8182,
+        "lon":19.99378,
+        "pop":3981
+    },
+    {
+        "id":783408,
+        "name":"Çorovodë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Skrapar",
+        "lat":40.50417,
+        "lon":20.22722,
+        "pop":3918
+    },
+    {
+        "id":782337,
+        "name":"Mborje",
+        "country":"AL",
+        "admin1":"Korçë County",
+        "admin2":"Bashkia Korçë",
+        "lat":40.60333,
+        "lon":20.80306,
+        "pop":3850
+    },
+    {
+        "id":782393,
+        "name":"Maliq",
+        "country":"AL",
+        "admin1":"Korçë County",
+        "admin2":"Bashkia Maliq",
+        "lat":40.70583,
+        "lon":20.69972,
+        "pop":3735
+    },
+    {
+        "id":782523,
+        "name":"Libohovë",
+        "country":"AL",
+        "admin1":"Gjirokastër County",
+        "admin2":"Bashkia Libohovë",
+        "lat":40.03111,
+        "lon":20.26306,
+        "pop":3651
+    },
+    {
+        "id":3183658,
+        "name":"Zall-Bastar",
+        "country":"AL",
+        "admin1":"Tirana",
+        "admin2":"Bashkia Tiranë",
+        "lat":41.42972,
+        "lon":19.93028,
+        "pop":3380
+    },
+    {
+        "id":3184013,
+        "name":"Sinjë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Berat",
+        "lat":40.64679,
+        "lon":19.86924,
+        "pop":3351
+    },
+    {
+        "id":782807,
+        "name":"Klos",
+        "country":"AL",
+        "admin1":"Elbasan County",
+        "admin2":"Bashkia Cërrik",
+        "lat":40.94611,
+        "lon":20.00972,
+        "pop":3262
+    },
+    {
+        "id":782048,
+        "name":"Gjinkar",
+        "country":"AL",
+        "admin1":"Gjirokastër County",
+        "admin2":"Bashkia Përmet",
+        "lat":40.19944,
+        "lon":20.40611,
+        "pop":3243
+    },
+    {
+        "id":783739,
+        "name":"Arras",
+        "country":"AL",
+        "admin1":"Dibër County",
+        "admin2":"Bashkia Dibër",
+        "lat":41.73583,
+        "lon":20.32417,
+        "pop":3055
+    },
+    {
+        "id":3185860,
+        "name":"Cukalat",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.73028,
+        "lon":19.79056,
+        "pop":3045
+    },
+    {
+        "id":2595331,
+        "name":"Ksamil",
+        "country":"AL",
+        "admin1":"Vlorë County",
+        "admin2":"Bashkia Sarandë",
+        "lat":39.76889,
+        "lon":19.99972,
+        "pop":2994
+    },
+    {
+        "id":3185989,
+        "name":"Brataj",
+        "country":"AL",
+        "admin1":"Vlorë County",
+        "admin2":"Bashkia Selenicë",
+        "lat":40.26778,
+        "lon":19.66917,
+        "pop":2849
+    },
+    {
+        "id":363285,
+        "name":"Mesopotam",
+        "country":"AL",
+        "admin1":"Vlorë County",
+        "admin2":"Bashkia Finiq",
+        "lat":39.91028,
+        "lon":20.09222,
+        "pop":2786
+    },
+    {
+        "id":782535,
+        "name":"Leskovik",
+        "country":"AL",
+        "admin1":"Korçë County",
+        "admin2":"Bashkia Kolonjë",
+        "lat":40.15139,
+        "lon":20.59722,
+        "pop":2655
+    },
+    {
+        "id":3184575,
+        "name":"Orikum",
+        "country":"AL",
+        "admin1":"Vlorë County",
+        "admin2":"Bashkia Vlorë",
+        "lat":40.32528,
+        "lon":19.47139,
+        "pop":2604
+    },
+    {
+        "id":3183809,
+        "name":"Uznovë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Berat",
+        "lat":40.69722,
+        "lon":19.98028,
+        "pop":2569
+    },
+    {
+        "id":783519,
+        "name":"Bujan",
+        "country":"AL",
+        "admin1":"Kukës County",
+        "admin2":"Bashkia Tropojë",
+        "lat":42.32639,
+        "lon":20.07639,
+        "pop":2550
+    },
+    {
+        "id":13264710,
+        "name":"Qendër Skrapar",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Skrapar",
+        "lat":40.5082,
+        "lon":20.23419,
+        "pop":2545
+    },
+    {
+        "id":781798,
+        "name":"Roshnik Qender",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Berat",
+        "lat":40.73278,
+        "lon":20.03944,
+        "pop":2513
+    },
+    {
+        "id":783214,
+        "name":"Fushë-Arrëz",
+        "country":"AL",
+        "admin1":"Shkodër County",
+        "admin2":"Bashkia Fushë Arrës",
+        "lat":42.06222,
+        "lon":20.01667,
+        "pop":2438
+    },
+    {
+        "id":781506,
+        "name":"Stravaj",
+        "country":"AL",
+        "admin1":"Elbasan County",
+        "admin2":"Bashkia Prrenjas",
+        "lat":41.00528,
+        "lon":20.42306,
+        "pop":2427
+    },
+    {
+        "id":3184238,
+        "name":"Rubik",
+        "country":"AL",
+        "admin1":"Lezhë County",
+        "admin2":"Bashkia Mirditë",
+        "lat":41.77444,
+        "lon":19.78611,
+        "pop":2332
+    },
+    {
+        "id":3184702,
+        "name":"Milot",
+        "country":"AL",
+        "admin1":"Lezhë County",
+        "admin2":"Bashkia Kurbin",
+        "lat":41.68389,
+        "lon":19.71556,
+        "pop":2157
+    },
+    {
+        "id":3185598,
+        "name":"Gjadër, Dajc",
+        "country":"AL",
+        "admin1":"Lezhë County",
+        "admin2":"Bashkia Lezhë",
+        "lat":41.88,
+        "lon":19.59139,
+        "pop":2000
+    },
+    {
+        "id":3185766,
+        "name":"Drenovicë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.79183,
+        "lon":19.7685,
+        "pop":1907
+    },
+    {
+        "id":3185803,
+        "name":"Dhërmi",
+        "country":"AL",
+        "admin1":"Vlorë County",
+        "admin2":"Bashkia Himarë",
+        "lat":40.15139,
+        "lon":19.63889,
+        "pop":1800
+    },
+    {
+        "id":3183928,
+        "name":"Tapi",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Kuçovë",
+        "lat":40.79361,
+        "lon":19.88028,
+        "pop":1780
+    },
+    {
+        "id":3184985,
+        "name":"Lapardha Një",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Berat",
+        "lat":40.75472,
+        "lon":19.94806,
+        "pop":1724
+    },
+    {
+        "id":3185514,
+        "name":"Goraj",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Kuçovë",
+        "lat":40.81194,
+        "lon":19.9475,
+        "pop":1714
+    },
+    {
+        "id":3184841,
+        "name":"Magjatë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Kuçovë",
+        "lat":40.79167,
+        "lon":19.92889,
+        "pop":1637
+    },
+    {
+        "id":3343819,
+        "name":"Lapardha Dy",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Berat",
+        "lat":40.7625,
+        "lon":19.96139,
+        "pop":1628
+    },
+    {
+        "id":3185614,
+        "name":"Gegë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Kuçovë",
+        "lat":40.83694,
+        "lon":19.92611,
+        "pop":1571
+    },
+    {
+        "id":3343668,
+        "name":"Kodër-Vorë",
+        "country":"AL",
+        "admin1":"Tirana",
+        "admin2":"Bashkia Vorë",
+        "lat":41.38306,
+        "lon":19.66028,
+        "pop":1568
+    },
+    {
+        "id":781903,
+        "name":"Qafëmal",
+        "country":"AL",
+        "admin1":"Shkodër County",
+        "admin2":"Bashkia Fushë Arrës",
+        "lat":42.09333,
+        "lon":20.09056,
+        "pop":1548
+    },
+    {
+        "id":782707,
+        "name":"Krastë",
+        "country":"AL",
+        "admin1":"Dibër County",
+        "admin2":"Bashkia Bulqizë",
+        "lat":41.42278,
+        "lon":20.205,
+        "pop":1540
+    },
+    {
+        "id":3184429,
+        "name":"Pobrat",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.76713,
+        "lon":19.78608,
+        "pop":1518
+    },
+    {
+        "id":3184676,
+        "name":"Moravë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Berat",
+        "lat":40.75972,
+        "lon":19.90417,
+        "pop":1459
+    },
+    {
+        "id":782632,
+        "name":"Kurbnesh",
+        "country":"AL",
+        "admin1":"Lezhë County",
+        "admin2":"Bashkia Mirditë",
+        "lat":41.77972,
+        "lon":20.08361,
+        "pop":1429
+    },
+    {
+        "id":363320,
+        "name":"Konispol",
+        "country":"AL",
+        "admin1":"Vlorë County",
+        "admin2":"Bashkia Konispol",
+        "lat":39.65889,
+        "lon":20.18139,
+        "pop":1349
+    },
+    {
+        "id":363363,
+        "name":"Finiq",
+        "country":"AL",
+        "admin1":"Vlorë County",
+        "admin2":"Bashkia Finiq",
+        "lat":39.90639,
+        "lon":20.05833,
+        "pop":1333
+    },
+    {
+        "id":3185707,
+        "name":"Dushnik",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Berat",
+        "lat":40.73194,
+        "lon":19.95278,
+        "pop":1282
+    },
+    {
+        "id":3185746,
+        "name":"Duhanas",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Berat",
+        "lat":40.72111,
+        "lon":19.99333,
+        "pop":1274
+    },
+    {
+        "id":3184220,
+        "name":"Samaticë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.80591,
+        "lon":19.7516,
+        "pop":1249
+    },
+    {
+        "id":3183824,
+        "name":"Ulëz",
+        "country":"AL",
+        "admin1":"Dibër County",
+        "admin2":"Bashkia Mat",
+        "lat":41.68278,
+        "lon":19.89333,
+        "pop":1229
+    },
+    {
+        "id":3185389,
+        "name":"Havaleas",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Kuçovë",
+        "lat":40.82028,
+        "lon":19.89694,
+        "pop":1214
+    },
+    {
+        "id":3185087,
+        "name":"Krrabë",
+        "country":"AL",
+        "admin1":"Tirana",
+        "admin2":"Bashkia Tiranë",
+        "lat":41.21556,
+        "lon":19.97139,
+        "pop":1177
+    },
+    {
+        "id":781326,
+        "name":"Ujmisht",
+        "country":"AL",
+        "admin1":"Kukës County",
+        "admin2":"Bashkia Kukës",
+        "lat":41.90833,
+        "lon":20.34694,
+        "pop":1136
+    },
+    {
+        "id":3183691,
+        "name":"Vukatanë",
+        "country":"AL",
+        "admin1":"Shkodër County",
+        "admin2":"Bashkia Shkodër",
+        "lat":42.02806,
+        "lon":19.54778,
+        "pop":1113
+    },
+    {
+        "id":781886,
+        "name":"Qereshnik",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Berat",
+        "lat":40.76333,
+        "lon":20.00972,
+        "pop":1105
+    },
+    {
+        "id":865098,
+        "name":"Bogovë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Skrapar",
+        "lat":40.57111,
+        "lon":20.15,
+        "pop":1098
+    },
+    {
+        "id":3185507,
+        "name":"Çlirim",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.80951,
+        "lon":19.78419,
+        "pop":1097
+    },
+    {
+        "id":3186211,
+        "name":"Allambres",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.7025,
+        "lon":19.8025,
+        "pop":1079
+    },
+    {
+        "id":781144,
+        "name":"Zall-Dardhë",
+        "country":"AL",
+        "admin1":"Dibër County",
+        "admin2":"Bashkia Dibër",
+        "lat":41.80667,
+        "lon":20.33611,
+        "pop":1051
+    },
+    {
+        "id":3183966,
+        "name":"Starovë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Berat",
+        "lat":40.71722,
+        "lon":19.91778,
+        "pop":1043
+    },
+    {
+        "id":3316577,
+        "name":"Aliaj",
+        "country":"AL",
+        "admin1":"Shkodër County",
+        "admin2":"Bashkia Malësi e Madhe",
+        "lat":42.25667,
+        "lon":19.4275,
+        "pop":1033
+    },
+    {
+        "id":3184266,
+        "name":"Rërëz",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.77709,
+        "lon":19.76111,
+        "pop":907
+    },
+    {
+        "id":781951,
+        "name":"Potom",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Skrapar",
+        "lat":40.48833,
+        "lon":20.37333,
+        "pop":897
+    },
+    {
+        "id":3185607,
+        "name":"Gërmenj i Madh",
+        "country":"AL",
+        "admin1":"Fier County",
+        "admin2":"Bashkia Divjakë",
+        "lat":40.99108,
+        "lon":19.57281,
+        "pop":884
+    },
+    {
+        "id":3186051,
+        "name":"Bilçë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Berat",
+        "lat":40.68333,
+        "lon":19.97583,
+        "pop":870
+    },
+    {
+        "id":3186137,
+        "name":"Banaj",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.82492,
+        "lon":19.84074,
+        "pop":844
+    },
+    {
+        "id":865040,
+        "name":"Lumas",
+        "country":"AL",
+        "admin1":"Elbasan County",
+        "admin2":"Bashkia Cërrik",
+        "lat":40.96889,
+        "lon":20.00972,
+        "pop":837
+    },
+    {
+        "id":3183753,
+        "name":"Veterrik",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Berat",
+        "lat":40.73583,
+        "lon":19.91,
+        "pop":822
+    },
+    {
+        "id":783384,
+        "name":"Gjerbës",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Skrapar",
+        "lat":40.62917,
+        "lon":20.25111,
+        "pop":813
+    },
+    {
+        "id":3184004,
+        "name":"Skrevan",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.74833,
+        "lon":19.82472,
+        "pop":802
+    },
+    {
+        "id":781414,
+        "name":"Tomor i Madh",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Poliçan",
+        "lat":40.69667,
+        "lon":20.10194,
+        "pop":793
+    },
+    {
+        "id":3183823,
+        "name":"Ullinjas",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Berat",
+        "lat":40.74389,
+        "lon":19.97194,
+        "pop":781
+    },
+    {
+        "id":781093,
+        "name":"Zhepë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Skrapar",
+        "lat":40.67778,
+        "lon":20.28694,
+        "pop":779
+    },
+    {
+        "id":3343846,
+        "name":"Çiflik",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.77902,
+        "lon":19.86355,
+        "pop":774
+    },
+    {
+        "id":3343820,
+        "name":"Rreth Tapi",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Kuçovë",
+        "lat":40.8,
+        "lon":19.87556,
+        "pop":771
+    },
+    {
+        "id":3343867,
+        "name":"Goriçan",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Kuçovë",
+        "lat":40.81722,
+        "lon":19.98167,
+        "pop":766
+    },
+    {
+        "id":3183778,
+        "name":"Velagosht",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Kuçovë",
+        "lat":40.83694,
+        "lon":19.9675,
+        "pop":766
+    },
+    {
+        "id":3185375,
+        "name":"Hingë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.84,
+        "lon":19.78167,
+        "pop":762
+    },
+    {
+        "id":782399,
+        "name":"Malinat",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Poliçan",
+        "lat":40.61194,
+        "lon":20.03278,
+        "pop":743
+    },
+    {
+        "id":3184532,
+        "name":"Pashalli",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.77026,
+        "lon":19.86113,
+        "pop":742
+    },
+    {
+        "id":865107,
+        "name":"Çepan",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Poliçan",
+        "lat":40.62333,
+        "lon":20.07389,
+        "pop":740
+    },
+    {
+        "id":3186034,
+        "name":"Bistrovicë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.71889,
+        "lon":19.82917,
+        "pop":733
+    },
+    {
+        "id":3185785,
+        "name":"Donofrosë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.74306,
+        "lon":19.78944,
+        "pop":729
+    },
+    {
+        "id":782335,
+        "name":"Mbrakull",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Poliçan",
+        "lat":40.62917,
+        "lon":20.06667,
+        "pop":706
+    },
+    {
+        "id":3183934,
+        "name":"Syzës",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.82327,
+        "lon":19.81988,
+        "pop":681
+    },
+    {
+        "id":781139,
+        "name":"Zall-Reç",
+        "country":"AL",
+        "admin1":"Dibër County",
+        "admin2":"Bashkia Dibër",
+        "lat":41.87611,
+        "lon":20.32,
+        "pop":681
+    },
+    {
+        "id":781104,
+        "name":"Zgërbonjë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Poliçan",
+        "lat":40.58639,
+        "lon":20.08722,
+        "pop":669
+    },
+    {
+        "id":781863,
+        "name":"Qukës-Shkumbin",
+        "country":"AL",
+        "admin1":"Elbasan County",
+        "admin2":"Bashkia Prrenjas",
+        "lat":41.09333,
+        "lon":20.44778,
+        "pop":650
+    },
+    {
+        "id":783731,
+        "name":"Arrëz",
+        "country":"AL",
+        "admin1":"Korçë County",
+        "admin2":"Bashkia Devoll",
+        "lat":40.50111,
+        "lon":20.83972,
+        "pop":600
+    },
+    {
+        "id":3185631,
+        "name":"Gajdë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.84694,
+        "lon":19.81889,
+        "pop":596
+    },
+    {
+        "id":3185136,
+        "name":"Konizbaltë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.75133,
+        "lon":19.86151,
+        "pop":596
+    },
+    {
+        "id":3185754,
+        "name":"Drizë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Kuçovë",
+        "lat":40.83972,
+        "lon":19.94778,
+        "pop":593
+    },
+    {
+        "id":3184606,
+        "name":"Ngraçan",
+        "country":"AL",
+        "admin1":"Fier County",
+        "admin2":"Bashkia Mallakastër",
+        "lat":40.64444,
+        "lon":19.7925,
+        "pop":588
+    },
+    {
+        "id":3183974,
+        "name":"Sqepur",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.78393,
+        "lon":19.81858,
+        "pop":585
+    },
+    {
+        "id":782876,
+        "name":"Kapinovë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Poliçan",
+        "lat":40.63611,
+        "lon":20.12056,
+        "pop":575
+    },
+    {
+        "id":781196,
+        "name":"Vodicë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Poliçan",
+        "lat":40.67667,
+        "lon":20.00861,
+        "pop":570
+    },
+    {
+        "id":3183724,
+        "name":"Vlashuk",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Kuçovë",
+        "lat":40.85444,
+        "lon":19.9025,
+        "pop":552
+    },
+    {
+        "id":3185752,
+        "name":"Drobonik",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Berat",
+        "lat":40.67861,
+        "lon":19.95722,
+        "pop":549
+    },
+    {
+        "id":3183769,
+        "name":"Veleshnjë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Berat",
+        "lat":40.62889,
+        "lon":19.93806,
+        "pop":541
+    },
+    {
+        "id":3185577,
+        "name":"Gjoroven",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Berat",
+        "lat":40.65607,
+        "lon":19.92704,
+        "pop":540
+    },
+    {
+        "id":3185433,
+        "name":"Guri i Bardhë",
+        "country":"AL",
+        "admin1":"Berat County",
+        "admin2":"Bashkia Ura Vajgurore",
+        "lat":40.7652,
+        "lon":19.84941,
+        "pop":538
+    }
+]

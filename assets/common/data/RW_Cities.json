@@ -1,0 +1,502 @@
+[
+    {
+        "id":202061,
+        "name":"Kigali",
+        "country":"RW",
+        "admin1":"Kigali",
+        "admin2":"Nyarugenge District",
+        "lat":-1.94995,
+        "lon":30.05885,
+        "pop":1132686
+    },
+    {
+        "id":202905,
+        "name":"Gisenyi",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"",
+        "lat":-1.70278,
+        "lon":29.25639,
+        "pop":172357
+    },
+    {
+        "id":201521,
+        "name":"Musanze",
+        "country":"RW",
+        "admin1":"Northern Province",
+        "admin2":"Musanze District",
+        "lat":-1.49984,
+        "lon":29.63497,
+        "pop":153368
+    },
+    {
+        "id":201650,
+        "name":"Nyagatare",
+        "country":"RW",
+        "admin1":"Eastern Province",
+        "admin2":"Nyagatare District",
+        "lat":-1.2952,
+        "lon":30.3226,
+        "pop":100000
+    },
+    {
+        "id":202217,
+        "name":"Gitarama",
+        "country":"RW",
+        "admin1":"Southern Province",
+        "admin2":"Muhanga District",
+        "lat":-2.07444,
+        "lon":29.75667,
+        "pop":87613
+    },
+    {
+        "id":201830,
+        "name":"Muhanga",
+        "country":"RW",
+        "admin1":"Southern Province",
+        "admin2":"Muhanga District",
+        "lat":-2.02269,
+        "lon":29.70691,
+        "pop":82797
+    },
+    {
+        "id":203112,
+        "name":"Butare",
+        "country":"RW",
+        "admin1":"Southern Province",
+        "admin2":"Huye District",
+        "lat":-2.59667,
+        "lon":29.73944,
+        "pop":62823
+    },
+    {
+        "id":202065,
+        "name":"Kibuye",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Karongi District",
+        "lat":-2.06028,
+        "lon":29.34778,
+        "pop":48024
+    },
+    {
+        "id":201463,
+        "name":"Rwamagana",
+        "country":"RW",
+        "admin1":"Eastern Province",
+        "admin2":"Rwamagana District",
+        "lat":-1.9487,
+        "lon":30.4347,
+        "pop":47203
+    },
+    {
+        "id":202068,
+        "name":"Kibungo",
+        "country":"RW",
+        "admin1":"Eastern Province",
+        "admin2":"Ngoma District",
+        "lat":-2.1597,
+        "lon":30.5427,
+        "pop":46240
+    },
+    {
+        "id":202326,
+        "name":"Cyangugu",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Rusizi District",
+        "lat":-2.4846,
+        "lon":28.9075,
+        "pop":43866
+    },
+    {
+        "id":202345,
+        "name":"Shyorongi",
+        "country":"RW",
+        "admin1":"Northern Province",
+        "admin2":"Rulindo District",
+        "lat":-1.85439,
+        "lon":29.96238,
+        "pop":43744
+    },
+    {
+        "id":203104,
+        "name":"Byumba",
+        "country":"RW",
+        "admin1":"Northern Province",
+        "admin2":"Gicumbi District",
+        "lat":-1.5763,
+        "lon":30.0675,
+        "pop":43134
+    },
+    {
+        "id":202572,
+        "name":"Ndera",
+        "country":"RW",
+        "admin1":"Kigali",
+        "admin2":"Gasabo District",
+        "lat":-1.9495,
+        "lon":30.1697,
+        "pop":41764
+    },
+    {
+        "id":202769,
+        "name":"Kirambo",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Nyamasheke District",
+        "lat":-2.3155,
+        "lon":29.1415,
+        "pop":40341
+    },
+    {
+        "id":7021400,
+        "name":"Kagano",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Nyamasheke District",
+        "lat":-2.3429,
+        "lon":29.0912,
+        "pop":39994
+    },
+    {
+        "id":202557,
+        "name":"Ngororero",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Ngororero District",
+        "lat":-1.8628,
+        "lon":29.62541,
+        "pop":38823
+    },
+    {
+        "id":201865,
+        "name":"Nzega",
+        "country":"RW",
+        "admin1":"Southern Province",
+        "admin2":"Nyamagabe District",
+        "lat":-2.479,
+        "lon":29.5564,
+        "pop":33832
+    },
+    {
+        "id":7021270,
+        "name":"Macuba",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Nyamasheke District",
+        "lat":-2.2933,
+        "lon":29.1877,
+        "pop":33319
+    },
+    {
+        "id":202865,
+        "name":"Karengera",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Nyamasheke District",
+        "lat":-2.5169,
+        "lon":29.0326,
+        "pop":32504
+    },
+    {
+        "id":7062967,
+        "name":"Nyanza",
+        "country":"RW",
+        "admin1":"Southern Province",
+        "admin2":"Nyanza District",
+        "lat":-2.35187,
+        "lon":29.75089,
+        "pop":32016
+    },
+    {
+        "id":203141,
+        "name":"Bugarama",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Rusizi District",
+        "lat":-2.6924,
+        "lon":29.0077,
+        "pop":31086
+    },
+    {
+        "id":7662752,
+        "name":"Gihombo",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Nyamasheke District",
+        "lat":-2.21896,
+        "lon":29.2343,
+        "pop":29843
+    },
+    {
+        "id":7021332,
+        "name":"Karambi",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Nyamasheke District",
+        "lat":-2.31695,
+        "lon":29.24413,
+        "pop":29726
+    },
+    {
+        "id":203046,
+        "name":"Bushekeri",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Nyamasheke District",
+        "lat":-2.4195,
+        "lon":29.0908,
+        "pop":29680
+    },
+    {
+        "id":7021426,
+        "name":"Nyabitekeli",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Nyamasheke District",
+        "lat":-2.3541,
+        "lon":29.0298,
+        "pop":29293
+    },
+    {
+        "id":203119,
+        "name":"Busogo",
+        "country":"RW",
+        "admin1":"Northern Province",
+        "admin2":"Musanze District",
+        "lat":-1.5584,
+        "lon":29.5434,
+        "pop":28264
+    },
+    {
+        "id":202352,
+        "name":"Shangi",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Nyamasheke District",
+        "lat":-2.4036,
+        "lon":29.0059,
+        "pop":28064
+    },
+    {
+        "id":384535,
+        "name":"Kayonza",
+        "country":"RW",
+        "admin1":"Eastern Province",
+        "admin2":"Kayonza District",
+        "lat":-1.9509,
+        "lon":30.5205,
+        "pop":27059
+    },
+    {
+        "id":7021499,
+        "name":"Cyato",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Nyamasheke District",
+        "lat":-2.3871,
+        "lon":29.1929,
+        "pop":26996
+    },
+    {
+        "id":202048,
+        "name":"Kirimbi",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Nyamasheke District",
+        "lat":-2.26469,
+        "lon":29.19644,
+        "pop":25647
+    },
+    {
+        "id":384181,
+        "name":"Gitesi",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Karongi District",
+        "lat":-2.1139,
+        "lon":29.4022,
+        "pop":24859
+    },
+    {
+        "id":7032689,
+        "name":"Bushenge",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Nyamasheke District",
+        "lat":-2.4421,
+        "lon":28.9824,
+        "pop":22624
+    },
+    {
+        "id":7656357,
+        "name":"Nyamata",
+        "country":"RW",
+        "admin1":"Eastern Province",
+        "admin2":"Bugesera District",
+        "lat":-2.20419,
+        "lon":30.14494,
+        "pop":21509
+    },
+    {
+        "id":201524,
+        "name":"Ruhango",
+        "country":"RW",
+        "admin1":"Southern Province",
+        "admin2":"Ruhango District",
+        "lat":-2.2246,
+        "lon":29.79088,
+        "pop":21478
+    },
+    {
+        "id":202239,
+        "name":"Gikongoro",
+        "country":"RW",
+        "admin1":"Southern Province",
+        "admin2":"Nyamagabe District",
+        "lat":-2.46397,
+        "lon":29.57389,
+        "pop":21029
+    },
+    {
+        "id":7662813,
+        "name":"Mahembe",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Nyamasheke District",
+        "lat":-2.2386,
+        "lon":29.2929,
+        "pop":20043
+    },
+    {
+        "id":384311,
+        "name":"Mukamira",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Nyabihu District",
+        "lat":-1.61112,
+        "lon":29.49687,
+        "pop":19021
+    },
+    {
+        "id":201841,
+        "name":"Mugina",
+        "country":"RW",
+        "admin1":"Southern Province",
+        "admin2":"Kamonyi District",
+        "lat":-2.1057,
+        "lon":29.9417,
+        "pop":18586
+    },
+    {
+        "id":12718710,
+        "name":"Umutara",
+        "country":"RW",
+        "admin1":"Eastern Province",
+        "admin2":"Nyagatare District",
+        "lat":-1.29547,
+        "lon":30.32297,
+        "pop":18038
+    },
+    {
+        "id":384104,
+        "name":"Rangiro",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Nyamasheke District",
+        "lat":-2.4045,
+        "lon":29.1606,
+        "pop":17967
+    },
+    {
+        "id":12718709,
+        "name":"Kamuhanda \/ Ruyenzi",
+        "country":"RW",
+        "admin1":"Southern Province",
+        "admin2":"Kamonyi District",
+        "lat":-1.96571,
+        "lon":29.98462,
+        "pop":16369
+    },
+    {
+        "id":12718708,
+        "name":"Bugaragara",
+        "country":"RW",
+        "admin1":"Eastern Province",
+        "admin2":"Nyagatare District",
+        "lat":-1.29289,
+        "lon":30.40766,
+        "pop":15732
+    },
+    {
+        "id":384320,
+        "name":"Mukingo",
+        "country":"RW",
+        "admin1":"Northern Province",
+        "admin2":"Musanze District",
+        "lat":-1.5394,
+        "lon":29.5558,
+        "pop":15695
+    },
+    {
+        "id":384266,
+        "name":"Kora",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Nyabihu District",
+        "lat":-1.6101,
+        "lon":29.445,
+        "pop":15134
+    },
+    {
+        "id":202039,
+        "name":"Kinigi",
+        "country":"RW",
+        "admin1":"Northern Province",
+        "admin2":"Musanze District",
+        "lat":-1.4426,
+        "lon":29.5902,
+        "pop":14523
+    },
+    {
+        "id":201954,
+        "name":"Mabanza",
+        "country":"RW",
+        "admin1":"Western Province",
+        "admin2":"Karongi District",
+        "lat":-2.0524,
+        "lon":29.4092,
+        "pop":13139
+    },
+    {
+        "id":202300,
+        "name":"Gahini",
+        "country":"RW",
+        "admin1":"Eastern Province",
+        "admin2":"Kayonza District",
+        "lat":-1.8406,
+        "lon":30.4816,
+        "pop":7917
+    },
+    {
+        "id":384488,
+        "name":"Ruhuha",
+        "country":"RW",
+        "admin1":"Eastern Province",
+        "admin2":"Bugesera District",
+        "lat":-2.30403,
+        "lon":30.05134,
+        "pop":5842
+    },
+    {
+        "id":11610338,
+        "name":"Eglise Catholique, Centrale GIKO",
+        "country":"RW",
+        "admin1":"Southern Province",
+        "admin2":"Kamonyi District",
+        "lat":-1.93653,
+        "lon":29.8061,
+        "pop":3000
+    }
+]

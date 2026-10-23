@@ -1,0 +1,222 @@
+[
+  {
+    "country": "United States",
+    "operating_systems": [
+      {
+        "name": "Android",
+        "developer": "Google",
+        "type": "Mobile",
+        "global_market_share": "~34.90%",
+        "category_market_share": "~68.00% of global mobile market",
+        "primary_use": "Global Mobile Standard",
+        "countries_used_in": ["Global Availability", "United States", "India", "Brazil", "Europe", "Indonesia"]
+      },
+      {
+        "name": "Windows",
+        "developer": "Microsoft",
+        "type": "Desktop",
+        "global_market_share": "~29.98%",
+        "category_market_share": "~62.16% of global desktop market",
+        "primary_use": "Commercial & Consumer Global Standard",
+        "countries_used_in": ["Global Availability", "United States", "Japan", "Germany", "United Kingdom", "India"]
+      },
+      {
+        "name": "iOS",
+        "developer": "Apple",
+        "type": "Mobile",
+        "global_market_share": "~16.81%",
+        "category_market_share": "~28.00% of global mobile market",
+        "primary_use": "Premium Mobile Consumer Standard",
+        "countries_used_in": ["United States", "Japan", "United Kingdom", "Canada", "Australia", "Western Europe"]
+      },
+      {
+        "name": "macOS",
+        "developer": "Apple",
+        "type": "Desktop",
+        "global_market_share": "~2.03%",
+        "category_market_share": "~14.58% of global desktop market",
+        "primary_use": "Premium Desktop Consumer & Creative Standard",
+        "countries_used_in": ["United States", "Canada", "United Kingdom", "Australia", "Japan"]
+      },
+      {
+        "name": "ChromeOS",
+        "developer": "Google",
+        "type": "Desktop",
+        "global_market_share": "~0.45%",
+        "category_market_share": "~1.42% of global desktop market",
+        "primary_use": "Education & Lightweight Consumer Cloud Computing",
+        "countries_used_in": ["United States", "United Kingdom", "Canada", "New Zealand", "Australia"]
+      }
+    ]
+  },
+  {
+    "country": "China",
+    "operating_systems": [
+      {
+        "name": "HarmonyOS",
+        "developer": "Huawei",
+        "type": "Mobile / IoT",
+        "global_market_share": "~3.50%",
+        "category_market_share": "~16.00% of domestic mobile market",
+        "primary_use": "Alternative Consumer Mobile & IoT Ecosystem",
+        "countries_used_in": ["China", "Southeast Asian export markets", "Select Middle East regions"]
+      },
+      {
+        "name": "Kylin OS / OpenKylin",
+        "developer": "China National University of Defense Technology",
+        "type": "Desktop / Server",
+        "global_market_share": "<0.10%",
+        "category_market_share": "~70.00% of domestic government sector",
+        "primary_use": "National Security & Government Mandated Desktops",
+        "countries_used_in": ["China"]
+      },
+      {
+        "name": "Deepin",
+        "developer": "Deepin Technology",
+        "type": "Desktop Linux",
+        "global_market_share": "<0.05%",
+        "category_market_share": "~1.50% of domestic desktop market",
+        "primary_use": "Open-Source Consumer Linux Distribution",
+        "countries_used_in": ["China", "Global Open-Source Dev Communities"]
+      }
+    ]
+  },
+  {
+    "country": "India",
+    "operating_systems": [
+      {
+        "name": "BOSS Linux",
+        "developer": "C-DAC (Center for Development of Advanced Computing)",
+        "type": "Desktop / Server Linux",
+        "global_market_share": "<0.01%",
+        "category_market_share": "Variable deployment in public entities",
+        "primary_use": "Localized Government Administration with Regional Language Support",
+        "countries_used_in": ["India"]
+      },
+      {
+        "name": "BharOS",
+        "developer": "JandK Operations (IIT Madras)",
+        "type": "Mobile (Android-fork)",
+        "global_market_share": "<0.01%",
+        "category_market_share": "Targeted government/defense sector use",
+        "primary_use": "Privacy-focused Mobile Environment for High-Security Agencies",
+        "countries_used_in": ["India"]
+      },
+      {
+        "name": "Maya OS",
+        "developer": "Indian Defence Research & Government Agencies",
+        "type": "Desktop Linux",
+        "global_market_share": "0.00%",
+        "category_market_share": "Defensive replacement mandate",
+        "primary_use": "Malware Protection across Ministry of Defence Computers",
+        "countries_used_in": ["India"]
+      }
+    ]
+  },
+  {
+    "country": "Russia",
+    "operating_systems": [
+      {
+        "name": "Astra Linux",
+        "developer": "RusBITech",
+        "type": "Desktop / Server Linux",
+        "global_market_share": "<0.05%",
+        "category_market_share": "~60.00% of domestic federal systems",
+        "primary_use": "Military-Grade Classified Data Protection & Official Operations",
+        "countries_used_in": ["Russia", "Belarus"]
+      },
+      {
+        "name": "Aurora OS",
+        "developer": "Open Mobile Platform",
+        "type": "Mobile",
+        "global_market_share": "<0.01%",
+        "category_market_share": "Targeted corporate/state transit systems",
+        "primary_use": "State-Approved Mobile Platform for Public Services & Corporate Logistics",
+        "countries_used_in": ["Russia"]
+      },
+      {
+        "name": "Alt Linux",
+        "developer": "BaseALT",
+        "type": "Desktop / Server Linux",
+        "global_market_share": "<0.02%",
+        "category_market_share": "Widespread deployment in education infrastructure",
+        "primary_use": "National Infrastructure & State Schools Deployment",
+        "countries_used_in": ["Russia", "Belarus"]
+      }
+    ]
+  },
+  {
+    "country": "North Korea",
+    "operating_systems": [
+      {
+        "name": "Red Star OS",
+        "developer": "Korea Computer Center",
+        "type": "Desktop Linux",
+        "global_market_share": "0.00%",
+        "category_market_share": "~95.00% of domestic desktop systems",
+        "primary_use": "State-Mandated, Locked-Down Intranet Terminal OS",
+        "countries_used_in": ["North Korea"]
+      },
+      {
+        "name": "Jindallae OS",
+        "developer": "Mangyongdae Information Technology Corp.",
+        "type": "Mobile (Android-fork)",
+        "global_market_share": "0.00%",
+        "category_market_share": "~90.00% of domestic smartphone networks",
+        "primary_use": "Monitored Domestic Smartphone Infrastructure with Custom Watermarking",
+        "countries_used_in": ["North Korea"]
+      }
+    ]
+  },
+  {
+    "country": "South Korea",
+    "operating_systems": [
+      {
+        "name": "Tizen",
+        "developer": "Samsung / Linux Foundation",
+        "type": "Smart TV / IoT",
+        "global_market_share": "~11.50% (of global TV space)",
+        "category_market_share": "~19.00% of global smart TV market",
+        "primary_use": "Embedded Consumer Electronics Framework",
+        "countries_used_in": ["Global Availability", "South Korea", "United States", "Europe", "Brazil"]
+      },
+      {
+        "name": "Gumi OS",
+        "developer": "Ministry of Interior and Safety",
+        "type": "Desktop Linux",
+        "global_market_share": "0.00%",
+        "category_market_share": "Gradual civic rollout project",
+        "primary_use": "Public Sector Transition to Reduce Windows License Reliance",
+        "countries_used_in": ["South Korea"]
+      }
+    ]
+  },
+  {
+    "country": "Turkey",
+    "operating_systems": [
+      {
+        "name": "Pardus",
+        "developer": "TÜBİTAK ULAKBİM",
+        "type": "Desktop / Server Linux",
+        "global_market_share": "<0.01%",
+        "category_market_share": "Extensively deployed in state offices",
+        "primary_use": "National Public Institutions & Interactive School Smartboards",
+        "countries_used_in": ["Turkey"]
+      }
+    ]
+  },
+  {
+    "country": "Cuba",
+    "operating_systems": [
+      {
+        "name": "Nova",
+        "developer": "University of Information Science (UCI)",
+        "type": "Desktop Linux",
+        "global_market_share": "0.00%",
+        "category_market_share": "~25.00% of domestic state infrastructure",
+        "primary_use": "Sovereign Alternative to Replace Commercial Software in Public Sectors",
+        "countries_used_in": ["Cuba"]
+      }
+    ]
+  }
+]

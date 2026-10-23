@@ -1,0 +1,22 @@
+[
+    {
+        "id":4035715,
+        "name":"Avarua",
+        "country":"CK",
+        "admin1":"Rarotonga",
+        "admin2":"",
+        "lat":-21.2075,
+        "lon":-159.77546,
+        "pop":13373
+    },
+    {
+        "id":4036498,
+        "name":"Matavera",
+        "country":"CK",
+        "admin1":"Rarotonga",
+        "admin2":"",
+        "lat":-21.22444,
+        "lon":-159.73333,
+        "pop":979
+    }
+]

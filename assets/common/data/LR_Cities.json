@@ -1,0 +1,262 @@
+[
+    {
+        "id":2274895,
+        "name":"Monrovia",
+        "country":"LR",
+        "admin1":"Montserrado County",
+        "admin2":"",
+        "lat":6.30054,
+        "lon":-10.7969,
+        "pop":1542549
+    },
+    {
+        "id":2277060,
+        "name":"Gbarnga",
+        "country":"LR",
+        "admin1":"Bong County",
+        "admin2":"",
+        "lat":6.99543,
+        "lon":-9.47122,
+        "pop":86031
+    },
+    {
+        "id":2278158,
+        "name":"Buchanan",
+        "country":"LR",
+        "admin1":"Grand Bassa County",
+        "admin2":"",
+        "lat":5.87693,
+        "lon":-10.04964,
+        "pop":75854
+    },
+    {
+        "id":2277241,
+        "name":"Ganta",
+        "country":"LR",
+        "admin1":"Nimba",
+        "admin2":"",
+        "lat":7.235,
+        "lon":-8.98444,
+        "pop":63523
+    },
+    {
+        "id":2276086,
+        "name":"Kakata",
+        "country":"LR",
+        "admin1":"Margibi County",
+        "admin2":"",
+        "lat":6.53104,
+        "lon":-10.35368,
+        "pop":52247
+    },
+    {
+        "id":2272491,
+        "name":"Zwedru",
+        "country":"LR",
+        "admin1":"Grand Gedeh County",
+        "admin2":"",
+        "lat":6.06846,
+        "lon":-8.13559,
+        "pop":38269
+    },
+    {
+        "id":2276506,
+        "name":"Harbel",
+        "country":"LR",
+        "admin1":"Margibi County",
+        "admin2":"",
+        "lat":6.24683,
+        "lon":-10.35642,
+        "pop":38208
+    },
+    {
+        "id":2276492,
+        "name":"Harper",
+        "country":"LR",
+        "admin1":"Maryland County",
+        "admin2":"",
+        "lat":4.3782,
+        "lon":-7.71081,
+        "pop":35503
+    },
+    {
+        "id":2274372,
+        "name":"Pleebo City",
+        "country":"LR",
+        "admin1":"Maryland County",
+        "admin2":"",
+        "lat":4.58953,
+        "lon":-7.67218,
+        "pop":35423
+    },
+    {
+        "id":2277301,
+        "name":"Foya Kamara",
+        "country":"LR",
+        "admin1":"Lofa County",
+        "admin2":"",
+        "lat":8.36028,
+        "lon":-10.20639,
+        "pop":31052
+    },
+    {
+        "id":2272790,
+        "name":"New Yekepa",
+        "country":"LR",
+        "admin1":"Nimba",
+        "admin2":"",
+        "lat":7.57944,
+        "lon":-8.53778,
+        "pop":24695
+    },
+    {
+        "id":2273312,
+        "name":"Voinjama",
+        "country":"LR",
+        "admin1":"Lofa County",
+        "admin2":"",
+        "lat":8.42194,
+        "lon":-9.74778,
+        "pop":23051
+    },
+    {
+        "id":2273435,
+        "name":"Tubmanburg",
+        "country":"LR",
+        "admin1":"Bomi County",
+        "admin2":"",
+        "lat":6.87064,
+        "lon":-10.8211,
+        "pop":22005
+    },
+    {
+        "id":2274222,
+        "name":"Saclepea",
+        "country":"LR",
+        "admin1":"Nimba",
+        "admin2":"",
+        "lat":6.9625,
+        "lon":-8.84056,
+        "pop":20818
+    },
+    {
+        "id":2276600,
+        "name":"Greenville",
+        "country":"LR",
+        "admin1":"Sinoe County",
+        "admin2":"",
+        "lat":5.01133,
+        "lon":-9.0388,
+        "pop":20184
+    },
+    {
+        "id":2274129,
+        "name":"Sanniquellie",
+        "country":"LR",
+        "admin1":"Nimba",
+        "admin2":"",
+        "lat":7.36215,
+        "lon":-8.71326,
+        "pop":17895
+    },
+    {
+        "id":2277197,
+        "name":"Ganta",
+        "country":"LR",
+        "admin1":"Nimba",
+        "admin2":"",
+        "lat":7.30222,
+        "lon":-8.53083,
+        "pop":13802
+    },
+    {
+        "id":2276103,
+        "name":"Karnplay",
+        "country":"LR",
+        "admin1":"Nimba",
+        "admin2":"",
+        "lat":7.26972,
+        "lon":-8.50389,
+        "pop":8431
+    },
+    {
+        "id":2272534,
+        "name":"Zorzor",
+        "country":"LR",
+        "admin1":"Lofa County",
+        "admin2":"",
+        "lat":7.77944,
+        "lon":-9.43028,
+        "pop":8419
+    },
+    {
+        "id":2274286,
+        "name":"River Gbeh",
+        "country":"LR",
+        "admin1":"River Gee County",
+        "admin2":"",
+        "lat":5.21194,
+        "lon":-7.66806,
+        "pop":7313
+    },
+    {
+        "id":2273638,
+        "name":"Fish Town",
+        "country":"LR",
+        "admin1":"River Gee County",
+        "admin2":"",
+        "lat":5.19739,
+        "lon":-7.87579,
+        "pop":5383
+    },
+    {
+        "id":2274275,
+        "name":"Robertsport",
+        "country":"LR",
+        "admin1":"Grand Cape Mount County",
+        "admin2":"",
+        "lat":6.75329,
+        "lon":-11.3671,
+        "pop":5306
+    },
+    {
+        "id":2278889,
+        "name":"Barclayville",
+        "country":"LR",
+        "admin1":"Grand Kru County",
+        "admin2":"",
+        "lat":4.67443,
+        "lon":-8.23306,
+        "pop":4692
+    },
+    {
+        "id":2278248,
+        "name":"Bopolu",
+        "country":"LR",
+        "admin1":"Gbarpolu County",
+        "admin2":"",
+        "lat":7.06667,
+        "lon":-10.4875,
+        "pop":4396
+    },
+    {
+        "id":2274288,
+        "name":"River Cess",
+        "country":"LR",
+        "admin1":"River Cess County",
+        "admin2":"",
+        "lat":5.45683,
+        "lon":-9.58167,
+        "pop":3606
+    },
+    {
+        "id":2278682,
+        "name":"Bensonville",
+        "country":"LR",
+        "admin1":"Montserrado County",
+        "admin2":"",
+        "lat":6.44716,
+        "lon":-10.61283,
+        "pop":785
+    }
+]

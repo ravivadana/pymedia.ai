@@ -1,0 +1,192 @@
+[
+    {
+        "id":290030,
+        "name":"Doha",
+        "country":"QA",
+        "admin1":"Baladīyat ad Dawḩah",
+        "admin2":"",
+        "lat":25.28545,
+        "lon":51.53096,
+        "pop":344939
+    },
+    {
+        "id":289888,
+        "name":"Ar Rayyān",
+        "country":"QA",
+        "admin1":"Baladīyat ar Rayyān",
+        "admin2":"",
+        "lat":25.29194,
+        "lon":51.42444,
+        "pop":272465
+    },
+    {
+        "id":289545,
+        "name":"Umm Ghuwaylīnah",
+        "country":"QA",
+        "admin1":"Al-Shahaniya",
+        "admin2":"",
+        "lat":25.58716,
+        "lon":51.14986,
+        "pop":39457
+    },
+    {
+        "id":289523,
+        "name":"Umm Şalāl Muḩammad",
+        "country":"QA",
+        "admin1":"Umm Salal",
+        "admin2":"",
+        "lat":25.41524,
+        "lon":51.40647,
+        "pop":29391
+    },
+    {
+        "id":289716,
+        "name":"Mu‘aydhir Rawḑat Rāshid",
+        "country":"QA",
+        "admin1":"Baladīyat ar Rayyān",
+        "admin2":"",
+        "lat":25.2617,
+        "lon":51.39684,
+        "pop":27569
+    },
+    {
+        "id":289915,
+        "name":"Al Wakrah",
+        "country":"QA",
+        "admin1":"Al Wakrah",
+        "admin2":"",
+        "lat":25.17151,
+        "lon":51.60337,
+        "pop":26436
+    },
+    {
+        "id":289698,
+        "name":"Nu‘ayjah",
+        "country":"QA",
+        "admin1":"Baladīyat ad Dawḩah",
+        "admin2":"",
+        "lat":25.24617,
+        "lon":51.53227,
+        "pop":19975
+    },
+    {
+        "id":289962,
+        "name":"Al Khawr",
+        "country":"QA",
+        "admin1":"Al Khor",
+        "admin2":"",
+        "lat":25.68389,
+        "lon":51.50583,
+        "pop":18923
+    },
+    {
+        "id":289877,
+        "name":"Ash Shīḩānīyah",
+        "country":"QA",
+        "admin1":"Al-Shahaniya",
+        "admin2":"",
+        "lat":25.37088,
+        "lon":51.22264,
+        "pop":8380
+    },
+    {
+        "id":289813,
+        "name":"Dukhān",
+        "country":"QA",
+        "admin1":"Al-Shahaniya",
+        "admin2":"",
+        "lat":25.42485,
+        "lon":50.78227,
+        "pop":7250
+    },
+    {
+        "id":289525,
+        "name":"Musay‘īd",
+        "country":"QA",
+        "admin1":"Al Wakrah",
+        "admin2":"",
+        "lat":24.99226,
+        "lon":51.55067,
+        "pop":5769
+    },
+    {
+        "id":289739,
+        "name":"Madīnat ash Shamāl",
+        "country":"QA",
+        "admin1":"Madīnat ash Shamāl",
+        "admin2":"",
+        "lat":26.12933,
+        "lon":51.2009,
+        "pop":5267
+    },
+    {
+        "id":289913,
+        "name":"Al Wukayr",
+        "country":"QA",
+        "admin1":"Al Wakrah",
+        "admin2":"",
+        "lat":25.15107,
+        "lon":51.53718,
+        "pop":5146
+    },
+    {
+        "id":289884,
+        "name":"Ar Ruways",
+        "country":"QA",
+        "admin1":"Madīnat ash Shamāl",
+        "admin2":"",
+        "lat":26.13978,
+        "lon":51.21493,
+        "pop":3334
+    },
+    {
+        "id":289548,
+        "name":"Umm Bāb",
+        "country":"QA",
+        "admin1":"Baladīyat ar Rayyān",
+        "admin2":"",
+        "lat":25.21417,
+        "lon":50.80722,
+        "pop":2500
+    },
+    {
+        "id":289993,
+        "name":"Al Ghuwayrīyah",
+        "country":"QA",
+        "admin1":"Al Khor",
+        "admin2":"",
+        "lat":25.82882,
+        "lon":51.24567,
+        "pop":2332
+    },
+    {
+        "id":289975,
+        "name":"Al Jumaylīyah",
+        "country":"QA",
+        "admin1":"Al-Shahaniya",
+        "admin2":"",
+        "lat":25.61068,
+        "lon":51.09108,
+        "pop":1788
+    },
+    {
+        "id":406787,
+        "name":"Fuwayriţ",
+        "country":"QA",
+        "admin1":"Madīnat ash Shamāl",
+        "admin2":"",
+        "lat":26.02565,
+        "lon":51.36971,
+        "pop":1333
+    },
+    {
+        "id":398806,
+        "name":"Abū Samrah",
+        "country":"QA",
+        "admin1":"Baladīyat ar Rayyān",
+        "admin2":"",
+        "lat":24.7437,
+        "lon":50.83174,
+        "pop":938
+    }
+]

@@ -1,0 +1,662 @@
+[
+    {
+        "id":786714,
+        "name":"Pristina",
+        "country":"XK",
+        "admin1":"Pristina",
+        "admin2":"Komuna e Prishtinës",
+        "lat":42.67272,
+        "lon":21.16688,
+        "pop":550000
+    },
+    {
+        "id":786712,
+        "name":"Prizren",
+        "country":"XK",
+        "admin1":"Prizren",
+        "admin2":"Prizren",
+        "lat":42.21389,
+        "lon":20.73972,
+        "pop":171464
+    },
+    {
+        "id":789225,
+        "name":"Mitrovicë",
+        "country":"XK",
+        "admin1":"Mitrovica",
+        "admin2":"Komuna e Mitrovicës",
+        "lat":42.88333,
+        "lon":20.86667,
+        "pop":107045
+    },
+    {
+        "id":791646,
+        "name":"Gjakovë",
+        "country":"XK",
+        "admin1":"Gjakova",
+        "admin2":"Komuna e Gjakovës",
+        "lat":42.38028,
+        "lon":20.43083,
+        "pop":94158
+    },
+    {
+        "id":785238,
+        "name":"Suva Reka",
+        "country":"XK",
+        "admin1":"Prizren",
+        "admin2":"Komuna e Thërandës",
+        "lat":42.35861,
+        "lon":20.825,
+        "pop":72229
+    },
+    {
+        "id":784759,
+        "name":"Ferizaj",
+        "country":"XK",
+        "admin1":"Ferizaj",
+        "admin2":"Komuna e Ferizajt",
+        "lat":42.37056,
+        "lon":21.15528,
+        "pop":59504
+    },
+    {
+        "id":790701,
+        "name":"Glogovac",
+        "country":"XK",
+        "admin1":"Pristina",
+        "admin2":"Komuna e Drenasit",
+        "lat":42.62833,
+        "lon":20.89389,
+        "pop":58579
+    },
+    {
+        "id":790674,
+        "name":"Gjilan",
+        "country":"XK",
+        "admin1":"Gjilan",
+        "admin2":"Komuna e Gjilanit",
+        "lat":42.46045,
+        "lon":21.46986,
+        "pop":51912
+    },
+    {
+        "id":791580,
+        "name":"Deçan",
+        "country":"XK",
+        "admin1":"Gjakova",
+        "admin2":"Komuna e Deçanit",
+        "lat":42.54018,
+        "lon":20.28793,
+        "pop":50500
+    },
+    {
+        "id":787157,
+        "name":"Pejë",
+        "country":"XK",
+        "admin1":"Pec",
+        "admin2":"Komuna e Pejës",
+        "lat":42.65913,
+        "lon":20.28828,
+        "pop":48962
+    },
+    {
+        "id":784372,
+        "name":"Vitina",
+        "country":"XK",
+        "admin1":"Gjilan",
+        "admin2":"Komuna e Vitisë",
+        "lat":42.32139,
+        "lon":21.35833,
+        "pop":46959
+    },
+    {
+        "id":789996,
+        "name":"Istok",
+        "country":"XK",
+        "admin1":"Pec",
+        "admin2":"Komuna e Istogut",
+        "lat":42.78083,
+        "lon":20.4875,
+        "pop":40000
+    },
+    {
+        "id":791122,
+        "name":"Dragash",
+        "country":"XK",
+        "admin1":"Prizren",
+        "admin2":"Komuna e Dragashit",
+        "lat":42.0265,
+        "lon":20.65333,
+        "pop":35000
+    },
+    {
+        "id":786950,
+        "name":"Podujeva",
+        "country":"XK",
+        "admin1":"Pristina",
+        "admin2":"Podujevo",
+        "lat":42.91056,
+        "lon":21.19306,
+        "pop":35000
+    },
+    {
+        "id":785485,
+        "name":"Shtime",
+        "country":"XK",
+        "admin1":"Ferizaj",
+        "admin2":"Komuna e Shtimes",
+        "lat":42.43306,
+        "lon":21.03972,
+        "pop":35000
+    },
+    {
+        "id":784097,
+        "name":"Vushtrri",
+        "country":"XK",
+        "admin1":"Mitrovica",
+        "admin2":"Vushtrri",
+        "lat":42.82306,
+        "lon":20.9675,
+        "pop":30651
+    },
+    {
+        "id":787456,
+        "name":"Orahovac",
+        "country":"XK",
+        "admin1":"Gjakova",
+        "admin2":"Orahovac",
+        "lat":42.39944,
+        "lon":20.65472,
+        "pop":22049
+    },
+    {
+        "id":788470,
+        "name":"Llazicë",
+        "country":"XK",
+        "admin1":"Prizren",
+        "admin2":"Komuna e Malisheves",
+        "lat":42.55528,
+        "lon":20.76333,
+        "pop":19863
+    },
+    {
+        "id":788731,
+        "name":"Leposaviq",
+        "country":"XK",
+        "admin1":"Mitrovica",
+        "admin2":"Komuna e Leposaviqit",
+        "lat":43.10389,
+        "lon":20.80278,
+        "pop":19000
+    },
+    {
+        "id":783770,
+        "name":"Zvečan",
+        "country":"XK",
+        "admin1":"Mitrovica",
+        "admin2":"Komuna e Zveçanit",
+        "lat":42.9075,
+        "lon":20.84028,
+        "pop":17000
+    },
+    {
+        "id":789228,
+        "name":"Kosovo Polje",
+        "country":"XK",
+        "admin1":"Pristina",
+        "admin2":"Kosovo Polje",
+        "lat":42.66394,
+        "lon":21.09611,
+        "pop":16154
+    },
+    {
+        "id":783802,
+        "name":"Zubin Potok",
+        "country":"XK",
+        "admin1":"Mitrovica",
+        "admin2":"Komuna e Zubin Potokut",
+        "lat":42.91444,
+        "lon":20.68972,
+        "pop":14900
+    },
+    {
+        "id":787534,
+        "name":"Obiliq",
+        "country":"XK",
+        "admin1":"Pristina",
+        "admin2":"Komuna e Obiliqit",
+        "lat":42.68694,
+        "lon":21.07028,
+        "pop":11612
+    },
+    {
+        "id":789721,
+        "name":"Kačanik",
+        "country":"XK",
+        "admin1":"Ferizaj",
+        "admin2":"Komuna e Kaçanikut",
+        "lat":42.23194,
+        "lon":21.25944,
+        "pop":9800
+    },
+    {
+        "id":791539,
+        "name":"Hani i Elezit",
+        "country":"XK",
+        "admin1":"Ferizaj",
+        "admin2":"Hani i Elezit",
+        "lat":42.15,
+        "lon":21.29667,
+        "pop":9389
+    },
+    {
+        "id":789227,
+        "name":"Kamenica",
+        "country":"XK",
+        "admin1":"Gjilan",
+        "admin2":"Kamenica",
+        "lat":42.57806,
+        "lon":21.58028,
+        "pop":9312
+    },
+    {
+        "id":788652,
+        "name":"Lipljan",
+        "country":"XK",
+        "admin1":"Pristina",
+        "admin2":"Lipjan",
+        "lat":42.52167,
+        "lon":21.12583,
+        "pop":9047
+    },
+    {
+        "id":789455,
+        "name":"Klina",
+        "country":"XK",
+        "admin1":"Pec",
+        "admin2":"Komuna e Klines",
+        "lat":42.62167,
+        "lon":20.57778,
+        "pop":8050
+    },
+    {
+        "id":785388,
+        "name":"Štrpce",
+        "country":"XK",
+        "admin1":"Ferizaj",
+        "admin2":"Opština Štrpce",
+        "lat":42.23944,
+        "lon":21.02722,
+        "pop":6913
+    },
+    {
+        "id":787589,
+        "name":"Novo Brdo",
+        "country":"XK",
+        "admin1":"Pristina",
+        "admin2":"Novo Brdo",
+        "lat":42.6159,
+        "lon":21.43405,
+        "pop":6720
+    },
+    {
+        "id":790354,
+        "name":"Strellc i Epërm",
+        "country":"XK",
+        "admin1":"Gjakova",
+        "admin2":"Komuna e Deçanit",
+        "lat":42.57843,
+        "lon":20.29398,
+        "pop":6100
+    },
+    {
+        "id":788187,
+        "name":"Mamuša",
+        "country":"XK",
+        "admin1":"Prizren",
+        "admin2":"Komuna e Mamushës",
+        "lat":42.33083,
+        "lon":20.72694,
+        "pop":5507
+    },
+    {
+        "id":790002,
+        "name":"Isniq",
+        "country":"XK",
+        "admin1":"Gjakova",
+        "admin2":"Komuna e Deçanit",
+        "lat":42.5575,
+        "lon":20.30278,
+        "pop":5500
+    },
+    {
+        "id":785642,
+        "name":"Srbica",
+        "country":"XK",
+        "admin1":"Mitrovica",
+        "admin2":"Komuna e Skenderajt",
+        "lat":42.74667,
+        "lon":20.78861,
+        "pop":5089
+    },
+    {
+        "id":786478,
+        "name":"Ranilug",
+        "country":"XK",
+        "admin1":"Gjilan",
+        "admin2":"Komuna e Ranillugut",
+        "lat":42.49222,
+        "lon":21.59889,
+        "pop":3785
+    },
+    {
+        "id":791161,
+        "name":"Strellc i Ulët",
+        "country":"XK",
+        "admin1":"Gjakova",
+        "admin2":"Komuna e Deçanit",
+        "lat":42.58063,
+        "lon":20.31619,
+        "pop":2850
+    },
+    {
+        "id":792375,
+        "name":"Bradash",
+        "country":"XK",
+        "admin1":"Pristina",
+        "admin2":"Podujevo",
+        "lat":42.94028,
+        "lon":21.13806,
+        "pop":2567
+    },
+    {
+        "id":789427,
+        "name":"Klokot",
+        "country":"XK",
+        "admin1":"Gjilan",
+        "admin2":"Komuna e Kllokotit",
+        "lat":42.37139,
+        "lon":21.37444,
+        "pop":2551
+    },
+    {
+        "id":786734,
+        "name":"Prilep",
+        "country":"XK",
+        "admin1":"Gjakova",
+        "admin2":"Komuna e Deçanit",
+        "lat":42.5075,
+        "lon":20.31778,
+        "pop":2500
+    },
+    {
+        "id":788239,
+        "name":"Mališevo",
+        "country":"XK",
+        "admin1":"Prizren",
+        "admin2":"Komuna e Malisheves",
+        "lat":42.48222,
+        "lon":20.74583,
+        "pop":2300
+    },
+    {
+        "id":786156,
+        "name":"Irzniq",
+        "country":"XK",
+        "admin1":"Gjakova",
+        "admin2":"Komuna e Deçanit",
+        "lat":42.52,
+        "lon":20.34722,
+        "pop":2200
+    },
+    {
+        "id":791043,
+        "name":"Dranoc",
+        "country":"XK",
+        "admin1":"Gjakova",
+        "admin2":"Komuna e Deçanit",
+        "lat":42.51556,
+        "lon":20.29222,
+        "pop":2000
+    },
+    {
+        "id":790704,
+        "name":"Gllogjan",
+        "country":"XK",
+        "admin1":"Gjakova",
+        "admin2":"Komuna e Deçanit",
+        "lat":42.50722,
+        "lon":20.36278,
+        "pop":2000
+    },
+    {
+        "id":787155,
+        "name":"Peqan",
+        "country":"XK",
+        "admin1":"Prizren",
+        "admin2":"Komuna e Thërandës",
+        "lat":42.38361,
+        "lon":20.82194,
+        "pop":1883
+    },
+    {
+        "id":787197,
+        "name":"Partesh",
+        "country":"XK",
+        "admin1":"Gjilan",
+        "admin2":"Komuna e Parteshit",
+        "lat":42.40194,
+        "lon":21.43361,
+        "pop":1787
+    },
+    {
+        "id":792185,
+        "name":"Budakovo",
+        "country":"XK",
+        "admin1":"Prizren",
+        "admin2":"Komuna e Thërandës",
+        "lat":42.355,
+        "lon":20.925,
+        "pop":1576
+    },
+    {
+        "id":788726,
+        "name":"Leshan",
+        "country":"XK",
+        "admin1":"Prizren",
+        "admin2":"Komuna e Thërandës",
+        "lat":42.32778,
+        "lon":20.78111,
+        "pop":1575
+    },
+    {
+        "id":791483,
+        "name":"Gjinoc",
+        "country":"XK",
+        "admin1":"Prizren",
+        "admin2":"Komuna e Thërandës",
+        "lat":42.31833,
+        "lon":20.81861,
+        "pop":1571
+    },
+    {
+        "id":790486,
+        "name":"Lluka e Eperme",
+        "country":"XK",
+        "admin1":"Gjakova",
+        "admin2":"Komuna e Deçanit",
+        "lat":42.545,
+        "lon":20.30778,
+        "pop":1500
+    },
+    {
+        "id":788536,
+        "name":"Lumbardhi",
+        "country":"XK",
+        "admin1":"Gjakova",
+        "admin2":"Komuna e Deçanit",
+        "lat":42.54667,
+        "lon":20.34667,
+        "pop":1500
+    },
+    {
+        "id":787268,
+        "name":"Pagaruša",
+        "country":"XK",
+        "admin1":"Prizren",
+        "admin2":"Komuna e Malisheves",
+        "lat":42.42,
+        "lon":20.74222,
+        "pop":1374
+    },
+    {
+        "id":793226,
+        "name":"Papraqan",
+        "country":"XK",
+        "admin1":"Gjakova",
+        "admin2":"Komuna e Deçanit",
+        "lat":42.55278,
+        "lon":20.33111,
+        "pop":1288
+    },
+    {
+        "id":788543,
+        "name":"Lëbushë",
+        "country":"XK",
+        "admin1":"Gjakova",
+        "admin2":"Komuna e Deçanit",
+        "lat":42.56306,
+        "lon":20.29083,
+        "pop":1250
+    },
+    {
+        "id":789199,
+        "name":"Kosuriq",
+        "country":"XK",
+        "admin1":"Pec",
+        "admin2":"Komuna e Pejës",
+        "lat":42.57028,
+        "lon":20.46472,
+        "pop":1200
+    },
+    {
+        "id":787650,
+        "name":"Nishor",
+        "country":"XK",
+        "admin1":"Prizren",
+        "admin2":"Komuna e Thërandës",
+        "lat":42.42389,
+        "lon":20.80167,
+        "pop":1154
+    },
+    {
+        "id":830410,
+        "name":"Lloqan",
+        "country":"XK",
+        "admin1":"Gjakova",
+        "admin2":"Komuna e Deçanit",
+        "lat":42.52444,
+        "lon":20.28083,
+        "pop":1050
+    },
+    {
+        "id":790977,
+        "name":"Dubova (Driloni)",
+        "country":"XK",
+        "admin1":"Pec",
+        "admin2":"Komuna e Pejës",
+        "lat":42.71194,
+        "lon":20.36972,
+        "pop":1050
+    },
+    {
+        "id":790265,
+        "name":"Gračanica",
+        "country":"XK",
+        "admin1":"Pristina",
+        "admin2":"Komuna e Prishtinës",
+        "lat":42.60111,
+        "lon":21.19583,
+        "pop":1000
+    },
+    {
+        "id":787182,
+        "name":"Pasjane",
+        "country":"XK",
+        "admin1":"Gjilan",
+        "admin2":"Komuna e Gjilanit",
+        "lat":42.40694,
+        "lon":21.49556,
+        "pop":1000
+    },
+    {
+        "id":788571,
+        "name":"Lybeniq",
+        "country":"XK",
+        "admin1":"Pec",
+        "admin2":"Komuna e Pejës",
+        "lat":42.59778,
+        "lon":20.29139,
+        "pop":970
+    },
+    {
+        "id":792202,
+        "name":"Buqan",
+        "country":"XK",
+        "admin1":"Pec",
+        "admin2":"Komuna e Pejës",
+        "lat":42.55806,
+        "lon":20.45278,
+        "pop":800
+    },
+    {
+        "id":830409,
+        "name":"Lluka e Poshtme",
+        "country":"XK",
+        "admin1":"Gjakova",
+        "admin2":"Komuna e Deçanit",
+        "lat":42.54583,
+        "lon":20.33556,
+        "pop":700
+    },
+    {
+        "id":786828,
+        "name":"Pozhar",
+        "country":"XK",
+        "admin1":"Gjakova",
+        "admin2":"Komuna e Deçanit",
+        "lat":42.53722,
+        "lon":20.35111,
+        "pop":700
+    },
+    {
+        "id":785760,
+        "name":"Slup",
+        "country":"XK",
+        "admin1":"Gjakova",
+        "admin2":"Komuna e Deçanit",
+        "lat":42.50889,
+        "lon":20.28194,
+        "pop":700
+    },
+    {
+        "id":786096,
+        "name":"Shaptej",
+        "country":"XK",
+        "admin1":"Gjakova",
+        "admin2":"Komuna e Deçanit",
+        "lat":42.49861,
+        "lon":20.37889,
+        "pop":650
+    },
+    {
+        "id":793169,
+        "name":"Hade",
+        "country":"XK",
+        "admin1":"Pristina",
+        "admin2":"Komuna e Obiliqit",
+        "lat":42.66679,
+        "lon":21.03298,
+        "pop":500
+    }
+]

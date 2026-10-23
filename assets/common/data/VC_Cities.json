@@ -1,0 +1,202 @@
+[
+    {
+        "id":3577887,
+        "name":"Kingstown",
+        "country":"VC",
+        "admin1":"Saint George Parish",
+        "admin2":"",
+        "lat":13.15527,
+        "lon":-61.22742,
+        "pop":24518
+    },
+    {
+        "id":3748746,
+        "name":"Calliaqua",
+        "country":"VC",
+        "admin1":"Saint George Parish",
+        "admin2":"",
+        "lat":13.12867,
+        "lon":-61.19178,
+        "pop":24205
+    },
+    {
+        "id":13526719,
+        "name":"Diamond",
+        "country":"VC",
+        "admin1":"Saint George Parish",
+        "admin2":"",
+        "lat":13.14077,
+        "lon":-61.16803,
+        "pop":1971
+    },
+    {
+        "id":3748724,
+        "name":"Redemption",
+        "country":"VC",
+        "admin1":"Saint Andrew Parish",
+        "admin2":"",
+        "lat":13.16444,
+        "lon":-61.22944,
+        "pop":1875
+    },
+    {
+        "id":3577900,
+        "name":"Georgetown",
+        "country":"VC",
+        "admin1":"Charlotte Parish",
+        "admin2":"",
+        "lat":13.28054,
+        "lon":-61.1185,
+        "pop":1680
+    },
+    {
+        "id":3577869,
+        "name":"New Montrose",
+        "country":"VC",
+        "admin1":"Saint Andrew Parish",
+        "admin2":"",
+        "lat":13.16344,
+        "lon":-61.23144,
+        "pop":1598
+    },
+    {
+        "id":3577893,
+        "name":"Greiggs",
+        "country":"VC",
+        "admin1":"Charlotte Parish",
+        "admin2":"",
+        "lat":13.21128,
+        "lon":-61.16284,
+        "pop":1476
+    },
+    {
+        "id":3577944,
+        "name":"Byera Village",
+        "country":"VC",
+        "admin1":"Charlotte Parish",
+        "admin2":"",
+        "lat":13.25636,
+        "lon":-61.11954,
+        "pop":1365
+    },
+    {
+        "id":3577839,
+        "name":"Questelles",
+        "country":"VC",
+        "admin1":"Saint Andrew Parish",
+        "admin2":"",
+        "lat":13.17619,
+        "lon":-61.24893,
+        "pop":1163
+    },
+    {
+        "id":12535728,
+        "name":"Petit Bordel",
+        "country":"VC",
+        "admin1":"Saint David Parish",
+        "admin2":"",
+        "lat":13.28711,
+        "lon":-61.24458,
+        "pop":1084
+    },
+    {
+        "id":13526721,
+        "name":"Friendly Village",
+        "country":"VC",
+        "admin1":"Charlotte Parish",
+        "admin2":"",
+        "lat":13.22821,
+        "lon":-61.12819,
+        "pop":1074
+    },
+    {
+        "id":3577855,
+        "name":"Peruvian Vale",
+        "country":"VC",
+        "admin1":"Charlotte Parish",
+        "admin2":"",
+        "lat":13.17711,
+        "lon":-61.14356,
+        "pop":1060
+    },
+    {
+        "id":3577955,
+        "name":"Biabou",
+        "country":"VC",
+        "admin1":"Charlotte Parish",
+        "admin2":"",
+        "lat":13.1943,
+        "lon":-61.13904,
+        "pop":1050
+    },
+    {
+        "id":3577962,
+        "name":"Barrouallie",
+        "country":"VC",
+        "admin1":"Saint Patrick Parish",
+        "admin2":"",
+        "lat":13.23676,
+        "lon":-61.27275,
+        "pop":1000
+    },
+    {
+        "id":3577826,
+        "name":"Rosehall",
+        "country":"VC",
+        "admin1":"Saint David Parish",
+        "admin2":"",
+        "lat":13.27255,
+        "lon":-61.24228,
+        "pop":954
+    },
+    {
+        "id":3577844,
+        "name":"Port Elizabeth",
+        "country":"VC",
+        "admin1":"Grenadines Parish",
+        "admin2":"",
+        "lat":13.01102,
+        "lon":-61.23548,
+        "pop":839
+    },
+    {
+        "id":3577933,
+        "name":"Chateaubelair",
+        "country":"VC",
+        "admin1":"Saint David Parish",
+        "admin2":"",
+        "lat":13.29069,
+        "lon":-61.24043,
+        "pop":735
+    },
+    {
+        "id":3748719,
+        "name":"Edinboro",
+        "country":"VC",
+        "admin1":"Saint Andrew Parish",
+        "admin2":"",
+        "lat":13.15981,
+        "lon":-61.23644,
+        "pop":690
+    },
+    {
+        "id":3577792,
+        "name":"Vermont",
+        "country":"VC",
+        "admin1":"Saint Andrew Parish",
+        "admin2":"",
+        "lat":13.20423,
+        "lon":-61.22466,
+        "pop":635
+    },
+    {
+        "id":3577911,
+        "name":"Dovers",
+        "country":"VC",
+        "admin1":"Grenadines Parish",
+        "admin2":"",
+        "lat":12.89186,
+        "lon":-61.18521,
+        "pop":525
+    }
+]

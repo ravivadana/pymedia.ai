@@ -1,0 +1,452 @@
+[
+    {
+        "Institute ID": "IR-D-N-15",
+        "Name": "All India Institute of Medical Sciences, Delhi",
+        "City": "New Delhi",
+        "State": "Delhi",
+        "Score": "91.80",
+        "Rank": "1",
+        "Tier": "Tier 1"
+    },
+    {
+        "Institute ID": "IR-D-U-0079",
+        "Name": "Post Graduate Institute of Medical Education and Research",
+        "City": "Chandigarh",
+        "State": "Chandigarh",
+        "Score": "82.58",
+        "Rank": "2",
+        "Tier": "Tier 1"
+    },
+    {
+        "Institute ID": "IR-D-C-45654",
+        "Name": "Christian Medical College",
+        "City": "Vellore",
+        "State": "Tamil Nadu",
+        "Score": "76.48",
+        "Rank": "3",
+        "Tier": "Tier 1"
+    },
+    {
+        "Institute ID": "IR-D-U-0368",
+        "Name": "Jawaharlal Institute of Post Graduate Medical Education & Research",
+        "City": "Puducherry",
+        "State": "Pondicherry",
+        "Score": "73.30",
+        "Rank": "4",
+        "Tier": "Tier 1"
+    },
+    {
+        "Institute ID": "IR-D-N-33",
+        "Name": "Sanjay Gandhi Postgraduate Institute of Medical Sciences",
+        "City": "Lucknow",
+        "State": "Uttar Pradesh",
+        "Score": "70.09",
+        "Rank": "5",
+        "Tier": "Tier 1"
+    },
+    {
+        "Institute ID": "IR-D-U-0500",
+        "Name": "Banaras Hindu University",
+        "City": "Varanasi",
+        "State": "Uttar Pradesh",
+        "Score": "70.05",
+        "Rank": "6",
+        "Tier": "Tier 1"
+    },
+    {
+        "Institute ID": "IR-D-U-0236",
+        "Name": "National Institute of Mental Health & Neuro Sciences, Bangalore",
+        "City": "Bengaluru",
+        "State": "Karnataka",
+        "Score": "69.77",
+        "Rank": "7",
+        "Tier": "Tier 1"
+    },
+    {
+        "Institute ID": "IR-D-U-0523",
+        "Name": "King George`s Medical University",
+        "City": "Lucknow",
+        "State": "Uttar Pradesh",
+        "Score": "68.77",
+        "Rank": "8",
+        "Tier": "Tier 1"
+    },
+    {
+        "Institute ID": "IR-D-U-0436",
+        "Name": "Amrita Vishwa Vidyapeetham",
+        "City": "Coimbatore",
+        "State": "Tamil Nadu",
+        "Score": "68.52",
+        "Rank": "9",
+        "Tier": "Tier 1"
+    },
+    {
+        "Institute ID": "IR-D-C-7242",
+        "Name": "Kasturba Medical College, Manipal",
+        "City": "Manipal",
+        "State": "Karnataka",
+        "Score": "68.05",
+        "Rank": "10",
+        "Tier": "Tier 1"
+    },
+    {
+        "Institute ID": "IR-D-I-1441",
+        "Name": "Saveetha Institute of Medical and Technical Sciences",
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Score": "66.50",
+        "Rank": "11",
+        "Tier": "Tier 1"
+    },
+    {
+        "Institute ID": "IR-D-I-1110",
+        "Name": "Dr. D. Y. Patil Vidyapeeth",
+        "City": "Pune",
+        "State": "Maharashtra",
+        "Score": "65.17",
+        "Rank": "12",
+        "Tier": "Tier 1"
+    },
+    {
+        "Institute ID": "IR-D-U-0691",
+        "Name": "All India Institute of Medical Sciences Rishikesh",
+        "City": "Rishikesh",
+        "State": "Uttarakhand",
+        "Score": "65.02",
+        "Rank": "13",
+        "Tier": "Tier 1"
+    },
+    {
+        "Institute ID": "IR-D-U-0688",
+        "Name": "All India Institute of Medical Sciences Bhubaneswar",
+        "City": "Khordha",
+        "State": "Odisha",
+        "Score": "64.31",
+        "Rank": "14",
+        "Tier": "Tier 1"
+    },
+    {
+        "Institute ID": "IR-D-U-0363",
+        "Name": "Siksha `O` Anusandhan",
+        "City": "Bhubaneswar",
+        "State": "Odisha",
+        "Score": "63.73",
+        "Rank": "15",
+        "Tier": "Tier 1"
+    },
+    {
+        "Institute ID": "IR-D-C-49008",
+        "Name": "Madras Medical College & Government General Hospital, Chennai",
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Score": "63.71",
+        "Rank": "16",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-U-0266",
+        "Name": "Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram",
+        "City": "Thiruvananthapuram",
+        "State": "Kerala",
+        "Score": "63.36",
+        "Rank": "17",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-U-0473",
+        "Name": "S.R.M. Institute of Science and Technology",
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Score": "63.22",
+        "Rank": "18",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-U-0689",
+        "Name": "All India Institute of Medical Sciences Jodhpur",
+        "City": "Jodhpur",
+        "State": "Rajasthan",
+        "Score": "63.18",
+        "Rank": "19",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-U-0295",
+        "Name": "Datta Meghe Institute of Higher Education and Research",
+        "City": "Wardha",
+        "State": "Maharashtra",
+        "Score": "62.37",
+        "Rank": "20",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-I-1486",
+        "Name": "Sri Ramachandra Institute of Higher Education and Research",
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Score": "61.54",
+        "Rank": "21",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-C-32922",
+        "Name": "Vardhman Mahavir Medical College & Safdarjung Hospital",
+        "City": "New Delhi",
+        "State": "Delhi",
+        "Score": "61.50",
+        "Rank": "22",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-C-16428",
+        "Name": "Institute of Post Graduate Medical Education & Research",
+        "City": "Kolkata",
+        "State": "West Bengal",
+        "Score": "61.07",
+        "Rank": "23",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-U-0356",
+        "Name": "Kalinga Institute of Industrial Technology",
+        "City": "Bhubaneswar",
+        "State": "Odisha",
+        "Score": "61.00",
+        "Rank": "24",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-U-0687",
+        "Name": "All India Institute of Medical Sciences Bhopal",
+        "City": "Bhopal",
+        "State": "Madhya Pradesh",
+        "Score": "60.15",
+        "Rank": "25",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-C-6414",
+        "Name": "Maulana Azad Medical College",
+        "City": "Delhi",
+        "State": "Delhi",
+        "Score": "59.47",
+        "Rank": "26",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-U-0686",
+        "Name": "All India Institute of Medical Sciences Patna",
+        "City": "Patna",
+        "State": "Bihar",
+        "Score": "59.24",
+        "Rank": "27",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-U-0106",
+        "Name": "Institute of Liver and Biliary Sciences",
+        "City": "New Delhi",
+        "State": "Delhi",
+        "Score": "59.22",
+        "Rank": "28",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-U-0496",
+        "Name": "Aligarh Muslim University",
+        "City": "Aligarh",
+        "State": "Uttar Pradesh",
+        "Score": "58.82",
+        "Rank": "29",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-C-40453",
+        "Name": "St. John's Medical College",
+        "City": "Bengaluru",
+        "State": "Karnataka",
+        "Score": "58.74",
+        "Rank": "30",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-U-0690",
+        "Name": "All India Institute of Medical Sciences Raipur",
+        "City": "Raipur",
+        "State": "Chhattisgarh",
+        "Score": "58.44",
+        "Rank": "31",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-C-22461",
+        "Name": "Lady Hardinge Medical College",
+        "City": "New Delhi",
+        "State": "Delhi",
+        "Score": "57.98",
+        "Rank": "32",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-U-0168",
+        "Name": "Maharishi Markandeshwar",
+        "City": "Ambala",
+        "State": "Haryana",
+        "Score": "56.68",
+        "Rank": "33",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-C-29442",
+        "Name": "Govt. Medical College & Hospital",
+        "City": "Chandigarh",
+        "State": "Chandigarh",
+        "Score": "56.67",
+        "Rank": "34",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-C-7251",
+        "Name": "Kasturba Medical College, Mangalore",
+        "City": "Mangaluru",
+        "State": "Karnataka",
+        "Score": "56.45",
+        "Rank": "35",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-C-29255",
+        "Name": "Dayanand Medical College",
+        "City": "Ludhiana",
+        "State": "Punjab",
+        "Score": "55.65",
+        "Rank": "36",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-C-35009",
+        "Name": "JSS Medical College, Mysore",
+        "City": "Mysuru",
+        "State": "Karnataka",
+        "Score": "55.51",
+        "Rank": "37",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-I-1409",
+        "Name": "University College of Medical Sciences",
+        "City": "Delhi",
+        "State": "Delhi",
+        "Score": "54.21",
+        "Rank": "38",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-N-17",
+        "Name": "Sawai Man Singh Medical College",
+        "City": "Jaipur",
+        "State": "Rajasthan",
+        "Score": "52.69",
+        "Rank": "39",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-U-0107",
+        "Name": "Jamia Hamdard",
+        "City": "New Delhi",
+        "State": "Delhi",
+        "Score": "52.57",
+        "Rank": "40",
+        "Tier": "Tier 2"
+    },
+    {
+        "Institute ID": "IR-D-C-16424",
+        "Name": "Medical College",
+        "City": "Kolkata",
+        "State": "West Bengal",
+        "Score": "52.54",
+        "Rank": "41",
+        "Tier": "Tier 3"
+    },
+    {
+        "Institute ID": "IR-D-C-47762",
+        "Name": "Mahatma Gandhi Medical College and Research Institute",
+        "City": "Puducherry",
+        "State": "Pondicherry",
+        "Score": "52.42",
+        "Rank": "42",
+        "Tier": "Tier 3"
+    },
+    {
+        "Institute ID": "IR-D-C-45515",
+        "Name": "PSG Institute of Medical Sciences and Research",
+        "City": "Coimbatore",
+        "State": "Tamil Nadu",
+        "Score": "52.41",
+        "Rank": "43",
+        "Tier": "Tier 3"
+    },
+    {
+        "Institute ID": "IR-D-C-5838",
+        "Name": "Gujarat Cancer & Research Institute",
+        "City": "Ahmadabad",
+        "State": "Gujarat",
+        "Score": "52.15",
+        "Rank": "44",
+        "Tier": "Tier 3"
+    },
+    {
+        "Institute ID": "IR-D-C-6051",
+        "Name": "B. J. Medical College",
+        "City": "Ahmadabad",
+        "State": "Gujarat",
+        "Score": "51.84",
+        "Rank": "45",
+        "Tier": "Tier 3"
+    },
+    {
+        "Institute ID": "IR-D-C-24503",
+        "Name": "Jawaharlal Nehru Medical College",
+        "City": "Belagavi",
+        "State": "Karnataka",
+        "Score": "51.70",
+        "Rank": "46",
+        "Tier": "Tier 3"
+    },
+    {
+        "Institute ID": "IR-D-C-29209",
+        "Name": "Christian Medical College, Brown Road, Ludhiana",
+        "City": "Ludhiana",
+        "State": "Punjab",
+        "Score": "51.47",
+        "Rank": "47",
+        "Tier": "Tier 3"
+    },
+    {
+        "Institute ID": "IR-D-C-30588",
+        "Name": "Osmania Medical College",
+        "City": "HYDERABAD",
+        "State": "Telangana",
+        "Score": "51.46",
+        "Rank": "48",
+        "Tier": "Tier 3"
+    },
+    {
+        "Institute ID": "IR-D-U-0451",
+        "Name": "Chettinad Academy of Research and Education",
+        "City": "Kelambakkam, Chengalpattu District",
+        "State": "Tamil Nadu",
+        "Score": "51.41",
+        "Rank": "49",
+        "Tier": "Tier 3"
+    },
+    {
+        "Institute ID": "IR-D-C-40345",
+        "Name": "M. S. Ramaiah Medical College",
+        "City": "Bengaluru",
+        "State": "Karnataka",
+        "Score": "50.91",
+        "Rank": "50",
+        "Tier": "Tier 3"
+    }
+]

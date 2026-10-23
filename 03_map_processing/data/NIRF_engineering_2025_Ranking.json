@@ -1,0 +1,20 @@
+[
+    {
+    "Institute ID": "IR-E-U-0456",
+    "Name": "Indian Institute of Technology Madras",
+    "City": "Chennai",
+    "State": "Tamil Nadu",
+    "Score": "88.72",
+    "Rank": "1",
+    "Official Website": "https://www.iitm.ac.in"
+  },
+  {
+    "Institute ID": "IR-E-I-1074",
+    "Name": "Indian Institute of Technology Delhi",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "Score": "85.74",
+    "Rank": "2",
+    "Official Website": "https://home.iitd.ac.in"
+  }
+]

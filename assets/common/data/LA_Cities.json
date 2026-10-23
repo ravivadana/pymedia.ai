@@ -1,0 +1,322 @@
+[
+    {
+        "id":1651944,
+        "name":"Vientiane",
+        "country":"LA",
+        "admin1":"Vientiane Prefecture",
+        "admin2":"",
+        "lat":17.96667,
+        "lon":102.6,
+        "pop":196731
+    },
+    {
+        "id":1653316,
+        "name":"Savannakhet",
+        "country":"LA",
+        "admin1":"Savannakhet Province",
+        "admin2":"",
+        "lat":16.5703,
+        "lon":104.7622,
+        "pop":125760
+    },
+    {
+        "id":1654379,
+        "name":"Pakse",
+        "country":"LA",
+        "admin1":"Champasak Province",
+        "admin2":"",
+        "lat":15.12022,
+        "lon":105.79898,
+        "pop":88332
+    },
+    {
+        "id":1655199,
+        "name":"Thakhèk",
+        "country":"LA",
+        "admin1":"Khammouane Province",
+        "admin2":"Muang Thakhèk",
+        "lat":17.41027,
+        "lon":104.83068,
+        "pop":85000
+    },
+    {
+        "id":1661283,
+        "name":"Ban Napè",
+        "country":"LA",
+        "admin1":"Bolikhamsai",
+        "admin2":"",
+        "lat":18.3053,
+        "lon":105.0718,
+        "pop":63268
+    },
+    {
+        "id":1655559,
+        "name":"Luang Prabang",
+        "country":"LA",
+        "admin1":"Luang Prabang Province",
+        "admin2":"",
+        "lat":19.8933,
+        "lon":102.1525,
+        "pop":47378
+    },
+    {
+        "id":1652203,
+        "name":"Xam Nua",
+        "country":"LA",
+        "admin1":"Houaphan",
+        "admin2":"",
+        "lat":20.4164,
+        "lon":104.045,
+        "pop":46800
+    },
+    {
+        "id":1655123,
+        "name":"Muang Phônsavan",
+        "country":"LA",
+        "admin1":"Xiangkhoang",
+        "admin2":"",
+        "lat":19.4494,
+        "lon":103.1917,
+        "pop":37507
+    },
+    {
+        "id":9948272,
+        "name":"Sekong",
+        "country":"LA",
+        "admin1":"Xékong",
+        "admin2":"",
+        "lat":15.34582,
+        "lon":106.72368,
+        "pop":35000
+    },
+    {
+        "id":1658073,
+        "name":"Ban Xénô",
+        "country":"LA",
+        "admin1":"Savannakhet Province",
+        "admin2":"",
+        "lat":16.6759,
+        "lon":104.98798,
+        "pop":25135
+    },
+    {
+        "id":1655087,
+        "name":"Vang Vieng",
+        "country":"LA",
+        "admin1":"Vientiane",
+        "admin2":"",
+        "lat":18.9235,
+        "lon":102.44784,
+        "pop":25000
+    },
+    {
+        "id":1655078,
+        "name":"Muang Xay",
+        "country":"LA",
+        "admin1":"Oudômxai",
+        "admin2":"",
+        "lat":20.69229,
+        "lon":101.98368,
+        "pop":25000
+    },
+    {
+        "id":1655107,
+        "name":"Muang Sing",
+        "country":"LA",
+        "admin1":"Loungnamtha",
+        "admin2":"",
+        "lat":21.19206,
+        "lon":101.14789,
+        "pop":23500
+    },
+    {
+        "id":1655140,
+        "name":"Pakxan",
+        "country":"LA",
+        "admin1":"Bolikhamsai",
+        "admin2":"",
+        "lat":18.3942,
+        "lon":103.6611,
+        "pop":21967
+    },
+    {
+        "id":1657897,
+        "name":"Borikhan",
+        "country":"LA",
+        "admin1":"Bolikhamsai",
+        "admin2":"",
+        "lat":18.56286,
+        "lon":103.72671,
+        "pop":18354
+    },
+    {
+        "id":1904391,
+        "name":"Ban Houakhoua",
+        "country":"LA",
+        "admin1":"Bokeo",
+        "admin2":"",
+        "lat":20.2467,
+        "lon":100.45401,
+        "pop":15500
+    },
+    {
+        "id":1655192,
+        "name":"Muang Không",
+        "country":"LA",
+        "admin1":"Champasak Province",
+        "admin2":"Muang Champasak",
+        "lat":14.11785,
+        "lon":105.85469,
+        "pop":15000
+    },
+    {
+        "id":1655084,
+        "name":"Sainyabuli",
+        "country":"LA",
+        "admin1":"Xiagnabouli",
+        "admin2":"",
+        "lat":19.25756,
+        "lon":101.71032,
+        "pop":13500
+    },
+    {
+        "id":1653894,
+        "name":"Phôngsali",
+        "country":"LA",
+        "admin1":"Phôngsali",
+        "admin2":"",
+        "lat":21.6808,
+        "lon":102.1003,
+        "pop":13500
+    },
+    {
+        "id":1657819,
+        "name":"Champasak",
+        "country":"LA",
+        "admin1":"Champasak Province",
+        "admin2":"",
+        "lat":14.89204,
+        "lon":105.87787,
+        "pop":12994
+    },
+    {
+        "id":1663526,
+        "name":"Ban Houayxay",
+        "country":"LA",
+        "admin1":"Bokeo",
+        "admin2":"",
+        "lat":20.27,
+        "lon":100.4178,
+        "pop":12500
+    },
+    {
+        "id":11203124,
+        "name":"Ban Bachiang",
+        "country":"LA",
+        "admin1":"Champasak Province",
+        "admin2":"",
+        "lat":15.25312,
+        "lon":105.93162,
+        "pop":12116
+    },
+    {
+        "id":1655124,
+        "name":"Muang Phôn-Hông",
+        "country":"LA",
+        "admin1":"Vientiane",
+        "admin2":"",
+        "lat":18.4953,
+        "lon":102.4153,
+        "pop":10112
+    },
+    {
+        "id":1653334,
+        "name":"Salavan",
+        "country":"LA",
+        "admin1":"Salavan Province",
+        "admin2":"",
+        "lat":15.71652,
+        "lon":106.41744,
+        "pop":5521
+    },
+    {
+        "id":1655139,
+        "name":"Pakxong",
+        "country":"LA",
+        "admin1":"Champasak Province",
+        "admin2":"",
+        "lat":15.18154,
+        "lon":106.23038,
+        "pop":5000
+    },
+    {
+        "id":1659990,
+        "name":"Lamam",
+        "country":"LA",
+        "admin1":"Xékong",
+        "admin2":"",
+        "lat":15.41705,
+        "lon":106.69461,
+        "pop":4463
+    },
+    {
+        "id":1665046,
+        "name":"Attapeu",
+        "country":"LA",
+        "admin1":"Attapu",
+        "admin2":"",
+        "lat":14.81071,
+        "lon":106.83184,
+        "pop":4297
+    },
+    {
+        "id":1661950,
+        "name":"Ban Nahin",
+        "country":"LA",
+        "admin1":"Bolikhamsai",
+        "admin2":"",
+        "lat":18.24253,
+        "lon":104.21281,
+        "pop":3466
+    },
+    {
+        "id":1655562,
+        "name":"Luang Namtha",
+        "country":"LA",
+        "admin1":"Loungnamtha",
+        "admin2":"",
+        "lat":20.9486,
+        "lon":101.40188,
+        "pop":3225
+    },
+    {
+        "id":1655094,
+        "name":"Ban Thatèng",
+        "country":"LA",
+        "admin1":"Xékong",
+        "admin2":"",
+        "lat":15.43317,
+        "lon":106.38272,
+        "pop":1500
+    },
+    {
+        "id":11231981,
+        "name":"Ban Dansavan",
+        "country":"LA",
+        "admin1":"Vientiane",
+        "admin2":"",
+        "lat":18.44075,
+        "lon":102.5596,
+        "pop":1196
+    },
+    {
+        "id":1655143,
+        "name":"Muang Pakbèng",
+        "country":"LA",
+        "admin1":"Oudômxai",
+        "admin2":"",
+        "lat":19.8929,
+        "lon":101.13647,
+        "pop":500
+    }
+]

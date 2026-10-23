@@ -1,0 +1,1022 @@
+[
+    {
+        "id":3583361,
+        "name":"San Salvador",
+        "country":"SV",
+        "admin1":"San Salvador Department",
+        "admin2":"",
+        "lat":13.68935,
+        "lon":-89.18718,
+        "pop":525990
+    },
+    {
+        "id":3583096,
+        "name":"Soyapango",
+        "country":"SV",
+        "admin1":"San Salvador Department",
+        "admin2":"",
+        "lat":13.71024,
+        "lon":-89.13989,
+        "pop":329708
+    },
+    {
+        "id":3583446,
+        "name":"San Miguel",
+        "country":"SV",
+        "admin1":"San Miguel Department",
+        "admin2":"",
+        "lat":13.48261,
+        "lon":-88.18211,
+        "pop":247126
+    },
+    {
+        "id":3583334,
+        "name":"Santa Ana",
+        "country":"SV",
+        "admin1":"Santa Ana Department",
+        "admin2":"",
+        "lat":13.98827,
+        "lon":-89.55685,
+        "pop":176661
+    },
+    {
+        "id":3584399,
+        "name":"Mejicanos",
+        "country":"SV",
+        "admin1":"San Salvador Department",
+        "admin2":"",
+        "lat":13.72397,
+        "lon":-89.188,
+        "pop":160317
+    },
+    {
+        "id":3584257,
+        "name":"Santa Tecla",
+        "country":"SV",
+        "admin1":"La Libertad Department",
+        "admin2":"",
+        "lat":13.67741,
+        "lon":-89.28335,
+        "pop":124694
+    },
+    {
+        "id":3587345,
+        "name":"Apopa",
+        "country":"SV",
+        "admin1":"San Salvador Department",
+        "admin2":"",
+        "lat":13.80722,
+        "lon":-89.17917,
+        "pop":112158
+    },
+    {
+        "id":3586814,
+        "name":"Delgado",
+        "country":"SV",
+        "admin1":"San Salvador Department",
+        "admin2":"",
+        "lat":13.72171,
+        "lon":-89.16874,
+        "pop":71594
+    },
+    {
+        "id":3583102,
+        "name":"Sonsonate",
+        "country":"SV",
+        "admin1":"Sonsonate Department",
+        "admin2":"",
+        "lat":13.71726,
+        "lon":-89.72304,
+        "pop":59468
+    },
+    {
+        "id":3583480,
+        "name":"San Marcos",
+        "country":"SV",
+        "admin1":"San Salvador Department",
+        "admin2":"",
+        "lat":13.66108,
+        "lon":-89.18252,
+        "pop":54615
+    },
+    {
+        "id":3582883,
+        "name":"Usulután",
+        "country":"SV",
+        "admin1":"Usulután",
+        "admin2":"",
+        "lat":13.34467,
+        "lon":-88.43994,
+        "pop":51910
+    },
+    {
+        "id":3586977,
+        "name":"Cojutepeque",
+        "country":"SV",
+        "admin1":"Cuscatlán",
+        "admin2":"",
+        "lat":13.71971,
+        "lon":-88.93309,
+        "pop":48411
+    },
+    {
+        "id":3586833,
+        "name":"Cuscatancingo",
+        "country":"SV",
+        "admin1":"San Salvador Department",
+        "admin2":"",
+        "lat":13.72702,
+        "lon":-89.18161,
+        "pop":44369
+    },
+    {
+        "id":3583178,
+        "name":"San Vicente",
+        "country":"SV",
+        "admin1":"San Vicente Department",
+        "admin2":"",
+        "lat":13.64114,
+        "lon":-88.78459,
+        "pop":41504
+    },
+    {
+        "id":3582805,
+        "name":"Zacatecoluca",
+        "country":"SV",
+        "admin1":"La Paz Department",
+        "admin2":"",
+        "lat":13.50872,
+        "lon":-88.87017,
+        "pop":39613
+    },
+    {
+        "id":3583471,
+        "name":"San Martín",
+        "country":"SV",
+        "admin1":"Cuscatlán",
+        "admin2":"",
+        "lat":13.78333,
+        "lon":-88.91667,
+        "pop":39361
+    },
+    {
+        "id":3585484,
+        "name":"Ilopango",
+        "country":"SV",
+        "admin1":"San Salvador Department",
+        "admin2":"",
+        "lat":13.70167,
+        "lon":-89.10944,
+        "pop":38890
+    },
+    {
+        "id":3587426,
+        "name":"Ahuachapán",
+        "country":"SV",
+        "admin1":"Ahuachapán",
+        "admin2":"",
+        "lat":13.92403,
+        "lon":-89.84344,
+        "pop":34102
+    },
+    {
+        "id":3587362,
+        "name":"Antiguo Cuscatlán",
+        "country":"SV",
+        "admin1":"La Libertad Department",
+        "admin2":"",
+        "lat":13.66492,
+        "lon":-89.25319,
+        "pop":33767
+    },
+    {
+        "id":3587086,
+        "name":"Chalchuapa",
+        "country":"SV",
+        "admin1":"Santa Ana Department",
+        "admin2":"",
+        "lat":13.98667,
+        "lon":-89.68111,
+        "pop":32282
+    },
+    {
+        "id":3583981,
+        "name":"Quezaltepeque",
+        "country":"SV",
+        "admin1":"La Libertad Department",
+        "admin2":"La Libertad Norte",
+        "lat":13.83124,
+        "lon":-89.27221,
+        "pop":28886
+    },
+    {
+        "id":3584772,
+        "name":"La Unión",
+        "country":"SV",
+        "admin1":"La Unión",
+        "admin2":"",
+        "lat":13.33915,
+        "lon":-87.84328,
+        "pop":26807
+    },
+    {
+        "id":3587308,
+        "name":"Ayutuxtepeque",
+        "country":"SV",
+        "admin1":"San Salvador Department",
+        "admin2":"",
+        "lat":13.73538,
+        "lon":-89.20221,
+        "pop":25426
+    },
+    {
+        "id":3587498,
+        "name":"Acajutla",
+        "country":"SV",
+        "admin1":"Sonsonate Department",
+        "admin2":"",
+        "lat":13.59278,
+        "lon":-89.8275,
+        "pop":22763
+    },
+    {
+        "id":3587428,
+        "name":"Aguilares",
+        "country":"SV",
+        "admin1":"San Salvador Department",
+        "admin2":"",
+        "lat":13.95722,
+        "lon":-89.18972,
+        "pop":21445
+    },
+    {
+        "id":3583158,
+        "name":"Sensuntepeque",
+        "country":"SV",
+        "admin1":"Cabañas",
+        "admin2":"",
+        "lat":13.87583,
+        "lon":-88.62727,
+        "pop":20386
+    },
+    {
+        "id":3587091,
+        "name":"Chalatenango",
+        "country":"SV",
+        "admin1":"Chalatenango Department",
+        "admin2":"",
+        "lat":14.04138,
+        "lon":-88.93951,
+        "pop":19364
+    },
+    {
+        "id":3585473,
+        "name":"Izalco",
+        "country":"SV",
+        "admin1":"Sonsonate Department",
+        "admin2":"",
+        "lat":13.74472,
+        "lon":-89.67306,
+        "pop":19197
+    },
+    {
+        "id":3584384,
+        "name":"Metapán",
+        "country":"SV",
+        "admin1":"Santa Ana Department",
+        "admin2":"",
+        "lat":14.33333,
+        "lon":-89.45,
+        "pop":19143
+    },
+    {
+        "id":3583379,
+        "name":"San Rafael Oriente",
+        "country":"SV",
+        "admin1":"San Miguel Department",
+        "admin2":"",
+        "lat":13.38333,
+        "lon":-88.35,
+        "pop":19095
+    },
+    {
+        "id":3584003,
+        "name":"Puerto El Triunfo",
+        "country":"SV",
+        "admin1":"Usulután",
+        "admin2":"",
+        "lat":13.28333,
+        "lon":-88.55,
+        "pop":19074
+    },
+    {
+        "id":3585157,
+        "name":"La Libertad",
+        "country":"SV",
+        "admin1":"La Libertad Department",
+        "admin2":"",
+        "lat":13.48833,
+        "lon":-89.32222,
+        "pop":16855
+    },
+    {
+        "id":3583747,
+        "name":"San Francisco",
+        "country":"SV",
+        "admin1":"Morazán",
+        "admin2":"",
+        "lat":13.69408,
+        "lon":-88.10407,
+        "pop":16152
+    },
+    {
+        "id":3583098,
+        "name":"Sonzacate",
+        "country":"SV",
+        "admin1":"Sonsonate Department",
+        "admin2":"",
+        "lat":13.73417,
+        "lon":-89.71472,
+        "pop":15446
+    },
+    {
+        "id":3583199,
+        "name":"Santiago de María",
+        "country":"SV",
+        "admin1":"Usulután",
+        "admin2":"",
+        "lat":13.48333,
+        "lon":-88.46667,
+        "pop":15032
+    },
+    {
+        "id":3587333,
+        "name":"Armenia",
+        "country":"SV",
+        "admin1":"Sonsonate Department",
+        "admin2":"",
+        "lat":13.74361,
+        "lon":-89.49889,
+        "pop":14997
+    },
+    {
+        "id":3583183,
+        "name":"Santo Tomás",
+        "country":"SV",
+        "admin1":"San Salvador Department",
+        "admin2":"",
+        "lat":13.64083,
+        "lon":-89.13333,
+        "pop":14581
+    },
+    {
+        "id":3583214,
+        "name":"Santa Rosa de Lima",
+        "country":"SV",
+        "admin1":"La Unión",
+        "admin2":"",
+        "lat":13.62472,
+        "lon":-87.89361,
+        "pop":13249
+    },
+    {
+        "id":3582896,
+        "name":"Turín",
+        "country":"SV",
+        "admin1":"Ahuachapán",
+        "admin2":"",
+        "lat":13.96639,
+        "lon":-89.76611,
+        "pop":11829
+    },
+    {
+        "id":3582790,
+        "name":"Zaragoza",
+        "country":"SV",
+        "admin1":"La Libertad Department",
+        "admin2":"",
+        "lat":13.58944,
+        "lon":-89.28889,
+        "pop":11749
+    },
+    {
+        "id":3587266,
+        "name":"Berlín",
+        "country":"SV",
+        "admin1":"Usulután",
+        "admin2":"",
+        "lat":13.5,
+        "lon":-88.53333,
+        "pop":11313
+    },
+    {
+        "id":3585636,
+        "name":"Guazapa",
+        "country":"SV",
+        "admin1":"San Salvador Department",
+        "admin2":"",
+        "lat":13.87694,
+        "lon":-89.17306,
+        "pop":10995
+    },
+    {
+        "id":3585398,
+        "name":"Jucuapa",
+        "country":"SV",
+        "admin1":"Usulután",
+        "admin2":"",
+        "lat":13.51667,
+        "lon":-88.38333,
+        "pop":10601
+    },
+    {
+        "id":3586985,
+        "name":"Ciudad Arce",
+        "country":"SV",
+        "admin1":"La Libertad Department",
+        "admin2":"",
+        "lat":13.84028,
+        "lon":-89.44722,
+        "pop":10095
+    },
+    {
+        "id":3584266,
+        "name":"Nueva Concepción",
+        "country":"SV",
+        "admin1":"Chalatenango Department",
+        "admin2":"",
+        "lat":14.13333,
+        "lon":-89.3,
+        "pop":9990
+    },
+    {
+        "id":3585401,
+        "name":"Juayúa",
+        "country":"SV",
+        "admin1":"Sonsonate Department",
+        "admin2":"",
+        "lat":13.84139,
+        "lon":-89.74556,
+        "pop":9936
+    },
+    {
+        "id":3583196,
+        "name":"Santiago Nonualco",
+        "country":"SV",
+        "admin1":"La Paz Department",
+        "admin2":"",
+        "lat":13.51667,
+        "lon":-88.95,
+        "pop":9490
+    },
+    {
+        "id":3585856,
+        "name":"El Tránsito",
+        "country":"SV",
+        "admin1":"San Miguel Department",
+        "admin2":"",
+        "lat":13.35,
+        "lon":-88.35,
+        "pop":9485
+    },
+    {
+        "id":3587317,
+        "name":"Atiquizaya",
+        "country":"SV",
+        "admin1":"Ahuachapán",
+        "admin2":"",
+        "lat":13.97694,
+        "lon":-89.7525,
+        "pop":9476
+    },
+    {
+        "id":3583851,
+        "name":"San Antonio del Monte",
+        "country":"SV",
+        "admin1":"Sonsonate Department",
+        "admin2":"",
+        "lat":13.71639,
+        "lon":-89.73833,
+        "pop":9135
+    },
+    {
+        "id":3585438,
+        "name":"Jiquilisco",
+        "country":"SV",
+        "admin1":"Usulután",
+        "admin2":"",
+        "lat":13.31667,
+        "lon":-88.58333,
+        "pop":9129
+    },
+    {
+        "id":3586550,
+        "name":"El Congo",
+        "country":"SV",
+        "admin1":"Santa Ana Department",
+        "admin2":"",
+        "lat":13.90889,
+        "lon":-89.49583,
+        "pop":8905
+    },
+    {
+        "id":3587037,
+        "name":"Chinameca",
+        "country":"SV",
+        "admin1":"San Miguel Department",
+        "admin2":"",
+        "lat":13.5,
+        "lon":-88.35,
+        "pop":8646
+    },
+    {
+        "id":3586983,
+        "name":"Ciudad Barrios",
+        "country":"SV",
+        "admin1":"San Miguel Department",
+        "admin2":"",
+        "lat":13.76667,
+        "lon":-88.26667,
+        "pop":8491
+    },
+    {
+        "id":3586926,
+        "name":"Concepción de Ataco",
+        "country":"SV",
+        "admin1":"Ahuachapán",
+        "admin2":"",
+        "lat":13.87028,
+        "lon":-89.84861,
+        "pop":7797
+    },
+    {
+        "id":3584297,
+        "name":"Nahuizalco",
+        "country":"SV",
+        "admin1":"Sonsonate Department",
+        "admin2":"",
+        "lat":13.7775,
+        "lon":-89.73667,
+        "pop":7358
+    },
+    {
+        "id":3583352,
+        "name":"San Sebastián",
+        "country":"SV",
+        "admin1":"San Vicente Department",
+        "admin2":"",
+        "lat":13.73333,
+        "lon":-88.83333,
+        "pop":7333
+    },
+    {
+        "id":3583531,
+        "name":"San Juan Opico",
+        "country":"SV",
+        "admin1":"La Libertad Department",
+        "admin2":"",
+        "lat":13.87611,
+        "lon":-89.35972,
+        "pop":7127
+    },
+    {
+        "id":3584156,
+        "name":"Panchimalco",
+        "country":"SV",
+        "admin1":"San Salvador Department",
+        "admin2":"",
+        "lat":13.61278,
+        "lon":-89.18,
+        "pop":6764
+    },
+    {
+        "id":3584251,
+        "name":"Nuevo Cuscatlán",
+        "country":"SV",
+        "admin1":"La Libertad Department",
+        "admin2":"",
+        "lat":13.64861,
+        "lon":-89.26528,
+        "pop":6469
+    },
+    {
+        "id":3587018,
+        "name":"Chirilagua",
+        "country":"SV",
+        "admin1":"San Miguel Department",
+        "admin2":"",
+        "lat":13.22028,
+        "lon":-88.13861,
+        "pop":6393
+    },
+    {
+        "id":3584212,
+        "name":"Olocuilta",
+        "country":"SV",
+        "admin1":"La Paz Department",
+        "admin2":"",
+        "lat":13.56972,
+        "lon":-89.11722,
+        "pop":6324
+    },
+    {
+        "id":3587157,
+        "name":"Candelaria de La Frontera",
+        "country":"SV",
+        "admin1":"Santa Ana Department",
+        "admin2":"",
+        "lat":14.11667,
+        "lon":-89.65,
+        "pop":6301
+    },
+    {
+        "id":3582918,
+        "name":"Tonacatepeque",
+        "country":"SV",
+        "admin1":"San Salvador Department",
+        "admin2":"",
+        "lat":13.78111,
+        "lon":-89.11861,
+        "pop":6245
+    },
+    {
+        "id":3583278,
+        "name":"Santa Elena",
+        "country":"SV",
+        "admin1":"Usulután",
+        "admin2":"",
+        "lat":13.38333,
+        "lon":-88.41667,
+        "pop":5887
+    },
+    {
+        "id":3584260,
+        "name":"Nueva Guadalupe",
+        "country":"SV",
+        "admin1":"San Miguel Department",
+        "admin2":"",
+        "lat":13.53333,
+        "lon":-88.35,
+        "pop":5798
+    },
+    {
+        "id":3587349,
+        "name":"Apastepeque",
+        "country":"SV",
+        "admin1":"San Vicente Department",
+        "admin2":"",
+        "lat":13.66667,
+        "lon":-88.78333,
+        "pop":5785
+    },
+    {
+        "id":3586981,
+        "name":"Coatepeque",
+        "country":"SV",
+        "admin1":"Santa Ana Department",
+        "admin2":"",
+        "lat":13.92861,
+        "lon":-89.50417,
+        "pop":5773
+    },
+    {
+        "id":3583090,
+        "name":"Suchitoto",
+        "country":"SV",
+        "admin1":"Cuscatlán",
+        "admin2":"",
+        "lat":13.93806,
+        "lon":-89.02778,
+        "pop":5735
+    },
+    {
+        "id":3586021,
+        "name":"El Rosario",
+        "country":"SV",
+        "admin1":"La Paz Department",
+        "admin2":"",
+        "lat":13.49778,
+        "lon":-89.02972,
+        "pop":5620
+    },
+    {
+        "id":3585653,
+        "name":"Guatajiagua",
+        "country":"SV",
+        "admin1":"Morazán",
+        "admin2":"",
+        "lat":13.66667,
+        "lon":-88.2,
+        "pop":5273
+    },
+    {
+        "id":3583937,
+        "name":"Rosario de Mora",
+        "country":"SV",
+        "admin1":"San Salvador Department",
+        "admin2":"",
+        "lat":13.57528,
+        "lon":-89.20889,
+        "pop":5178
+    },
+    {
+        "id":3583905,
+        "name":"San Alejo",
+        "country":"SV",
+        "admin1":"La Unión",
+        "admin2":"",
+        "lat":13.43139,
+        "lon":-87.96306,
+        "pop":5149
+    },
+    {
+        "id":3583065,
+        "name":"Tacuba",
+        "country":"SV",
+        "admin1":"Ahuachapán",
+        "admin2":"",
+        "lat":13.90111,
+        "lon":-89.92972,
+        "pop":5055
+    },
+    {
+        "id":3585427,
+        "name":"Jocoro",
+        "country":"SV",
+        "admin1":"Morazán",
+        "admin2":"",
+        "lat":13.61667,
+        "lon":-88.01667,
+        "pop":4298
+    },
+    {
+        "id":3584190,
+        "name":"Ozatlán",
+        "country":"SV",
+        "admin1":"Usulután",
+        "admin2":"",
+        "lat":13.38333,
+        "lon":-88.5,
+        "pop":4171
+    },
+    {
+        "id":3585480,
+        "name":"Intipucá",
+        "country":"SV",
+        "admin1":"La Unión",
+        "admin2":"",
+        "lat":13.19694,
+        "lon":-88.05444,
+        "pop":3540
+    },
+    {
+        "id":3586930,
+        "name":"Concepción Batres",
+        "country":"SV",
+        "admin1":"Usulután",
+        "admin2":"",
+        "lat":13.35,
+        "lon":-88.36667,
+        "pop":3286
+    },
+    {
+        "id":3586884,
+        "name":"Corinto",
+        "country":"SV",
+        "admin1":"Morazán",
+        "admin2":"",
+        "lat":13.81083,
+        "lon":-87.97139,
+        "pop":3160
+    },
+    {
+        "id":3587064,
+        "name":"Chapeltique",
+        "country":"SV",
+        "admin1":"San Miguel Department",
+        "admin2":"",
+        "lat":13.63333,
+        "lon":-88.26667,
+        "pop":3159
+    },
+    {
+        "id":3586917,
+        "name":"Conchagua",
+        "country":"SV",
+        "admin1":"La Unión",
+        "admin2":"",
+        "lat":13.30778,
+        "lon":-87.86472,
+        "pop":3034
+    },
+    {
+        "id":3583429,
+        "name":"San Pablo Tacachico",
+        "country":"SV",
+        "admin1":"La Libertad Department",
+        "admin2":"",
+        "lat":13.97556,
+        "lon":-89.34,
+        "pop":3033
+    },
+    {
+        "id":3583009,
+        "name":"Tecoluca",
+        "country":"SV",
+        "admin1":"Cuscatlán",
+        "admin2":"",
+        "lat":13.78917,
+        "lon":-89.00528,
+        "pop":2781
+    },
+    {
+        "id":3587372,
+        "name":"Anamorós",
+        "country":"SV",
+        "admin1":"La Unión",
+        "admin2":"",
+        "lat":13.74056,
+        "lon":-87.87361,
+        "pop":2655
+    },
+    {
+        "id":3584714,
+        "name":"Lolotique",
+        "country":"SV",
+        "admin1":"San Miguel Department",
+        "admin2":"",
+        "lat":13.55,
+        "lon":-88.35,
+        "pop":2654
+    },
+    {
+        "id":3583407,
+        "name":"San Pedro Masahuat",
+        "country":"SV",
+        "admin1":"La Paz Department",
+        "admin2":"",
+        "lat":13.54361,
+        "lon":-89.03861,
+        "pop":2654
+    },
+    {
+        "id":3587208,
+        "name":"Cacaopera",
+        "country":"SV",
+        "admin1":"Morazán",
+        "admin2":"",
+        "lat":13.76667,
+        "lon":-88.08333,
+        "pop":2528
+    },
+    {
+        "id":3584264,
+        "name":"Nueva Esparta",
+        "country":"SV",
+        "admin1":"La Unión",
+        "admin2":"",
+        "lat":13.78361,
+        "lon":-87.83861,
+        "pop":2528
+    },
+    {
+        "id":3582954,
+        "name":"Texistepeque",
+        "country":"SV",
+        "admin1":"Santa Ana Department",
+        "admin2":"",
+        "lat":14.13333,
+        "lon":-89.5,
+        "pop":2401
+    },
+    {
+        "id":3584140,
+        "name":"Pasaquina",
+        "country":"SV",
+        "admin1":"La Unión",
+        "admin2":"",
+        "lat":13.58444,
+        "lon":-87.84111,
+        "pop":2149
+    },
+    {
+        "id":3583910,
+        "name":"San Agustín",
+        "country":"SV",
+        "admin1":"Usulután",
+        "admin2":"",
+        "lat":13.43333,
+        "lon":-88.6,
+        "pop":2149
+    },
+    {
+        "id":3584348,
+        "name":"Moncagua",
+        "country":"SV",
+        "admin1":"San Miguel Department",
+        "admin2":"",
+        "lat":13.53333,
+        "lon":-88.25,
+        "pop":2148
+    },
+    {
+        "id":3582835,
+        "name":"Victoria",
+        "country":"SV",
+        "admin1":"Cabañas",
+        "admin2":"",
+        "lat":13.95,
+        "lon":-88.63333,
+        "pop":2023
+    },
+    {
+        "id":3585392,
+        "name":"Jujutla",
+        "country":"SV",
+        "admin1":"Ahuachapán",
+        "admin2":"",
+        "lat":13.78694,
+        "lon":-89.85722,
+        "pop":2022
+    },
+    {
+        "id":3583111,
+        "name":"Sociedad",
+        "country":"SV",
+        "admin1":"Morazán",
+        "admin2":"",
+        "lat":13.7,
+        "lon":-88.01667,
+        "pop":1770
+    },
+    {
+        "id":3585395,
+        "name":"Jucuarán",
+        "country":"SV",
+        "admin1":"Usulután",
+        "admin2":"",
+        "lat":13.25389,
+        "lon":-88.24778,
+        "pop":1643
+    },
+    {
+        "id":3586204,
+        "name":"El Paisnal",
+        "country":"SV",
+        "admin1":"San Salvador Department",
+        "admin2":"",
+        "lat":13.97361,
+        "lon":-89.21861,
+        "pop":1641
+    },
+    {
+        "id":3585640,
+        "name":"Guaymango",
+        "country":"SV",
+        "admin1":"Ahuachapán",
+        "admin2":"",
+        "lat":13.75028,
+        "lon":-89.84222,
+        "pop":1517
+    },
+    {
+        "id":3583155,
+        "name":"Sesori",
+        "country":"SV",
+        "admin1":"San Miguel Department",
+        "admin2":"",
+        "lat":13.71667,
+        "lon":-88.36667,
+        "pop":1390
+    },
+    {
+        "id":3583716,
+        "name":"San Francisco Menéndez",
+        "country":"SV",
+        "admin1":"Ahuachapán",
+        "admin2":"",
+        "lat":13.84306,
+        "lon":-90.01583,
+        "pop":1264
+    },
+    {
+        "id":3582987,
+        "name":"Tenancingo",
+        "country":"SV",
+        "admin1":"Cuscatlán",
+        "admin2":"",
+        "lat":13.83333,
+        "lon":-88.98333,
+        "pop":1011
+    },
+    {
+        "id":3583714,
+        "name":"San Francisco Morazán",
+        "country":"SV",
+        "admin1":"Chalatenango Department",
+        "admin2":"",
+        "lat":14.18333,
+        "lon":-89.05,
+        "pop":506
+    }
+]

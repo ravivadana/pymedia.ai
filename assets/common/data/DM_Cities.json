@@ -1,0 +1,192 @@
+[
+    {
+        "id":3575635,
+        "name":"Roseau",
+        "country":"DM",
+        "admin1":"Saint George Parish",
+        "admin2":"",
+        "lat":15.30174,
+        "lon":-61.38808,
+        "pop":16571
+    },
+    {
+        "id":3575654,
+        "name":"Portsmouth",
+        "country":"DM",
+        "admin1":"Saint John Parish",
+        "admin2":"",
+        "lat":15.58288,
+        "lon":-61.45592,
+        "pop":3633
+    },
+    {
+        "id":3575721,
+        "name":"Marigot",
+        "country":"DM",
+        "admin1":"Saint Andrew Parish",
+        "admin2":"",
+        "lat":15.53743,
+        "lon":-61.282,
+        "pop":2669
+    },
+    {
+        "id":3575899,
+        "name":"Berekua",
+        "country":"DM",
+        "admin1":"Saint Patrick Parish",
+        "admin2":"",
+        "lat":15.23333,
+        "lon":-61.31667,
+        "pop":2608
+    },
+    {
+        "id":3575733,
+        "name":"Mahaut",
+        "country":"DM",
+        "admin1":"Saint Paul Parish",
+        "admin2":"",
+        "lat":15.36357,
+        "lon":-61.39701,
+        "pop":2369
+    },
+    {
+        "id":3575624,
+        "name":"Saint Joseph",
+        "country":"DM",
+        "admin1":"Saint Joseph Parish",
+        "admin2":"",
+        "lat":15.4061,
+        "lon":-61.42374,
+        "pop":2184
+    },
+    {
+        "id":3575568,
+        "name":"Wesley",
+        "country":"DM",
+        "admin1":"Saint Andrew Parish",
+        "admin2":"",
+        "lat":15.56667,
+        "lon":-61.31667,
+        "pop":1933
+    },
+    {
+        "id":3575602,
+        "name":"Soufrière",
+        "country":"DM",
+        "admin1":"Saint Mark Parish",
+        "admin2":"",
+        "lat":15.23374,
+        "lon":-61.35881,
+        "pop":1416
+    },
+    {
+        "id":3575612,
+        "name":"Salisbury",
+        "country":"DM",
+        "admin1":"Saint Joseph Parish",
+        "admin2":"",
+        "lat":15.43689,
+        "lon":-61.43637,
+        "pop":1413
+    },
+    {
+        "id":3575870,
+        "name":"Castle Bruce",
+        "country":"DM",
+        "admin1":"Saint David Parish",
+        "admin2":"",
+        "lat":15.44397,
+        "lon":-61.25723,
+        "pop":1387
+    },
+    {
+        "id":3575755,
+        "name":"La Plaine",
+        "country":"DM",
+        "admin1":"Saint Patrick Parish",
+        "admin2":"",
+        "lat":15.32768,
+        "lon":-61.24753,
+        "pop":1332
+    },
+    {
+        "id":3575660,
+        "name":"Pointe Michel",
+        "country":"DM",
+        "admin1":"Saint Luke Parish",
+        "admin2":"",
+        "lat":15.25976,
+        "lon":-61.37452,
+        "pop":1202
+    },
+    {
+        "id":3575565,
+        "name":"Woodford Hill",
+        "country":"DM",
+        "admin1":"Saint Andrew Parish",
+        "admin2":"",
+        "lat":15.58093,
+        "lon":-61.33149,
+        "pop":1063
+    },
+    {
+        "id":3575882,
+        "name":"Calibishie",
+        "country":"DM",
+        "admin1":"Saint Andrew Parish",
+        "admin2":"",
+        "lat":15.59297,
+        "lon":-61.34901,
+        "pop":1020
+    },
+    {
+        "id":3575857,
+        "name":"Colihaut",
+        "country":"DM",
+        "admin1":"Saint Peter Parish",
+        "admin2":"",
+        "lat":15.48478,
+        "lon":-61.46215,
+        "pop":890
+    },
+    {
+        "id":3575639,
+        "name":"Rosalie",
+        "country":"DM",
+        "admin1":"Saint David Parish",
+        "admin2":"",
+        "lat":15.36667,
+        "lon":-61.26667,
+        "pop":802
+    },
+    {
+        "id":10793753,
+        "name":"Castle Comfort",
+        "country":"DM",
+        "admin1":"Saint George Parish",
+        "admin2":"",
+        "lat":15.28439,
+        "lon":-61.37049,
+        "pop":790
+    },
+    {
+        "id":3575573,
+        "name":"Vieille Case",
+        "country":"DM",
+        "admin1":"Saint Andrew Parish",
+        "admin2":"",
+        "lat":15.61418,
+        "lon":-61.40823,
+        "pop":726
+    },
+    {
+        "id":3575656,
+        "name":"Pont Cassé",
+        "country":"DM",
+        "admin1":"Saint Paul Parish",
+        "admin2":"",
+        "lat":15.36667,
+        "lon":-61.35,
+        "pop":702
+    }
+]

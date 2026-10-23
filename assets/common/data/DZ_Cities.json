@@ -1,0 +1,3412 @@
+[
+    {
+        "id":2507480,
+        "name":"Algiers",
+        "country":"DZ",
+        "admin1":"Algiers",
+        "admin2":"",
+        "lat":36.73225,
+        "lon":3.08746,
+        "pop":2364230
+    },
+    {
+        "id":2485926,
+        "name":"Oran",
+        "country":"DZ",
+        "admin1":"Oran",
+        "admin2":"",
+        "lat":35.69906,
+        "lon":-0.63588,
+        "pop":803329
+    },
+    {
+        "id":2501152,
+        "name":"Constantine",
+        "country":"DZ",
+        "admin1":"Constantine",
+        "admin2":"",
+        "lat":36.365,
+        "lon":6.61472,
+        "pop":448028
+    },
+    {
+        "id":2506999,
+        "name":"Annaba",
+        "country":"DZ",
+        "admin1":"Annaba",
+        "admin2":"",
+        "lat":36.9,
+        "lon":7.76667,
+        "pop":342703
+    },
+    {
+        "id":2503769,
+        "name":"Blida",
+        "country":"DZ",
+        "admin1":"Blida",
+        "admin2":"",
+        "lat":36.47004,
+        "lon":2.8277,
+        "pop":331779
+    },
+    {
+        "id":2505572,
+        "name":"Batna City",
+        "country":"DZ",
+        "admin1":"Batna",
+        "admin2":"",
+        "lat":35.55597,
+        "lon":6.17414,
+        "pop":289504
+    },
+    {
+        "id":2505854,
+        "name":"Bab Ezzouar",
+        "country":"DZ",
+        "admin1":"Algiers",
+        "admin2":"Daïra de Dar el Beïda",
+        "lat":36.72615,
+        "lon":3.18291,
+        "pop":275630
+    },
+    {
+        "id":2500017,
+        "name":"Djelfa",
+        "country":"DZ",
+        "admin1":"Djelfa",
+        "admin2":"",
+        "lat":34.67279,
+        "lon":3.263,
+        "pop":265833
+    },
+    {
+        "id":2481700,
+        "name":"Sétif",
+        "country":"DZ",
+        "admin1":"Sétif",
+        "admin2":"",
+        "lat":36.19112,
+        "lon":5.41373,
+        "pop":252127
+    },
+    {
+        "id":2481007,
+        "name":"Sidi Bel Abbes",
+        "country":"DZ",
+        "admin1":"Sidi Bel Abbès",
+        "admin2":"",
+        "lat":35.18994,
+        "lon":-0.63085,
+        "pop":210146
+    },
+    {
+        "id":2503826,
+        "name":"Biskra",
+        "country":"DZ",
+        "admin1":"Biskra",
+        "admin2":"",
+        "lat":34.85038,
+        "lon":5.72805,
+        "pop":204661
+    },
+    {
+        "id":2477461,
+        "name":"Tébessa",
+        "country":"DZ",
+        "admin1":"Tébessa",
+        "admin2":"",
+        "lat":35.40417,
+        "lon":8.12417,
+        "pop":194461
+    },
+    {
+        "id":2497411,
+        "name":"El Oued",
+        "country":"DZ",
+        "admin1":"El Oued",
+        "admin2":"",
+        "lat":33.35608,
+        "lon":6.86319,
+        "pop":186525
+    },
+    {
+        "id":2479536,
+        "name":"Skikda",
+        "country":"DZ",
+        "admin1":"Skikda",
+        "admin2":"",
+        "lat":36.87617,
+        "lon":6.90921,
+        "pop":182903
+    },
+    {
+        "id":2476897,
+        "name":"Tiaret",
+        "country":"DZ",
+        "admin1":"Tiaret",
+        "admin2":"",
+        "lat":35.37103,
+        "lon":1.31699,
+        "pop":178915
+    },
+    {
+        "id":2498611,
+        "name":"Chlef",
+        "country":"DZ",
+        "admin1":"Chlef",
+        "admin2":"",
+        "lat":36.16525,
+        "lon":1.33452,
+        "pop":178616
+    },
+    {
+        "id":2505329,
+        "name":"Béjaïa",
+        "country":"DZ",
+        "admin1":"Béjaïa",
+        "admin2":"",
+        "lat":36.75587,
+        "lon":5.08433,
+        "pop":176139
+    },
+    {
+        "id":2475687,
+        "name":"Tlemcen",
+        "country":"DZ",
+        "admin1":"Tlemcen",
+        "admin2":"",
+        "lat":34.87833,
+        "lon":-1.315,
+        "pop":173531
+    },
+    {
+        "id":2485801,
+        "name":"Ouargla",
+        "country":"DZ",
+        "admin1":"Ouargla",
+        "admin2":"",
+        "lat":31.94932,
+        "lon":5.32502,
+        "pop":169928
+    },
+    {
+        "id":2505530,
+        "name":"Béchar",
+        "country":"DZ",
+        "admin1":"Béchar",
+        "admin2":"Daïra de Béchar",
+        "lat":31.61667,
+        "lon":-2.21667,
+        "pop":165241
+    },
+    {
+        "id":2487134,
+        "name":"Mostaganem",
+        "country":"DZ",
+        "admin1":"Mostaganem",
+        "admin2":"",
+        "lat":35.93115,
+        "lon":0.08918,
+        "pop":162885
+    },
+    {
+        "id":2503701,
+        "name":"Bordj Bou Arreridj",
+        "country":"DZ",
+        "admin1":"Bordj Bou Arréridj",
+        "admin2":"",
+        "lat":36.07389,
+        "lon":4.76139,
+        "pop":158812
+    },
+    {
+        "id":2498766,
+        "name":"El Achir",
+        "country":"DZ",
+        "admin1":"Bordj Bou Arréridj",
+        "admin2":"Medjana",
+        "lat":36.06386,
+        "lon":4.62744,
+        "pop":158333
+    },
+    {
+        "id":2479215,
+        "name":"Souk Ahras",
+        "country":"DZ",
+        "admin1":"Souk Ahras",
+        "admin2":"",
+        "lat":36.28639,
+        "lon":7.95111,
+        "pop":153479
+    },
+    {
+        "id":2488835,
+        "name":"Médéa",
+        "country":"DZ",
+        "admin1":"Medea",
+        "admin2":"",
+        "lat":36.26417,
+        "lon":2.75393,
+        "pop":145441
+    },
+    {
+        "id":2498392,
+        "name":"El Eulma",
+        "country":"DZ",
+        "admin1":"Sétif",
+        "admin2":"",
+        "lat":36.15281,
+        "lon":5.69016,
+        "pop":145380
+    },
+    {
+        "id":2475475,
+        "name":"Touggourt",
+        "country":"DZ",
+        "admin1":"Touggourt",
+        "admin2":"",
+        "lat":33.11083,
+        "lon":6.07,
+        "pop":143270
+    },
+    {
+        "id":2496049,
+        "name":"Ghardaïa",
+        "country":"DZ",
+        "admin1":"Ghardaia",
+        "admin2":"",
+        "lat":32.49094,
+        "lon":3.67347,
+        "pop":142913
+    },
+    {
+        "id":2482572,
+        "name":"Saïda",
+        "country":"DZ",
+        "admin1":"Saida",
+        "admin2":"",
+        "lat":34.83033,
+        "lon":0.15171,
+        "pop":142497
+    },
+    {
+        "id":2491191,
+        "name":"Laghouat",
+        "country":"DZ",
+        "admin1":"Laghouat",
+        "admin2":"",
+        "lat":33.8,
+        "lon":2.86514,
+        "pop":134372
+    },
+    {
+        "id":2486690,
+        "name":"M'Sila",
+        "country":"DZ",
+        "admin1":"M'Sila",
+        "admin2":"",
+        "lat":35.70889,
+        "lon":4.53722,
+        "pop":132975
+    },
+    {
+        "id":2492913,
+        "name":"Jijel",
+        "country":"DZ",
+        "admin1":"Jijel",
+        "admin2":"",
+        "lat":36.821,
+        "lon":5.76352,
+        "pop":131513
+    },
+    {
+        "id":2483668,
+        "name":"Relizane",
+        "country":"DZ",
+        "admin1":"Relizane",
+        "admin2":"",
+        "lat":35.73734,
+        "lon":0.55599,
+        "pop":123255
+    },
+    {
+        "id":2503661,
+        "name":"Bordj el Kiffan",
+        "country":"DZ",
+        "admin1":"Algiers",
+        "admin2":"Daïra de Dar el Beïda",
+        "lat":36.74871,
+        "lon":3.19249,
+        "pop":123246
+    },
+    {
+        "id":2495662,
+        "name":"Guelma",
+        "country":"DZ",
+        "admin1":"Guelma",
+        "admin2":"",
+        "lat":36.46214,
+        "lon":7.42608,
+        "pop":120004
+    },
+    {
+        "id":2482908,
+        "name":"Rouiba",
+        "country":"DZ",
+        "admin1":"Algiers",
+        "admin2":"Rouiba",
+        "lat":36.73829,
+        "lon":3.28079,
+        "pop":117558
+    },
+    {
+        "id":2508287,
+        "name":"Aïn Beïda",
+        "country":"DZ",
+        "admin1":"Oum el Bouaghi",
+        "admin2":"",
+        "lat":35.79639,
+        "lon":7.39278,
+        "pop":116064
+    },
+    {
+        "id":2491889,
+        "name":"Khenchela",
+        "country":"DZ",
+        "admin1":"Khenchela",
+        "admin2":"",
+        "lat":35.43583,
+        "lon":7.14333,
+        "pop":114472
+    },
+    {
+        "id":2502385,
+        "name":"Bou Saâda",
+        "country":"DZ",
+        "admin1":"M'Sila",
+        "admin2":"Daïra de Bou Saâda",
+        "lat":35.20855,
+        "lon":4.17402,
+        "pop":111787
+    },
+    {
+        "id":2490098,
+        "name":"Mascara",
+        "country":"DZ",
+        "admin1":"Mascara",
+        "admin2":"",
+        "lat":35.39664,
+        "lon":0.14027,
+        "pop":108629
+    },
+    {
+        "id":2505653,
+        "name":"Baraki",
+        "country":"DZ",
+        "admin1":"Algiers",
+        "admin2":"Baraki",
+        "lat":36.66655,
+        "lon":3.09606,
+        "pop":105402
+    },
+    {
+        "id":2475744,
+        "name":"Tizi Ouzou",
+        "country":"DZ",
+        "admin1":"Tizi Ouzou",
+        "admin2":"",
+        "lat":36.71182,
+        "lon":4.04591,
+        "pop":104312
+    },
+    {
+        "id":2505629,
+        "name":"Barika",
+        "country":"DZ",
+        "admin1":"Batna",
+        "admin2":"Daïra de Barika",
+        "lat":35.38901,
+        "lon":5.36584,
+        "pop":98141
+    },
+    {
+        "id":2507972,
+        "name":"Aïn Oussera",
+        "country":"DZ",
+        "admin1":"Djelfa",
+        "admin2":"Daïra d’‘Aïn Oussera",
+        "lat":35.45139,
+        "lon":2.90583,
+        "pop":98107
+    },
+    {
+        "id":2487772,
+        "name":"Messaad",
+        "country":"DZ",
+        "admin1":"Djelfa",
+        "admin2":"Messaad",
+        "lat":34.15429,
+        "lon":3.50309,
+        "pop":97091
+    },
+    {
+        "id":2508737,
+        "name":"Aflou",
+        "country":"DZ",
+        "admin1":"Laghouat",
+        "admin2":"Daïra d’Aflou",
+        "lat":34.11279,
+        "lon":2.10228,
+        "pop":93585
+    },
+    {
+        "id":2504622,
+        "name":"Beni Mered",
+        "country":"DZ",
+        "admin1":"Blida",
+        "admin2":"Ouled Yaich",
+        "lat":36.52389,
+        "lon":2.86131,
+        "pop":92749
+    },
+    {
+        "id":2497849,
+        "name":"El Khroub",
+        "country":"DZ",
+        "admin1":"Constantine",
+        "admin2":"El Khroub",
+        "lat":36.26333,
+        "lon":6.69361,
+        "pop":90122
+    },
+    {
+        "id":2490584,
+        "name":"Maghnia",
+        "country":"DZ",
+        "admin1":"Tlemcen",
+        "admin2":"Daïra de Maghnia",
+        "lat":34.84969,
+        "lon":-1.72753,
+        "pop":87373
+    },
+    {
+        "id":2498543,
+        "name":"El Bayadh",
+        "country":"DZ",
+        "admin1":"El Bayadh",
+        "admin2":"",
+        "lat":33.68318,
+        "lon":1.01927,
+        "pop":85577
+    },
+    {
+        "id":2494610,
+        "name":"Hamma Bouziane",
+        "country":"DZ",
+        "admin1":"Constantine",
+        "admin2":"Hamma Bouziane",
+        "lat":36.41205,
+        "lon":6.59603,
+        "pop":83603
+    },
+    {
+        "id":2478216,
+        "name":"Tamanghasset",
+        "country":"DZ",
+        "admin1":"Tamanrasset",
+        "admin2":"",
+        "lat":22.785,
+        "lon":5.52278,
+        "pop":81752
+    },
+    {
+        "id":2482886,
+        "name":"Rouissat",
+        "country":"DZ",
+        "admin1":"Ouargla",
+        "admin2":"Daïra d’Ouargla",
+        "lat":31.92427,
+        "lon":5.35018,
+        "pop":80784
+    },
+    {
+        "id":2491911,
+        "name":"Khemis Miliana",
+        "country":"DZ",
+        "admin1":"Aïn Defla",
+        "admin2":"Khemis",
+        "lat":36.26104,
+        "lon":2.22015,
+        "pop":80512
+    },
+    {
+        "id":2494073,
+        "name":"Hassi Bahbah",
+        "country":"DZ",
+        "admin1":"Djelfa",
+        "admin2":"Hassi Bahbah",
+        "lat":35.07109,
+        "lon":3.0299,
+        "pop":77000
+    },
+    {
+        "id":2503847,
+        "name":"Birkhadem",
+        "country":"DZ",
+        "admin1":"Algiers",
+        "admin2":"Bir Mourad Rais",
+        "lat":36.71499,
+        "lon":3.05002,
+        "pop":71722
+    },
+    {
+        "id":2479247,
+        "name":"Sougueur",
+        "country":"DZ",
+        "admin1":"Tiaret",
+        "admin2":"Sougueur",
+        "lat":35.18568,
+        "lon":1.49612,
+        "pop":71036
+    },
+    {
+        "id":2507901,
+        "name":"Aïn Temouchent",
+        "country":"DZ",
+        "admin1":"Aïn Témouchent",
+        "admin2":"",
+        "lat":35.29749,
+        "lon":-1.14037,
+        "pop":70810
+    },
+    {
+        "id":2503878,
+        "name":"Bir el Ater",
+        "country":"DZ",
+        "admin1":"Tébessa",
+        "admin2":"Bir El Ater",
+        "lat":34.74488,
+        "lon":8.06024,
+        "pop":70749
+    },
+    {
+        "id":2502958,
+        "name":"Bouïra",
+        "country":"DZ",
+        "admin1":"Bouira",
+        "admin2":"",
+        "lat":36.37489,
+        "lon":3.902,
+        "pop":68545
+    },
+    {
+        "id":2508813,
+        "name":"Adrar",
+        "country":"DZ",
+        "admin1":"Adrar",
+        "admin2":"",
+        "lat":27.87429,
+        "lon":-0.29388,
+        "pop":68276
+    },
+    {
+        "id":2503874,
+        "name":"Bir el Djir",
+        "country":"DZ",
+        "admin1":"Oran",
+        "admin2":"Bir El Djir",
+        "lat":35.72,
+        "lon":-0.545,
+        "pop":68032
+    },
+    {
+        "id":2484620,
+        "name":"Oum el Bouaghi",
+        "country":"DZ",
+        "admin1":"Oum el Bouaghi",
+        "admin2":"",
+        "lat":35.87541,
+        "lon":7.11353,
+        "pop":67201
+    },
+    {
+        "id":2481246,
+        "name":"Sidi Aïssa",
+        "country":"DZ",
+        "admin1":"M'Sila",
+        "admin2":"Sidi Aissa",
+        "lat":35.88548,
+        "lon":3.77236,
+        "pop":66856
+    },
+    {
+        "id":2504072,
+        "name":"Besbes",
+        "country":"DZ",
+        "admin1":"El Tarf",
+        "admin2":"Besbes",
+        "lat":36.70222,
+        "lon":7.84722,
+        "pop":66287
+    },
+    {
+        "id":2501404,
+        "name":"Cheria",
+        "country":"DZ",
+        "admin1":"Tébessa",
+        "admin2":"Cheria",
+        "lat":35.27306,
+        "lon":7.75194,
+        "pop":66160
+    },
+    {
+        "id":2475860,
+        "name":"Tissemsilt",
+        "country":"DZ",
+        "admin1":"Tissemsilt",
+        "admin2":"",
+        "lat":35.60722,
+        "lon":1.81081,
+        "pop":66084
+    },
+    {
+        "id":2508002,
+        "name":"Aïn M’Lila",
+        "country":"DZ",
+        "admin1":"Oum el Bouaghi",
+        "admin2":"Daïra d’Aïn M’lila",
+        "lat":36.03687,
+        "lon":6.57219,
+        "pop":65371
+    },
+    {
+        "id":2489865,
+        "name":"Mecheria",
+        "country":"DZ",
+        "admin1":"Naama",
+        "admin2":"Daïra de Mecheria",
+        "lat":33.54453,
+        "lon":-0.28117,
+        "pop":65043
+    },
+    {
+        "id":11204500,
+        "name":"Ali Mendjeli",
+        "country":"DZ",
+        "admin1":"Constantine",
+        "admin2":"El Khroub",
+        "lat":36.2459,
+        "lon":6.5671,
+        "pop":64120
+    },
+    {
+        "id":2487452,
+        "name":"Mila",
+        "country":"DZ",
+        "admin1":"Mila",
+        "admin2":"",
+        "lat":36.45028,
+        "lon":6.26444,
+        "pop":63251
+    },
+    {
+        "id":2487293,
+        "name":"Mohammadia",
+        "country":"DZ",
+        "admin1":"Mascara",
+        "admin2":"Daïra de Mohammadia",
+        "lat":35.58861,
+        "lon":0.06861,
+        "pop":62410
+    },
+    {
+        "id":2491578,
+        "name":"Kolea",
+        "country":"DZ",
+        "admin1":"Tipaza",
+        "admin2":"Kolea",
+        "lat":36.63888,
+        "lon":2.76845,
+        "pop":61643
+    },
+    {
+        "id":2479609,
+        "name":"Sig",
+        "country":"DZ",
+        "admin1":"Mascara",
+        "admin2":"Sig",
+        "lat":35.52832,
+        "lon":-0.19369,
+        "pop":61373
+    },
+    {
+        "id":12326384,
+        "name":"District of Taher",
+        "country":"DZ",
+        "admin1":"Jijel",
+        "admin2":"",
+        "lat":36.772,
+        "lon":5.8982,
+        "pop":60426
+    },
+    {
+        "id":2498954,
+        "name":"Ech Chettia",
+        "country":"DZ",
+        "admin1":"Chlef",
+        "admin2":"Ouled Fares",
+        "lat":36.19591,
+        "lon":1.25537,
+        "pop":60170
+    },
+    {
+        "id":2491323,
+        "name":"Ksar el Boukhari",
+        "country":"DZ",
+        "admin1":"Medea",
+        "admin2":"Daïra de Ksar el Boukhari",
+        "lat":35.88889,
+        "lon":2.74905,
+        "pop":59634
+    },
+    {
+        "id":2495524,
+        "name":"Guerara",
+        "country":"DZ",
+        "admin1":"Ghardaia",
+        "admin2":"El Guerrara",
+        "lat":32.79211,
+        "lon":4.49949,
+        "pop":58572
+    },
+    {
+        "id":2484933,
+        "name":"Ouled Djellal",
+        "country":"DZ",
+        "admin1":"Ouled Djellal",
+        "admin2":"",
+        "lat":34.43,
+        "lon":5.06139,
+        "pop":58481
+    },
+    {
+        "id":2491050,
+        "name":"Larbaâ",
+        "country":"DZ",
+        "admin1":"Blida",
+        "admin2":"Larbaa",
+        "lat":36.56471,
+        "lon":3.15434,
+        "pop":58295
+    },
+    {
+        "id":2506385,
+        "name":"Arzew",
+        "country":"DZ",
+        "admin1":"Oran",
+        "admin2":"Arzew",
+        "lat":35.85048,
+        "lon":-0.318,
+        "pop":58162
+    },
+    {
+        "id":2498305,
+        "name":"El Menia",
+        "country":"DZ",
+        "admin1":"El Menia",
+        "admin2":"El Ménia District",
+        "lat":30.57556,
+        "lon":2.88417,
+        "pop":57344
+    },
+    {
+        "id":2503181,
+        "name":"Boufarik",
+        "country":"DZ",
+        "admin1":"Blida",
+        "admin2":"Boufarik",
+        "lat":36.57413,
+        "lon":2.91214,
+        "pop":57162
+    },
+    {
+        "id":2503229,
+        "name":"Boudouaou",
+        "country":"DZ",
+        "admin1":"Boumerdes",
+        "admin2":"Boudouaou",
+        "lat":36.72735,
+        "lon":3.40995,
+        "pop":56398
+    },
+    {
+        "id":2504099,
+        "name":"Berrouaghia",
+        "country":"DZ",
+        "admin1":"Medea",
+        "admin2":"Berrouaghia",
+        "lat":36.13516,
+        "lon":2.91085,
+        "pop":55775
+    },
+    {
+        "id":2507877,
+        "name":"Aïn Touta",
+        "country":"DZ",
+        "admin1":"Batna",
+        "admin2":"Ain Touta",
+        "lat":35.37675,
+        "lon":5.90001,
+        "pop":55736
+    },
+    {
+        "id":2485582,
+        "name":"Oued Rhiou",
+        "country":"DZ",
+        "admin1":"Relizane",
+        "admin2":"Daïra d’Oued Ghiou",
+        "lat":35.96124,
+        "lon":0.91896,
+        "pop":55430
+    },
+    {
+        "id":2508228,
+        "name":"Aïn Defla",
+        "country":"DZ",
+        "admin1":"Aïn Defla",
+        "admin2":"",
+        "lat":36.26405,
+        "lon":1.9679,
+        "pop":55259
+    },
+    {
+        "id":2499055,
+        "name":"Drean",
+        "country":"DZ",
+        "admin1":"El Tarf",
+        "admin2":"Dréan District",
+        "lat":36.68482,
+        "lon":7.75111,
+        "pop":55147
+    },
+    {
+        "id":2483757,
+        "name":"Reghaïa",
+        "country":"DZ",
+        "admin1":"Algiers",
+        "admin2":"Rouiba",
+        "lat":36.73587,
+        "lon":3.34018,
+        "pop":54962
+    },
+    {
+        "id":2503755,
+        "name":"Boghni",
+        "country":"DZ",
+        "admin1":"Tizi Ouzou",
+        "admin2":"Boghni",
+        "lat":36.54222,
+        "lon":3.95306,
+        "pop":54666
+    },
+    {
+        "id":2501541,
+        "name":"Chelghoum el Aïd",
+        "country":"DZ",
+        "admin1":"Mila",
+        "admin2":"Chelghoum Laïd District",
+        "lat":36.16286,
+        "lon":6.16651,
+        "pop":54495
+    },
+    {
+        "id":2494065,
+        "name":"Assi Bou Nif",
+        "country":"DZ",
+        "admin1":"Oran",
+        "admin2":"Bir El Djir",
+        "lat":35.69222,
+        "lon":-0.49944,
+        "pop":53700
+    },
+    {
+        "id":2490183,
+        "name":"Mansoûra",
+        "country":"DZ",
+        "admin1":"Tlemcen",
+        "admin2":"Mansourah",
+        "lat":34.86158,
+        "lon":-1.33935,
+        "pop":52285
+    },
+    {
+        "id":2497269,
+        "name":"En Nedjma",
+        "country":"DZ",
+        "admin1":"Oran",
+        "admin2":"Es Senia",
+        "lat":35.64785,
+        "lon":-0.5695,
+        "pop":51665
+    },
+    {
+        "id":2491335,
+        "name":"Ksar Chellala",
+        "country":"DZ",
+        "admin1":"Tiaret",
+        "admin2":"Ksar Chellala",
+        "lat":35.21222,
+        "lon":2.31889,
+        "pop":51451
+    },
+    {
+        "id":2507979,
+        "name":"Aïn Oulmene",
+        "country":"DZ",
+        "admin1":"Sétif",
+        "admin2":"Aïn Oulmene",
+        "lat":35.92296,
+        "lon":5.29604,
+        "pop":51207
+    },
+    {
+        "id":2475612,
+        "name":"Tolga",
+        "country":"DZ",
+        "admin1":"Biskra",
+        "admin2":"Tolga",
+        "lat":34.72224,
+        "lon":5.37845,
+        "pop":50575
+    },
+    {
+        "id":2496232,
+        "name":"Frenda",
+        "country":"DZ",
+        "admin1":"Tiaret",
+        "admin2":"Daïra de Frenda",
+        "lat":35.06544,
+        "lon":1.04945,
+        "pop":49376
+    },
+    {
+        "id":2508102,
+        "name":"Aïn Fakroun",
+        "country":"DZ",
+        "admin1":"Oum el Bouaghi",
+        "admin2":"Ain Fekroun",
+        "lat":35.97108,
+        "lon":6.87374,
+        "pop":48804
+    },
+    {
+        "id":2495601,
+        "name":"Guemar",
+        "country":"DZ",
+        "admin1":"El Oued",
+        "admin2":"Guemar",
+        "lat":33.48529,
+        "lon":6.79693,
+        "pop":48413
+    },
+    {
+        "id":2487882,
+        "name":"Merouana",
+        "country":"DZ",
+        "admin1":"Batna",
+        "admin2":"Daïra de Merouana",
+        "lat":35.63106,
+        "lon":5.91186,
+        "pop":47646
+    },
+    {
+        "id":2507943,
+        "name":"Aïn Sefra",
+        "country":"DZ",
+        "admin1":"Naama",
+        "admin2":"Daïra d’‘Aïn Sefra",
+        "lat":32.75,
+        "lon":-0.58333,
+        "pop":47415
+    },
+    {
+        "id":2485540,
+        "name":"Ouenza",
+        "country":"DZ",
+        "admin1":"Tébessa",
+        "admin2":"Ouenza",
+        "lat":35.95333,
+        "lon":8.12917,
+        "pop":47312
+    },
+    {
+        "id":2491913,
+        "name":"Khemis el Khechna",
+        "country":"DZ",
+        "admin1":"Boumerdes",
+        "admin2":"Khemis El Khechna",
+        "lat":36.64997,
+        "lon":3.3308,
+        "pop":46965
+    },
+    {
+        "id":2499193,
+        "name":"Douéra",
+        "country":"DZ",
+        "admin1":"Algiers",
+        "admin2":"Draria",
+        "lat":36.67,
+        "lon":2.94444,
+        "pop":46266
+    },
+    {
+        "id":2497509,
+        "name":"El Milia",
+        "country":"DZ",
+        "admin1":"Jijel",
+        "admin2":"Daïra d’El Milia",
+        "lat":36.75472,
+        "lon":6.2725,
+        "pop":45945
+    },
+    {
+        "id":2476301,
+        "name":"Tindouf",
+        "country":"DZ",
+        "admin1":"Tindouf",
+        "admin2":"",
+        "lat":27.67111,
+        "lon":-8.14743,
+        "pop":45610
+    },
+    {
+        "id":2482090,
+        "name":"Sedrata",
+        "country":"DZ",
+        "admin1":"Souk Ahras",
+        "admin2":"Sedrata",
+        "lat":36.12868,
+        "lon":7.53376,
+        "pop":45300
+    },
+    {
+        "id":12640239,
+        "name":"Sidi Amar",
+        "country":"DZ",
+        "admin1":"Annaba",
+        "admin2":"El Hadjar",
+        "lat":36.82019,
+        "lon":7.71641,
+        "pop":45148
+    },
+    {
+        "id":2483936,
+        "name":"Râs el Oued",
+        "country":"DZ",
+        "admin1":"Bordj Bou Arréridj",
+        "admin2":"Ras El Oued",
+        "lat":35.9441,
+        "lon":5.03107,
+        "pop":44947
+    },
+    {
+        "id":2503641,
+        "name":"Bordj Menaïel",
+        "country":"DZ",
+        "admin1":"Boumerdes",
+        "admin2":"Daïra de Bordj Menaïel",
+        "lat":36.74328,
+        "lon":3.7173,
+        "pop":44572
+    },
+    {
+        "id":2485618,
+        "name":"Oued Fodda",
+        "country":"DZ",
+        "admin1":"Chlef",
+        "admin2":"Oued Fodda",
+        "lat":36.18503,
+        "lon":1.53299,
+        "pop":44523
+    },
+    {
+        "id":2494029,
+        "name":"Hassi Messaoud",
+        "country":"DZ",
+        "admin1":"Ouargla",
+        "admin2":"Hassi Messaoud",
+        "lat":31.68041,
+        "lon":6.07286,
+        "pop":44478
+    },
+    {
+        "id":2503468,
+        "name":"Boû Arfa",
+        "country":"DZ",
+        "admin1":"Blida",
+        "admin2":"Daïra de Blida",
+        "lat":36.46298,
+        "lon":2.81464,
+        "pop":44143
+    },
+    {
+        "id":2479161,
+        "name":"Sour el Ghozlane",
+        "country":"DZ",
+        "admin1":"Bouira",
+        "admin2":"Daïra de Sour el Ghozlane",
+        "lat":36.14766,
+        "lon":3.69123,
+        "pop":43985
+    },
+    {
+        "id":2487444,
+        "name":"Miliana",
+        "country":"DZ",
+        "admin1":"Aïn Defla",
+        "admin2":"Daïra de Miliana",
+        "lat":36.30554,
+        "lon":2.2248,
+        "pop":43366
+    },
+    {
+        "id":2491134,
+        "name":"Lakhdaria",
+        "country":"DZ",
+        "admin1":"Bouira",
+        "admin2":"Daïra de Lakhdaria",
+        "lat":36.56463,
+        "lon":3.5933,
+        "pop":42886
+    },
+    {
+        "id":2478876,
+        "name":"Tadjenanet",
+        "country":"DZ",
+        "admin1":"Mila",
+        "admin2":"Tadjenanet",
+        "lat":36.12129,
+        "lon":5.9867,
+        "pop":41833
+    },
+    {
+        "id":2477528,
+        "name":"Tazoult-Lambese",
+        "country":"DZ",
+        "admin1":"Batna",
+        "admin2":"Tazoult",
+        "lat":35.48171,
+        "lon":6.26074,
+        "pop":41636
+    },
+    {
+        "id":2499104,
+        "name":"Draa el Mizan",
+        "country":"DZ",
+        "admin1":"Tizi Ouzou",
+        "admin2":"Daïra de Draa el Mizan",
+        "lat":36.53628,
+        "lon":3.8334,
+        "pop":41263
+    },
+    {
+        "id":2476396,
+        "name":"Timizart",
+        "country":"DZ",
+        "admin1":"Tizi Ouzou",
+        "admin2":"Ouaguenoun",
+        "lat":36.8,
+        "lon":4.26667,
+        "pop":41158
+    },
+    {
+        "id":2477462,
+        "name":"Tebesbest",
+        "country":"DZ",
+        "admin1":"Touggourt",
+        "admin2":"",
+        "lat":33.11667,
+        "lon":6.08333,
+        "pop":41091
+    },
+    {
+        "id":2502939,
+        "name":"Bou Ismaïl",
+        "country":"DZ",
+        "admin1":"Tipaza",
+        "admin2":"Bou Ismail",
+        "lat":36.64262,
+        "lon":2.69007,
+        "pop":40984
+    },
+    {
+        "id":2488722,
+        "name":"Meftah",
+        "country":"DZ",
+        "admin1":"Blida",
+        "admin2":"Meftah",
+        "lat":36.6204,
+        "lon":3.22248,
+        "pop":40878
+    },
+    {
+        "id":2479183,
+        "name":"Souma",
+        "country":"DZ",
+        "admin1":"Blida",
+        "admin2":"Boufarik",
+        "lat":36.51833,
+        "lon":2.90528,
+        "pop":40745
+    },
+    {
+        "id":2484835,
+        "name":"Ouled Moussa",
+        "country":"DZ",
+        "admin1":"Boumerdes",
+        "admin2":"Khemis El Khechna",
+        "lat":36.68394,
+        "lon":3.36661,
+        "pop":40692
+    },
+    {
+        "id":2482939,
+        "name":"Rouached",
+        "country":"DZ",
+        "admin1":"Mila",
+        "admin2":"Rouached",
+        "lat":36.45774,
+        "lon":6.04267,
+        "pop":40263
+    },
+    {
+        "id":2493956,
+        "name":"Héliopolis",
+        "country":"DZ",
+        "admin1":"Guelma",
+        "admin2":"Heliopolis",
+        "lat":36.50361,
+        "lon":7.44278,
+        "pop":40139
+    },
+    {
+        "id":2476700,
+        "name":"Tighenif",
+        "country":"DZ",
+        "admin1":"Mascara",
+        "admin2":"Daïra de Tighennif",
+        "lat":35.41722,
+        "lon":0.32982,
+        "pop":39938
+    },
+    {
+        "id":2504581,
+        "name":"Beni Saf",
+        "country":"DZ",
+        "admin1":"Aïn Témouchent",
+        "admin2":"Daïra de Beni Saf",
+        "lat":35.30099,
+        "lon":-1.38226,
+        "pop":39749
+    },
+    {
+        "id":2498172,
+        "name":"El Hadjira",
+        "country":"DZ",
+        "admin1":"Ouargla",
+        "admin2":"",
+        "lat":32.61336,
+        "lon":5.51259,
+        "pop":39744
+    },
+    {
+        "id":2487620,
+        "name":"Metlili Chaamba",
+        "country":"DZ",
+        "admin1":"Ghardaia",
+        "admin2":"Metlili",
+        "lat":32.26667,
+        "lon":3.63333,
+        "pop":39588
+    },
+    {
+        "id":2498775,
+        "name":"El Abiodh Sidi Cheikh",
+        "country":"DZ",
+        "admin1":"El Bayadh",
+        "admin2":"Labiodh Sidi Cheikh",
+        "lat":32.893,
+        "lon":0.54839,
+        "pop":39283
+    },
+    {
+        "id":2497655,
+        "name":"El Meghaïer",
+        "country":"DZ",
+        "admin1":"El Mghair",
+        "admin2":"",
+        "lat":33.95139,
+        "lon":5.92222,
+        "pop":39106
+    },
+    {
+        "id":2497060,
+        "name":"Es Senia",
+        "country":"DZ",
+        "admin1":"Oran",
+        "admin2":"Es Senia",
+        "lat":35.64779,
+        "lon":-0.62397,
+        "pop":39064
+    },
+    {
+        "id":2480368,
+        "name":"Sidi Khaled",
+        "country":"DZ",
+        "admin1":"Ouled Djellal",
+        "admin2":"",
+        "lat":34.387,
+        "lon":4.98785,
+        "pop":38987
+    },
+    {
+        "id":2503147,
+        "name":"Bougara",
+        "country":"DZ",
+        "admin1":"Blida",
+        "admin2":"Bougara",
+        "lat":36.54178,
+        "lon":3.081,
+        "pop":38352
+    },
+    {
+        "id":2507646,
+        "name":"Akbou",
+        "country":"DZ",
+        "admin1":"Béjaïa",
+        "admin2":"Daïra d’Akbou",
+        "lat":36.4575,
+        "lon":4.53494,
+        "pop":38291
+    },
+    {
+        "id":2508295,
+        "name":"’Aïn Azel",
+        "country":"DZ",
+        "admin1":"Sétif",
+        "admin2":"Ain Azel",
+        "lat":35.81846,
+        "lon":5.51115,
+        "pop":37970
+    },
+    {
+        "id":2500889,
+        "name":"Dar el Beïda",
+        "country":"DZ",
+        "admin1":"Algiers",
+        "admin2":"Daïra de Dar el Beïda",
+        "lat":36.71333,
+        "lon":3.2125,
+        "pop":37311
+    },
+    {
+        "id":2508174,
+        "name":"Aïn el Bya",
+        "country":"DZ",
+        "admin1":"Oran",
+        "admin2":"Bethioua",
+        "lat":35.80389,
+        "lon":-0.30178,
+        "pop":37241
+    },
+    {
+        "id":2500737,
+        "name":"Debila",
+        "country":"DZ",
+        "admin1":"El Oued",
+        "admin2":"Debila",
+        "lat":33.51667,
+        "lon":6.95,
+        "pop":36834
+    },
+    {
+        "id":2501362,
+        "name":"Chetouane",
+        "country":"DZ",
+        "admin1":"Tlemcen",
+        "admin2":"Chetouane",
+        "lat":34.92129,
+        "lon":-1.29512,
+        "pop":36776
+    },
+    {
+        "id":2506404,
+        "name":"Arris",
+        "country":"DZ",
+        "admin1":"Batna",
+        "admin2":"Daïra d’Arris",
+        "lat":35.25881,
+        "lon":6.34706,
+        "pop":36641
+    },
+    {
+        "id":2489922,
+        "name":"M’Daourouch",
+        "country":"DZ",
+        "admin1":"Souk Ahras",
+        "admin2":"M'daourouche",
+        "lat":36.07821,
+        "lon":7.8196,
+        "pop":36351
+    },
+    {
+        "id":2508119,
+        "name":"’Aïn el Turk",
+        "country":"DZ",
+        "admin1":"Oran",
+        "admin2":"Ain Turk",
+        "lat":35.74381,
+        "lon":-0.7693,
+        "pop":36326
+    },
+    {
+        "id":2508225,
+        "name":"’Aïn Deheb",
+        "country":"DZ",
+        "admin1":"Tiaret",
+        "admin2":"Ain Deheb",
+        "lat":34.84218,
+        "lon":1.54697,
+        "pop":36146
+    },
+    {
+        "id":2480618,
+        "name":"Sidi ech Chahmi",
+        "country":"DZ",
+        "admin1":"Oran",
+        "admin2":"Es Senia",
+        "lat":35.65903,
+        "lon":-0.52168,
+        "pop":35512
+    },
+    {
+        "id":2497988,
+        "name":"El Kala",
+        "country":"DZ",
+        "admin1":"El Tarf",
+        "admin2":"Daïra d’El Kala",
+        "lat":36.89556,
+        "lon":8.44333,
+        "pop":35449
+    },
+    {
+        "id":2498752,
+        "name":"El Affroun",
+        "country":"DZ",
+        "admin1":"Blida",
+        "admin2":"El Affroun",
+        "lat":36.4701,
+        "lon":2.62528,
+        "pop":35074
+    },
+    {
+        "id":2500282,
+        "name":"Djamaa",
+        "country":"DZ",
+        "admin1":"El Mghair",
+        "admin2":"",
+        "lat":33.53388,
+        "lon":5.99306,
+        "pop":34920
+    },
+    {
+        "id":2490297,
+        "name":"Makouda",
+        "country":"DZ",
+        "admin1":"Tizi Ouzou",
+        "admin2":"Makouda",
+        "lat":36.78567,
+        "lon":4.06273,
+        "pop":34515
+    },
+    {
+        "id":2508010,
+        "name":"’Aïn Merane",
+        "country":"DZ",
+        "admin1":"Chlef",
+        "admin2":"Ain Merane",
+        "lat":36.16277,
+        "lon":0.97037,
+        "pop":34413
+    },
+    {
+        "id":2501440,
+        "name":"Cherchell",
+        "country":"DZ",
+        "admin1":"Tipaza",
+        "admin2":"Daïra de Cherchell",
+        "lat":36.605,
+        "lon":2.19083,
+        "pop":34372
+    },
+    {
+        "id":2483968,
+        "name":"Râs el Aïoun",
+        "country":"DZ",
+        "admin1":"Batna",
+        "admin2":"Ras El Aioun",
+        "lat":35.67384,
+        "lon":5.6453,
+        "pop":34167
+    },
+    {
+        "id":2503654,
+        "name":"Bordj Ghdir",
+        "country":"DZ",
+        "admin1":"Bordj Bou Arréridj",
+        "admin2":"Bordj Ghedir",
+        "lat":35.90111,
+        "lon":4.89806,
+        "pop":34136
+    },
+    {
+        "id":2504553,
+        "name":"Beni Tamou",
+        "country":"DZ",
+        "admin1":"Blida",
+        "admin2":"Oued El Alleug",
+        "lat":36.53833,
+        "lon":2.82174,
+        "pop":33846
+    },
+    {
+        "id":2494962,
+        "name":"Hadjout",
+        "country":"DZ",
+        "admin1":"Tipaza",
+        "admin2":"Hadjout",
+        "lat":36.51257,
+        "lon":2.41382,
+        "pop":33830
+    },
+    {
+        "id":2505915,
+        "name":"Azzaba",
+        "country":"DZ",
+        "admin1":"Skikda",
+        "admin2":"Azzaba",
+        "lat":36.73944,
+        "lon":7.10528,
+        "pop":33766
+    },
+    {
+        "id":2504703,
+        "name":"Beni Douala",
+        "country":"DZ",
+        "admin1":"Tizi Ouzou",
+        "admin2":"Beni Douala",
+        "lat":36.61954,
+        "lon":4.08282,
+        "pop":33611
+    },
+    {
+        "id":2507912,
+        "name":"Aïn Taya",
+        "country":"DZ",
+        "admin1":"Algiers",
+        "admin2":"Daïra de Dar el Beïda",
+        "lat":36.79333,
+        "lon":3.28694,
+        "pop":33575
+    },
+    {
+        "id":2498590,
+        "name":"El Attaf",
+        "country":"DZ",
+        "admin1":"Aïn Defla",
+        "admin2":"El Attaf",
+        "lat":36.22393,
+        "lon":1.67187,
+        "pop":33349
+    },
+    {
+        "id":2498614,
+        "name":"El Arrouch",
+        "country":"DZ",
+        "admin1":"Skikda",
+        "admin2":"El Harrouch",
+        "lat":36.65306,
+        "lon":6.83639,
+        "pop":33085
+    },
+    {
+        "id":2483761,
+        "name":"Reggane",
+        "country":"DZ",
+        "admin1":"Adrar",
+        "admin2":"Reggane",
+        "lat":26.71576,
+        "lon":0.1714,
+        "pop":32974
+    },
+    {
+        "id":2498667,
+        "name":"El Aouinet",
+        "country":"DZ",
+        "admin1":"Tébessa",
+        "admin2":"Daïra d’El Aouinet",
+        "lat":35.86691,
+        "lon":7.88673,
+        "pop":32971
+    },
+    {
+        "id":2508130,
+        "name":"’Aïn el Melh",
+        "country":"DZ",
+        "admin1":"M'Sila",
+        "admin2":"Ain El Melh",
+        "lat":34.84146,
+        "lon":4.16383,
+        "pop":32880
+    },
+    {
+        "id":2496059,
+        "name":"Gdyel",
+        "country":"DZ",
+        "admin1":"Oran",
+        "admin2":"Gdyel",
+        "lat":35.78111,
+        "lon":-0.42581,
+        "pop":32774
+    },
+    {
+        "id":2492809,
+        "name":"Kaïs",
+        "country":"DZ",
+        "admin1":"Khenchela",
+        "admin2":"Kais",
+        "lat":35.49474,
+        "lon":6.92492,
+        "pop":32668
+    },
+    {
+        "id":2478226,
+        "name":"Tamalous",
+        "country":"DZ",
+        "admin1":"Skikda",
+        "admin2":"Tamalous",
+        "lat":36.83763,
+        "lon":6.64018,
+        "pop":32579
+    },
+    {
+        "id":2482211,
+        "name":"Sebdou",
+        "country":"DZ",
+        "admin1":"Tlemcen",
+        "admin2":"Daïra de Sebdou",
+        "lat":34.63703,
+        "lon":-1.33143,
+        "pop":32570
+    },
+    {
+        "id":2508268,
+        "name":"Aïn Bessem",
+        "country":"DZ",
+        "admin1":"Bouira",
+        "admin2":"Ain Bessem",
+        "lat":36.29333,
+        "lon":3.67319,
+        "pop":32548
+    },
+    {
+        "id":6930641,
+        "name":"In Salah",
+        "country":"DZ",
+        "admin1":"In Salah",
+        "admin2":"",
+        "lat":27.19678,
+        "lon":2.47913,
+        "pop":32518
+    },
+    {
+        "id":2507926,
+        "name":"Aïn Smara",
+        "country":"DZ",
+        "admin1":"Constantine",
+        "admin2":"El Khroub",
+        "lat":36.2674,
+        "lon":6.50135,
+        "pop":32057
+    },
+    {
+        "id":2492920,
+        "name":"Djidiouia",
+        "country":"DZ",
+        "admin1":"Relizane",
+        "admin2":"Djidiouia",
+        "lat":35.92989,
+        "lon":0.82871,
+        "pop":31996
+    },
+    {
+        "id":2505651,
+        "name":"Barbacha",
+        "country":"DZ",
+        "admin1":"Béjaïa",
+        "admin2":"Barbacha",
+        "lat":36.56667,
+        "lon":4.96667,
+        "pop":31983
+    },
+    {
+        "id":2503156,
+        "name":"Bougaa",
+        "country":"DZ",
+        "admin1":"Sétif",
+        "admin2":"Daïra de Bougaa",
+        "lat":36.33293,
+        "lon":5.08843,
+        "pop":31922
+    },
+    {
+        "id":2508184,
+        "name":"’Aïn el Bell",
+        "country":"DZ",
+        "admin1":"Djelfa",
+        "admin2":"Ain El Ibel",
+        "lat":34.34381,
+        "lon":3.22475,
+        "pop":31916
+    },
+    {
+        "id":2476412,
+        "name":"el hed",
+        "country":"DZ",
+        "admin1":"Béjaïa",
+        "admin2":"El Kseur",
+        "lat":36.65,
+        "lon":4.77361,
+        "pop":31890
+    },
+    {
+        "id":2483649,
+        "name":"Remchi",
+        "country":"DZ",
+        "admin1":"Tlemcen",
+        "admin2":"Remchi",
+        "lat":35.06196,
+        "lon":-1.43362,
+        "pop":31837
+    },
+    {
+        "id":2488716,
+        "name":"Megarine",
+        "country":"DZ",
+        "admin1":"Touggourt",
+        "admin2":"",
+        "lat":33.19195,
+        "lon":6.08695,
+        "pop":31711
+    },
+    {
+        "id":2488616,
+        "name":"Mehdia daira de meghila",
+        "country":"DZ",
+        "admin1":"Tiaret",
+        "admin2":"Mahdia",
+        "lat":35.43058,
+        "lon":1.75714,
+        "pop":31396
+    },
+    {
+        "id":2508275,
+        "name":"’Aïn Benian",
+        "country":"DZ",
+        "admin1":"Algiers",
+        "admin2":"Cheraga",
+        "lat":36.80277,
+        "lon":2.92185,
+        "pop":31102
+    },
+    {
+        "id":2496241,
+        "name":"Freha",
+        "country":"DZ",
+        "admin1":"Tizi Ouzou",
+        "admin2":"Daïra d’Azazga",
+        "lat":36.75234,
+        "lon":4.3155,
+        "pop":31068
+    },
+    {
+        "id":2479966,
+        "name":"Sidi Moussa",
+        "country":"DZ",
+        "admin1":"Algiers",
+        "admin2":"Baraki",
+        "lat":36.60637,
+        "lon":3.08783,
+        "pop":30887
+    },
+    {
+        "id":2491042,
+        "name":"L’Arbaa Naït Irathen",
+        "country":"DZ",
+        "admin1":"Tizi Ouzou",
+        "admin2":"Daïra de L’Arbaa Naït Irathen",
+        "lat":36.63112,
+        "lon":4.19864,
+        "pop":30609
+    },
+    {
+        "id":2508059,
+        "name":"Aïn Kercha",
+        "country":"DZ",
+        "admin1":"Oum el Bouaghi",
+        "admin2":"Ain Kercha",
+        "lat":35.92472,
+        "lon":6.69528,
+        "pop":30575
+    },
+    {
+        "id":2485572,
+        "name":"Oued Sly",
+        "country":"DZ",
+        "admin1":"Chlef",
+        "admin2":"Boukadir",
+        "lat":36.10124,
+        "lon":1.19949,
+        "pop":30504
+    },
+    {
+        "id":2483000,
+        "name":"Robbah",
+        "country":"DZ",
+        "admin1":"El Oued",
+        "admin2":"Robbah",
+        "lat":33.27967,
+        "lon":6.90984,
+        "pop":30446
+    },
+    {
+        "id":2502962,
+        "name":"Bouinan",
+        "country":"DZ",
+        "admin1":"Blida",
+        "admin2":"Bouinan",
+        "lat":36.53167,
+        "lon":2.99194,
+        "pop":30271
+    },
+    {
+        "id":2504110,
+        "name":"Berriane",
+        "country":"DZ",
+        "admin1":"Ghardaia",
+        "admin2":"Berriane",
+        "lat":32.82648,
+        "lon":3.76689,
+        "pop":30170
+    },
+    {
+        "id":2487805,
+        "name":"Meskiana",
+        "country":"DZ",
+        "admin1":"Oum el Bouaghi",
+        "admin2":"Meskiana",
+        "lat":35.63058,
+        "lon":7.66606,
+        "pop":30071
+    },
+    {
+        "id":2479203,
+        "name":"Lardjem",
+        "country":"DZ",
+        "admin1":"Tissemsilt",
+        "admin2":"Lardjem",
+        "lat":35.74922,
+        "lon":1.54778,
+        "pop":30000
+    },
+    {
+        "id":2498000,
+        "name":"El Idrissia",
+        "country":"DZ",
+        "admin1":"Djelfa",
+        "admin2":"El Idrissia",
+        "lat":34.44542,
+        "lon":2.52749,
+        "pop":29856
+    },
+    {
+        "id":2481058,
+        "name":"Sidi Amrane",
+        "country":"DZ",
+        "admin1":"El Mghair",
+        "admin2":"",
+        "lat":33.49885,
+        "lon":6.00803,
+        "pop":29734
+    },
+    {
+        "id":2508455,
+        "name":"Ahmed Bel Hadj",
+        "country":"DZ",
+        "admin1":"Annaba",
+        "admin2":"El Bouni",
+        "lat":36.80146,
+        "lon":7.60811,
+        "pop":29629
+    },
+    {
+        "id":2488500,
+        "name":"Mekla",
+        "country":"DZ",
+        "admin1":"Tizi Ouzou",
+        "admin2":"Mekla",
+        "lat":36.68178,
+        "lon":4.26378,
+        "pop":29560
+    },
+    {
+        "id":2479916,
+        "name":"Sidi Okba",
+        "country":"DZ",
+        "admin1":"Biskra",
+        "admin2":"Sidi Okba",
+        "lat":34.74512,
+        "lon":5.89833,
+        "pop":29499
+    },
+    {
+        "id":2508309,
+        "name":"’Aïn Abid",
+        "country":"DZ",
+        "admin1":"Constantine",
+        "admin2":"Ain Abid",
+        "lat":36.23194,
+        "lon":6.94333,
+        "pop":29486
+    },
+    {
+        "id":2486177,
+        "name":"N’Gaous",
+        "country":"DZ",
+        "admin1":"Batna",
+        "admin2":"N'gaous",
+        "lat":35.555,
+        "lon":5.61056,
+        "pop":29453
+    },
+    {
+        "id":2499116,
+        "name":"Draa Ben Khedda",
+        "country":"DZ",
+        "admin1":"Tizi Ouzou",
+        "admin2":"Draa Ben Khedda",
+        "lat":36.73436,
+        "lon":3.96223,
+        "pop":29403
+    },
+    {
+        "id":12640237,
+        "name":"Collo",
+        "country":"DZ",
+        "admin1":"Skikda",
+        "admin2":"Daïra de Collo",
+        "lat":37.00563,
+        "lon":6.56049,
+        "pop":29354
+    },
+    {
+        "id":2477148,
+        "name":"Ténès",
+        "country":"DZ",
+        "admin1":"Chlef",
+        "admin2":"Daïra de Ténès",
+        "lat":36.51076,
+        "lon":1.30809,
+        "pop":29220
+    },
+    {
+        "id":2484891,
+        "name":"Ouled Haddaj",
+        "country":"DZ",
+        "admin1":"Boumerdes",
+        "admin2":"Boudouaou",
+        "lat":36.71461,
+        "lon":3.3422,
+        "pop":29012
+    },
+    {
+        "id":2474141,
+        "name":"Boumerdas",
+        "country":"DZ",
+        "admin1":"Boumerdes",
+        "admin2":"",
+        "lat":36.76639,
+        "lon":3.47717,
+        "pop":28996
+    },
+    {
+        "id":2474399,
+        "name":"Zighout Youcef",
+        "country":"DZ",
+        "admin1":"Constantine",
+        "admin2":"Zighoud Youcef",
+        "lat":36.53307,
+        "lon":6.71237,
+        "pop":28764
+    },
+    {
+        "id":2508157,
+        "name":"Ain el Hadjel",
+        "country":"DZ",
+        "admin1":"M'Sila",
+        "admin2":"Ain El Hadjel",
+        "lat":35.67003,
+        "lon":3.88153,
+        "pop":28728
+    },
+    {
+        "id":2502924,
+        "name":"Boukadir",
+        "country":"DZ",
+        "admin1":"Chlef",
+        "admin2":"Boukadir",
+        "lat":36.06629,
+        "lon":1.12602,
+        "pop":28652
+    },
+    {
+        "id":2486825,
+        "name":"Mouzaïa",
+        "country":"DZ",
+        "admin1":"Blida",
+        "admin2":"Mouzaia",
+        "lat":36.46695,
+        "lon":2.68991,
+        "pop":28552
+    },
+    {
+        "id":2495846,
+        "name":"Grarem",
+        "country":"DZ",
+        "admin1":"Mila",
+        "admin2":"Grarem Gouga",
+        "lat":36.51611,
+        "lon":6.32722,
+        "pop":28551
+    },
+    {
+        "id":2494548,
+        "name":"Hammamet",
+        "country":"DZ",
+        "admin1":"Tébessa",
+        "admin2":"Bir Mokadem",
+        "lat":35.44862,
+        "lon":7.95184,
+        "pop":28536
+    },
+    {
+        "id":2496042,
+        "name":"Ghazaouet",
+        "country":"DZ",
+        "admin1":"Tlemcen",
+        "admin2":"Daïra de Ghazaouet",
+        "lat":35.09579,
+        "lon":-1.85772,
+        "pop":28433
+    },
+    {
+        "id":2504486,
+        "name":"Ben Mehidi",
+        "country":"DZ",
+        "admin1":"El Tarf",
+        "admin2":"Ben M'hidi",
+        "lat":36.76967,
+        "lon":7.90641,
+        "pop":28398
+    },
+    {
+        "id":2508152,
+        "name":"’Aïn el Hammam",
+        "country":"DZ",
+        "admin1":"Tizi Ouzou",
+        "admin2":"Ain El Hammam",
+        "lat":36.56471,
+        "lon":4.30619,
+        "pop":28029
+    },
+    {
+        "id":2475764,
+        "name":"Tizi Gheniff",
+        "country":"DZ",
+        "admin1":"Tizi Ouzou",
+        "admin2":"Tizi-Ghenif",
+        "lat":36.58839,
+        "lon":3.77445,
+        "pop":27974
+    },
+    {
+        "id":2481639,
+        "name":"Sfizef",
+        "country":"DZ",
+        "admin1":"Sidi Bel Abbès",
+        "admin2":"Sfisef",
+        "lat":35.23464,
+        "lon":-0.24435,
+        "pop":27914
+    },
+    {
+        "id":2501465,
+        "name":"Cheraga",
+        "country":"DZ",
+        "admin1":"Algiers",
+        "admin2":"Cheraga",
+        "lat":36.76775,
+        "lon":2.95924,
+        "pop":27835
+    },
+    {
+        "id":2486284,
+        "name":"Nedroma",
+        "country":"DZ",
+        "admin1":"Tlemcen",
+        "admin2":"Nedroma",
+        "lat":35.01361,
+        "lon":-1.74799,
+        "pop":27742
+    },
+    {
+        "id":2501767,
+        "name":"Charef",
+        "country":"DZ",
+        "admin1":"Djelfa",
+        "admin2":"Charef",
+        "lat":34.62098,
+        "lon":2.79503,
+        "pop":27700
+    },
+    {
+        "id":2476915,
+        "name":"Theniet el Had",
+        "country":"DZ",
+        "admin1":"Tissemsilt",
+        "admin2":"Daïra de Theniet el Had",
+        "lat":35.87111,
+        "lon":2.02806,
+        "pop":27628
+    },
+    {
+        "id":2503033,
+        "name":"Bou Hanifia el Hamamat",
+        "country":"DZ",
+        "admin1":"Mascara",
+        "admin2":"Bouhanifia",
+        "lat":35.31473,
+        "lon":-0.05037,
+        "pop":27576
+    },
+    {
+        "id":2484777,
+        "name":"Ouled Slama Fouaga",
+        "country":"DZ",
+        "admin1":"Blida",
+        "admin2":"Bougara",
+        "lat":36.54828,
+        "lon":3.11006,
+        "pop":27573
+    },
+    {
+        "id":2507155,
+        "name":"Ammi Moussa",
+        "country":"DZ",
+        "admin1":"Relizane",
+        "admin2":"Ammi Moussa",
+        "lat":35.86781,
+        "lon":1.11143,
+        "pop":27530
+    },
+    {
+        "id":2485551,
+        "name":"Oued Zenati",
+        "country":"DZ",
+        "admin1":"Guelma",
+        "admin2":"Oued Zenati",
+        "lat":36.31611,
+        "lon":7.16364,
+        "pop":27441
+    },
+    {
+        "id":2498782,
+        "name":"El Abadia",
+        "country":"DZ",
+        "admin1":"Aïn Defla",
+        "admin2":"El Abadia",
+        "lat":36.26951,
+        "lon":1.68609,
+        "pop":27185
+    },
+    {
+        "id":2492345,
+        "name":"Kerkera",
+        "country":"DZ",
+        "admin1":"Skikda",
+        "admin2":"Tamalous",
+        "lat":36.92917,
+        "lon":6.58556,
+        "pop":27177
+    },
+    {
+        "id":2496643,
+        "name":"Feidh el Botma",
+        "country":"DZ",
+        "admin1":"Djelfa",
+        "admin2":"Faidh El Botma",
+        "lat":34.5,
+        "lon":3.76667,
+        "pop":26857
+    },
+    {
+        "id":2503852,
+        "name":"Birine",
+        "country":"DZ",
+        "admin1":"Djelfa",
+        "admin2":"Birine",
+        "lat":35.635,
+        "lon":3.225,
+        "pop":26670
+    },
+    {
+        "id":2500904,
+        "name":"Dar Chioukh",
+        "country":"DZ",
+        "admin1":"Djelfa",
+        "admin2":"Dar Chioukh",
+        "lat":34.89638,
+        "lon":3.48543,
+        "pop":26605
+    },
+    {
+        "id":2481207,
+        "name":"Sidi Akkacha",
+        "country":"DZ",
+        "admin1":"Chlef",
+        "admin2":"Daïra de Ténès",
+        "lat":36.46472,
+        "lon":1.30258,
+        "pop":26558
+    },
+    {
+        "id":2506043,
+        "name":"Azazga",
+        "country":"DZ",
+        "admin1":"Tizi Ouzou",
+        "admin2":"Daïra d’Azazga",
+        "lat":36.74472,
+        "lon":4.37222,
+        "pop":26515
+    },
+    {
+        "id":2493918,
+        "name":"Hennaya",
+        "country":"DZ",
+        "admin1":"Tlemcen",
+        "admin2":"Hennaya",
+        "lat":34.95139,
+        "lon":-1.36806,
+        "pop":26515
+    },
+    {
+        "id":2498704,
+        "name":"El Amria",
+        "country":"DZ",
+        "admin1":"Aïn Témouchent",
+        "admin2":"El Amria",
+        "lat":35.52439,
+        "lon":-1.01577,
+        "pop":26407
+    },
+    {
+        "id":2500583,
+        "name":"Dellys",
+        "country":"DZ",
+        "admin1":"Boumerdes",
+        "admin2":"Dellys",
+        "lat":36.91716,
+        "lon":3.91311,
+        "pop":26384
+    },
+    {
+        "id":2475921,
+        "name":"Tirmitine",
+        "country":"DZ",
+        "admin1":"Tizi Ouzou",
+        "admin2":"Draa Ben Khedda",
+        "lat":36.65393,
+        "lon":3.98143,
+        "pop":26261
+    },
+    {
+        "id":2477255,
+        "name":"Telerghma",
+        "country":"DZ",
+        "admin1":"Mila",
+        "admin2":"Teleghma",
+        "lat":36.11653,
+        "lon":6.35434,
+        "pop":26248
+    },
+    {
+        "id":2496681,
+        "name":"Fedj M’Zala",
+        "country":"DZ",
+        "admin1":"Mila",
+        "admin2":"Ferdjioua",
+        "lat":36.40937,
+        "lon":5.94463,
+        "pop":26176
+    },
+    {
+        "id":2502239,
+        "name":"Bou Tlelis",
+        "country":"DZ",
+        "admin1":"Oran",
+        "admin2":"Boutlelis",
+        "lat":35.57272,
+        "lon":-0.8996,
+        "pop":26144
+    },
+    {
+        "id":12640238,
+        "name":"Maâtkas",
+        "country":"DZ",
+        "admin1":"Tizi Ouzou",
+        "admin2":"Maatkas",
+        "lat":36.60466,
+        "lon":3.98437,
+        "pop":26142
+    },
+    {
+        "id":2501525,
+        "name":"Chellalat el Adhaouara",
+        "country":"DZ",
+        "admin1":"Medea",
+        "admin2":"Chellalat El Adhaoura",
+        "lat":35.93968,
+        "lon":3.41588,
+        "pop":26077
+    },
+    {
+        "id":2498183,
+        "name":"El Hadjar",
+        "country":"DZ",
+        "admin1":"Annaba",
+        "admin2":"El Hadjar",
+        "lat":36.80377,
+        "lon":7.73684,
+        "pop":26060
+    },
+    {
+        "id":2497796,
+        "name":"El Kseur",
+        "country":"DZ",
+        "admin1":"Béjaïa",
+        "admin2":"El Kseur",
+        "lat":36.67942,
+        "lon":4.8555,
+        "pop":26050
+    },
+    {
+        "id":2494554,
+        "name":"Hammam Bou Hadjar",
+        "country":"DZ",
+        "admin1":"Aïn Témouchent",
+        "admin2":"Hammam Bou Hadjar",
+        "lat":35.37889,
+        "lon":-0.96778,
+        "pop":25912
+    },
+    {
+        "id":2507169,
+        "name":"Amizour",
+        "country":"DZ",
+        "admin1":"Béjaïa",
+        "admin2":"Amizour",
+        "lat":36.64022,
+        "lon":4.90131,
+        "pop":25825
+    },
+    {
+        "id":2500401,
+        "name":"Didouche Mourad",
+        "country":"DZ",
+        "admin1":"Constantine",
+        "admin2":"Hamma Bouziane",
+        "lat":36.4525,
+        "lon":6.63639,
+        "pop":25764
+    },
+    {
+        "id":2488202,
+        "name":"Melouza",
+        "country":"DZ",
+        "admin1":"M'Sila",
+        "admin2":"Hammam Dalaa",
+        "lat":35.97999,
+        "lon":4.18665,
+        "pop":25701
+    },
+    {
+        "id":2484846,
+        "name":"Ouled Mimoun",
+        "country":"DZ",
+        "admin1":"Tlemcen",
+        "admin2":"Ouled Mimoun",
+        "lat":34.90472,
+        "lon":-1.03394,
+        "pop":25377
+    },
+    {
+        "id":2508297,
+        "name":"Aïn Arnat",
+        "country":"DZ",
+        "admin1":"Sétif",
+        "admin2":"Ain Arnat",
+        "lat":36.18683,
+        "lon":5.31347,
+        "pop":25315
+    },
+    {
+        "id":2483746,
+        "name":"Reguiba",
+        "country":"DZ",
+        "admin1":"El Oued",
+        "admin2":"Reguiba",
+        "lat":33.56391,
+        "lon":6.70326,
+        "pop":25210
+    },
+    {
+        "id":2480198,
+        "name":"Sidi Mérouane",
+        "country":"DZ",
+        "admin1":"Mila",
+        "admin2":"Sidi Merouane",
+        "lat":36.52056,
+        "lon":6.26111,
+        "pop":25129
+    },
+    {
+        "id":2509031,
+        "name":"Abou el Hassan",
+        "country":"DZ",
+        "admin1":"Chlef",
+        "admin2":"Abou El Hassane",
+        "lat":36.41657,
+        "lon":1.19616,
+        "pop":24022
+    },
+    {
+        "id":2506519,
+        "name":"Arhribs",
+        "country":"DZ",
+        "admin1":"Tizi Ouzou",
+        "admin2":"Daïra d’Azazga",
+        "lat":36.79361,
+        "lon":4.31158,
+        "pop":23958
+    },
+    {
+        "id":2481389,
+        "name":"Sidi Abdelli",
+        "country":"DZ",
+        "admin1":"Tlemcen",
+        "admin2":"Bensekrane",
+        "lat":35.06937,
+        "lon":-1.13706,
+        "pop":23543
+    },
+    {
+        "id":2482447,
+        "name":"Salah Bey",
+        "country":"DZ",
+        "admin1":"Sétif",
+        "admin2":"Salah Bey",
+        "lat":35.85451,
+        "lon":5.29053,
+        "pop":23339
+    },
+    {
+        "id":2501323,
+        "name":"Chiffa",
+        "country":"DZ",
+        "admin1":"Blida",
+        "admin2":"Mouzaia",
+        "lat":36.46293,
+        "lon":2.73873,
+        "pop":23218
+    },
+    {
+        "id":2474506,
+        "name":"Zeribet el Oued",
+        "country":"DZ",
+        "admin1":"Biskra",
+        "admin2":"Zeribet El Oued",
+        "lat":34.68284,
+        "lon":6.51109,
+        "pop":23187
+    },
+    {
+        "id":2502686,
+        "name":"Boumahra Ahmed",
+        "country":"DZ",
+        "admin1":"Guelma",
+        "admin2":"Guelaat Bousbaa",
+        "lat":36.45833,
+        "lon":7.51389,
+        "pop":23022
+    },
+    {
+        "id":2485636,
+        "name":"Oued el Abtal",
+        "country":"DZ",
+        "admin1":"Mascara",
+        "admin2":"Oued El Abtal",
+        "lat":35.45595,
+        "lon":0.68778,
+        "pop":22819
+    },
+    {
+        "id":2475752,
+        "name":"Tizi-n-Tleta",
+        "country":"DZ",
+        "admin1":"Tizi Ouzou",
+        "admin2":"Ouadhias",
+        "lat":36.54569,
+        "lon":4.05712,
+        "pop":22404
+    },
+    {
+        "id":2489987,
+        "name":"Mazouna",
+        "country":"DZ",
+        "admin1":"Relizane",
+        "admin2":"Mazouna",
+        "lat":36.12232,
+        "lon":0.89865,
+        "pop":22366
+    },
+    {
+        "id":2490180,
+        "name":"Mansourah",
+        "country":"DZ",
+        "admin1":"Bordj Bou Arréridj",
+        "admin2":"Mansourah",
+        "lat":36.08725,
+        "lon":4.45192,
+        "pop":22117
+    },
+    {
+        "id":2476403,
+        "name":"Timimoun",
+        "country":"DZ",
+        "admin1":"Timimoun",
+        "admin2":"",
+        "lat":29.26417,
+        "lon":0.23583,
+        "pop":22086
+    },
+    {
+        "id":2474638,
+        "name":"Zemoura",
+        "country":"DZ",
+        "admin1":"Relizane",
+        "admin2":"Zemmoura",
+        "lat":35.72251,
+        "lon":0.75509,
+        "pop":21770
+    },
+    {
+        "id":2506795,
+        "name":"Aoulef",
+        "country":"DZ",
+        "admin1":"Adrar",
+        "admin2":"Aoulef",
+        "lat":26.96667,
+        "lon":1.08333,
+        "pop":21723
+    },
+    {
+        "id":2496573,
+        "name":"Feraoun",
+        "country":"DZ",
+        "admin1":"Béjaïa",
+        "admin2":"Amizour",
+        "lat":36.56041,
+        "lon":4.85454,
+        "pop":21700
+    },
+    {
+        "id":2501508,
+        "name":"Chemini",
+        "country":"DZ",
+        "admin1":"Béjaïa",
+        "admin2":"Chemini",
+        "lat":36.6,
+        "lon":4.61667,
+        "pop":21585
+    },
+    {
+        "id":2504385,
+        "name":"Bensekrane",
+        "country":"DZ",
+        "admin1":"Tlemcen",
+        "admin2":"Bensekrane",
+        "lat":35.07465,
+        "lon":-1.22431,
+        "pop":21283
+    },
+    {
+        "id":2485633,
+        "name":"Oued el Alleug",
+        "country":"DZ",
+        "admin1":"Blida",
+        "admin2":"Oued El Alleug",
+        "lat":36.55528,
+        "lon":2.79028,
+        "pop":21146
+    },
+    {
+        "id":2478509,
+        "name":"Taïbet",
+        "country":"DZ",
+        "admin1":"Touggourt",
+        "admin2":"",
+        "lat":33.08515,
+        "lon":6.3891,
+        "pop":21000
+    },
+    {
+        "id":2478831,
+        "name":"Tadmaït",
+        "country":"DZ",
+        "admin1":"Tizi Ouzou",
+        "admin2":"Draa Ben Khedda",
+        "lat":36.74413,
+        "lon":3.90045,
+        "pop":20952
+    },
+    {
+        "id":2503237,
+        "name":"Boudjima",
+        "country":"DZ",
+        "admin1":"Tizi Ouzou",
+        "admin2":"Makouda",
+        "lat":36.80218,
+        "lon":4.15187,
+        "pop":20557
+    },
+    {
+        "id":2501289,
+        "name":"Chorfa",
+        "country":"DZ",
+        "admin1":"Bouira",
+        "admin2":"M'chedallah",
+        "lat":36.36505,
+        "lon":4.32636,
+        "pop":20556
+    },
+    {
+        "id":2487852,
+        "name":"Mers el Kebir",
+        "country":"DZ",
+        "admin1":"Oran",
+        "admin2":"Ain Turk",
+        "lat":35.7279,
+        "lon":-0.7081,
+        "pop":20178
+    },
+    {
+        "id":2501680,
+        "name":"Chebli",
+        "country":"DZ",
+        "admin1":"Blida",
+        "admin2":"Bouinan",
+        "lat":36.57722,
+        "lon":3.00917,
+        "pop":19901
+    },
+    {
+        "id":2482159,
+        "name":"Seddouk",
+        "country":"DZ",
+        "admin1":"Béjaïa",
+        "admin2":"Seddouk",
+        "lat":36.54722,
+        "lon":4.68611,
+        "pop":19884
+    },
+    {
+        "id":2504616,
+        "name":"Beni Mester",
+        "country":"DZ",
+        "admin1":"Tlemcen",
+        "admin2":"Mansourah",
+        "lat":34.87045,
+        "lon":-1.42319,
+        "pop":19808
+    },
+    {
+        "id":2503620,
+        "name":"Bordj Zemoura",
+        "country":"DZ",
+        "admin1":"Bordj Bou Arréridj",
+        "admin2":"Bordj Zemmoura",
+        "lat":36.27462,
+        "lon":4.85668,
+        "pop":19782
+    },
+    {
+        "id":2501873,
+        "name":"Chabet el Ameur",
+        "country":"DZ",
+        "admin1":"Boumerdes",
+        "admin2":"Isser",
+        "lat":36.63709,
+        "lon":3.69474,
+        "pop":19522
+    },
+    {
+        "id":2497714,
+        "name":"El Malah",
+        "country":"DZ",
+        "admin1":"Aïn Témouchent",
+        "admin2":"El Maleh",
+        "lat":35.39137,
+        "lon":-1.09238,
+        "pop":19415
+    },
+    {
+        "id":2504136,
+        "name":"Berrahal",
+        "country":"DZ",
+        "admin1":"Annaba",
+        "admin2":"Berrahal",
+        "lat":36.83528,
+        "lon":7.45333,
+        "pop":19294
+    },
+    {
+        "id":2502034,
+        "name":"Brezina",
+        "country":"DZ",
+        "admin1":"El Bayadh",
+        "admin2":"Brezina",
+        "lat":33.09892,
+        "lon":1.26082,
+        "pop":19084
+    },
+    {
+        "id":6698360,
+        "name":"Babor",
+        "country":"DZ",
+        "admin1":"Sétif",
+        "admin2":"Babor",
+        "lat":36.48994,
+        "lon":5.5393,
+        "pop":18445
+    },
+    {
+        "id":2504739,
+        "name":"Beni Amrane",
+        "country":"DZ",
+        "admin1":"Boumerdes",
+        "admin2":"Thenia",
+        "lat":36.66774,
+        "lon":3.59115,
+        "pop":18414
+    },
+    {
+        "id":2475740,
+        "name":"Tizi Rached",
+        "country":"DZ",
+        "admin1":"Tizi Ouzou",
+        "admin2":"Tizi Rached",
+        "lat":36.67176,
+        "lon":4.19176,
+        "pop":17872
+    },
+    {
+        "id":2474583,
+        "name":"Zeralda",
+        "country":"DZ",
+        "admin1":"Algiers",
+        "admin2":"Zeralda",
+        "lat":36.71169,
+        "lon":2.84244,
+        "pop":17563
+    },
+    {
+        "id":2506623,
+        "name":"Arbatache",
+        "country":"DZ",
+        "admin1":"Boumerdes",
+        "admin2":"Khemis El Khechna",
+        "lat":36.63773,
+        "lon":3.37127,
+        "pop":17481
+    },
+    {
+        "id":2482390,
+        "name":"Saoula",
+        "country":"DZ",
+        "admin1":"Algiers",
+        "admin2":"Bir Mourad Rais",
+        "lat":36.70456,
+        "lon":3.02462,
+        "pop":16812
+    },
+    {
+        "id":2508180,
+        "name":"’Aïn el Berd",
+        "country":"DZ",
+        "admin1":"Sidi Bel Abbès",
+        "admin2":"Ain El Berd",
+        "lat":35.36395,
+        "lon":-0.51279,
+        "pop":16548
+    },
+    {
+        "id":2476917,
+        "name":"Thenia",
+        "country":"DZ",
+        "admin1":"Boumerdes",
+        "admin2":"Thenia",
+        "lat":36.72544,
+        "lon":3.55665,
+        "pop":16180
+    },
+    {
+        "id":2486505,
+        "name":"Naciria",
+        "country":"DZ",
+        "admin1":"Boumerdes",
+        "admin2":"Naciria",
+        "lat":36.74625,
+        "lon":3.83163,
+        "pop":15387
+    },
+    {
+        "id":2476028,
+        "name":"Tipasa",
+        "country":"DZ",
+        "admin1":"Tipaza",
+        "admin2":"",
+        "lat":36.58972,
+        "lon":2.44889,
+        "pop":15180
+    },
+    {
+        "id":2493605,
+        "name":"Ighram",
+        "country":"DZ",
+        "admin1":"Béjaïa",
+        "admin2":"Daïra d’Akbou",
+        "lat":36.46295,
+        "lon":4.50532,
+        "pop":15030
+    },
+    {
+        "id":2486523,
+        "name":"Naama",
+        "country":"DZ",
+        "admin1":"Naama",
+        "admin2":"",
+        "lat":33.26667,
+        "lon":-0.31667,
+        "pop":14624
+    },
+    {
+        "id":2503086,
+        "name":"Bougzoul",
+        "country":"DZ",
+        "admin1":"Medea",
+        "admin2":"Chahbounia",
+        "lat":35.70558,
+        "lon":2.84599,
+        "pop":14095
+    },
+    {
+        "id":2508030,
+        "name":"Aïn Lechiakh",
+        "country":"DZ",
+        "admin1":"Aïn Defla",
+        "admin2":"Ain Lechiakh",
+        "lat":36.15848,
+        "lon":2.40514,
+        "pop":13745
+    },
+    {
+        "id":2509271,
+        "name":"Abadla",
+        "country":"DZ",
+        "admin1":"Béchar",
+        "admin2":"Abadla",
+        "lat":31.019,
+        "lon":-2.72387,
+        "pop":13544
+    },
+    {
+        "id":2497323,
+        "name":"El Tarf",
+        "country":"DZ",
+        "admin1":"El Tarf",
+        "admin2":"",
+        "lat":36.7672,
+        "lon":8.31377,
+        "pop":13346
+    },
+    {
+        "id":2493456,
+        "name":"Illizi",
+        "country":"DZ",
+        "admin1":"Illizi",
+        "admin2":"",
+        "lat":26.48333,
+        "lon":8.46667,
+        "pop":13029
+    },
+    {
+        "id":2508162,
+        "name":"’Aïn el Hadjar",
+        "country":"DZ",
+        "admin1":"Saida",
+        "admin2":"Ain El Hadjar",
+        "lat":34.75846,
+        "lon":0.14528,
+        "pop":12996
+    },
+    {
+        "id":2484242,
+        "name":"Ouzera",
+        "country":"DZ",
+        "admin1":"Medea",
+        "admin2":"Ouzera",
+        "lat":36.25417,
+        "lon":2.84722,
+        "pop":12650
+    },
+    {
+        "id":2508262,
+        "name":"’Aïn Boucif",
+        "country":"DZ",
+        "admin1":"Medea",
+        "admin2":"Ain Boucif",
+        "lat":35.89123,
+        "lon":3.1585,
+        "pop":11989
+    },
+    {
+        "id":2480960,
+        "name":"Sidi Ben Adda",
+        "country":"DZ",
+        "admin1":"Aïn Témouchent",
+        "admin2":"Ain Temouchent",
+        "lat":35.30586,
+        "lon":-1.18136,
+        "pop":11695
+    },
+    {
+        "id":2504755,
+        "name":"Béni Abbès",
+        "country":"DZ",
+        "admin1":"Beni Abbes",
+        "admin2":"Daïra de Beni Abbes",
+        "lat":30.13306,
+        "lon":-2.16611,
+        "pop":11416
+    },
+    {
+        "id":2484738,
+        "name":"Oumache",
+        "country":"DZ",
+        "admin1":"Biskra",
+        "admin2":"Ourlal",
+        "lat":34.69292,
+        "lon":5.68092,
+        "pop":10424
+    },
+    {
+        "id":2494535,
+        "name":"Hammam Righa",
+        "country":"DZ",
+        "admin1":"Aïn Defla",
+        "admin2":"Hammam Righa",
+        "lat":36.37972,
+        "lon":2.39889,
+        "pop":8488
+    },
+    {
+        "id":2502625,
+        "name":"Boumagueur",
+        "country":"DZ",
+        "admin1":"Batna",
+        "admin2":"N'gaous",
+        "lat":35.5052,
+        "lon":5.5525,
+        "pop":8474
+    },
+    {
+        "id":13157229,
+        "name":"Kasbate El Djena",
+        "country":"DZ",
+        "admin1":"Adrar",
+        "admin2":"Aoulef",
+        "lat":27.02,
+        "lon":1.04536,
+        "pop":8009
+    },
+    {
+        "id":11703548,
+        "name":"Sidi Senoussi سيدي سنوسي",
+        "country":"DZ",
+        "admin1":"Tlemcen",
+        "admin2":"Bensekrane",
+        "lat":34.99691,
+        "lon":-1.09449,
+        "pop":7500
+    },
+    {
+        "id":2499095,
+        "name":"Draâ Esmar",
+        "country":"DZ",
+        "admin1":"Medea",
+        "admin2":"Medea",
+        "lat":36.27354,
+        "lon":2.71695,
+        "pop":7465
+    },
+    {
+        "id":2506851,
+        "name":"Aougrout",
+        "country":"DZ",
+        "admin1":"Timimoun",
+        "admin2":"Aougrout",
+        "lat":28.70289,
+        "lon":0.33519,
+        "pop":7310
+    },
+    {
+        "id":2508670,
+        "name":"Aghlal",
+        "country":"DZ",
+        "admin1":"Aïn Témouchent",
+        "admin2":"Ain Kihel",
+        "lat":35.20111,
+        "lon":-1.06958,
+        "pop":7146
+    },
+    {
+        "id":2476059,
+        "name":"Tilouline",
+        "country":"DZ",
+        "admin1":"Adrar",
+        "admin2":"Zaouiat Kounta",
+        "lat":27.0391,
+        "lon":-0.09396,
+        "pop":6120
+    },
+    {
+        "id":13157276,
+        "name":"Tinerkouk",
+        "country":"DZ",
+        "admin1":"Timimoun",
+        "admin2":"",
+        "lat":29.71583,
+        "lon":0.71131,
+        "pop":5915
+    },
+    {
+        "id":2474862,
+        "name":"Zaouiet ed Debarh",
+        "country":"DZ",
+        "admin1":"Timimoun",
+        "admin2":"",
+        "lat":29.69905,
+        "lon":0.71274,
+        "pop":5915
+    },
+    {
+        "id":2489279,
+        "name":"Draa Klalouche",
+        "country":"DZ",
+        "admin1":"Batna",
+        "admin2":"Ain Djasser",
+        "lat":35.79234,
+        "lon":5.97706,
+        "pop":5000
+    },
+    {
+        "id":7838650,
+        "name":"Djebilet Rosfa",
+        "country":"DZ",
+        "admin1":"Tiaret",
+        "admin2":"Ain Kermes",
+        "lat":34.86375,
+        "lon":0.83496,
+        "pop":4930
+    },
+    {
+        "id":2504589,
+        "name":"Barbouche",
+        "country":"DZ",
+        "admin1":"Aïn Defla",
+        "admin2":"Djendel",
+        "lat":36.10589,
+        "lon":2.48185,
+        "pop":4897
+    },
+    {
+        "id":2478139,
+        "name":"Tamentit",
+        "country":"DZ",
+        "admin1":"Adrar",
+        "admin2":"Fenoughil",
+        "lat":27.7605,
+        "lon":-0.25997,
+        "pop":4835
+    },
+    {
+        "id":2596770,
+        "name":"Timiaouine",
+        "country":"DZ",
+        "admin1":"Bordj Badji Mokhtar",
+        "admin2":"",
+        "lat":20.4408,
+        "lon":1.80551,
+        "pop":4493
+    },
+    {
+        "id":13192438,
+        "name":"In Zghmir",
+        "country":"DZ",
+        "admin1":"Adrar",
+        "admin2":"Zaouiat Kounta",
+        "lat":27.09684,
+        "lon":-0.11477,
+        "pop":4442
+    },
+    {
+        "id":2476783,
+        "name":"Tidmaine",
+        "country":"DZ",
+        "admin1":"Adrar",
+        "admin2":"Zaouiat Kounta",
+        "lat":27.08272,
+        "lon":-0.10861,
+        "pop":4442
+    },
+    {
+        "id":2475837,
+        "name":"Tit",
+        "country":"DZ",
+        "admin1":"Adrar",
+        "admin2":"Aoulef",
+        "lat":26.93602,
+        "lon":1.49214,
+        "pop":4417
+    },
+    {
+        "id":2507678,
+        "name":"Akabli",
+        "country":"DZ",
+        "admin1":"Adrar",
+        "admin2":"Aoulef",
+        "lat":26.70828,
+        "lon":1.37528,
+        "pop":4409
+    },
+    {
+        "id":7115828,
+        "name":"Smala",
+        "country":"DZ",
+        "admin1":"Relizane",
+        "admin2":"Zemmoura",
+        "lat":35.71652,
+        "lon":0.75437,
+        "pop":4000
+    },
+    {
+        "id":2482428,
+        "name":"Sali",
+        "country":"DZ",
+        "admin1":"Adrar",
+        "admin2":"Reggane",
+        "lat":26.96548,
+        "lon":-0.04042,
+        "pop":3948
+    },
+    {
+        "id":2485162,
+        "name":"Oulad Saïd",
+        "country":"DZ",
+        "admin1":"Timimoun",
+        "admin2":"",
+        "lat":29.42054,
+        "lon":0.23876,
+        "pop":3357
+    },
+    {
+        "id":2496757,
+        "name":"Fatis",
+        "country":"DZ",
+        "admin1":"Timimoun",
+        "admin2":"",
+        "lat":29.73354,
+        "lon":0.65851,
+        "pop":3209
+    },
+    {
+        "id":2477740,
+        "name":"Tarhit Ouled Hellal",
+        "country":"DZ",
+        "admin1":"Batna",
+        "admin2":"Tkout",
+        "lat":35.08111,
+        "lon":6.33375,
+        "pop":3062
+    },
+    {
+        "id":13157221,
+        "name":"Zaouia",
+        "country":"DZ",
+        "admin1":"Adrar",
+        "admin2":"Aoulef",
+        "lat":26.70201,
+        "lon":1.38889,
+        "pop":3026
+    },
+    {
+        "id":2504860,
+        "name":"Bouda",
+        "country":"DZ",
+        "admin1":"Adrar",
+        "admin2":"Daïra d’Adrar",
+        "lat":28.00329,
+        "lon":-0.42381,
+        "pop":2349
+    },
+    {
+        "id":13157241,
+        "name":"Deldoul",
+        "country":"DZ",
+        "admin1":"Timimoun",
+        "admin2":"Aougrout",
+        "lat":28.76802,
+        "lon":0.0534,
+        "pop":1748
+    },
+    {
+        "id":2501752,
+        "name":"Charouine",
+        "country":"DZ",
+        "admin1":"Timimoun",
+        "admin2":"",
+        "lat":29.01497,
+        "lon":-0.2644,
+        "pop":1536
+    },
+    {
+        "id":2485409,
+        "name":"Oulad Aïssa",
+        "country":"DZ",
+        "admin1":"Timimoun",
+        "admin2":"",
+        "lat":29.41836,
+        "lon":-0.08756,
+        "pop":1350
+    },
+    {
+        "id":2487648,
+        "name":"Metarfa",
+        "country":"DZ",
+        "admin1":"Timimoun",
+        "admin2":"",
+        "lat":28.58437,
+        "lon":-0.15039,
+        "pop":1262
+    },
+    {
+        "id":2476383,
+        "name":"Timokten",
+        "country":"DZ",
+        "admin1":"Adrar",
+        "admin2":"Aoulef",
+        "lat":27.01685,
+        "lon":1.00654,
+        "pop":1255
+    },
+    {
+        "id":2475145,
+        "name":"Tsabit",
+        "country":"DZ",
+        "admin1":"Adrar",
+        "admin2":"Tsabit",
+        "lat":28.35049,
+        "lon":-0.22401,
+        "pop":1224
+    },
+    {
+        "id":2478102,
+        "name":"Tamest",
+        "country":"DZ",
+        "admin1":"Adrar",
+        "admin2":"Fenoughil",
+        "lat":27.42593,
+        "lon":-0.24335,
+        "pop":1133
+    },
+    {
+        "id":13157365,
+        "name":"Talmine",
+        "country":"DZ",
+        "admin1":"Timimoun",
+        "admin2":"Charouine",
+        "lat":29.3291,
+        "lon":-0.49746,
+        "pop":1067
+    },
+    {
+        "id":13157283,
+        "name":"Ksar Kaddour",
+        "country":"DZ",
+        "admin1":"Timimoun",
+        "admin2":"",
+        "lat":29.58875,
+        "lon":0.37382,
+        "pop":1016
+    },
+    {
+        "id":12149332,
+        "name":"Berrahab",
+        "country":"DZ",
+        "admin1":"Guelma",
+        "admin2":"Ain Makhlouf",
+        "lat":36.20798,
+        "lon":7.10265,
+        "pop":1000
+    },
+    {
+        "id":7115827,
+        "name":"Rouachdia",
+        "country":"DZ",
+        "admin1":"Relizane",
+        "admin2":"Zemmoura",
+        "lat":35.7085,
+        "lon":0.73055,
+        "pop":1000
+    }
+]

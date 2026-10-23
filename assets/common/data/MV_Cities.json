@@ -1,0 +1,322 @@
+[
+    {
+        "id":1282027,
+        "name":"Male",
+        "country":"MV",
+        "admin1":"Kaafu Atoll",
+        "admin2":"",
+        "lat":4.17521,
+        "lon":73.50916,
+        "pop":103693
+    },
+    {
+        "id":1337611,
+        "name":"Fuvahmulah",
+        "country":"MV",
+        "admin1":"Gnyaviyani Atoll",
+        "admin2":"",
+        "lat":-0.29878,
+        "lon":73.42403,
+        "pop":11140
+    },
+    {
+        "id":1282256,
+        "name":"Hithadhoo",
+        "country":"MV",
+        "admin1":"Seenu",
+        "admin2":"",
+        "lat":-0.6,
+        "lon":73.08333,
+        "pop":9927
+    },
+    {
+        "id":1337613,
+        "name":"Kulhudhuffushi",
+        "country":"MV",
+        "admin1":"Haa Dhaalu Atholhu",
+        "admin2":"",
+        "lat":6.62207,
+        "lon":73.06998,
+        "pop":9500
+    },
+    {
+        "id":1337610,
+        "name":"Thinadhoo",
+        "country":"MV",
+        "admin1":"Gaafu Dhaalu Atoll",
+        "admin2":"",
+        "lat":0.5306,
+        "lon":72.99969,
+        "pop":6376
+    },
+    {
+        "id":1337616,
+        "name":"Naifaru",
+        "country":"MV",
+        "admin1":"Faadhippolhu Atoll",
+        "admin2":"",
+        "lat":5.44438,
+        "lon":73.36571,
+        "pop":5044
+    },
+    {
+        "id":6930996,
+        "name":"Hulhumale",
+        "country":"MV",
+        "admin1":"Kaafu Atoll",
+        "admin2":"",
+        "lat":4.21169,
+        "lon":73.54008,
+        "pop":5000
+    },
+    {
+        "id":1337612,
+        "name":"Dhihdhoo",
+        "country":"MV",
+        "admin1":"Haa Alifu Atholhu",
+        "admin2":"",
+        "lat":6.88744,
+        "lon":73.11402,
+        "pop":3039
+    },
+    {
+        "id":11777962,
+        "name":"Maafushi",
+        "country":"MV",
+        "admin1":"Kaafu Atoll",
+        "admin2":"",
+        "lat":3.94231,
+        "lon":73.4907,
+        "pop":3000
+    },
+    {
+        "id":1337609,
+        "name":"Viligili",
+        "country":"MV",
+        "admin1":"Gaafu Alif Atoll",
+        "admin2":"",
+        "lat":0.75906,
+        "lon":73.43296,
+        "pop":2925
+    },
+    {
+        "id":1337620,
+        "name":"Funadhoo",
+        "country":"MV",
+        "admin1":"Shaviyani Atholhu",
+        "admin2":"",
+        "lat":6.15091,
+        "lon":73.29013,
+        "pop":2900
+    },
+    {
+        "id":1337606,
+        "name":"Eydhafushi",
+        "country":"MV",
+        "admin1":"Baa Atholhu",
+        "admin2":"",
+        "lat":5.10327,
+        "lon":73.07078,
+        "pop":2808
+    },
+    {
+        "id":1337605,
+        "name":"Mahibadhoo",
+        "country":"MV",
+        "admin1":"Southern Ari Atoll",
+        "admin2":"",
+        "lat":3.75713,
+        "lon":72.96893,
+        "pop":2156
+    },
+    {
+        "id":7910632,
+        "name":"Vilufushi",
+        "country":"MV",
+        "admin1":"Thaa Atholhu",
+        "admin2":"",
+        "lat":2.50306,
+        "lon":73.30859,
+        "pop":2077
+    },
+    {
+        "id":11103468,
+        "name":"Guraidhoo",
+        "country":"MV",
+        "admin1":"Kaafu Atoll",
+        "admin2":"",
+        "lat":3.90045,
+        "lon":73.46623,
+        "pop":1800
+    },
+    {
+        "id":7931878,
+        "name":"Guraidhoo",
+        "country":"MV",
+        "admin1":"Thaa Atholhu",
+        "admin2":"",
+        "lat":2.32473,
+        "lon":73.31846,
+        "pop":1800
+    },
+    {
+        "id":7874641,
+        "name":"Fonadhoo",
+        "country":"MV",
+        "admin1":"Laamu",
+        "admin2":"",
+        "lat":1.83243,
+        "lon":73.50257,
+        "pop":1773
+    },
+    {
+        "id":1281980,
+        "name":"Meedhoo",
+        "country":"MV",
+        "admin1":"Seenu",
+        "admin2":"",
+        "lat":-0.58333,
+        "lon":73.23333,
+        "pop":1726
+    },
+    {
+        "id":1337618,
+        "name":"Manadhoo",
+        "country":"MV",
+        "admin1":"Noonu Atoll",
+        "admin2":"",
+        "lat":5.76687,
+        "lon":73.4136,
+        "pop":1580
+    },
+    {
+        "id":1337619,
+        "name":"Un’goofaaru",
+        "country":"MV",
+        "admin1":"Raa Atoll",
+        "admin2":"",
+        "lat":5.66812,
+        "lon":73.03017,
+        "pop":1575
+    },
+    {
+        "id":1337607,
+        "name":"Kudahuvadhoo",
+        "country":"MV",
+        "admin1":"Dhaalu Atholhu",
+        "admin2":"",
+        "lat":2.67075,
+        "lon":72.89437,
+        "pop":1562
+    },
+    {
+        "id":12196228,
+        "name":"Vaadhoo",
+        "country":"MV",
+        "admin1":"Gaafu Dhaalu Atoll",
+        "admin2":"",
+        "lat":0.22668,
+        "lon":73.27262,
+        "pop":1471
+    },
+    {
+        "id":8410622,
+        "name":"Open Stage",
+        "country":"MV",
+        "admin1":"Baa Atholhu",
+        "admin2":"",
+        "lat":5.1053,
+        "lon":73.07115,
+        "pop":1258
+    },
+    {
+        "id":7911024,
+        "name":"Madifushi",
+        "country":"MV",
+        "admin1":"Thaa Atholhu",
+        "admin2":"",
+        "lat":2.35582,
+        "lon":73.35473,
+        "pop":1110
+    },
+    {
+        "id":1337622,
+        "name":"Veymandoo",
+        "country":"MV",
+        "admin1":"Thaa Atholhu",
+        "admin2":"",
+        "lat":2.18772,
+        "lon":73.09556,
+        "pop":1100
+    },
+    {
+        "id":1337617,
+        "name":"Muli",
+        "country":"MV",
+        "admin1":"Meemu Atholhu",
+        "admin2":"",
+        "lat":2.92167,
+        "lon":73.58111,
+        "pop":1008
+    },
+    {
+        "id":7931877,
+        "name":"Diyamigili",
+        "country":"MV",
+        "admin1":"Thaa Atholhu",
+        "admin2":"",
+        "lat":2.34047,
+        "lon":73.3388,
+        "pop":763
+    },
+    {
+        "id":12088818,
+        "name":"Maafaru",
+        "country":"MV",
+        "admin1":"Noonu Atoll",
+        "admin2":"",
+        "lat":5.83078,
+        "lon":73.47944,
+        "pop":700
+    },
+    {
+        "id":1337615,
+        "name":"Hithadhoo",
+        "country":"MV",
+        "admin1":"Laamu",
+        "admin2":"",
+        "lat":1.79666,
+        "lon":73.38824,
+        "pop":683
+    },
+    {
+        "id":7910627,
+        "name":"Buruni",
+        "country":"MV",
+        "admin1":"Dhaalu Atholhu",
+        "admin2":"",
+        "lat":2.55905,
+        "lon":73.10749,
+        "pop":577
+    },
+    {
+        "id":1337623,
+        "name":"Felidhoo",
+        "country":"MV",
+        "admin1":"Vaavu Atholhu",
+        "admin2":"",
+        "lat":3.47182,
+        "lon":73.54699,
+        "pop":541
+    },
+    {
+        "id":6692742,
+        "name":"Kuramathi",
+        "country":"MV",
+        "admin1":"Northern Ari Atoll",
+        "admin2":"",
+        "lat":4.25885,
+        "lon":72.98286,
+        "pop":500
+    }
+]

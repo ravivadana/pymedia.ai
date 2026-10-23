@@ -1,0 +1,1142 @@
+[
+    {
+        "id":934154,
+        "name":"Port Louis",
+        "country":"MU",
+        "admin1":"Port Louis",
+        "admin2":"",
+        "lat":-20.16194,
+        "lon":57.49889,
+        "pop":155226
+    },
+    {
+        "id":933945,
+        "name":"Vacoas",
+        "country":"MU",
+        "admin1":"Plaines Wilhems",
+        "admin2":"",
+        "lat":-20.29806,
+        "lon":57.47833,
+        "pop":115289
+    },
+    {
+        "id":934765,
+        "name":"Beau Bassin-Rose Hill",
+        "country":"MU",
+        "admin1":"Plaines Wilhems",
+        "admin2":"",
+        "lat":-20.23325,
+        "lon":57.46609,
+        "pop":111355
+    },
+    {
+        "id":934570,
+        "name":"Curepipe",
+        "country":"MU",
+        "admin1":"Plaines Wilhems",
+        "admin2":"",
+        "lat":-20.31628,
+        "lon":57.52594,
+        "pop":78618
+    },
+    {
+        "id":934131,
+        "name":"Quatre Bornes",
+        "country":"MU",
+        "admin1":"Plaines Wilhems",
+        "admin2":"",
+        "lat":-20.26381,
+        "lon":57.4791,
+        "pop":77308
+    },
+    {
+        "id":933959,
+        "name":"Triolet",
+        "country":"MU",
+        "admin1":"Pamplemousses",
+        "admin2":"",
+        "lat":-20.0576,
+        "lon":57.55025,
+        "pop":24361
+    },
+    {
+        "id":934488,
+        "name":"Goodlands",
+        "country":"MU",
+        "admin1":"Rivière du Rempart",
+        "admin2":"",
+        "lat":-20.03841,
+        "lon":57.65055,
+        "pop":21063
+    },
+    {
+        "id":934750,
+        "name":"Bel Air Rivière Sèche",
+        "country":"MU",
+        "admin1":"Flacq",
+        "admin2":"",
+        "lat":-20.25777,
+        "lon":57.74976,
+        "pop":18036
+    },
+    {
+        "id":934778,
+        "name":"Bambous",
+        "country":"MU",
+        "admin1":"Black River",
+        "admin2":"",
+        "lat":-20.25667,
+        "lon":57.40611,
+        "pop":17818
+    },
+    {
+        "id":934631,
+        "name":"Centre de Flacq",
+        "country":"MU",
+        "admin1":"Flacq",
+        "admin2":"",
+        "lat":-20.18972,
+        "lon":57.71444,
+        "pop":17710
+    },
+    {
+        "id":934322,
+        "name":"Mahébourg",
+        "country":"MU",
+        "admin1":"Grand Port",
+        "admin2":"",
+        "lat":-20.40806,
+        "lon":57.7,
+        "pop":17042
+    },
+    {
+        "id":934032,
+        "name":"Saint Pierre",
+        "country":"MU",
+        "admin1":"Moka",
+        "admin2":"",
+        "lat":-20.2215,
+        "lon":57.53431,
+        "pop":16704
+    },
+    {
+        "id":1106809,
+        "name":"Le Hochet",
+        "country":"MU",
+        "admin1":"Pamplemousses",
+        "admin2":"",
+        "lat":-20.13859,
+        "lon":57.53013,
+        "pop":15662
+    },
+    {
+        "id":1106616,
+        "name":"Baie du Tombeau",
+        "country":"MU",
+        "admin1":"Pamplemousses",
+        "admin2":"",
+        "lat":-20.11944,
+        "lon":57.49139,
+        "pop":15301
+    },
+    {
+        "id":933953,
+        "name":"Trou aux Biches",
+        "country":"MU",
+        "admin1":"Pamplemousses",
+        "admin2":"",
+        "lat":-20.03301,
+        "lon":57.55033,
+        "pop":14706
+    },
+    {
+        "id":934072,
+        "name":"Rose Belle",
+        "country":"MU",
+        "admin1":"Grand Port",
+        "admin2":"",
+        "lat":-20.40028,
+        "lon":57.59667,
+        "pop":12619
+    },
+    {
+        "id":934614,
+        "name":"Chemin Grenier",
+        "country":"MU",
+        "admin1":"Savanne",
+        "admin2":"",
+        "lat":-20.48722,
+        "lon":57.46556,
+        "pop":12457
+    },
+    {
+        "id":934482,
+        "name":"Grand Baie",
+        "country":"MU",
+        "admin1":"Rivière du Rempart",
+        "admin2":"",
+        "lat":-20.01816,
+        "lon":57.58015,
+        "pop":12173
+    },
+    {
+        "id":11205637,
+        "name":"Lallmatie",
+        "country":"MU",
+        "admin1":null,
+        "admin2":"",
+        "lat":-20.01839,
+        "lon":57.58017,
+        "pop":11910
+    },
+    {
+        "id":933974,
+        "name":"Terre Rouge",
+        "country":"MU",
+        "admin1":"Pamplemousses",
+        "admin2":"",
+        "lat":-20.1283,
+        "lon":57.53116,
+        "pop":11210
+    },
+    {
+        "id":934240,
+        "name":"New Grove",
+        "country":"MU",
+        "admin1":"Grand Port",
+        "admin2":"",
+        "lat":-20.40861,
+        "lon":57.61361,
+        "pop":11023
+    },
+    {
+        "id":934091,
+        "name":"Rivière du Rempart",
+        "country":"MU",
+        "admin1":"Rivière du Rempart",
+        "admin2":"",
+        "lat":-20.10306,
+        "lon":57.68472,
+        "pop":10825
+    },
+    {
+        "id":934169,
+        "name":"Plaine Magnien",
+        "country":"MU",
+        "admin1":"Grand Port",
+        "admin2":"",
+        "lat":-20.42967,
+        "lon":57.66968,
+        "pop":10778
+    },
+    {
+        "id":934065,
+        "name":"Rouge Terre",
+        "country":"MU",
+        "admin1":"Pamplemousses",
+        "admin2":"",
+        "lat":-20.04333,
+        "lon":57.56833,
+        "pop":10760
+    },
+    {
+        "id":934390,
+        "name":"Lalmatie",
+        "country":"MU",
+        "admin1":"Flacq",
+        "admin2":"",
+        "lat":-20.18972,
+        "lon":57.66111,
+        "pop":10641
+    },
+    {
+        "id":934219,
+        "name":"Pailles",
+        "country":"MU",
+        "admin1":"Moka",
+        "admin2":"",
+        "lat":-20.19271,
+        "lon":57.48826,
+        "pop":10622
+    },
+    {
+        "id":933988,
+        "name":"Surinam",
+        "country":"MU",
+        "admin1":"Savanne",
+        "admin2":"",
+        "lat":-20.50972,
+        "lon":57.50528,
+        "pop":10621
+    },
+    {
+        "id":934095,
+        "name":"Rivière des Anguilles",
+        "country":"MU",
+        "admin1":"Savanne",
+        "admin2":"",
+        "lat":-20.493,
+        "lon":57.563,
+        "pop":9927
+    },
+    {
+        "id":934213,
+        "name":"Pamplemousses",
+        "country":"MU",
+        "admin1":"Pamplemousses",
+        "admin2":"",
+        "lat":-20.10389,
+        "lon":57.57028,
+        "pop":9682
+    },
+    {
+        "id":934262,
+        "name":"Montagne Blanche",
+        "country":"MU",
+        "admin1":null,
+        "admin2":"",
+        "lat":-20.28538,
+        "lon":57.65865,
+        "pop":9440
+    },
+    {
+        "id":934184,
+        "name":"Petit Raffray",
+        "country":"MU",
+        "admin1":"Rivière du Rempart",
+        "admin2":"",
+        "lat":-20.02022,
+        "lon":57.62296,
+        "pop":9410
+    },
+    {
+        "id":934277,
+        "name":"Moka",
+        "country":"MU",
+        "admin1":"Moka",
+        "admin2":"",
+        "lat":-20.21904,
+        "lon":57.51083,
+        "pop":9364
+    },
+    {
+        "id":12168288,
+        "name":"Richelieu",
+        "country":"MU",
+        "admin1":"Black River",
+        "admin2":"",
+        "lat":-20.19324,
+        "lon":57.45952,
+        "pop":9178
+    },
+    {
+        "id":934149,
+        "name":"Poste de Flacq",
+        "country":"MU",
+        "admin1":"Flacq",
+        "admin2":"",
+        "lat":-20.16306,
+        "lon":57.73056,
+        "pop":8659
+    },
+    {
+        "id":1545752,
+        "name":"Port Mathurin",
+        "country":"MU",
+        "admin1":"Rodrigues",
+        "admin2":"",
+        "lat":-19.68333,
+        "lon":63.41667,
+        "pop":8350
+    },
+    {
+        "id":934170,
+        "name":"Plaine des Papayes",
+        "country":"MU",
+        "admin1":"Pamplemousses",
+        "admin2":"",
+        "lat":-20.065,
+        "lon":57.5725,
+        "pop":7925
+    },
+    {
+        "id":934343,
+        "name":"L’Escalier",
+        "country":"MU",
+        "admin1":"Grand Port",
+        "admin2":"",
+        "lat":-20.47,
+        "lon":57.61222,
+        "pop":7899
+    },
+    {
+        "id":934485,
+        "name":"Grand Bois",
+        "country":"MU",
+        "admin1":"Savanne",
+        "admin2":"",
+        "lat":-20.41889,
+        "lon":57.54417,
+        "pop":7804
+    },
+    {
+        "id":934333,
+        "name":"Long Mountain",
+        "country":"MU",
+        "admin1":"Pamplemousses",
+        "admin2":"",
+        "lat":-20.151,
+        "lon":57.573,
+        "pop":7775
+    },
+    {
+        "id":934479,
+        "name":"Grand Gaube",
+        "country":"MU",
+        "admin1":"Rivière du Rempart",
+        "admin2":"",
+        "lat":-20.00639,
+        "lon":57.66083,
+        "pop":7706
+    },
+    {
+        "id":934677,
+        "name":"Brisée Verdière",
+        "country":"MU",
+        "admin1":"Flacq",
+        "admin2":"",
+        "lat":-20.16389,
+        "lon":57.64667,
+        "pop":7696
+    },
+    {
+        "id":934739,
+        "name":"Belle Vue Maurel",
+        "country":"MU",
+        "admin1":"Rivière du Rempart",
+        "admin2":"",
+        "lat":-20.12028,
+        "lon":57.66361,
+        "pop":7607
+    },
+    {
+        "id":934736,
+        "name":"Belle Vue Harel",
+        "country":"MU",
+        "admin1":"Pamplemousses",
+        "admin2":"",
+        "lat":-20.06583,
+        "lon":57.59417,
+        "pop":7607
+    },
+    {
+        "id":1106614,
+        "name":"Pointe aux Piments",
+        "country":"MU",
+        "admin1":"Pamplemousses",
+        "admin2":"",
+        "lat":-20.06494,
+        "lon":57.52347,
+        "pop":7556
+    },
+    {
+        "id":934400,
+        "name":"Dagotière",
+        "country":"MU",
+        "admin1":"Moka",
+        "admin2":"",
+        "lat":-20.24476,
+        "lon":57.56188,
+        "pop":7468
+    },
+    {
+        "id":934229,
+        "name":"Nouvelle France",
+        "country":"MU",
+        "admin1":"Grand Port",
+        "admin2":"",
+        "lat":-20.37056,
+        "lon":57.56111,
+        "pop":7238
+    },
+    {
+        "id":934753,
+        "name":"Beau Vallon",
+        "country":"MU",
+        "admin1":"Grand Port",
+        "admin2":"",
+        "lat":-20.42325,
+        "lon":57.70351,
+        "pop":7016
+    },
+    {
+        "id":934693,
+        "name":"Bon Accueil",
+        "country":"MU",
+        "admin1":"Flacq",
+        "admin2":"",
+        "lat":-20.175,
+        "lon":57.672,
+        "pop":6553
+    },
+    {
+        "id":934133,
+        "name":"Quartier Militaire",
+        "country":"MU",
+        "admin1":"Moka",
+        "admin2":"",
+        "lat":-20.2479,
+        "lon":57.59737,
+        "pop":6424
+    },
+    {
+        "id":8643380,
+        "name":"Calodyne",
+        "country":"MU",
+        "admin1":"Rivière du Rempart",
+        "admin2":"",
+        "lat":-20.00215,
+        "lon":57.64249,
+        "pop":6252
+    },
+    {
+        "id":1106584,
+        "name":"Laventure",
+        "country":"MU",
+        "admin1":"Flacq",
+        "admin2":"",
+        "lat":-20.14583,
+        "lon":57.67667,
+        "pop":6171
+    },
+    {
+        "id":934058,
+        "name":"Morcellement Saint André",
+        "country":"MU",
+        "admin1":"Pamplemousses",
+        "admin2":"",
+        "lat":-20.07199,
+        "lon":57.56833,
+        "pop":6150
+    },
+    {
+        "id":10171149,
+        "name":"Anse La Raye",
+        "country":"MU",
+        "admin1":null,
+        "admin2":"",
+        "lat":-19.99057,
+        "lon":57.63202,
+        "pop":6060
+    },
+    {
+        "id":1106660,
+        "name":"Ecroignard",
+        "country":"MU",
+        "admin1":"Flacq",
+        "admin2":"",
+        "lat":-20.22611,
+        "lon":57.73611,
+        "pop":5952
+    },
+    {
+        "id":934255,
+        "name":"Piton",
+        "country":"MU",
+        "admin1":"Rivière du Rempart",
+        "admin2":"",
+        "lat":-20.09028,
+        "lon":57.63028,
+        "pop":5909
+    },
+    {
+        "id":934513,
+        "name":"Fond du Sac",
+        "country":"MU",
+        "admin1":"Pamplemousses",
+        "admin2":"",
+        "lat":-20.04732,
+        "lon":57.584,
+        "pop":5796
+    },
+    {
+        "id":934013,
+        "name":"Sebastopol",
+        "country":"MU",
+        "admin1":"Flacq",
+        "admin2":"",
+        "lat":-20.2907,
+        "lon":57.68779,
+        "pop":5745
+    },
+    {
+        "id":934085,
+        "name":"Roches Noire",
+        "country":"MU",
+        "admin1":"Rivière du Rempart",
+        "admin2":"",
+        "lat":-20.11111,
+        "lon":57.71222,
+        "pop":5733
+    },
+    {
+        "id":1106643,
+        "name":"Quatre Cocos",
+        "country":"MU",
+        "admin1":"Flacq",
+        "admin2":"",
+        "lat":-20.20151,
+        "lon":57.77448,
+        "pop":5724
+    },
+    {
+        "id":934195,
+        "name":"Petite Rivière",
+        "country":"MU",
+        "admin1":"Black River",
+        "admin2":"",
+        "lat":-20.19551,
+        "lon":57.44592,
+        "pop":5331
+    },
+    {
+        "id":934660,
+        "name":"Camp Diable",
+        "country":"MU",
+        "admin1":"Savanne",
+        "admin2":"",
+        "lat":-20.46278,
+        "lon":57.57889,
+        "pop":5082
+    },
+    {
+        "id":1106611,
+        "name":"Péreybère",
+        "country":"MU",
+        "admin1":"Rivière du Rempart",
+        "admin2":"",
+        "lat":-19.99883,
+        "lon":57.5885,
+        "pop":5000
+    },
+    {
+        "id":934624,
+        "name":"Chamouny",
+        "country":"MU",
+        "admin1":"Savanne",
+        "admin2":"",
+        "lat":-20.48222,
+        "lon":57.46611,
+        "pop":4913
+    },
+    {
+        "id":934649,
+        "name":"Cap Malheureux",
+        "country":"MU",
+        "admin1":"Rivière du Rempart",
+        "admin2":"",
+        "lat":-19.98417,
+        "lon":57.61417,
+        "pop":4803
+    },
+    {
+        "id":1106811,
+        "name":"Calebasses",
+        "country":"MU",
+        "admin1":"Pamplemousses",
+        "admin2":"",
+        "lat":-20.11167,
+        "lon":57.55389,
+        "pop":4648
+    },
+    {
+        "id":934282,
+        "name":"Midlands",
+        "country":"MU",
+        "admin1":"Plaines Wilhems",
+        "admin2":"",
+        "lat":-20.338,
+        "lon":57.567,
+        "pop":4546
+    },
+    {
+        "id":934735,
+        "name":"Belle Vue Pilot",
+        "country":"MU",
+        "admin1":"Pamplemousses",
+        "admin2":"",
+        "lat":-20.05486,
+        "lon":57.58365,
+        "pop":4518
+    },
+    {
+        "id":933995,
+        "name":"Souillac",
+        "country":"MU",
+        "admin1":"Savanne",
+        "admin2":"",
+        "lat":-20.51667,
+        "lon":57.51667,
+        "pop":4434
+    },
+    {
+        "id":1106645,
+        "name":"Camp Ithier",
+        "country":"MU",
+        "admin1":"Flacq",
+        "admin2":"",
+        "lat":-20.21583,
+        "lon":57.74556,
+        "pop":4401
+    },
+    {
+        "id":933982,
+        "name":"Tamarin",
+        "country":"MU",
+        "admin1":"Black River",
+        "admin2":"",
+        "lat":-20.32556,
+        "lon":57.37056,
+        "pop":4371
+    },
+    {
+        "id":1106631,
+        "name":"Plaines des Roches",
+        "country":"MU",
+        "admin1":"Rivière du Rempart",
+        "admin2":"",
+        "lat":-20.11167,
+        "lon":57.69083,
+        "pop":4218
+    },
+    {
+        "id":934047,
+        "name":"Saint Hubert",
+        "country":"MU",
+        "admin1":"Grand Port",
+        "admin2":"",
+        "lat":-20.36417,
+        "lon":57.63833,
+        "pop":4170
+    },
+    {
+        "id":934225,
+        "name":"Olivia",
+        "country":"MU",
+        "admin1":"Flacq",
+        "admin2":"",
+        "lat":-20.28778,
+        "lon":57.73097,
+        "pop":3980
+    },
+    {
+        "id":934232,
+        "name":"Notre Dame",
+        "country":"MU",
+        "admin1":"Pamplemousses",
+        "admin2":"",
+        "lat":-20.14298,
+        "lon":57.55969,
+        "pop":3959
+    },
+    {
+        "id":933970,
+        "name":"The Vale",
+        "country":"MU",
+        "admin1":"Rivière du Rempart",
+        "admin2":"",
+        "lat":-20.03018,
+        "lon":57.60219,
+        "pop":3707
+    },
+    {
+        "id":1106596,
+        "name":"Cottage",
+        "country":"MU",
+        "admin1":"Rivière du Rempart",
+        "admin2":"",
+        "lat":-20.05972,
+        "lon":57.62917,
+        "pop":3646
+    },
+    {
+        "id":934127,
+        "name":"Quatre Soeurs",
+        "country":"MU",
+        "admin1":"Flacq",
+        "admin2":"",
+        "lat":-20.29917,
+        "lon":57.77056,
+        "pop":3515
+    },
+    {
+        "id":1106763,
+        "name":"Gros Cailloux",
+        "country":"MU",
+        "admin1":"Black River",
+        "admin2":"",
+        "lat":-20.20722,
+        "lon":57.43,
+        "pop":3361
+    },
+    {
+        "id":934812,
+        "name":"Albion",
+        "country":"MU",
+        "admin1":"Black River",
+        "admin2":"",
+        "lat":-20.20814,
+        "lon":57.40766,
+        "pop":3254
+    },
+    {
+        "id":934076,
+        "name":"Roche Terre",
+        "country":"MU",
+        "admin1":"Rivière du Rempart",
+        "admin2":"",
+        "lat":-20.01861,
+        "lon":57.64472,
+        "pop":3199
+    },
+    {
+        "id":934043,
+        "name":"Saint Julien",
+        "country":"MU",
+        "admin1":"Flacq",
+        "admin2":"",
+        "lat":-20.208,
+        "lon":57.676,
+        "pop":3188
+    },
+    {
+        "id":934138,
+        "name":"Providence",
+        "country":"MU",
+        "admin1":"Moka",
+        "admin2":"",
+        "lat":-20.24472,
+        "lon":57.61222,
+        "pop":3126
+    },
+    {
+        "id":934573,
+        "name":"Crève Coeur",
+        "country":"MU",
+        "admin1":"Pamplemousses",
+        "admin2":"",
+        "lat":-20.19346,
+        "lon":57.56328,
+        "pop":3097
+    },
+    {
+        "id":934126,
+        "name":"Queen Victoria",
+        "country":"MU",
+        "admin1":"Flacq",
+        "admin2":"",
+        "lat":-20.22,
+        "lon":57.7075,
+        "pop":3025
+    },
+    {
+        "id":1106630,
+        "name":"Amaury",
+        "country":"MU",
+        "admin1":"Rivière du Rempart",
+        "admin2":"",
+        "lat":-20.13083,
+        "lon":57.65917,
+        "pop":2912
+    },
+    {
+        "id":1106788,
+        "name":"Dubreuil",
+        "country":"MU",
+        "admin1":"Moka",
+        "admin2":"",
+        "lat":-20.30132,
+        "lon":57.59861,
+        "pop":2726
+    },
+    {
+        "id":934661,
+        "name":"Camp de Masque",
+        "country":"MU",
+        "admin1":"Flacq",
+        "admin2":"",
+        "lat":-20.236,
+        "lon":57.676,
+        "pop":2721
+    },
+    {
+        "id":934644,
+        "name":"Cascavelle",
+        "country":"MU",
+        "admin1":"Black River",
+        "admin2":"",
+        "lat":-20.28694,
+        "lon":57.40722,
+        "pop":2613
+    },
+    {
+        "id":1106813,
+        "name":"Arsenal",
+        "country":"MU",
+        "admin1":"Pamplemousses",
+        "admin2":"",
+        "lat":-20.10556,
+        "lon":57.53528,
+        "pop":2599
+    },
+    {
+        "id":1547471,
+        "name":"Baie aux Huîtres",
+        "country":"MU",
+        "admin1":"Rodrigues",
+        "admin2":"",
+        "lat":-19.69444,
+        "lon":63.40833,
+        "pop":2500
+    },
+    {
+        "id":934475,
+        "name":"Grande Rivière Sud Est",
+        "country":"MU",
+        "admin1":"Flacq",
+        "admin2":"",
+        "lat":-20.28611,
+        "lon":57.77583,
+        "pop":2472
+    },
+    {
+        "id":934731,
+        "name":"Bel Ombre",
+        "country":"MU",
+        "admin1":"Savanne",
+        "admin2":"",
+        "lat":-20.50222,
+        "lon":57.40611,
+        "pop":2417
+    },
+    {
+        "id":934144,
+        "name":"Poudre d’Or",
+        "country":"MU",
+        "admin1":"Rivière du Rempart",
+        "admin2":"",
+        "lat":-20.06,
+        "lon":57.67667,
+        "pop":2373
+    },
+    {
+        "id":934089,
+        "name":"Grande Rivière Noire",
+        "country":"MU",
+        "admin1":"Black River",
+        "admin2":"",
+        "lat":-20.36028,
+        "lon":57.36611,
+        "pop":2361
+    },
+    {
+        "id":934533,
+        "name":"Espérance Trébuchet",
+        "country":"MU",
+        "admin1":"Rivière du Rempart",
+        "admin2":"",
+        "lat":-20.06972,
+        "lon":57.64194,
+        "pop":2323
+    },
+    {
+        "id":934656,
+        "name":"Camp Thorel",
+        "country":"MU",
+        "admin1":"Moka",
+        "admin2":"",
+        "lat":-20.21472,
+        "lon":57.61611,
+        "pop":2299
+    },
+    {
+        "id":934459,
+        "name":"Grand Sable",
+        "country":"MU",
+        "admin1":"Grand Port",
+        "admin2":"",
+        "lat":-20.31417,
+        "lon":57.76444,
+        "pop":2208
+    },
+    {
+        "id":933933,
+        "name":"Verdun",
+        "country":"MU",
+        "admin1":"Moka",
+        "admin2":"",
+        "lat":-20.23417,
+        "lon":57.55476,
+        "pop":2208
+    },
+    {
+        "id":934092,
+        "name":"Rivière du Poste",
+        "country":"MU",
+        "admin1":"Savanne",
+        "admin2":"",
+        "lat":-20.42417,
+        "lon":57.56694,
+        "pop":2170
+    },
+    {
+        "id":1106638,
+        "name":"Mare La Chaux",
+        "country":"MU",
+        "admin1":"Flacq",
+        "admin2":"",
+        "lat":-20.19806,
+        "lon":57.74944,
+        "pop":2058
+    },
+    {
+        "id":934517,
+        "name":"Flic en Flac",
+        "country":"MU",
+        "admin1":"Black River",
+        "admin2":"",
+        "lat":-20.278,
+        "lon":57.372,
+        "pop":2010
+    },
+    {
+        "id":934288,
+        "name":"Melrose",
+        "country":"MU",
+        "admin1":"Moka",
+        "admin2":"",
+        "lat":-20.26972,
+        "lon":57.63194,
+        "pop":2002
+    },
+    {
+        "id":934705,
+        "name":"Bois des Amourettes",
+        "country":"MU",
+        "admin1":"Grand Port",
+        "admin2":"",
+        "lat":-20.36306,
+        "lon":57.73111,
+        "pop":1986
+    },
+    {
+        "id":1106621,
+        "name":"Congomah",
+        "country":"MU",
+        "admin1":"Pamplemousses",
+        "admin2":"",
+        "lat":-20.14889,
+        "lon":57.59083,
+        "pop":1956
+    },
+    {
+        "id":934599,
+        "name":"Clémencia",
+        "country":"MU",
+        "admin1":"Flacq",
+        "admin2":"",
+        "lat":-20.26389,
+        "lon":57.70611,
+        "pop":1835
+    },
+    {
+        "id":934056,
+        "name":"Saint Aubin",
+        "country":"MU",
+        "admin1":"Savanne",
+        "admin2":"",
+        "lat":-20.496,
+        "lon":57.55,
+        "pop":1659
+    },
+    {
+        "id":1106589,
+        "name":"Cluny",
+        "country":"MU",
+        "admin1":"Grand Port",
+        "admin2":"",
+        "lat":-20.36694,
+        "lon":57.60389,
+        "pop":1629
+    },
+    {
+        "id":1106677,
+        "name":"Bambous Virieux",
+        "country":"MU",
+        "admin1":"Grand Port",
+        "admin2":"",
+        "lat":-20.34278,
+        "lon":57.7575,
+        "pop":1540
+    },
+    {
+        "id":934198,
+        "name":"Petite Case Noyale",
+        "country":"MU",
+        "admin1":"Black River",
+        "admin2":"",
+        "lat":-20.404,
+        "lon":57.371,
+        "pop":1525
+    },
+    {
+        "id":1106771,
+        "name":"Mapou",
+        "country":"MU",
+        "admin1":"Rivière du Rempart",
+        "admin2":"",
+        "lat":-20.07583,
+        "lon":57.60139,
+        "pop":1288
+    },
+    {
+        "id":1106748,
+        "name":"Ebene",
+        "country":"MU",
+        "admin1":"Plaines Wilhems",
+        "admin2":"",
+        "lat":-20.24494,
+        "lon":57.49163,
+        "pop":1001
+    },
+    {
+        "id":1106683,
+        "name":"Petit Bel Air",
+        "country":"MU",
+        "admin1":"Grand Port",
+        "admin2":"",
+        "lat":-20.39986,
+        "lon":57.69513,
+        "pop":1000
+    },
+    {
+        "id":934626,
+        "name":"Chamarel",
+        "country":"MU",
+        "admin1":"Black River",
+        "admin2":"",
+        "lat":-20.4225,
+        "lon":57.38389,
+        "pop":723
+    },
+    {
+        "id":1106723,
+        "name":"Bananes",
+        "country":"MU",
+        "admin1":"Grand Port",
+        "admin2":"",
+        "lat":-20.34667,
+        "lon":57.58861,
+        "pop":652
+    }
+]

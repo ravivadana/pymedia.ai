@@ -1,0 +1,192 @@
+[
+    {
+        "id":241131,
+        "name":"Victoria",
+        "country":"SC",
+        "admin1":"La Rivière Anglaise",
+        "admin2":"",
+        "lat":-4.62001,
+        "lon":55.45501,
+        "pop":22881
+    },
+    {
+        "id":241395,
+        "name":"Cascade",
+        "country":"SC",
+        "admin1":"Cascade",
+        "admin2":"",
+        "lat":-4.66915,
+        "lon":55.49952,
+        "pop":7263
+    },
+    {
+        "id":12718739,
+        "name":"Perseverance",
+        "country":"SC",
+        "admin1":null,
+        "admin2":"",
+        "lat":-4.60445,
+        "lon":55.46428,
+        "pop":6209
+    },
+    {
+        "id":6691843,
+        "name":"Baie Sainte Anne",
+        "country":"SC",
+        "admin1":"Baie Sainte Anne",
+        "admin2":"",
+        "lat":-4.31997,
+        "lon":55.75338,
+        "pop":5063
+    },
+    {
+        "id":10793745,
+        "name":"Baie Lazare",
+        "country":"SC",
+        "admin1":"Baie Lazare",
+        "admin2":"",
+        "lat":-4.74971,
+        "lon":55.4754,
+        "pop":4795
+    },
+    {
+        "id":10792304,
+        "name":"Anse aux Pins",
+        "country":"SC",
+        "admin1":"Anse-aux-Pins",
+        "admin2":"",
+        "lat":-4.686,
+        "lon":55.522,
+        "pop":4685
+    },
+    {
+        "id":11395546,
+        "name":"Glacis",
+        "country":"SC",
+        "admin1":"Glacis",
+        "admin2":"",
+        "lat":-4.57578,
+        "lon":55.4368,
+        "pop":4496
+    },
+    {
+        "id":8629285,
+        "name":"Grand'Anse",
+        "country":"SC",
+        "admin1":"Grand Anse Praslin",
+        "admin2":"",
+        "lat":-4.33109,
+        "lon":55.72206,
+        "pop":4344
+    },
+    {
+        "id":13527028,
+        "name":"English River",
+        "country":"SC",
+        "admin1":"La Rivière Anglaise",
+        "admin2":"",
+        "lat":-4.61365,
+        "lon":55.45475,
+        "pop":4236
+    },
+    {
+        "id":241448,
+        "name":"Anse Boileau",
+        "country":"SC",
+        "admin1":"Anse Boileau",
+        "admin2":"",
+        "lat":-4.71667,
+        "lon":55.48333,
+        "pop":4183
+    },
+    {
+        "id":241423,
+        "name":"Bel Ombre",
+        "country":"SC",
+        "admin1":"Bel Ombre",
+        "admin2":"",
+        "lat":-4.61667,
+        "lon":55.41667,
+        "pop":4163
+    },
+    {
+        "id":241427,
+        "name":"Beau Vallon",
+        "country":"SC",
+        "admin1":"Beau Vallon",
+        "admin2":"",
+        "lat":-4.62091,
+        "lon":55.43015,
+        "pop":4142
+    },
+    {
+        "id":241257,
+        "name":"Grand'Anse",
+        "country":"SC",
+        "admin1":"Grand Anse Mahe",
+        "admin2":"",
+        "lat":-4.66667,
+        "lon":55.46667,
+        "pop":4140
+    },
+    {
+        "id":241303,
+        "name":"La Digue",
+        "country":"SC",
+        "admin1":"La Digue and Inner Islands",
+        "admin2":"",
+        "lat":-4.35544,
+        "lon":55.83527,
+        "pop":3934
+    },
+    {
+        "id":11694896,
+        "name":"Roche Caïman",
+        "country":"SC",
+        "admin1":"Roche Caiman",
+        "admin2":"",
+        "lat":-4.6401,
+        "lon":55.46879,
+        "pop":3828
+    },
+    {
+        "id":241443,
+        "name":"Anse Royale",
+        "country":"SC",
+        "admin1":"Anse Royale",
+        "admin2":"",
+        "lat":-4.73333,
+        "lon":55.51667,
+        "pop":3818
+    },
+    {
+        "id":10793687,
+        "name":"Pointe La Rue",
+        "country":"SC",
+        "admin1":"Pointe La Rue",
+        "admin2":"",
+        "lat":-4.67323,
+        "lon":55.5131,
+        "pop":3750
+    },
+    {
+        "id":241214,
+        "name":"Port Glaud",
+        "country":"SC",
+        "admin1":"Port Glaud",
+        "admin2":"",
+        "lat":-4.66256,
+        "lon":55.41841,
+        "pop":3243
+    },
+    {
+        "id":241150,
+        "name":"Takamaka",
+        "country":"SC",
+        "admin1":"Takamaka",
+        "admin2":"",
+        "lat":-4.76667,
+        "lon":55.5,
+        "pop":2580
+    }
+]

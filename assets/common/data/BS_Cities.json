@@ -1,0 +1,192 @@
+[
+    {
+        "id":3571824,
+        "name":"Nassau",
+        "country":"BS",
+        "admin1":"New Providence",
+        "admin2":"",
+        "lat":25.05823,
+        "lon":-77.34306,
+        "pop":227940
+    },
+    {
+        "id":3571971,
+        "name":"Lucaya",
+        "country":"BS",
+        "admin1":"Freeport",
+        "admin2":"",
+        "lat":26.53333,
+        "lon":-78.66667,
+        "pop":46525
+    },
+    {
+        "id":3572375,
+        "name":"Freeport",
+        "country":"BS",
+        "admin1":"Freeport",
+        "admin2":"",
+        "lat":26.53333,
+        "lon":-78.7,
+        "pop":26910
+    },
+    {
+        "id":3572106,
+        "name":"Killarney",
+        "country":"BS",
+        "admin1":"New Providence",
+        "admin2":"",
+        "lat":25.05,
+        "lon":-77.41667,
+        "pop":17679
+    },
+    {
+        "id":3571224,
+        "name":"West End",
+        "country":"BS",
+        "admin1":"West Grand Bahama",
+        "admin2":"",
+        "lat":26.68711,
+        "lon":-78.97702,
+        "pop":12724
+    },
+    {
+        "id":3572601,
+        "name":"Cooper’s Town",
+        "country":"BS",
+        "admin1":"North Abaco",
+        "admin2":"",
+        "lat":26.87137,
+        "lon":-77.51131,
+        "pop":8413
+    },
+    {
+        "id":3571523,
+        "name":"San Andros",
+        "country":"BS",
+        "admin1":"North Andros",
+        "admin2":"",
+        "lat":25.06667,
+        "lon":-78.05,
+        "pop":7800
+    },
+    {
+        "id":3572349,
+        "name":"George Town",
+        "country":"BS",
+        "admin1":"Exuma",
+        "admin2":"",
+        "lat":23.51616,
+        "lon":-75.78665,
+        "pop":7314
+    },
+    {
+        "id":3571913,
+        "name":"Marsh Harbour",
+        "country":"BS",
+        "admin1":"Central Abaco",
+        "admin2":"",
+        "lat":26.54124,
+        "lon":-77.0636,
+        "pop":5314
+    },
+    {
+        "id":3572189,
+        "name":"High Rock",
+        "country":"BS",
+        "admin1":"East Grand Bahama",
+        "admin2":"",
+        "lat":26.62651,
+        "lon":-78.28209,
+        "pop":3744
+    },
+    {
+        "id":10793775,
+        "name":"Freetown",
+        "country":"BS",
+        "admin1":"South Eleuthera",
+        "admin2":"",
+        "lat":24.77894,
+        "lon":-76.27705,
+        "pop":3137
+    },
+    {
+        "id":3572906,
+        "name":"Andros Town",
+        "country":"BS",
+        "admin1":"North Andros",
+        "admin2":"",
+        "lat":24.70502,
+        "lon":-77.76912,
+        "pop":2455
+    },
+    {
+        "id":3572640,
+        "name":"Clarence Town",
+        "country":"BS",
+        "admin1":"Long Island",
+        "admin2":"",
+        "lat":23.1,
+        "lon":-74.98333,
+        "pop":1752
+    },
+    {
+        "id":3572462,
+        "name":"Dunmore Town",
+        "country":"BS",
+        "admin1":"Harbour Island",
+        "admin2":"",
+        "lat":25.50216,
+        "lon":-76.63633,
+        "pop":1523
+    },
+    {
+        "id":3571375,
+        "name":"Spanish Wells",
+        "country":"BS",
+        "admin1":"Spanish Wells",
+        "admin2":"",
+        "lat":25.54717,
+        "lon":-76.76405,
+        "pop":1500
+    },
+    {
+        "id":7535668,
+        "name":"Treasure Cay",
+        "country":"BS",
+        "admin1":"North Abaco",
+        "admin2":"",
+        "lat":26.67691,
+        "lon":-77.28581,
+        "pop":1187
+    },
+    {
+        "id":3572897,
+        "name":"Arthur’s Town",
+        "country":"BS",
+        "admin1":"Cat Island",
+        "admin2":"",
+        "lat":24.6224,
+        "lon":-75.67151,
+        "pop":1175
+    },
+    {
+        "id":3572924,
+        "name":"Alice Town",
+        "country":"BS",
+        "admin1":"Bimini",
+        "admin2":"",
+        "lat":25.728,
+        "lon":-79.29721,
+        "pop":949
+    },
+    {
+        "id":3572627,
+        "name":"Cockburn Town",
+        "country":"BS",
+        "admin1":"San Salvador",
+        "admin2":"",
+        "lat":24.05179,
+        "lon":-74.53138,
+        "pop":831
+    }
+]

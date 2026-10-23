@@ -1,0 +1,882 @@
+[
+    {
+        "id":98182,
+        "name":"Baghdad",
+        "country":"IQ",
+        "admin1":"Baghdad",
+        "admin2":"Al Rusafa",
+        "lat":33.34058,
+        "lon":44.40088,
+        "pop":7216000
+    },
+    {
+        "id":99072,
+        "name":"Mosul",
+        "country":"IQ",
+        "admin1":"Nineveh",
+        "admin2":"Mosul",
+        "lat":36.335,
+        "lon":43.11889,
+        "pop":1683000
+    },
+    {
+        "id":95446,
+        "name":"Erbil",
+        "country":"IQ",
+        "admin1":"Erbil",
+        "admin2":"Arbil",
+        "lat":36.19117,
+        "lon":44.00943,
+        "pop":1612700
+    },
+    {
+        "id":99532,
+        "name":"Basrah",
+        "country":"IQ",
+        "admin1":"Basra",
+        "admin2":"Basrah District",
+        "lat":30.50852,
+        "lon":47.7804,
+        "pop":1326564
+    },
+    {
+        "id":94824,
+        "name":"Karbala",
+        "country":"IQ",
+        "admin1":"Karbalāʼ",
+        "admin2":"Kerbala District",
+        "lat":32.61603,
+        "lon":44.02488,
+        "pop":1218732
+    },
+    {
+        "id":94787,
+        "name":"Kirkuk",
+        "country":"IQ",
+        "admin1":"Kirkuk",
+        "admin2":"Kirkuk District",
+        "lat":35.46806,
+        "lon":44.39222,
+        "pop":1031000
+    },
+    {
+        "id":100077,
+        "name":"Abū Ghurayb",
+        "country":"IQ",
+        "admin1":"Baghdad",
+        "admin2":"Abu Ghraib District",
+        "lat":33.30563,
+        "lon":44.18477,
+        "pop":900000
+    },
+    {
+        "id":98463,
+        "name":"As Sulaymānīyah",
+        "country":"IQ",
+        "admin1":"Sulaymaniyah",
+        "admin2":"Qaḑā’ as Sulaymānīyah",
+        "lat":35.56496,
+        "lon":45.4329,
+        "pop":878146
+    },
+    {
+        "id":98854,
+        "name":"Nasiriyah",
+        "country":"IQ",
+        "admin1":"Dhi Qar",
+        "admin2":"Nassriya District",
+        "lat":31.05799,
+        "lon":46.25726,
+        "pop":558400
+    },
+    {
+        "id":98860,
+        "name":"Najaf",
+        "country":"IQ",
+        "admin1":"An Najaf",
+        "admin2":"Kufa",
+        "lat":32.02594,
+        "lon":44.34625,
+        "pop":482576
+    },
+    {
+        "id":99347,
+        "name":"Al Ḩillah",
+        "country":"IQ",
+        "admin1":"Bābil",
+        "admin2":"Al-Musayab District",
+        "lat":32.46367,
+        "lon":44.41963,
+        "pop":455700
+    },
+    {
+        "id":99100,
+        "name":"Al Maḩmūdīyah",
+        "country":"IQ",
+        "admin1":"Baghdad",
+        "admin2":"Mahmudiya District",
+        "lat":33.06221,
+        "lon":44.36564,
+        "pop":350000
+    },
+    {
+        "id":96994,
+        "name":"Dihok",
+        "country":"IQ",
+        "admin1":"Duhok",
+        "admin2":"Dohuk District",
+        "lat":36.86608,
+        "lon":42.9879,
+        "pop":340900
+    },
+    {
+        "id":99608,
+        "name":"Al ‘Amārah",
+        "country":"IQ",
+        "admin1":"Maysan",
+        "admin2":"Amara District",
+        "lat":31.83561,
+        "lon":47.14483,
+        "pop":323302
+    },
+    {
+        "id":99762,
+        "name":"Ad Dīwānīyah",
+        "country":"IQ",
+        "admin1":"Al Qādisīyah",
+        "admin2":"Qada Diwaniya",
+        "lat":31.99289,
+        "lon":44.92552,
+        "pop":318801
+    },
+    {
+        "id":99131,
+        "name":"Al Kūt",
+        "country":"IQ",
+        "admin1":"Wāsiţ",
+        "admin2":"Kut District",
+        "lat":32.5128,
+        "lon":45.81817,
+        "pop":315162
+    },
+    {
+        "id":98993,
+        "name":"Al Qurnah",
+        "country":"IQ",
+        "admin1":"Basra",
+        "admin2":"Al-Qurna District",
+        "lat":31.01547,
+        "lon":47.43362,
+        "pop":286073
+    },
+    {
+        "id":99106,
+        "name":"Al Madīnah",
+        "country":"IQ",
+        "admin1":"Basra",
+        "admin2":"Al-Midaina District",
+        "lat":30.96324,
+        "lon":47.26998,
+        "pop":255000
+    },
+    {
+        "id":95005,
+        "name":"Kelar",
+        "country":"IQ",
+        "admin1":"Sulaymaniyah",
+        "admin2":"Kalar District",
+        "lat":34.62805,
+        "lon":45.31852,
+        "pop":250000
+    },
+    {
+        "id":98717,
+        "name":"Ramadi",
+        "country":"IQ",
+        "admin1":"Al Anbar",
+        "admin2":"Ramadi District",
+        "lat":33.42056,
+        "lon":43.30778,
+        "pop":223500
+    },
+    {
+        "id":99454,
+        "name":"Al Fallūjah",
+        "country":"IQ",
+        "admin1":"Al Anbar",
+        "admin2":"Falluja District",
+        "lat":33.34913,
+        "lon":43.78599,
+        "pop":190159
+    },
+    {
+        "id":91597,
+        "name":"Sāmarrā’",
+        "country":"IQ",
+        "admin1":"Salah ad Din",
+        "admin2":"Al-Daur District",
+        "lat":34.1959,
+        "lon":43.88568,
+        "pop":158508
+    },
+    {
+        "id":98530,
+        "name":"As Samawah",
+        "country":"IQ",
+        "admin1":"Al Muthanna Governorate",
+        "admin2":"Al-Samawa District",
+        "lat":31.33198,
+        "lon":45.2944,
+        "pop":152890
+    },
+    {
+        "id":97990,
+        "name":"Baqubah",
+        "country":"IQ",
+        "admin1":"Diyālá",
+        "admin2":"Al-Muqdadiya District",
+        "lat":33.75403,
+        "lon":44.60518,
+        "pop":152550
+    },
+    {
+        "id":90708,
+        "name":"Sīnah",
+        "country":"IQ",
+        "admin1":"Duhok",
+        "admin2":"Semel District",
+        "lat":36.80851,
+        "lon":43.03935,
+        "pop":128776
+    },
+    {
+        "id":96961,
+        "name":"Soran",
+        "country":"IQ",
+        "admin1":"Erbil",
+        "admin2":"Soran District",
+        "lat":36.65558,
+        "lon":44.54217,
+        "pop":125000
+    },
+    {
+        "id":98245,
+        "name":"Az Zubayr",
+        "country":"IQ",
+        "admin1":"Basra",
+        "admin2":"Al-Zubair District",
+        "lat":30.39213,
+        "lon":47.70175,
+        "pop":122676
+    },
+    {
+        "id":99135,
+        "name":"Kufa",
+        "country":"IQ",
+        "admin1":"An Najaf",
+        "admin2":"Kufa",
+        "lat":32.05114,
+        "lon":44.44017,
+        "pop":110000
+    },
+    {
+        "id":98846,
+        "name":"An Nu‘mānīyah",
+        "country":"IQ",
+        "admin1":"Wāsiţ",
+        "admin2":"Al-Na'maniya District",
+        "lat":32.55621,
+        "lon":45.41293,
+        "pop":110000
+    },
+    {
+        "id":89824,
+        "name":"Umm Qaşr",
+        "country":"IQ",
+        "admin1":"Basra",
+        "admin2":"Al-Zubair District",
+        "lat":30.0362,
+        "lon":47.91951,
+        "pop":107620
+    },
+    {
+        "id":99446,
+        "name":"Al Fāw",
+        "country":"IQ",
+        "admin1":"Basra",
+        "admin2":"Al-Faw District",
+        "lat":29.97421,
+        "lon":48.47309,
+        "pop":104569
+    },
+    {
+        "id":99226,
+        "name":"Nāḩiyat al Iskandarīyah",
+        "country":"IQ",
+        "admin1":"Bābil",
+        "admin2":"Al-Mahawil District",
+        "lat":32.8873,
+        "lon":44.34619,
+        "pop":100600
+    },
+    {
+        "id":89570,
+        "name":"Zaxo",
+        "country":"IQ",
+        "admin1":"Duhok",
+        "admin2":"Zakho District",
+        "lat":37.14871,
+        "lon":42.68591,
+        "pop":95052
+    },
+    {
+        "id":99344,
+        "name":"Al Hindīyah",
+        "country":"IQ",
+        "admin1":"Karbalāʼ",
+        "admin2":"",
+        "lat":32.54193,
+        "lon":44.22469,
+        "pop":84100
+    },
+    {
+        "id":98622,
+        "name":"Ash Shaţrah",
+        "country":"IQ",
+        "admin1":"Dhi Qar",
+        "admin2":"Al-Shatra District",
+        "lat":31.40906,
+        "lon":46.1727,
+        "pop":82732
+    },
+    {
+        "id":447022,
+        "name":"Hajiawa",
+        "country":"IQ",
+        "admin1":"Sulaymaniyah",
+        "admin2":"Rania District",
+        "lat":36.23579,
+        "lon":44.79469,
+        "pop":80000
+    },
+    {
+        "id":99350,
+        "name":"Al Ḩayy",
+        "country":"IQ",
+        "admin1":"Wāsiţ",
+        "admin2":"Al-Hai District",
+        "lat":32.17419,
+        "lon":46.04345,
+        "pop":78272
+    },
+    {
+        "id":97417,
+        "name":"Jamjamāl",
+        "country":"IQ",
+        "admin1":"Sulaymaniyah",
+        "admin2":"Chamchamal District",
+        "lat":35.53356,
+        "lon":44.8343,
+        "pop":75634
+    },
+    {
+        "id":92138,
+        "name":"Al Qā’im",
+        "country":"IQ",
+        "admin1":"Al Anbar",
+        "admin2":"Al-Ka'im District",
+        "lat":34.39251,
+        "lon":40.98945,
+        "pop":74100
+    },
+    {
+        "id":10303650,
+        "name":"Simele",
+        "country":"IQ",
+        "admin1":"Duhok",
+        "admin2":"Semel District",
+        "lat":36.85833,
+        "lon":42.8501,
+        "pop":71557
+    },
+    {
+        "id":99169,
+        "name":"Khāliş",
+        "country":"IQ",
+        "admin1":"Diyālá",
+        "admin2":"Al-Muqdadiya District",
+        "lat":33.80809,
+        "lon":44.53343,
+        "pop":70046
+    },
+    {
+        "id":90026,
+        "name":"Ţūz Khūrmātū",
+        "country":"IQ",
+        "admin1":"Salah ad Din",
+        "admin2":"Tooz District",
+        "lat":34.88808,
+        "lon":44.63256,
+        "pop":59886
+    },
+    {
+        "id":98629,
+        "name":"Ash Shāmīyah",
+        "country":"IQ",
+        "admin1":"Al Qādisīyah",
+        "admin2":"Qada Al-Shamiya",
+        "lat":31.96257,
+        "lon":44.60075,
+        "pop":57661
+    },
+    {
+        "id":96205,
+        "name":"Ḩalabja",
+        "country":"IQ",
+        "admin1":"Sulaymaniyah",
+        "admin2":"Qaḑā’ Ḩalabchah",
+        "lat":35.17778,
+        "lon":45.98611,
+        "pop":57333
+    },
+    {
+        "id":99039,
+        "name":"Al Musayyib",
+        "country":"IQ",
+        "admin1":"Bābil",
+        "admin2":"Al-Musayab District",
+        "lat":32.77872,
+        "lon":44.29005,
+        "pop":57300
+    },
+    {
+        "id":99062,
+        "name":"Al Miqdādīyah",
+        "country":"IQ",
+        "admin1":"Diyālá",
+        "admin2":"Al-Muqdadiya District",
+        "lat":33.97861,
+        "lon":44.93694,
+        "pop":50698
+    },
+    {
+        "id":92430,
+        "name":"Al-Hamdaniya",
+        "country":"IQ",
+        "admin1":"Nineveh",
+        "admin2":"Al-Hamdaniya District",
+        "lat":36.27093,
+        "lon":43.37758,
+        "pop":50000
+    },
+    {
+        "id":98685,
+        "name":"Ar Rumaythah",
+        "country":"IQ",
+        "admin1":"Al Muthanna Governorate",
+        "admin2":"Al-Rumaitha District",
+        "lat":31.52845,
+        "lon":45.20377,
+        "pop":47248
+    },
+    {
+        "id":94220,
+        "name":"Koysinceq",
+        "country":"IQ",
+        "admin1":"Erbil",
+        "admin2":"Koisnjaq district",
+        "lat":36.08289,
+        "lon":44.62873,
+        "pop":44987
+    },
+    {
+        "id":99548,
+        "name":"Al ‘Azīzīyah",
+        "country":"IQ",
+        "admin1":"Wāsiţ",
+        "admin2":"Qada Al-Azezia",
+        "lat":32.90941,
+        "lon":45.06359,
+        "pop":44751
+    },
+    {
+        "id":90150,
+        "name":"Tikrīt",
+        "country":"IQ",
+        "admin1":"Salah ad Din",
+        "admin2":"Tikrit District",
+        "lat":34.61581,
+        "lon":43.67861,
+        "pop":42477
+    },
+    {
+        "id":98459,
+        "name":"Aş Şuwayrah",
+        "country":"IQ",
+        "admin1":"Wāsiţ",
+        "admin2":"Al-Suwaira District",
+        "lat":32.92556,
+        "lon":44.77583,
+        "pop":42354
+    },
+    {
+        "id":98112,
+        "name":"Balad",
+        "country":"IQ",
+        "admin1":"Salah ad Din",
+        "admin2":"Balad District",
+        "lat":34.01485,
+        "lon":44.14574,
+        "pop":42088
+    },
+    {
+        "id":448149,
+        "name":"Sinjār",
+        "country":"IQ",
+        "admin1":"Nineveh",
+        "admin2":"Sinjar",
+        "lat":36.3209,
+        "lon":41.87656,
+        "pop":38294
+    },
+    {
+        "id":99010,
+        "name":"al-Qasim",
+        "country":"IQ",
+        "admin1":"Bābil",
+        "admin2":"Hashimiya District",
+        "lat":32.29799,
+        "lon":44.68282,
+        "pop":36992
+    },
+    {
+        "id":97783,
+        "name":"Bayjī",
+        "country":"IQ",
+        "admin1":"Salah ad Din",
+        "admin2":"Baiji District",
+        "lat":34.92915,
+        "lon":43.48878,
+        "pop":36454
+    },
+    {
+        "id":95788,
+        "name":"Hīt",
+        "country":"IQ",
+        "admin1":"Al Anbar",
+        "admin2":"Hīt District",
+        "lat":33.63664,
+        "lon":42.82768,
+        "pop":31901
+    },
+    {
+        "id":99103,
+        "name":"Al Maḩāwīl",
+        "country":"IQ",
+        "admin1":"Bābil",
+        "admin2":"Al-Mahawil District",
+        "lat":32.66138,
+        "lon":44.40854,
+        "pop":31200
+    },
+    {
+        "id":96309,
+        "name":"Ḩadīthah",
+        "country":"IQ",
+        "admin1":"Al Anbar",
+        "admin2":"Haditha District",
+        "lat":34.13661,
+        "lon":42.37727,
+        "pop":30925
+    },
+    {
+        "id":99434,
+        "name":"Nahiyat Ghammas",
+        "country":"IQ",
+        "admin1":"Al Qādisīyah",
+        "admin2":"Qada Al-Shamiya",
+        "lat":31.74311,
+        "lon":44.6196,
+        "pop":30909
+    },
+    {
+        "id":91812,
+        "name":"Nāḩīyat Saddat al Hindīyah",
+        "country":"IQ",
+        "admin1":"Bābil",
+        "admin2":"Al-Musayab District",
+        "lat":32.71557,
+        "lon":44.27857,
+        "pop":30622
+    },
+    {
+        "id":94298,
+        "name":"Kifrī",
+        "country":"IQ",
+        "admin1":"Diyālá",
+        "admin2":"Qaḑā’ Kifrī",
+        "lat":34.68963,
+        "lon":44.96057,
+        "pop":30143
+    },
+    {
+        "id":93709,
+        "name":"Mandalī",
+        "country":"IQ",
+        "admin1":"Diyālá",
+        "admin2":"Qada Balad Ruz",
+        "lat":33.7481,
+        "lon":45.55503,
+        "pop":29785
+    },
+    {
+        "id":97825,
+        "name":"Batifa",
+        "country":"IQ",
+        "admin1":"Duhok",
+        "admin2":"Batifa district",
+        "lat":37.17454,
+        "lon":43.01233,
+        "pop":28000
+    },
+    {
+        "id":98012,
+        "name":"Baynjiwayn",
+        "country":"IQ",
+        "admin1":"Sulaymaniyah",
+        "admin2":"Penjwin District",
+        "lat":35.62054,
+        "lon":45.94908,
+        "pop":27116
+    },
+    {
+        "id":6765385,
+        "name":"‘Anah",
+        "country":"IQ",
+        "admin1":"Al Anbar",
+        "admin2":"Anah District",
+        "lat":34.36857,
+        "lon":41.98194,
+        "pop":27000
+    },
+    {
+        "id":99759,
+        "name":"Ad Dujayl",
+        "country":"IQ",
+        "admin1":"Salah ad Din",
+        "admin2":"Al-Faris",
+        "lat":33.84667,
+        "lon":44.23444,
+        "pop":26362
+    },
+    {
+        "id":90353,
+        "name":"Tallkayf",
+        "country":"IQ",
+        "admin1":"Nineveh",
+        "admin2":"Tel Keppe District",
+        "lat":36.49118,
+        "lon":43.12114,
+        "pop":23524
+    },
+    {
+        "id":99060,
+        "name":"Al Mishkhāb",
+        "country":"IQ",
+        "admin1":"An Najaf",
+        "admin2":"Al-Manathera District",
+        "lat":31.80437,
+        "lon":44.4893,
+        "pop":23189
+    },
+    {
+        "id":98822,
+        "name":"‘Aqrah",
+        "country":"IQ",
+        "admin1":"Nineveh",
+        "admin2":"Akre District",
+        "lat":36.76038,
+        "lon":43.89428,
+        "pop":23000
+    },
+    {
+        "id":92002,
+        "name":"Ṟuwandiz",
+        "country":"IQ",
+        "admin1":"Erbil",
+        "admin2":"Qeza-î Ṟuwandiz",
+        "lat":36.6114,
+        "lon":44.52194,
+        "pop":22943
+    },
+    {
+        "id":98589,
+        "name":"Nāḩiyat ash Shināfīyah",
+        "country":"IQ",
+        "admin1":"Al Qādisīyah",
+        "admin2":"Hamza District",
+        "lat":31.58376,
+        "lon":44.64675,
+        "pop":22643
+    },
+    {
+        "id":98677,
+        "name":"Ar Ruţbah",
+        "country":"IQ",
+        "admin1":"Al Anbar",
+        "admin2":"Al-Rutba District",
+        "lat":33.03718,
+        "lon":40.28586,
+        "pop":22370
+    },
+    {
+        "id":99738,
+        "name":"‘Afak",
+        "country":"IQ",
+        "admin1":"Al Qādisīyah",
+        "admin2":"Afaq District",
+        "lat":32.0643,
+        "lon":45.24743,
+        "pop":21888
+    },
+    {
+        "id":99439,
+        "name":"Nāḩiyat al Fuhūd",
+        "country":"IQ",
+        "admin1":"Dhi Qar",
+        "admin2":"Suq Al-Shoyokh District",
+        "lat":30.96972,
+        "lon":46.72278,
+        "pop":21551
+    },
+    {
+        "id":99306,
+        "name":"‘Alī al Gharbī",
+        "country":"IQ",
+        "admin1":"Maysan",
+        "admin2":"Ali Al-Gharbi District",
+        "lat":32.46186,
+        "lon":46.68794,
+        "pop":19711
+    },
+    {
+        "id":12494059,
+        "name":"AlZwya",
+        "country":"IQ",
+        "admin1":"Salah ad Din",
+        "admin2":"Baiji District",
+        "lat":35.26083,
+        "lon":43.40669,
+        "pop":15000
+    },
+    {
+        "id":97890,
+        "name":"Barţalah",
+        "country":"IQ",
+        "admin1":"Nineveh",
+        "admin2":"Al-Hamdaniya District",
+        "lat":36.35369,
+        "lon":43.38128,
+        "pop":15000
+    },
+    {
+        "id":97788,
+        "name":"Begova",
+        "country":"IQ",
+        "admin1":"Duhok",
+        "admin2":"Zakho District",
+        "lat":37.23749,
+        "lon":43.16276,
+        "pop":15000
+    },
+    {
+        "id":92004,
+        "name":"Rāwah",
+        "country":"IQ",
+        "admin1":"Al Anbar",
+        "admin2":"Rawah District",
+        "lat":34.48229,
+        "lon":41.91898,
+        "pop":13000
+    },
+    {
+        "id":6999619,
+        "name":"Kays Qal‘ah",
+        "country":"IQ",
+        "admin1":"Nineveh",
+        "admin2":"Shekhan District",
+        "lat":36.63011,
+        "lon":43.30378,
+        "pop":10000
+    },
+    {
+        "id":12902769,
+        "name":"Kuchka",
+        "country":"IQ",
+        "admin1":"Erbil",
+        "admin2":"Mergasur District",
+        "lat":37.03583,
+        "lon":43.85025,
+        "pop":2700
+    },
+    {
+        "id":12902756,
+        "name":"Hetit",
+        "country":"IQ",
+        "admin1":"Duhok",
+        "admin2":"Adhamiyah",
+        "lat":37.03788,
+        "lon":43.72845,
+        "pop":2700
+    },
+    {
+        "id":12494060,
+        "name":"Hawe Ben Alean",
+        "country":"IQ",
+        "admin1":"Salah ad Din",
+        "admin2":"Baiji District",
+        "lat":35.27135,
+        "lon":43.37825,
+        "pop":1500
+    },
+    {
+        "id":93562,
+        "name":"Mawet",
+        "country":"IQ",
+        "admin1":"Sulaymaniyah",
+        "admin2":"Mawat District",
+        "lat":35.90123,
+        "lon":45.41422,
+        "pop":1464
+    },
+    {
+        "id":8659334,
+        "name":"Hilora",
+        "country":"IQ",
+        "admin1":"Duhok",
+        "admin2":"Adhamiyah",
+        "lat":36.99929,
+        "lon":43.84689,
+        "pop":750
+    },
+    {
+        "id":92765,
+        "name":"Hetite",
+        "country":"IQ",
+        "admin1":"Duhok",
+        "admin2":"Adhamiyah",
+        "lat":37.11493,
+        "lon":43.71022,
+        "pop":750
+    },
+    {
+        "id":90494,
+        "name":"Ruye shen",
+        "country":"IQ",
+        "admin1":"Duhok",
+        "admin2":"Adhamiyah",
+        "lat":37.06454,
+        "lon":43.88205,
+        "pop":740
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "id":2113779,
+        "name":"Majuro",
+        "country":"MH",
+        "admin1":"Majuro Atoll",
+        "admin2":"",
+        "lat":7.08971,
+        "lon":171.38027,
+        "pop":25400
+    },
+    {
+        "id":7304467,
+        "name":"Ebaye",
+        "country":"MH",
+        "admin1":"Kwajalein Atoll",
+        "admin2":"",
+        "lat":8.77479,
+        "lon":167.73919,
+        "pop":15000
+    },
+    {
+        "id":7306514,
+        "name":"Arno",
+        "country":"MH",
+        "admin1":"Arno Atoll",
+        "admin2":"",
+        "lat":7.06691,
+        "lon":171.55413,
+        "pop":2068
+    },
+    {
+        "id":2080422,
+        "name":"Jabor",
+        "country":"MH",
+        "admin1":"Jaluit Atoll",
+        "admin2":"",
+        "lat":5.92098,
+        "lon":169.64335,
+        "pop":1200
+    },
+    {
+        "id":7306528,
+        "name":"Wotje",
+        "country":"MH",
+        "admin1":"Wotje Atoll",
+        "admin2":"",
+        "lat":9.45429,
+        "lon":170.23674,
+        "pop":880
+    },
+    {
+        "id":7306516,
+        "name":"Mili",
+        "country":"MH",
+        "admin1":"Mili Atoll",
+        "admin2":"",
+        "lat":6.0815,
+        "lon":171.73502,
+        "pop":854
+    },
+    {
+        "id":7306522,
+        "name":"Namdrik",
+        "country":"MH",
+        "admin1":"Namdrik Atoll",
+        "admin2":"",
+        "lat":5.59944,
+        "lon":168.10282,
+        "pop":814
+    },
+    {
+        "id":7306512,
+        "name":"Ebon",
+        "country":"MH",
+        "admin1":"Ebon Atoll",
+        "admin2":"",
+        "lat":4.58199,
+        "lon":168.69636,
+        "pop":714
+    },
+    {
+        "id":7306525,
+        "name":"Kili",
+        "country":"MH",
+        "admin1":"Kili Island",
+        "admin2":"",
+        "lat":5.64387,
+        "lon":169.12109,
+        "pop":602
+    }
+]

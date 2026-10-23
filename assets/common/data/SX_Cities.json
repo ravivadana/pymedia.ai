@@ -1,0 +1,72 @@
+[
+    {
+        "id":3513794,
+        "name":"Cul de Sac",
+        "country":"SX",
+        "admin1":null,
+        "admin2":"",
+        "lat":18.04852,
+        "lon":-63.06513,
+        "pop":8467
+    },
+    {
+        "id":3513522,
+        "name":"Lower Prince’s Quarter",
+        "country":"SX",
+        "admin1":null,
+        "admin2":"",
+        "lat":18.04987,
+        "lon":-63.03789,
+        "pop":8000
+    },
+    {
+        "id":6985411,
+        "name":"Koolbaai",
+        "country":"SX",
+        "admin1":null,
+        "admin2":"",
+        "lat":18.04048,
+        "lon":-63.08397,
+        "pop":6000
+    },
+    {
+        "id":10793920,
+        "name":"Little Bay",
+        "country":"SX",
+        "admin1":null,
+        "admin2":"",
+        "lat":18.0264,
+        "lon":-63.06461,
+        "pop":5581
+    },
+    {
+        "id":3513144,
+        "name":"Upper Prince’s Quarter",
+        "country":"SX",
+        "admin1":null,
+        "admin2":"",
+        "lat":18.03277,
+        "lon":-63.03075,
+        "pop":4020
+    },
+    {
+        "id":3513392,
+        "name":"Philipsburg",
+        "country":"SX",
+        "admin1":null,
+        "admin2":"",
+        "lat":18.026,
+        "lon":-63.04582,
+        "pop":1400
+    },
+    {
+        "id":3513236,
+        "name":"Simson Bay Village",
+        "country":"SX",
+        "admin1":null,
+        "admin2":"",
+        "lat":18.03783,
+        "lon":-63.11852,
+        "pop":700
+    }
+]

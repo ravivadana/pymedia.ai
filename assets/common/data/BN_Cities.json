@@ -1,0 +1,362 @@
+[
+    {
+        "id":1820906,
+        "name":"Bandar Seri Begawan",
+        "country":"BN",
+        "admin1":"Brunei-Muara District",
+        "admin2":"",
+        "lat":4.89035,
+        "lon":114.94006,
+        "pop":64409
+    },
+    {
+        "id":1820575,
+        "name":"Sengkurong",
+        "country":"BN",
+        "admin1":"Brunei-Muara District",
+        "admin2":"Sengkurong",
+        "lat":4.88333,
+        "lon":114.83333,
+        "pop":40972
+    },
+    {
+        "id":1820635,
+        "name":"Mentiri",
+        "country":"BN",
+        "admin1":"Brunei-Muara District",
+        "admin2":"",
+        "lat":4.97058,
+        "lon":115.02078,
+        "pop":39324
+    },
+    {
+        "id":1820491,
+        "name":"Kuala Belait",
+        "country":"BN",
+        "admin1":"Belait",
+        "admin2":"",
+        "lat":4.58361,
+        "lon":114.2312,
+        "pop":31178
+    },
+    {
+        "id":1820187,
+        "name":"Seria",
+        "country":"BN",
+        "admin1":"Belait",
+        "admin2":"",
+        "lat":4.60637,
+        "lon":114.32476,
+        "pop":30097
+    },
+    {
+        "id":1820071,
+        "name":"Tutong",
+        "country":"BN",
+        "admin1":"Tutong",
+        "admin2":"",
+        "lat":4.80278,
+        "lon":114.64917,
+        "pop":19151
+    },
+    {
+        "id":1820574,
+        "name":"Serasa",
+        "country":"BN",
+        "admin1":"Brunei-Muara District",
+        "admin2":"",
+        "lat":5.01761,
+        "lon":115.05798,
+        "pop":18569
+    },
+    {
+        "id":1820557,
+        "name":"Liang",
+        "country":"BN",
+        "admin1":"Belait",
+        "admin2":"",
+        "lat":4.67747,
+        "lon":114.49587,
+        "pop":16813
+    },
+    {
+        "id":1820622,
+        "name":"Perumahan Negara Panchor",
+        "country":"BN",
+        "admin1":null,
+        "admin2":"",
+        "lat":4.96667,
+        "lon":115.01667,
+        "pop":13358
+    },
+    {
+        "id":1820545,
+        "name":"Telisai",
+        "country":"BN",
+        "admin1":"Tutong",
+        "admin2":"",
+        "lat":4.73558,
+        "lon":114.56324,
+        "pop":13253
+    },
+    {
+        "id":1820659,
+        "name":"Kota Batu",
+        "country":"BN",
+        "admin1":null,
+        "admin2":"",
+        "lat":4.88333,
+        "lon":114.95,
+        "pop":12676
+    },
+    {
+        "id":1820540,
+        "name":"Kampong Tunah Jambu",
+        "country":"BN",
+        "admin1":null,
+        "admin2":"",
+        "lat":4.98333,
+        "lon":114.98333,
+        "pop":11695
+    },
+    {
+        "id":1820610,
+        "name":"Pengkalan Batu",
+        "country":"BN",
+        "admin1":null,
+        "admin2":"",
+        "lat":4.78333,
+        "lon":114.83333,
+        "pop":11560
+    },
+    {
+        "id":1820593,
+        "name":"Kampong Meragang",
+        "country":"BN",
+        "admin1":null,
+        "admin2":"",
+        "lat":4.93333,
+        "lon":114.91667,
+        "pop":9190
+    },
+    {
+        "id":1820665,
+        "name":"Keriam",
+        "country":"BN",
+        "admin1":"Tutong",
+        "admin2":"",
+        "lat":4.81603,
+        "lon":114.6941,
+        "pop":8589
+    },
+    {
+        "id":1820641,
+        "name":"Lumapas",
+        "country":"BN",
+        "admin1":null,
+        "admin2":"",
+        "lat":4.85,
+        "lon":114.91667,
+        "pop":8058
+    },
+    {
+        "id":1820653,
+        "name":"Kampong Lambak A",
+        "country":"BN",
+        "admin1":"Brunei-Muara District",
+        "admin2":"",
+        "lat":4.96611,
+        "lon":114.94296,
+        "pop":7293
+    },
+    {
+        "id":1820638,
+        "name":"Kampong Mata Mata",
+        "country":"BN",
+        "admin1":null,
+        "admin2":"",
+        "lat":4.9,
+        "lon":114.9,
+        "pop":7159
+    },
+    {
+        "id":1820707,
+        "name":"Kampong Beribi",
+        "country":"BN",
+        "admin1":null,
+        "admin2":"",
+        "lat":4.88333,
+        "lon":114.88333,
+        "pop":6490
+    },
+    {
+        "id":1820560,
+        "name":"Sungai Hanching",
+        "country":"BN",
+        "admin1":"Brunei-Muara District",
+        "admin2":"Berakas B",
+        "lat":4.96806,
+        "lon":114.97753,
+        "pop":6129
+    },
+    {
+        "id":1820632,
+        "name":"Kampong Mulaut",
+        "country":"BN",
+        "admin1":null,
+        "admin2":"",
+        "lat":4.86667,
+        "lon":114.83333,
+        "pop":5981
+    },
+    {
+        "id":1820642,
+        "name":"Kampong Lugu",
+        "country":"BN",
+        "admin1":null,
+        "admin2":"",
+        "lat":4.88333,
+        "lon":114.8,
+        "pop":5795
+    },
+    {
+        "id":1820586,
+        "name":"Kampong Rimba",
+        "country":"BN",
+        "admin1":"Brunei-Muara District",
+        "admin2":"Gadong A",
+        "lat":4.91667,
+        "lon":114.9,
+        "pop":5284
+    },
+    {
+        "id":1820662,
+        "name":"Kiudang",
+        "country":"BN",
+        "admin1":"Tutong",
+        "admin2":"",
+        "lat":4.75,
+        "lon":114.73333,
+        "pop":5063
+    },
+    {
+        "id":1820664,
+        "name":"Kampong Kiajong",
+        "country":"BN",
+        "admin1":"Brunei-Muara District",
+        "admin2":"Gadong B",
+        "lat":4.88896,
+        "lon":114.91912,
+        "pop":4735
+    },
+    {
+        "id":1820676,
+        "name":"Kapok",
+        "country":"BN",
+        "admin1":"Brunei-Muara District",
+        "admin2":"",
+        "lat":5.02447,
+        "lon":115.04664,
+        "pop":4337
+    },
+    {
+        "id":1820604,
+        "name":"Kampong Peninjau",
+        "country":"BN",
+        "admin1":null,
+        "admin2":"",
+        "lat":4.93333,
+        "lon":114.83333,
+        "pop":4240
+    },
+    {
+        "id":1820903,
+        "name":"Bangar",
+        "country":"BN",
+        "admin1":"Temburong",
+        "admin2":"",
+        "lat":4.70861,
+        "lon":115.07167,
+        "pop":3970
+    },
+    {
+        "id":1820549,
+        "name":"Kampong Tanjong Nangka",
+        "country":"BN",
+        "admin1":null,
+        "admin2":"",
+        "lat":4.88333,
+        "lon":114.81667,
+        "pop":3838
+    },
+    {
+        "id":1820680,
+        "name":"Kampong Jerudong",
+        "country":"BN",
+        "admin1":"Brunei-Muara District",
+        "admin2":"",
+        "lat":4.95,
+        "lon":114.85,
+        "pop":3650
+    },
+    {
+        "id":1820684,
+        "name":"Kampong Gadong",
+        "country":"BN",
+        "admin1":"Brunei-Muara District",
+        "admin2":"",
+        "lat":4.91667,
+        "lon":114.91667,
+        "pop":3356
+    },
+    {
+        "id":1820577,
+        "name":"Kampong Selayun",
+        "country":"BN",
+        "admin1":null,
+        "admin2":"",
+        "lat":4.9,
+        "lon":114.85,
+        "pop":2956
+    },
+    {
+        "id":1820673,
+        "name":"Katok",
+        "country":"BN",
+        "admin1":"Brunei-Muara District",
+        "admin2":"Gadong A",
+        "lat":4.91619,
+        "lon":114.89353,
+        "pop":2427
+    },
+    {
+        "id":11807073,
+        "name":"Kulapis",
+        "country":"BN",
+        "admin1":"Brunei-Muara District",
+        "admin2":"",
+        "lat":4.85045,
+        "lon":114.82322,
+        "pop":1986
+    },
+    {
+        "id":1820582,
+        "name":"Salambigar",
+        "country":"BN",
+        "admin1":"Brunei-Muara District",
+        "admin2":"Berakas B",
+        "lat":4.97877,
+        "lon":114.9878,
+        "pop":1184
+    },
+    {
+        "id":12547935,
+        "name":"Kampung Sungai Teraban",
+        "country":"BN",
+        "admin1":"Belait",
+        "admin2":"",
+        "lat":4.58445,
+        "lon":114.18117,
+        "pop":1082
+    }
+]

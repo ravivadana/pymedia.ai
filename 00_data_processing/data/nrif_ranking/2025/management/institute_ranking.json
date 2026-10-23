@@ -1,0 +1,802 @@
+[
+    {
+        "Institute ID": "IR-M-S-8890",
+        "Name": "Indian Institute of Management Ahmedabad",
+        "City": "Ahmedabad",
+        "State": "Gujarat",
+        "Score": "83.29",
+        "Rank": "1"
+    },
+    {
+        "Institute ID": "IR-M-S-8903",
+        "Name": "Indian Institute of Management Bangalore",
+        "City": "Bengaluru",
+        "State": "Karnataka",
+        "Score": "81.56",
+        "Rank": "2"
+    },
+    {
+        "Institute ID": "IR-M-S-8909",
+        "Name": "Indian Institute of Management Kozhikode",
+        "City": "Kozhikode",
+        "State": "Kerala",
+        "Score": "79.85",
+        "Rank": "3"
+    },
+    {
+        "Institute ID": "IR-M-I-1074",
+        "Name": "Indian Institute of Technology Delhi",
+        "City": "New Delhi",
+        "State": "Delhi",
+        "Score": "78.94",
+        "Rank": "4"
+    },
+    {
+        "Institute ID": "IR-M-S-8959",
+        "Name": "Indian Institute of Management Lucknow",
+        "City": "Lucknow",
+        "State": "Uttar Pradesh",
+        "Score": "77.97",
+        "Rank": "5"
+    },
+    {
+        "Institute ID": "IR-M-S-8931",
+        "Name": "Indian Institute of Management, Mumbai",
+        "City": "Mumbai",
+        "State": "Maharashtra",
+        "Score": "77.58",
+        "Rank": "6"
+    },
+    {
+        "Institute ID": "IR-M-S-8972",
+        "Name": "Indian Institute of Management Calcutta",
+        "City": "Kolkata",
+        "State": "West Bengal",
+        "Score": "77.34",
+        "Rank": "7"
+    },
+    {
+        "Institute ID": "IR-M-S-8918",
+        "Name": "Indian Institute of Management Indore",
+        "City": "Indore",
+        "State": "Madhya Pradesh",
+        "Score": "75.68",
+        "Rank": "8"
+    },
+    {
+        "Institute ID": "IR-M-I-1170",
+        "Name": "Management Development Institute",
+        "City": "Gurugram",
+        "State": "Haryana",
+        "Score": "71.96",
+        "Rank": "9"
+    },
+    {
+        "Institute ID": "IR-M-S-132",
+        "Name": "XLRI - Xavier School of Management",
+        "City": "Jamshedpur",
+        "State": "Jharkhand",
+        "Score": "70.63",
+        "Rank": "10"
+    },
+    {
+        "Institute ID": "IR-M-C-19343",
+        "Name": "Symbiosis Institute of Business Management",
+        "City": "Pune",
+        "State": "Maharashtra",
+        "Score": "67.90",
+        "Rank": "11"
+    },
+    {
+        "Institute ID": "IR-M-U-0573",
+        "Name": "Indian Institute of Technology Kharagpur",
+        "City": "Kharagpur",
+        "State": "West Bengal",
+        "Score": "66.97",
+        "Rank": "12"
+    },
+    {
+        "Institute ID": "IR-M-U-0456",
+        "Name": "Indian Institute of Technology Madras",
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Score": "66.50",
+        "Rank": "13"
+    },
+    {
+        "Institute ID": "IR-M-U-0306",
+        "Name": "Indian Institute of Technology Bombay",
+        "City": "Mumbai",
+        "State": "Maharashtra",
+        "Score": "65.82",
+        "Rank": "14"
+    },
+    {
+        "Institute ID": "IR-M-S-8868",
+        "Name": "Indian Institute of Management Raipur",
+        "City": "Raipur",
+        "State": "Chhattisgarh",
+        "Score": "65.03",
+        "Rank": "15"
+    },
+    {
+        "Institute ID": "IR-M-S-8948",
+        "Name": "Indian Institute of Management Tiruchirappalli",
+        "City": "Tiruchirappalli",
+        "State": "Tamil Nadu",
+        "Score": "64.95",
+        "Rank": "16"
+    },
+    {
+        "Institute ID": "IR-M-U-0102",
+        "Name": "Indian Institute of Foreign Trade",
+        "City": "New Delhi",
+        "State": "Delhi",
+        "Score": "62.93",
+        "Rank": "17"
+    },
+    {
+        "Institute ID": "IR-M-S-8904",
+        "Name": "Indian Institute of Management Ranchi",
+        "City": "Ranchi",
+        "State": "Jharkhand",
+        "Score": "62.77",
+        "Rank": "18"
+    },
+    {
+        "Institute ID": "IR-M-S-8895",
+        "Name": "Indian Institute of Management Rohtak",
+        "City": "Rohtak",
+        "State": "Haryana",
+        "Score": "62.60",
+        "Rank": "19"
+    },
+    {
+        "Institute ID": "IR-M-I-1044",
+        "Name": "S. P. Jain Institute of Management and Research",
+        "City": "Mumbai",
+        "State": "Maharashtra",
+        "Score": "62.06",
+        "Rank": "20"
+    },
+    {
+        "Institute ID": "IR-M-S-8942",
+        "Name": "Indian Institute of Management Udaipur",
+        "City": "Udaipur",
+        "State": "Rajasthan",
+        "Score": "61.79",
+        "Rank": "21"
+    },
+    {
+        "Institute ID": "IR-M-U-0560",
+        "Name": "Indian Institute of Technology Roorkee",
+        "City": "Roorkee",
+        "State": "Uttarakhand",
+        "Score": "61.77",
+        "Rank": "22"
+    },
+    {
+        "Institute ID": "IR-M-S-8967",
+        "Name": "Indian Institute of Management Kashipur",
+        "City": "Kashipur",
+        "State": "Uttarakhand",
+        "Score": "61.74",
+        "Rank": "23"
+    },
+    {
+        "Institute ID": "IR-M-N-10",
+        "Name": "SVKM`s Narsee Monjee Institute of Management Studies",
+        "City": "Mumbai",
+        "State": "Maharashtra",
+        "Score": "60.99",
+        "Rank": "24"
+    },
+    {
+        "Institute ID": "IR-M-S-15962",
+        "Name": "Indian Institute of Management",
+        "City": "Nagpur",
+        "State": "Maharashtra",
+        "Score": "60.88",
+        "Rank": "25"
+    },
+    {
+        "Institute ID": "IR-M-U-0436",
+        "Name": "Amrita Vishwa Vidyapeetham",
+        "City": "Coimbatore",
+        "State": "Tamil Nadu",
+        "Score": "60.25",
+        "Rank": "26"
+    },
+    {
+        "Institute ID": "IR-M-I-1075",
+        "Name": "Indian Institute of Technology Kanpur",
+        "City": "Kanpur",
+        "State": "Uttar Pradesh",
+        "Score": "60.15",
+        "Rank": "27"
+    },
+    {
+        "Institute ID": "IR-M-U-0108",
+        "Name": "Jamia Millia Islamia",
+        "City": "New Delhi",
+        "State": "Delhi",
+        "Score": "60.06",
+        "Rank": "28"
+    },
+    {
+        "Institute ID": "IR-M-U-1007",
+        "Name": "Indian Institute of Management Visakhapatnam",
+        "City": "Visakhapatnam",
+        "State": "Andhra Pradesh",
+        "Score": "59.95",
+        "Rank": "29"
+    },
+    {
+        "Institute ID": "IR-M-S-394",
+        "Name": "Institute of Management Technology",
+        "City": "Ghaziabad",
+        "State": "Uttar Pradesh",
+        "Score": "59.85",
+        "Rank": "30"
+    },
+    {
+        "Institute ID": "IR-M-U-1006",
+        "Name": "Indian Institute of Management Bodh Gaya",
+        "City": "Gaya",
+        "State": "Bihar",
+        "Score": "59.65",
+        "Rank": "31"
+    },
+    {
+        "Institute ID": "IR-M-U-0747",
+        "Name": "Chandigarh University",
+        "City": "Mohali",
+        "State": "Punjab",
+        "Score": "59.40",
+        "Rank": "32"
+    },
+    {
+        "Institute ID": "IR-M-S-14875",
+        "Name": "MICA",
+        "City": "Ahmedabad",
+        "State": "Gujarat",
+        "Score": "59.22",
+        "Rank": "33"
+    },
+    {
+        "Institute ID": "IR-M-S-6",
+        "Name": "Indian Institute of Management Sambalpur",
+        "City": "Sambalpur",
+        "State": "Odisha",
+        "Score": "58.59",
+        "Rank": "34"
+    },
+    {
+        "Institute ID": "IR-M-U-1004",
+        "Name": "Indian Institute of Management Jammu (IIMJ)",
+        "City": "Jammu",
+        "State": "Jammu and Kashmir",
+        "Score": "58.50",
+        "Rank": "35"
+    },
+    {
+        "Institute ID": "IR-M-U-0564",
+        "Name": "UPES",
+        "City": "Dehradun",
+        "State": "Uttarakhand",
+        "Score": "58.33",
+        "Rank": "36"
+    },
+    {
+        "Institute ID": "IR-M-N-16",
+        "Name": "Great Lakes Institute of Management",
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Score": "58.05",
+        "Rank": "37"
+    },
+    {
+        "Institute ID": "IR-M-S-8937",
+        "Name": "Indian Institute of Management Shillong",
+        "City": "Shillong",
+        "State": "Meghalaya",
+        "Score": "57.70",
+        "Rank": "38"
+    },
+    {
+        "Institute ID": "IR-M-S-156",
+        "Name": "T. A. Pai Management Institute Manipal",
+        "City": "Manipal",
+        "State": "Karnataka",
+        "Score": "57.13",
+        "Rank": "39"
+    },
+    {
+        "Institute ID": "IR-M-I-1064",
+        "Name": "IMI Delhi",
+        "City": "New Delhi",
+        "State": "Delhi",
+        "Score": "56.59",
+        "Rank": "40"
+    },
+    {
+        "Institute ID": "IR-M-S-3283",
+        "Name": "Jaipuria Institute of Management",
+        "City": "Noida",
+        "State": "Uttar Pradesh",
+        "Score": "56.46",
+        "Rank": "41"
+    },
+    {
+        "Institute ID": "IR-M-I-1408",
+        "Name": "IMI Kolkata",
+        "City": "Kolkata",
+        "State": "West Bengal",
+        "Score": "55.42",
+        "Rank": "42"
+    },
+    {
+        "Institute ID": "IR-M-S-87",
+        "Name": "Goa Institute of Management",
+        "City": "Sanquelim",
+        "State": "Goa",
+        "Score": "55.27",
+        "Rank": "43"
+    },
+    {
+        "Institute ID": "IR-M-U-0379",
+        "Name": "Lovely Professional University",
+        "City": "Phagwara",
+        "State": "Punjab",
+        "Score": "55.00",
+        "Rank": "44"
+    },
+    {
+        "Institute ID": "IR-M-U-0715",
+        "Name": "XIM University",
+        "City": "Bhubaneswar",
+        "State": "Odisha",
+        "Score": "54.73",
+        "Rank": "45"
+    },
+    {
+        "Institute ID": "IR-M-U-0012",
+        "Name": "ICFAI Foundation for Higher Education, Hyderabad",
+        "City": "Hyderabad",
+        "State": "Telangana",
+        "Score": "54.40",
+        "Rank": "46"
+    },
+    {
+        "Institute ID": "IR-M-I-1480",
+        "Name": "Thapar Institute of Engineering and Technology (Deemed-to-be-university)",
+        "City": "Patiala",
+        "State": "Punjab",
+        "Score": "54.40",
+        "Rank": "46"
+    },
+    {
+        "Institute ID": "IR-M-U-0205",
+        "Name": "Indian Institute of Technology (Indian School of Mines)",
+        "City": "Dhanbad",
+        "State": "Jharkhand",
+        "Score": "54.34",
+        "Rank": "48"
+    },
+    {
+        "Institute ID": "IR-M-U-0497",
+        "Name": "Amity University",
+        "City": "Gautam Budh Nagar",
+        "State": "Uttar Pradesh",
+        "Score": "54.15",
+        "Rank": "49"
+    },
+    {
+        "Institute ID": "IR-M-S-17295",
+        "Name": "Great Lakes Institute of Management",
+        "City": "Gurgaon",
+        "State": "Haryana",
+        "Score": "54.08",
+        "Rank": "50"
+    },
+    {
+        "Institute ID": "IR-M-S-15911",
+        "Name": "Indian Institute of Management Sirmaur",
+        "City": "Sirmaur",
+        "State": "Himachal Pradesh",
+        "Score": "54.03",
+        "Rank": "51"
+    },
+    {
+        "Institute ID": "IR-M-U-0555",
+        "Name": "Graphic Era University",
+        "City": "Dehradun",
+        "State": "Uttarakhand",
+        "Score": "53.98",
+        "Rank": "52"
+    },
+    {
+        "Institute ID": "IR-M-U-0146",
+        "Name": "Nirma University",
+        "City": "Ahmedabad",
+        "State": "Gujarat",
+        "Score": "53.48",
+        "Rank": "53"
+    },
+    {
+        "Institute ID": "IR-M-S-92",
+        "Name": "Institute of Rural Management Anand",
+        "City": "Anand",
+        "State": "Gujarat",
+        "Score": "53.34",
+        "Rank": "54"
+    },
+    {
+        "Institute ID": "IR-M-S-331",
+        "Name": "Loyola Institute of Business Administration",
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Score": "53.12",
+        "Rank": "55"
+    },
+    {
+        "Institute ID": "IR-M-U-0473",
+        "Name": "S.R.M. Institute of Science and Technology",
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Score": "52.74",
+        "Rank": "56"
+    },
+    {
+        "Institute ID": "IR-M-U-0217",
+        "Name": "Christ University",
+        "City": "Bengaluru",
+        "State": "Karnataka",
+        "Score": "52.47",
+        "Rank": "57"
+    },
+    {
+        "Institute ID": "IR-M-U-0467",
+        "Name": "National Institute of Technology Tiruchirappalli",
+        "City": "Tiruchirappalli",
+        "State": "Tamil Nadu",
+        "Score": "52.47",
+        "Rank": "57"
+    },
+    {
+        "Institute ID": "IR-M-I-1066",
+        "Name": "Fore School of Management",
+        "City": "New Delhi",
+        "State": "Delhi",
+        "Score": "52.23",
+        "Rank": "59"
+    },
+    {
+        "Institute ID": "IR-M-U-0500",
+        "Name": "Banaras Hindu University",
+        "City": "Varanasi",
+        "State": "Uttar Pradesh",
+        "Score": "52.14",
+        "Rank": "60"
+    },
+    {
+        "Institute ID": "IR-M-S-354",
+        "Name": "Birla Institute of Management Technology",
+        "City": "Greater Noida",
+        "State": "Uttar Pradesh",
+        "Score": "52.09",
+        "Rank": "61"
+    },
+    {
+        "Institute ID": "IR-M-U-0410",
+        "Name": "Malaviya National Institute of Technology",
+        "City": "Jaipur",
+        "State": "Rajasthan",
+        "Score": "52.07",
+        "Rank": "62"
+    },
+    {
+        "Institute ID": "IR-M-I-1441",
+        "Name": "Saveetha Institute of Medical and Technical Sciences",
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Score": "52.01",
+        "Rank": "63"
+    },
+    {
+        "Institute ID": "IR-M-S-16881",
+        "Name": "Indian Institute of Management, Amritsar",
+        "City": "Amritsar",
+        "State": "Punjab",
+        "Score": "51.70",
+        "Rank": "64"
+    },
+    {
+        "Institute ID": "IR-M-S-220",
+        "Name": "K.J.Somaiya Institute of Management",
+        "City": "Mumbai",
+        "State": "Maharashtra",
+        "Score": "51.28",
+        "Rank": "65"
+    },
+    {
+        "Institute ID": "IR-M-U-0363",
+        "Name": "Siksha `O` Anusandhan",
+        "City": "Bhubaneswar",
+        "State": "Odisha",
+        "Score": "50.88",
+        "Rank": "66"
+    },
+    {
+        "Institute ID": "IR-M-S-419",
+        "Name": "Jaipuria Institute of Management, Lucknow",
+        "City": "Lucknow",
+        "State": "Uttar Pradesh",
+        "Score": "50.86",
+        "Rank": "67"
+    },
+    {
+        "Institute ID": "IR-M-U-0356",
+        "Name": "Kalinga Institute of Industrial Technology",
+        "City": "Bhubaneswar",
+        "State": "Odisha",
+        "Score": "50.68",
+        "Rank": "68"
+    },
+    {
+        "Institute ID": "IR-M-U-0496",
+        "Name": "Aligarh Muslim University",
+        "City": "Aligarh",
+        "State": "Uttar Pradesh",
+        "Score": "49.95",
+        "Rank": "69"
+    },
+    {
+        "Institute ID": "IR-M-U-0020",
+        "Name": "Koneru Lakshmaiah Education Foundation University (K L College of Engineering)",
+        "City": "Vaddeswaram",
+        "State": "Andhra Pradesh",
+        "Score": "49.89",
+        "Rank": "70"
+    },
+    {
+        "Institute ID": "IR-M-U-0213",
+        "Name": "Alliance University",
+        "City": "Bengaluru",
+        "State": "Karnataka",
+        "Score": "49.85",
+        "Rank": "71"
+    },
+    {
+        "Institute ID": "IR-M-I-1132",
+        "Name": "Institute of Management Technology",
+        "City": "Hyderabad",
+        "State": "Telangana",
+        "Score": "49.38",
+        "Rank": "72"
+    },
+    {
+        "Institute ID": "IR-M-U-0223",
+        "Name": "Jain university,Bangalore",
+        "City": "Bengaluru",
+        "State": "Karnataka",
+        "Score": "49.28",
+        "Rank": "73"
+    },
+    {
+        "Institute ID": "IR-M-S-309",
+        "Name": "Jaipuria Institute of Management",
+        "City": "Jaipur",
+        "State": "Rajasthan",
+        "Score": "49.26",
+        "Rank": "74"
+    },
+    {
+        "Institute ID": "IR-M-S-19472",
+        "Name": "Prin. L.N. Welingkar Institute of Management Development and Research (PGDM)",
+        "City": "Mumbai",
+        "State": "Maharashtra",
+        "Score": "49.08",
+        "Rank": "75"
+    },
+    {
+        "Institute ID": "IR-M-U-0099",
+        "Name": "Guru Gobind Singh Indraprastha University",
+        "City": "New Delhi",
+        "State": "Delhi",
+        "Score": "48.88",
+        "Rank": "76"
+    },
+    {
+        "Institute ID": "IR-M-U-0735",
+        "Name": "BML Munjal University",
+        "City": "Gurgaon",
+        "State": "Haryana",
+        "Score": "48.41",
+        "Rank": "77"
+    },
+    {
+        "Institute ID": "IR-M-U-0373",
+        "Name": "Chitkara University",
+        "City": "Rajpura",
+        "State": "Punjab",
+        "Score": "48.30",
+        "Rank": "78"
+    },
+    {
+        "Institute ID": "IR-M-U-0498",
+        "Name": "Babasheb Bhimrao Ambedkar University",
+        "City": "Lucknow",
+        "State": "Uttar Pradesh",
+        "Score": "48.13",
+        "Rank": "79"
+    },
+    {
+        "Institute ID": "IR-M-C-36557",
+        "Name": "Thiagarajar School of Management",
+        "City": "Madurai",
+        "State": "Tamil Nadu",
+        "Score": "48.05",
+        "Rank": "80"
+    },
+    {
+        "Institute ID": "IR-M-U-0749",
+        "Name": "Manipal University Jaipur",
+        "City": "Jaipur",
+        "State": "Rajasthan",
+        "Score": "47.56",
+        "Rank": "81"
+    },
+    {
+        "Institute ID": "IR-M-U-0253",
+        "Name": "Cochin University of Science and Technology",
+        "City": "Cochin",
+        "State": "Kerala",
+        "Score": "47.47",
+        "Rank": "82"
+    },
+    {
+        "Institute ID": "IR-M-U-0739",
+        "Name": "Madan Mohan Malaviya University of Technology",
+        "City": "Gorakhpur",
+        "State": "Uttar Pradesh",
+        "Score": "47.46",
+        "Rank": "83"
+    },
+    {
+        "Institute ID": "IR-M-C-37013",
+        "Name": "PSG College of Technology",
+        "City": "Coimbatore",
+        "State": "Tamil Nadu",
+        "Score": "47.38",
+        "Rank": "84"
+    },
+    {
+        "Institute ID": "IR-M-U-0263",
+        "Name": "National Institute of Technology Calicut",
+        "City": "Kozhikode",
+        "State": "Kerala",
+        "Score": "47.30",
+        "Rank": "85"
+    },
+    {
+        "Institute ID": "IR-M-S-78",
+        "Name": "New Delhi Institute of Management",
+        "City": "New Delhi",
+        "State": "Delhi",
+        "Score": "47.25",
+        "Rank": "86"
+    },
+    {
+        "Institute ID": "IR-M-U-0107",
+        "Name": "Jamia Hamdard",
+        "City": "New Delhi",
+        "State": "Delhi",
+        "Score": "47.10",
+        "Rank": "87"
+    },
+    {
+        "Institute ID": "IR-M-U-0439",
+        "Name": "Anna University",
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Score": "46.92",
+        "Rank": "88"
+    },
+    {
+        "Institute ID": "IR-M-U-0147",
+        "Name": "Pandit Deendayal Energy University",
+        "City": "Gandhinagar",
+        "State": "Gujarat",
+        "Score": "46.81",
+        "Rank": "89"
+    },
+    {
+        "Institute ID": "IR-M-C-32855",
+        "Name": "Jagan Institute of Management Studies",
+        "City": "Delhi",
+        "State": "Delhi",
+        "Score": "46.63",
+        "Rank": "90"
+    },
+    {
+        "Institute ID": "IR-M-S-164",
+        "Name": "Rajagiri Business School",
+        "City": "Cochin",
+        "State": "Kerala",
+        "Score": "46.62",
+        "Rank": "91"
+    },
+    {
+        "Institute ID": "IR-M-U-0078",
+        "Name": "Panjab University",
+        "City": "Chandigarh",
+        "State": "Chandigarh",
+        "Score": "46.31",
+        "Rank": "92"
+    },
+    {
+        "Institute ID": "IR-M-U-0267",
+        "Name": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management",
+        "City": "Gwalior",
+        "State": "Madhya Pradesh",
+        "Score": "46.30",
+        "Rank": "93"
+    },
+    {
+        "Institute ID": "IR-M-I-1124",
+        "Name": "IMI Bhubaneswar",
+        "City": "Bhubaneswar",
+        "State": "Odisha",
+        "Score": "46.24",
+        "Rank": "94"
+    },
+    {
+        "Institute ID": "IR-M-S-14553",
+        "Name": "National Institute of Agricultural Extension Management",
+        "City": "Hyderabad",
+        "State": "Telangana",
+        "Score": "45.48",
+        "Rank": "95"
+    },
+    {
+        "Institute ID": "IR-M-N-4",
+        "Name": "Bharathidasan Institute of Management",
+        "City": "Tiruchirappalli",
+        "State": "Tamil Nadu",
+        "Score": "45.36",
+        "Rank": "96"
+    },
+    {
+        "Institute ID": "IR-M-U-0202",
+        "Name": "Birla Institute of Technology",
+        "City": "Ranchi",
+        "State": "Jharkhand",
+        "Score": "45.25",
+        "Rank": "97"
+    },
+    {
+        "Institute ID": "IR-M-U-0395",
+        "Name": "Indian Institute of Technology Jodhpur",
+        "City": "Jodhpur",
+        "State": "Rajasthan",
+        "Score": "45.02",
+        "Rank": "98"
+    },
+    {
+        "Institute ID": "IR-M-I-1048",
+        "Name": "Institute of Management Technology, Nagpur",
+        "City": "Nagpur",
+        "State": "Maharashtra",
+        "Score": "44.93",
+        "Rank": "99"
+    },
+    {
+        "Institute ID": "IR-M-U-0524",
+        "Name": "University of Lucknow",
+        "City": "Lucknow",
+        "State": "Uttar Pradesh",
+        "Score": "44.53",
+        "Rank": "100"
+    }
+]

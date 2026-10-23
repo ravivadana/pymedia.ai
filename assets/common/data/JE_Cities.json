@@ -1,0 +1,32 @@
+[
+    {
+        "id":3042091,
+        "name":"Saint Helier",
+        "country":"JE",
+        "admin1":"St Helier",
+        "admin2":"",
+        "lat":49.18804,
+        "lon":-2.10491,
+        "pop":28000
+    },
+    {
+        "id":6947753,
+        "name":"Trinity",
+        "country":"JE",
+        "admin1":"Trinity",
+        "admin2":"",
+        "lat":49.23408,
+        "lon":-2.09272,
+        "pop":3156
+    },
+    {
+        "id":3042089,
+        "name":"Saint John",
+        "country":"JE",
+        "admin1":"St John",
+        "admin2":"",
+        "lat":49.24556,
+        "lon":-2.13861,
+        "pop":3051
+    }
+]

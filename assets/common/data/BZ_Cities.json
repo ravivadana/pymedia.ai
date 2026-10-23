@@ -1,0 +1,1382 @@
+[
+    {
+        "id":3582677,
+        "name":"Belize City",
+        "country":"BZ",
+        "admin1":"Belize District",
+        "admin2":"",
+        "lat":17.49952,
+        "lon":-88.19756,
+        "pop":65222
+    },
+    {
+        "id":3581164,
+        "name":"San Pedro",
+        "country":"BZ",
+        "admin1":"Belize District",
+        "admin2":"",
+        "lat":17.91598,
+        "lon":-87.9659,
+        "pop":16117
+    },
+    {
+        "id":3581514,
+        "name":"Orange Walk",
+        "country":"BZ",
+        "admin1":"Orange Walk District",
+        "admin2":"",
+        "lat":18.08124,
+        "lon":-88.56328,
+        "pop":15298
+    },
+    {
+        "id":3582672,
+        "name":"Belmopan",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.25376,
+        "lon":-88.76401,
+        "pop":13381
+    },
+    {
+        "id":3581194,
+        "name":"San Ignacio",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.1588,
+        "lon":-89.0696,
+        "pop":12086
+    },
+    {
+        "id":3582228,
+        "name":"Dangriga",
+        "country":"BZ",
+        "admin1":"Southern District",
+        "admin2":"Dangriga",
+        "lat":16.9697,
+        "lon":-88.23313,
+        "pop":9927
+    },
+    {
+        "id":3582305,
+        "name":"Corozal",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.39375,
+        "lon":-88.38849,
+        "pop":9815
+    },
+    {
+        "id":3581143,
+        "name":"Santa Elena",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.16142,
+        "lon":-89.05462,
+        "pop":8587
+    },
+    {
+        "id":3581851,
+        "name":"Ladyville",
+        "country":"BZ",
+        "admin1":"Belize District",
+        "admin2":"",
+        "lat":17.55427,
+        "lon":-88.29,
+        "pop":7655
+    },
+    {
+        "id":3582662,
+        "name":"Benque Viejo el Carmen",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.075,
+        "lon":-89.13917,
+        "pop":7160
+    },
+    {
+        "id":13286766,
+        "name":"Bella Vista",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.50948,
+        "lon":-88.53169,
+        "pop":6259
+    },
+    {
+        "id":3580895,
+        "name":"Trial Farm",
+        "country":"BZ",
+        "admin1":"Orange Walk District",
+        "admin2":"",
+        "lat":18.10124,
+        "lon":-88.56584,
+        "pop":5850
+    },
+    {
+        "id":3581398,
+        "name":"Punta Gorda",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.09835,
+        "lon":-88.8097,
+        "pop":5406
+    },
+    {
+        "id":3581905,
+        "name":"Independence and Mango Creek",
+        "country":"BZ",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":16.5344,
+        "lon":-88.41878,
+        "pop":4878
+    },
+    {
+        "id":3581782,
+        "name":"Lord’s Bank",
+        "country":"BZ",
+        "admin1":"Belize District",
+        "admin2":"",
+        "lat":17.54462,
+        "lon":-88.33328,
+        "pop":4876
+    },
+    {
+        "id":3581447,
+        "name":"Placencia",
+        "country":"BZ",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":16.51419,
+        "lon":-88.36647,
+        "pop":4300
+    },
+    {
+        "id":3581066,
+        "name":"Shipyard",
+        "country":"BZ",
+        "admin1":"Orange Walk District",
+        "admin2":"",
+        "lat":17.89382,
+        "lon":-88.65452,
+        "pop":4070
+    },
+    {
+        "id":3582524,
+        "name":"Bullet Tree Falls",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.168,
+        "lon":-89.111,
+        "pop":3932
+    },
+    {
+        "id":3581984,
+        "name":"Guinea Grass",
+        "country":"BZ",
+        "admin1":"Orange Walk District",
+        "admin2":"",
+        "lat":17.96704,
+        "lon":-88.59837,
+        "pop":3821
+    },
+    {
+        "id":3581187,
+        "name":"San Jose",
+        "country":"BZ",
+        "admin1":"Orange Walk District",
+        "admin2":"",
+        "lat":18.1958,
+        "lon":-88.57121,
+        "pop":3499
+    },
+    {
+        "id":3830322,
+        "name":"Valley of Peace",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.33472,
+        "lon":-88.83472,
+        "pop":3246
+    },
+    {
+        "id":3582482,
+        "name":"Camelote",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.23882,
+        "lon":-88.82738,
+        "pop":3132
+    },
+    {
+        "id":3580986,
+        "name":"Spanish Lookout",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.26278,
+        "lon":-89.00917,
+        "pop":3108
+    },
+    {
+        "id":13286761,
+        "name":"Santa Cruz",
+        "country":"BZ",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":16.6975,
+        "lon":-88.42548,
+        "pop":3008
+    },
+    {
+        "id":3581813,
+        "name":"Little Belize",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.198,
+        "lon":-88.40792,
+        "pop":2888
+    },
+    {
+        "id":3581169,
+        "name":"San Narciso",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.30396,
+        "lon":-88.52085,
+        "pop":2784
+    },
+    {
+        "id":3581221,
+        "name":"San Antonio",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.07861,
+        "lon":-89.02361,
+        "pop":2738
+    },
+    {
+        "id":3582431,
+        "name":"Caye Caulker",
+        "country":"BZ",
+        "admin1":"Belize District",
+        "admin2":"",
+        "lat":17.73659,
+        "lon":-88.02761,
+        "pop":2729
+    },
+    {
+        "id":3581050,
+        "name":"Silk Grass",
+        "country":"BZ",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":16.88333,
+        "lon":-88.33333,
+        "pop":2627
+    },
+    {
+        "id":3582514,
+        "name":"Burrell Boom",
+        "country":"BZ",
+        "admin1":"Belize District",
+        "admin2":"",
+        "lat":17.56933,
+        "lon":-88.40527,
+        "pop":2615
+    },
+    {
+        "id":3581142,
+        "name":"Santa Familia",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.18594,
+        "lon":-89.07435,
+        "pop":2600
+    },
+    {
+        "id":3581304,
+        "name":"Roaring Creek",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.25947,
+        "lon":-88.79617,
+        "pop":2430
+    },
+    {
+        "id":3581184,
+        "name":"San Jose Soccoths",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.08454,
+        "lon":-89.13007,
+        "pop":2424
+    },
+    {
+        "id":13118144,
+        "name":"Armenia",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.1553,
+        "lon":-88.7464,
+        "pop":2421
+    },
+    {
+        "id":3582294,
+        "name":"Cotton Tree",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.27357,
+        "lon":-88.71397,
+        "pop":2338
+    },
+    {
+        "id":3581351,
+        "name":"Red Bank Village",
+        "country":"BZ",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":16.61645,
+        "lon":-88.55911,
+        "pop":2323
+    },
+    {
+        "id":8695375,
+        "name":"San Roman Village",
+        "country":"BZ",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":16.65281,
+        "lon":-88.47416,
+        "pop":2195
+    },
+    {
+        "id":3581968,
+        "name":"Hattieville",
+        "country":"BZ",
+        "admin1":"Belize District",
+        "admin2":"",
+        "lat":17.44779,
+        "lon":-88.39355,
+        "pop":2184
+    },
+    {
+        "id":3581208,
+        "name":"Sand Hill",
+        "country":"BZ",
+        "admin1":"Belize District",
+        "admin2":"",
+        "lat":17.64038,
+        "lon":-88.36828,
+        "pop":2168
+    },
+    {
+        "id":3582733,
+        "name":"August Pine Ridge",
+        "country":"BZ",
+        "admin1":"Orange Walk District",
+        "admin2":"",
+        "lat":17.9725,
+        "lon":-88.72489,
+        "pop":2160
+    },
+    {
+        "id":3581185,
+        "name":"San Jose Palmar",
+        "country":"BZ",
+        "admin1":"Orange Walk District",
+        "admin2":"",
+        "lat":18.06204,
+        "lon":-88.5635,
+        "pop":2146
+    },
+    {
+        "id":3581436,
+        "name":"Pomona",
+        "country":"BZ",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":16.99514,
+        "lon":-88.37424,
+        "pop":2122
+    },
+    {
+        "id":3581203,
+        "name":"San Estevan",
+        "country":"BZ",
+        "admin1":"Orange Walk District",
+        "admin2":"",
+        "lat":18.15413,
+        "lon":-88.51129,
+        "pop":2115
+    },
+    {
+        "id":3580937,
+        "name":"Teakettle Village",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.2295,
+        "lon":-88.85499,
+        "pop":1999
+    },
+    {
+        "id":8695374,
+        "name":"Santa Rosa Village",
+        "country":"BZ",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":16.6662,
+        "lon":-88.45437,
+        "pop":1958
+    },
+    {
+        "id":3582454,
+        "name":"Carmelita",
+        "country":"BZ",
+        "admin1":"Orange Walk District",
+        "admin2":"",
+        "lat":18.01306,
+        "lon":-88.5429,
+        "pop":1936
+    },
+    {
+        "id":3581199,
+        "name":"San Felipe",
+        "country":"BZ",
+        "admin1":"Orange Walk District",
+        "admin2":"",
+        "lat":17.873,
+        "lon":-88.77334,
+        "pop":1898
+    },
+    {
+        "id":3581089,
+        "name":"Seine Bight Village",
+        "country":"BZ",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":16.56943,
+        "lon":-88.36493,
+        "pop":1895
+    },
+    {
+        "id":3580772,
+        "name":"Yo Creek",
+        "country":"BZ",
+        "admin1":"Orange Walk District",
+        "admin2":"",
+        "lat":18.09098,
+        "lon":-88.64607,
+        "pop":1885
+    },
+    {
+        "id":3581112,
+        "name":"Sarteneja",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.35334,
+        "lon":-88.14541,
+        "pop":1874
+    },
+    {
+        "id":3582373,
+        "name":"Chunox",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.29785,
+        "lon":-88.35746,
+        "pop":1821
+    },
+    {
+        "id":3580799,
+        "name":"Xaibe",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.38654,
+        "lon":-88.43393,
+        "pop":1783
+    },
+    {
+        "id":3581922,
+        "name":"Hopkins",
+        "country":"BZ",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":16.86308,
+        "lon":-88.28437,
+        "pop":1767
+    },
+    {
+        "id":8695455,
+        "name":"Trio Village",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.51529,
+        "lon":-88.63577,
+        "pop":1726
+    },
+    {
+        "id":3581367,
+        "name":"Ranchito",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.37753,
+        "lon":-88.41031,
+        "pop":1649
+    },
+    {
+        "id":3582287,
+        "name":"Cowpen",
+        "country":"BZ",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":16.56667,
+        "lon":-88.53333,
+        "pop":1582
+    },
+    {
+        "id":3581193,
+        "name":"San Joaquin",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.35271,
+        "lon":-88.44199,
+        "pop":1528
+    },
+    {
+        "id":3581490,
+        "name":"Patchchacan",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.40056,
+        "lon":-88.4715,
+        "pop":1517
+    },
+    {
+        "id":3581821,
+        "name":"Libertad",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.30791,
+        "lon":-88.45444,
+        "pop":1489
+    },
+    {
+        "id":3582329,
+        "name":"Concepcion",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.32308,
+        "lon":-88.47419,
+        "pop":1481
+    },
+    {
+        "id":3581166,
+        "name":"San Pedro",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.27153,
+        "lon":-88.95437,
+        "pop":1454
+    },
+    {
+        "id":3581222,
+        "name":"San Antonio",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.24361,
+        "lon":-89.02417,
+        "pop":1447
+    },
+    {
+        "id":13286683,
+        "name":"Western Paradise",
+        "country":"BZ",
+        "admin1":"Belize District",
+        "admin2":"",
+        "lat":17.47088,
+        "lon":-88.29546,
+        "pop":1414
+    },
+    {
+        "id":11049077,
+        "name":"St. Margaret",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.09047,
+        "lon":-88.61096,
+        "pop":1405
+    },
+    {
+        "id":3581416,
+        "name":"Progresso",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.23085,
+        "lon":-88.41073,
+        "pop":1403
+    },
+    {
+        "id":13286695,
+        "name":"St. Matthew's",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.27431,
+        "lon":-88.64432,
+        "pop":1398
+    },
+    {
+        "id":3582487,
+        "name":"Caledonia",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.22735,
+        "lon":-88.47745,
+        "pop":1373
+    },
+    {
+        "id":3581498,
+        "name":"Paraiso",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.40783,
+        "lon":-88.39422,
+        "pop":1267
+    },
+    {
+        "id":3581723,
+        "name":"Maskall",
+        "country":"BZ",
+        "admin1":"Belize District",
+        "admin2":"",
+        "lat":17.87788,
+        "lon":-88.31174,
+        "pop":1260
+    },
+    {
+        "id":3582262,
+        "name":"Cristo Rey",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.13139,
+        "lon":-89.055,
+        "pop":1254
+    },
+    {
+        "id":13286724,
+        "name":"Hope Creek",
+        "country":"BZ",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":17.00265,
+        "lon":-88.31251,
+        "pop":1244
+    },
+    {
+        "id":3581226,
+        "name":"San Andres",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.38922,
+        "lon":-88.40939,
+        "pop":1243
+    },
+    {
+        "id":3581168,
+        "name":"San Pablo",
+        "country":"BZ",
+        "admin1":"Orange Walk District",
+        "admin2":"",
+        "lat":18.21061,
+        "lon":-88.56605,
+        "pop":1238
+    },
+    {
+        "id":3580873,
+        "name":"Unitedville",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.21031,
+        "lon":-88.93385,
+        "pop":1232
+    },
+    {
+        "id":3581178,
+        "name":"San Lazaro",
+        "country":"BZ",
+        "admin1":"Orange Walk District",
+        "admin2":"",
+        "lat":18.03849,
+        "lon":-88.66316,
+        "pop":1210
+    },
+    {
+        "id":3582137,
+        "name":"Esperanza",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.17453,
+        "lon":-89.04415,
+        "pop":1162
+    },
+    {
+        "id":3581129,
+        "name":"San Victor",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.25864,
+        "lon":-88.57601,
+        "pop":1094
+    },
+    {
+        "id":13286649,
+        "name":"Indian Creek",
+        "country":"BZ",
+        "admin1":"Orange Walk District",
+        "admin2":"",
+        "lat":17.75224,
+        "lon":-88.71922,
+        "pop":1080
+    },
+    {
+        "id":13286640,
+        "name":"Neuland",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.0519,
+        "lon":-88.24824,
+        "pop":1080
+    },
+    {
+        "id":13286684,
+        "name":"Billy White",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.21124,
+        "lon":-89.0503,
+        "pop":1057
+    },
+    {
+        "id":8695460,
+        "name":"San Juan",
+        "country":"BZ",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":16.56232,
+        "lon":-88.51528,
+        "pop":1039
+    },
+    {
+        "id":13286795,
+        "name":"San Isidro",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.51161,
+        "lon":-88.5447,
+        "pop":999
+    },
+    {
+        "id":3581710,
+        "name":"Maya Mopan",
+        "country":"BZ",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":16.66018,
+        "lon":-88.52542,
+        "pop":998
+    },
+    {
+        "id":13286765,
+        "name":"Valley Community",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.0022,
+        "lon":-88.44942,
+        "pop":988
+    },
+    {
+        "id":3581151,
+        "name":"Santa Clara",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.29412,
+        "lon":-88.5122,
+        "pop":975
+    },
+    {
+        "id":3581519,
+        "name":"Ontario Village",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.22121,
+        "lon":-88.89189,
+        "pop":960
+    },
+    {
+        "id":9253689,
+        "name":"Seven Miles El Progresso",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.10218,
+        "lon":-88.94933,
+        "pop":954
+    },
+    {
+        "id":3582044,
+        "name":"Georgeville",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.19062,
+        "lon":-88.97457,
+        "pop":953
+    },
+    {
+        "id":3582742,
+        "name":"El Arenal",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.02351,
+        "lon":-89.15252,
+        "pop":945
+    },
+    {
+        "id":3581117,
+        "name":"Sarawina",
+        "country":"BZ",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":16.97145,
+        "lon":-88.2738,
+        "pop":926
+    },
+    {
+        "id":13286685,
+        "name":"Buena Vista",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.25053,
+        "lon":-88.94079,
+        "pop":911
+    },
+    {
+        "id":3582258,
+        "name":"Crooked Tree",
+        "country":"BZ",
+        "admin1":"Belize District",
+        "admin2":"",
+        "lat":17.77599,
+        "lon":-88.54203,
+        "pop":910
+    },
+    {
+        "id":3581776,
+        "name":"Louisville",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.31946,
+        "lon":-88.50982,
+        "pop":892
+    },
+    {
+        "id":3581190,
+        "name":"San Jose",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.26713,
+        "lon":-89.09363,
+        "pop":889
+    },
+    {
+        "id":3582261,
+        "name":"Cristo Rey",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.34856,
+        "lon":-88.49545,
+        "pop":872
+    },
+    {
+        "id":13286680,
+        "name":"Mahogany Heights",
+        "country":"BZ",
+        "admin1":"Belize District",
+        "admin2":"",
+        "lat":17.33853,
+        "lon":-88.56723,
+        "pop":869
+    },
+    {
+        "id":3582398,
+        "name":"Chan Chen",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.43333,
+        "lon":-88.41667,
+        "pop":869
+    },
+    {
+        "id":8695764,
+        "name":"San Margos",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.21675,
+        "lon":-88.90095,
+        "pop":868
+    },
+    {
+        "id":3582490,
+        "name":"Calcutta",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.3618,
+        "lon":-88.43878,
+        "pop":852
+    },
+    {
+        "id":3582645,
+        "name":"Big Fall",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.25692,
+        "lon":-88.89097,
+        "pop":846
+    },
+    {
+        "id":3582587,
+        "name":"Blue Creek Village",
+        "country":"BZ",
+        "admin1":"Orange Walk District",
+        "admin2":"",
+        "lat":17.8932,
+        "lon":-88.88982,
+        "pop":841
+    },
+    {
+        "id":8695405,
+        "name":"Indian Creek Village",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.31509,
+        "lon":-88.8317,
+        "pop":837
+    },
+    {
+        "id":3581172,
+        "name":"San Miguel",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.29304,
+        "lon":-88.93197,
+        "pop":812
+    },
+    {
+        "id":13286687,
+        "name":"Duck Run 3",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.25936,
+        "lon":-89.04043,
+        "pop":776
+    },
+    {
+        "id":3581219,
+        "name":"San Antonio",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.40175,
+        "lon":-88.3998,
+        "pop":767
+    },
+    {
+        "id":13286767,
+        "name":"Bladen",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.47194,
+        "lon":-88.62452,
+        "pop":766
+    },
+    {
+        "id":3581890,
+        "name":"Jalacte",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.15806,
+        "lon":-89.14667,
+        "pop":759
+    },
+    {
+        "id":3582173,
+        "name":"Duck Run",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.21853,
+        "lon":-89.01635,
+        "pop":758
+    },
+    {
+        "id":13286729,
+        "name":"Maya Center",
+        "country":"BZ",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":16.79843,
+        "lon":-88.38235,
+        "pop":731
+    },
+    {
+        "id":13286651,
+        "name":"Santa Martha",
+        "country":"BZ",
+        "admin1":"Orange Walk District",
+        "admin2":"",
+        "lat":17.97035,
+        "lon":-88.38441,
+        "pop":719
+    },
+    {
+        "id":13286828,
+        "name":"Silver Creek",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.27985,
+        "lon":-88.89013,
+        "pop":718
+    },
+    {
+        "id":13286689,
+        "name":"Los Tambos",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.32374,
+        "lon":-89.01153,
+        "pop":715
+    },
+    {
+        "id":3582627,
+        "name":"Biscayne",
+        "country":"BZ",
+        "admin1":"Belize District",
+        "admin2":"",
+        "lat":17.71702,
+        "lon":-88.45723,
+        "pop":702
+    },
+    {
+        "id":13286764,
+        "name":"Steadfast",
+        "country":"BZ",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":16.99913,
+        "lon":-88.42445,
+        "pop":694
+    },
+    {
+        "id":3582202,
+        "name":"Dolores",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":15.98903,
+        "lon":-89.21085,
+        "pop":694
+    },
+    {
+        "id":3581407,
+        "name":"Pueblo Viejo",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.20528,
+        "lon":-89.14167,
+        "pop":671
+    },
+    {
+        "id":11071649,
+        "name":"Blackman Eddy",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.2167,
+        "lon":-88.9167,
+        "pop":660
+    },
+    {
+        "id":3582081,
+        "name":"Franks Eddy",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.26091,
+        "lon":-88.63744,
+        "pop":659
+    },
+    {
+        "id":3582045,
+        "name":"Georgetown",
+        "country":"BZ",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":16.65322,
+        "lon":-88.50783,
+        "pop":659
+    },
+    {
+        "id":13286768,
+        "name":"Eldridgeville",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.13818,
+        "lon":-88.84068,
+        "pop":652
+    },
+    {
+        "id":3582324,
+        "name":"Consejo",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.45736,
+        "lon":-88.30134,
+        "pop":649
+    },
+    {
+        "id":3582194,
+        "name":"Double Head Cabbage",
+        "country":"BZ",
+        "admin1":"Belize District",
+        "admin2":"",
+        "lat":17.54358,
+        "lon":-88.5575,
+        "pop":639
+    },
+    {
+        "id":3580891,
+        "name":"Trinidad",
+        "country":"BZ",
+        "admin1":"Orange Walk District",
+        "admin2":"",
+        "lat":18.02356,
+        "lon":-88.68698,
+        "pop":628
+    },
+    {
+        "id":3582484,
+        "name":"Callac Creek",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.12749,
+        "lon":-89.1373,
+        "pop":613
+    },
+    {
+        "id":3581163,
+        "name":"San Pedro",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.33765,
+        "lon":-88.49491,
+        "pop":608
+    },
+    {
+        "id":13286686,
+        "name":"Duck Run 2",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.242,
+        "lon":-89.02705,
+        "pop":600
+    },
+    {
+        "id":13286796,
+        "name":"San Pablo",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.61218,
+        "lon":-88.58039,
+        "pop":599
+    },
+    {
+        "id":3581198,
+        "name":"San Fernando",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.32133,
+        "lon":-88.35441,
+        "pop":593
+    },
+    {
+        "id":3582185,
+        "name":"Douglas",
+        "country":"BZ",
+        "admin1":"Orange Walk District",
+        "admin2":"",
+        "lat":18.23519,
+        "lon":-88.60145,
+        "pop":586
+    },
+    {
+        "id":3582392,
+        "name":"Chan Pine Ridge",
+        "country":"BZ",
+        "admin1":"Orange Walk District",
+        "admin2":"",
+        "lat":18.03693,
+        "lon":-88.58251,
+        "pop":578
+    },
+    {
+        "id":13286788,
+        "name":"New Road Area",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.10831,
+        "lon":-88.81338,
+        "pop":539
+    },
+    {
+        "id":3581150,
+        "name":"Santa Cruz",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.23433,
+        "lon":-89.07661,
+        "pop":532
+    },
+    {
+        "id":13286769,
+        "name":"Hicattee",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.28294,
+        "lon":-88.87659,
+        "pop":530
+    },
+    {
+        "id":13286690,
+        "name":"Lower Barton Creek",
+        "country":"BZ",
+        "admin1":"Cayo District",
+        "admin2":"",
+        "lat":17.15841,
+        "lon":-88.91478,
+        "pop":518
+    },
+    {
+        "id":3581201,
+        "name":"San Felipe",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.13259,
+        "lon":-88.90498,
+        "pop":518
+    },
+    {
+        "id":3582096,
+        "name":"Forest Home",
+        "country":"BZ",
+        "admin1":"Toledo District",
+        "admin2":"",
+        "lat":16.13873,
+        "lon":-88.83302,
+        "pop":517
+    },
+    {
+        "id":3582535,
+        "name":"Buena Vista",
+        "country":"BZ",
+        "admin1":"Corozal District",
+        "admin2":"",
+        "lat":18.23688,
+        "lon":-88.52662,
+        "pop":508
+    },
+    {
+        "id":13286663,
+        "name":"Gardenia",
+        "country":"BZ",
+        "admin1":"Belize District",
+        "admin2":"",
+        "lat":17.67042,
+        "lon":-88.41884,
+        "pop":507
+    }
+]

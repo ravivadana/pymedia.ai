@@ -1,0 +1,1062 @@
+[
+    {
+        "id":2298890,
+        "name":"Kumasi",
+        "country":"GH",
+        "admin1":"Ashanti",
+        "admin2":"Kumasi",
+        "lat":6.68848,
+        "lon":-1.62443,
+        "pop":2544530
+    },
+    {
+        "id":2306104,
+        "name":"Accra",
+        "country":"GH",
+        "admin1":"Greater Accra",
+        "admin2":"Accra",
+        "lat":5.55602,
+        "lon":-0.1969,
+        "pop":1963264
+    },
+    {
+        "id":2294877,
+        "name":"Tamale",
+        "country":"GH",
+        "admin1":"Northern",
+        "admin2":"Tamale",
+        "lat":9.40079,
+        "lon":-0.8393,
+        "pop":464316
+    },
+    {
+        "id":2294915,
+        "name":"Takoradi",
+        "country":"GH",
+        "admin1":"Western",
+        "admin2":"Secondi Takoradi",
+        "lat":4.89816,
+        "lon":-1.76029,
+        "pop":389114
+    },
+    {
+        "id":11808941,
+        "name":"Sekondi",
+        "country":"GH",
+        "admin1":"Western",
+        "admin2":"Secondi Takoradi",
+        "lat":4.93422,
+        "lon":-1.71454,
+        "pop":285506
+    },
+    {
+        "id":2302357,
+        "name":"Cape Coast",
+        "country":"GH",
+        "admin1":"Central",
+        "admin2":"Cape Coast",
+        "lat":5.10535,
+        "lon":-1.2466,
+        "pop":212426
+    },
+    {
+        "id":2306079,
+        "name":"Atsiaman",
+        "country":"GH",
+        "admin1":"Greater Accra",
+        "admin2":"Ga West",
+        "lat":5.69775,
+        "lon":-0.32824,
+        "pop":202932
+    },
+    {
+        "id":2304121,
+        "name":"Ashaiman",
+        "country":"GH",
+        "admin1":"Greater Accra",
+        "admin2":"Ashaiman",
+        "lat":5.69951,
+        "lon":-0.03484,
+        "pop":190972
+    },
+    {
+        "id":2296606,
+        "name":"Obuase",
+        "country":"GH",
+        "admin1":"Ashanti",
+        "admin2":"Obuasi",
+        "lat":6.20228,
+        "lon":-1.66796,
+        "pop":179604
+    },
+    {
+        "id":2294700,
+        "name":"Tema",
+        "country":"GH",
+        "admin1":"Greater Accra",
+        "admin2":"Tema Metropolitan District",
+        "lat":5.6698,
+        "lon":-0.01657,
+        "pop":155782
+    },
+    {
+        "id":2299522,
+        "name":"Koforidua",
+        "country":"GH",
+        "admin1":"Eastern",
+        "admin2":"New Juaben",
+        "lat":6.09408,
+        "lon":-0.25913,
+        "pop":151255
+    },
+    {
+        "id":2295458,
+        "name":"Sekondi-Takoradi",
+        "country":"GH",
+        "admin1":"Western",
+        "admin2":"Secondi Takoradi",
+        "lat":4.92678,
+        "lon":-1.75773,
+        "pop":138872
+    },
+    {
+        "id":2300379,
+        "name":"Ho",
+        "country":"GH",
+        "admin1":"Volta",
+        "admin2":"Ho",
+        "lat":6.60084,
+        "lon":0.4713,
+        "pop":130701
+    },
+    {
+        "id":2304848,
+        "name":"Amanfrom",
+        "country":"GH",
+        "admin1":"Greater Accra",
+        "admin2":"Ga South",
+        "lat":5.53532,
+        "lon":-0.39827,
+        "pop":119467
+    },
+    {
+        "id":2298330,
+        "name":"Medina Estates",
+        "country":"GH",
+        "admin1":"Greater Accra",
+        "admin2":"Ga East",
+        "lat":5.6658,
+        "lon":-0.16307,
+        "pop":101207
+    },
+    {
+        "id":2294308,
+        "name":"Twifu Praso",
+        "country":"GH",
+        "admin1":"Central",
+        "admin2":"Twifo Ati-Morkwa",
+        "lat":5.61411,
+        "lon":-1.5502,
+        "pop":100851
+    },
+    {
+        "id":2300182,
+        "name":"Japekrom",
+        "country":"GH",
+        "admin1":"Bono",
+        "admin2":"Jaman South",
+        "lat":7.5758,
+        "lon":-2.78516,
+        "pop":96000
+    },
+    {
+        "id":11205476,
+        "name":"Tema New Town",
+        "country":"GH",
+        "admin1":"Greater Accra",
+        "admin2":"Tema Metropolitan District",
+        "lat":5.65396,
+        "lon":0.0264,
+        "pop":95837
+    },
+    {
+        "id":2295021,
+        "name":"Sunyani",
+        "country":"GH",
+        "admin1":"Bono",
+        "admin2":"Sunyani",
+        "lat":7.33991,
+        "lon":-2.32676,
+        "pop":92825
+    },
+    {
+        "id":2300372,
+        "name":"Hohoe",
+        "country":"GH",
+        "admin1":"Volta",
+        "admin2":"Hohoe",
+        "lat":7.15181,
+        "lon":0.47362,
+        "pop":92076
+    },
+    {
+        "id":2300068,
+        "name":"Jirapa",
+        "country":"GH",
+        "admin1":"Upper West",
+        "admin2":"Jirapa",
+        "lat":10.53689,
+        "lon":-2.70155,
+        "pop":91279
+    },
+    {
+        "id":2296458,
+        "name":"Kasoa",
+        "country":"GH",
+        "admin1":"Central",
+        "admin2":"Awutu Senya East Municipal",
+        "lat":5.53449,
+        "lon":-0.41679,
+        "pop":86753
+    },
+    {
+        "id":2300721,
+        "name":"Gbawe",
+        "country":"GH",
+        "admin1":"Greater Accra",
+        "admin2":"Ga South",
+        "lat":5.57692,
+        "lon":-0.31038,
+        "pop":86718
+    },
+    {
+        "id":2294727,
+        "name":"Techiman",
+        "country":"GH",
+        "admin1":"Bono East",
+        "admin2":"Techiman Municipal",
+        "lat":7.59054,
+        "lon":-1.93947,
+        "pop":84074
+    },
+    {
+        "id":2302821,
+        "name":"Bolgatanga",
+        "country":"GH",
+        "admin1":"Upper East",
+        "admin2":"Bolgatanga Municipal District",
+        "lat":10.78556,
+        "lon":-0.85139,
+        "pop":81958
+    },
+    {
+        "id":2294206,
+        "name":"Wa",
+        "country":"GH",
+        "admin1":"Upper West",
+        "admin2":"Wa",
+        "lat":10.06069,
+        "lon":-2.50192,
+        "pop":78107
+    },
+    {
+        "id":12640505,
+        "name":"Mandela",
+        "country":"GH",
+        "admin1":"Greater Accra",
+        "admin2":"Ga South",
+        "lat":5.55221,
+        "lon":-0.33912,
+        "pop":77371
+    },
+    {
+        "id":2303287,
+        "name":"Bawku",
+        "country":"GH",
+        "admin1":"Upper East",
+        "admin2":"Bawku Municipal District",
+        "lat":11.05926,
+        "lon":-0.24249,
+        "pop":76459
+    },
+    {
+        "id":2294034,
+        "name":"Winneba",
+        "country":"GH",
+        "admin1":"Central",
+        "admin2":"Effutu",
+        "lat":5.35113,
+        "lon":-0.62313,
+        "pop":71288
+    },
+    {
+        "id":2301217,
+        "name":"Ejura",
+        "country":"GH",
+        "admin1":"Ashanti",
+        "admin2":"Ejura Sekyedumase",
+        "lat":7.38558,
+        "lon":-1.35617,
+        "pop":70807
+    },
+    {
+        "id":2303125,
+        "name":"Berekum",
+        "country":"GH",
+        "admin1":"Bono",
+        "admin2":"Berekum",
+        "lat":7.4534,
+        "lon":-2.58404,
+        "pop":70536
+    },
+    {
+        "id":2305677,
+        "name":"Aflao",
+        "country":"GH",
+        "admin1":"Volta",
+        "admin2":"Ketu South District",
+        "lat":6.11982,
+        "lon":1.19012,
+        "pop":66546
+    },
+    {
+        "id":2293801,
+        "name":"Yendi",
+        "country":"GH",
+        "admin1":"Northern",
+        "admin2":"Yendi",
+        "lat":9.44272,
+        "lon":-0.00991,
+        "pop":64676
+    },
+    {
+        "id":2302541,
+        "name":"Buduburam",
+        "country":"GH",
+        "admin1":"Central",
+        "admin2":"Gomoa East",
+        "lat":5.52314,
+        "lon":-0.47718,
+        "pop":63217
+    },
+    {
+        "id":2296564,
+        "name":"Akim Oda",
+        "country":"GH",
+        "admin1":"Eastern",
+        "admin2":"Birim Central",
+        "lat":5.92665,
+        "lon":-0.98577,
+        "pop":60604
+    },
+    {
+        "id":2294962,
+        "name":"Swedru",
+        "country":"GH",
+        "admin1":"Central",
+        "admin2":"Agona West",
+        "lat":5.53711,
+        "lon":-0.69984,
+        "pop":54417
+    },
+    {
+        "id":2299625,
+        "name":"Kintampo",
+        "country":"GH",
+        "admin1":"Bono East",
+        "admin2":"Kintampo North Municipal District",
+        "lat":8.05627,
+        "lon":-1.73058,
+        "pop":53711
+    },
+    {
+        "id":2298264,
+        "name":"Mampong",
+        "country":"GH",
+        "admin1":"Ashanti",
+        "admin2":"Mampong",
+        "lat":7.06273,
+        "lon":-1.4001,
+        "pop":51745
+    },
+    {
+        "id":7648641,
+        "name":"Adenta",
+        "country":"GH",
+        "admin1":"Greater Accra",
+        "admin2":"Adenta",
+        "lat":5.71417,
+        "lon":-0.15418,
+        "pop":50652
+    },
+    {
+        "id":2295065,
+        "name":"Suhum",
+        "country":"GH",
+        "admin1":"Eastern",
+        "admin2":"Suhum\/Kraboa\/Coaltar",
+        "lat":6.04089,
+        "lon":-0.45004,
+        "pop":50610
+    },
+    {
+        "id":2294938,
+        "name":"Tafo",
+        "country":"GH",
+        "admin1":"Ashanti",
+        "admin2":"Kumasi",
+        "lat":6.73156,
+        "lon":-1.6137,
+        "pop":50457
+    },
+    {
+        "id":2294768,
+        "name":"Tarkwa",
+        "country":"GH",
+        "admin1":"Western",
+        "admin2":"Tarkwa Nsuaem",
+        "lat":5.30383,
+        "lon":-1.98956,
+        "pop":49937
+    },
+    {
+        "id":11428216,
+        "name":"Lashibi",
+        "country":"GH",
+        "admin1":"Greater Accra",
+        "admin2":"Ashaiman",
+        "lat":5.68476,
+        "lon":-0.04011,
+        "pop":49223
+    },
+    {
+        "id":2297141,
+        "name":"Nsawam",
+        "country":"GH",
+        "admin1":"Eastern",
+        "admin2":"Nsawam Adoagyiri",
+        "lat":5.80893,
+        "lon":-0.35026,
+        "pop":48885
+    },
+    {
+        "id":2301639,
+        "name":"Dome",
+        "country":"GH",
+        "admin1":"Greater Accra",
+        "admin2":"Ga East",
+        "lat":5.65003,
+        "lon":-0.2361,
+        "pop":48285
+    },
+    {
+        "id":12640506,
+        "name":"Nkawkaw",
+        "country":"GH",
+        "admin1":"Eastern",
+        "admin2":"Kwahu West",
+        "lat":6.54584,
+        "lon":-0.76264,
+        "pop":47968
+    },
+    {
+        "id":2305537,
+        "name":"Agogo",
+        "country":"GH",
+        "admin1":"Ashanti",
+        "admin2":"Asante Akim North",
+        "lat":6.80004,
+        "lon":-1.08193,
+        "pop":46089
+    },
+    {
+        "id":2304220,
+        "name":"Asamankese",
+        "country":"GH",
+        "admin1":"Eastern",
+        "admin2":"West Akim",
+        "lat":5.86006,
+        "lon":-0.6635,
+        "pop":46061
+    },
+    {
+        "id":2294086,
+        "name":"Wankyi",
+        "country":"GH",
+        "admin1":"Bono",
+        "admin2":"Wenchi",
+        "lat":7.73855,
+        "lon":-2.1036,
+        "pop":45877
+    },
+    {
+        "id":2299349,
+        "name":"Konongo",
+        "country":"GH",
+        "admin1":"Ashanti",
+        "admin2":"Asante Akim North",
+        "lat":6.61667,
+        "lon":-1.21667,
+        "pop":43585
+    },
+    {
+        "id":2301400,
+        "name":"Dunkwa",
+        "country":"GH",
+        "admin1":"Central",
+        "admin2":"Upper Denkyira East",
+        "lat":5.95996,
+        "lon":-1.77792,
+        "pop":42737
+    },
+    {
+        "id":12640508,
+        "name":"Taifa",
+        "country":"GH",
+        "admin1":"Greater Accra",
+        "admin2":"Ga East",
+        "lat":5.65825,
+        "lon":-0.25223,
+        "pop":42623
+    },
+    {
+        "id":2298205,
+        "name":"Mankesim",
+        "country":"GH",
+        "admin1":"Central",
+        "admin2":"Mfatseman",
+        "lat":5.2717,
+        "lon":-1.0152,
+        "pop":41541
+    },
+    {
+        "id":2295517,
+        "name":"Savelugu",
+        "country":"GH",
+        "admin1":"Northern",
+        "admin2":"Savelugu\/Nanton",
+        "lat":9.62376,
+        "lon":-0.82705,
+        "pop":40654
+    },
+    {
+        "id":2301529,
+        "name":"Domaa-Ahenkro",
+        "country":"GH",
+        "admin1":"Bono",
+        "admin2":"Dormaa",
+        "lat":7.27386,
+        "lon":-2.87348,
+        "pop":37354
+    },
+    {
+        "id":11467879,
+        "name":"Assin Foso",
+        "country":"GH",
+        "admin1":"Central",
+        "admin2":"Twifo Ati-Morkwa",
+        "lat":5.7,
+        "lon":-1.65,
+        "pop":37230
+    },
+    {
+        "id":2303060,
+        "name":"Bibiani",
+        "country":"GH",
+        "admin1":"Western North",
+        "admin2":"Bibiani\/Ahwiaso\/Bekwai",
+        "lat":6.45196,
+        "lon":-2.31635,
+        "pop":36487
+    },
+    {
+        "id":2298005,
+        "name":"Mim",
+        "country":"GH",
+        "admin1":"Ahafo",
+        "admin2":"Asunafo North",
+        "lat":6.90412,
+        "lon":-2.56114,
+        "pop":36211
+    },
+    {
+        "id":2295840,
+        "name":"Prestea",
+        "country":"GH",
+        "admin1":"Western",
+        "admin2":"Prestea-Huni Valley",
+        "lat":5.43385,
+        "lon":-2.14295,
+        "pop":35611
+    },
+    {
+        "id":2303611,
+        "name":"Esim",
+        "country":"GH",
+        "admin1":"Western",
+        "admin2":"Nzema East",
+        "lat":4.86641,
+        "lon":-2.24181,
+        "pop":35487
+    },
+    {
+        "id":2297289,
+        "name":"Nkoranza",
+        "country":"GH",
+        "admin1":"Bono East",
+        "admin2":"Nkoranza South",
+        "lat":7.57127,
+        "lon":-1.7087,
+        "pop":35401
+    },
+    {
+        "id":2301190,
+        "name":"Elmina",
+        "country":"GH",
+        "admin1":"Central",
+        "admin2":"Komenda\/Edina\/Eguafo\/Abirem",
+        "lat":5.0847,
+        "lon":-1.35093,
+        "pop":34403
+    },
+    {
+        "id":2303026,
+        "name":"Bimbila",
+        "country":"GH",
+        "admin1":"Northern",
+        "admin2":"Nanumba North",
+        "lat":8.85488,
+        "lon":0.05922,
+        "pop":34262
+    },
+    {
+        "id":2304548,
+        "name":"Anloga",
+        "country":"GH",
+        "admin1":"Volta",
+        "admin2":"Keta",
+        "lat":5.79473,
+        "lon":0.89728,
+        "pop":34050
+    },
+    {
+        "id":2304931,
+        "name":"Akwatia",
+        "country":"GH",
+        "admin1":"Eastern",
+        "admin2":"Denkyembour",
+        "lat":6.04024,
+        "lon":-0.80876,
+        "pop":33784
+    },
+    {
+        "id":2295692,
+        "name":"Sakumona",
+        "country":"GH",
+        "admin1":"Greater Accra",
+        "admin2":"Tema Metropolitan District",
+        "lat":5.62135,
+        "lon":-0.05193,
+        "pop":32886
+    },
+    {
+        "id":2303878,
+        "name":"Atebubu",
+        "country":"GH",
+        "admin1":"Bono East",
+        "admin2":"Atebubu-Amantin District",
+        "lat":7.75537,
+        "lon":-0.98085,
+        "pop":32641
+    },
+    {
+        "id":8457205,
+        "name":"Awoshi",
+        "country":"GH",
+        "admin1":"Greater Accra",
+        "admin2":"Accra",
+        "lat":5.58385,
+        "lon":-0.27787,
+        "pop":32426
+    },
+    {
+        "id":2301245,
+        "name":"Ahwiaa",
+        "country":"GH",
+        "admin1":"Ashanti",
+        "admin2":"Kwabre District",
+        "lat":6.76051,
+        "lon":-1.59402,
+        "pop":32163
+    },
+    {
+        "id":2303224,
+        "name":"Bekwai",
+        "country":"GH",
+        "admin1":"Ashanti",
+        "admin2":"Bekwai",
+        "lat":6.45195,
+        "lon":-1.57866,
+        "pop":32082
+    },
+    {
+        "id":2305191,
+        "name":"Akatsi",
+        "country":"GH",
+        "admin1":"Volta",
+        "admin2":"Akatsi South",
+        "lat":6.1316,
+        "lon":0.79853,
+        "pop":31981
+    },
+    {
+        "id":2301367,
+        "name":"Dzodze",
+        "country":"GH",
+        "admin1":"Volta",
+        "admin2":"Ketu North District",
+        "lat":6.23669,
+        "lon":0.99578,
+        "pop":30905
+    },
+    {
+        "id":2297126,
+        "name":"Nsoatre",
+        "country":"GH",
+        "admin1":"Bono",
+        "admin2":"Sunyani West",
+        "lat":7.40353,
+        "lon":-2.46635,
+        "pop":30862
+    },
+    {
+        "id":7281088,
+        "name":"Effiduase",
+        "country":"GH",
+        "admin1":"Ashanti",
+        "admin2":"Sekyere East",
+        "lat":6.84684,
+        "lon":-1.39612,
+        "pop":30486
+    },
+    {
+        "id":2297432,
+        "name":"New Tafo",
+        "country":"GH",
+        "admin1":"Ashanti",
+        "admin2":"Kumasi",
+        "lat":6.71897,
+        "lon":-1.61188,
+        "pop":30380
+    },
+    {
+        "id":2293805,
+        "name":"Yegyi",
+        "country":"GH",
+        "admin1":"Bono East",
+        "admin2":"Pru",
+        "lat":8.22542,
+        "lon":-0.64889,
+        "pop":30311
+    },
+    {
+        "id":2299945,
+        "name":"Kade",
+        "country":"GH",
+        "admin1":"Eastern",
+        "admin2":"Kwaebibirem",
+        "lat":6.09392,
+        "lon":-0.83599,
+        "pop":30233
+    },
+    {
+        "id":2303236,
+        "name":"Begoro",
+        "country":"GH",
+        "admin1":"Eastern",
+        "admin2":"Fanteakwa",
+        "lat":6.38706,
+        "lon":-0.37738,
+        "pop":29516
+    },
+    {
+        "id":2299233,
+        "name":"Kpandu",
+        "country":"GH",
+        "admin1":"Volta",
+        "admin2":"Kpando",
+        "lat":6.99536,
+        "lon":0.29306,
+        "pop":28334
+    },
+    {
+        "id":2295684,
+        "name":"Salaga",
+        "country":"GH",
+        "admin1":"Savannah",
+        "admin2":"East Gonja",
+        "lat":8.55083,
+        "lon":-0.51875,
+        "pop":25472
+    },
+    {
+        "id":2297505,
+        "name":"Navrongo",
+        "country":"GH",
+        "admin1":"Upper East",
+        "admin2":"Kassena Nankana",
+        "lat":10.89469,
+        "lon":-1.09083,
+        "pop":25470
+    },
+    {
+        "id":2295672,
+        "name":"Saltpond",
+        "country":"GH",
+        "admin1":"Central",
+        "admin2":"Mfatseman",
+        "lat":5.20913,
+        "lon":-1.06058,
+        "pop":24689
+    },
+    {
+        "id":2301184,
+        "name":"Elubo",
+        "country":"GH",
+        "admin1":"Western",
+        "admin2":"Jomoro",
+        "lat":5.28515,
+        "lon":-2.76658,
+        "pop":23952
+    },
+    {
+        "id":2302002,
+        "name":"Damongo",
+        "country":"GH",
+        "admin1":"Savannah",
+        "admin2":"West Gonja",
+        "lat":9.08296,
+        "lon":-1.81884,
+        "pop":23544
+    },
+    {
+        "id":2301424,
+        "name":"Dambai",
+        "country":"GH",
+        "admin1":"Oti",
+        "admin2":"Krachi East",
+        "lat":8.06616,
+        "lon":0.17947,
+        "pop":22445
+    },
+    {
+        "id":2300749,
+        "name":"Goaso",
+        "country":"GH",
+        "admin1":"Ahafo",
+        "admin2":"Asunafo North",
+        "lat":6.80355,
+        "lon":-2.5172,
+        "pop":21798
+    },
+    {
+        "id":2295385,
+        "name":"Shama Junction",
+        "country":"GH",
+        "admin1":"Western",
+        "admin2":"Shama",
+        "lat":5.01806,
+        "lon":-1.66437,
+        "pop":20946
+    },
+    {
+        "id":2304389,
+        "name":"Apam",
+        "country":"GH",
+        "admin1":"Central",
+        "admin2":"Gomoa West",
+        "lat":5.285,
+        "lon":-0.746,
+        "pop":20147
+    },
+    {
+        "id":2300883,
+        "name":"Foso",
+        "country":"GH",
+        "admin1":"Central",
+        "admin2":"Assin North",
+        "lat":5.70119,
+        "lon":-1.28657,
+        "pop":20078
+    },
+    {
+        "id":13275281,
+        "name":"Ahwiaa",
+        "country":"GH",
+        "admin1":"Ashanti",
+        "admin2":"Offinso Municipal District",
+        "lat":6.90306,
+        "lon":-1.65199,
+        "pop":19729
+    },
+    {
+        "id":2306119,
+        "name":"Aburi",
+        "country":"GH",
+        "admin1":"Eastern",
+        "admin2":"Akuapim South",
+        "lat":5.84802,
+        "lon":-0.17449,
+        "pop":18399
+    },
+    {
+        "id":2299645,
+        "name":"Keta",
+        "country":"GH",
+        "admin1":"Volta",
+        "admin2":"Keta",
+        "lat":5.91793,
+        "lon":0.98789,
+        "pop":18077
+    },
+    {
+        "id":2297661,
+        "name":"Nalerigu",
+        "country":"GH",
+        "admin1":"North East",
+        "admin2":"East Mamprusi",
+        "lat":10.52726,
+        "lon":-0.36982,
+        "pop":17440
+    },
+    {
+        "id":2303258,
+        "name":"Bechem",
+        "country":"GH",
+        "admin1":"Ahafo",
+        "admin2":"Tano South",
+        "lat":7.09034,
+        "lon":-2.02498,
+        "pop":17000
+    },
+    {
+        "id":2301464,
+        "name":"Duayaw-Nkwanta",
+        "country":"GH",
+        "admin1":"Ahafo",
+        "admin2":"Tano North",
+        "lat":7.17487,
+        "lon":-2.09961,
+        "pop":17000
+    },
+    {
+        "id":2295468,
+        "name":"Sefwi",
+        "country":"GH",
+        "admin1":"Ashanti",
+        "admin2":"Bekwai",
+        "lat":6.52306,
+        "lon":-1.63596,
+        "pop":14206
+    },
+    {
+        "id":2297810,
+        "name":"Mumford",
+        "country":"GH",
+        "admin1":"Central",
+        "admin2":"Gomoa West",
+        "lat":5.26176,
+        "lon":-0.75897,
+        "pop":13983
+    },
+    {
+        "id":2305027,
+        "name":"Akropong",
+        "country":"GH",
+        "admin1":"Eastern",
+        "admin2":"Akuapim North",
+        "lat":5.97462,
+        "lon":-0.08542,
+        "pop":11096
+    },
+    {
+        "id":2299642,
+        "name":"Kete Krachi",
+        "country":"GH",
+        "admin1":"Oti",
+        "admin2":"Krachi West",
+        "lat":7.79391,
+        "lon":-0.0498,
+        "pop":11000
+    },
+    {
+        "id":2305164,
+        "name":"Akim Swedru",
+        "country":"GH",
+        "admin1":"Eastern",
+        "admin2":"Birim South",
+        "lat":5.8938,
+        "lon":-1.01636,
+        "pop":10000
+    },
+    {
+        "id":2299636,
+        "name":"Kibi",
+        "country":"GH",
+        "admin1":"Eastern",
+        "admin2":"East Akim",
+        "lat":6.16494,
+        "lon":-0.55376,
+        "pop":9399
+    },
+    {
+        "id":2297834,
+        "name":"Mpraeso",
+        "country":"GH",
+        "admin1":"Eastern",
+        "admin2":"Kwahu South",
+        "lat":6.59321,
+        "lon":-0.73462,
+        "pop":9007
+    },
+    {
+        "id":2306224,
+        "name":"Aboso",
+        "country":"GH",
+        "admin1":"Western",
+        "admin2":"Prestea-Huni Valley",
+        "lat":5.36073,
+        "lon":-1.94856,
+        "pop":8790
+    },
+    {
+        "id":2299236,
+        "name":"Kpandae",
+        "country":"GH",
+        "admin1":"Northern",
+        "admin2":"Kpandai",
+        "lat":8.46885,
+        "lon":-0.01127,
+        "pop":8652
+    },
+    {
+        "id":12123477,
+        "name":"Zonno",
+        "country":"GH",
+        "admin1":"Upper East",
+        "admin2":"Bolgatanga Municipal District",
+        "lat":10.78442,
+        "lon":-0.78449,
+        "pop":2000
+    },
+    {
+        "id":11751265,
+        "name":"Nyimbale",
+        "country":"GH",
+        "admin1":"Upper West",
+        "admin2":"Nadowli",
+        "lat":10.16102,
+        "lon":-2.60546,
+        "pop":900
+    }
+]

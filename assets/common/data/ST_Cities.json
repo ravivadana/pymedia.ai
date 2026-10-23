@@ -1,0 +1,372 @@
+[
+    {
+        "id":2410763,
+        "name":"São Tomé",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Água Grande District",
+        "lat":0.33756,
+        "lon":6.7299,
+        "pop":53300
+    },
+    {
+        "id":2410972,
+        "name":"Neves",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Lemba District",
+        "lat":0.35671,
+        "lon":6.54897,
+        "pop":8391
+    },
+    {
+        "id":2411305,
+        "name":"Água Izé",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Cantagalo District",
+        "lat":0.21953,
+        "lon":6.72782,
+        "pop":7445
+    },
+    {
+        "id":11204006,
+        "name":"Folha Fede",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"",
+        "lat":0.284,
+        "lon":6.684,
+        "pop":6685
+    },
+    {
+        "id":12718718,
+        "name":"Almas",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Cantagalo District",
+        "lat":0.29907,
+        "lon":6.74467,
+        "pop":4601
+    },
+    {
+        "id":12718734,
+        "name":"Pantufo",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Mé-Zóchi District",
+        "lat":0.31503,
+        "lon":6.74348,
+        "pop":3977
+    },
+    {
+        "id":2410849,
+        "name":"Rosema",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Lemba District",
+        "lat":0.3509,
+        "lon":6.56948,
+        "pop":2587
+    },
+    {
+        "id":13151892,
+        "name":"Piedade",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Mé-Zóchi District",
+        "lat":0.29581,
+        "lon":6.66424,
+        "pop":1408
+    },
+    {
+        "id":12718722,
+        "name":"Changra",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Lobata District",
+        "lat":0.34985,
+        "lon":6.68657,
+        "pop":1224
+    },
+    {
+        "id":2410805,
+        "name":"Santo António",
+        "country":"ST",
+        "admin1":"Príncipe",
+        "admin2":"",
+        "lat":1.63943,
+        "lon":7.41951,
+        "pop":1156
+    },
+    {
+        "id":2411049,
+        "name":"Lemos",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Mé-Zóchi District",
+        "lat":0.29922,
+        "lon":6.69847,
+        "pop":1136
+    },
+    {
+        "id":2410809,
+        "name":"Santo Amaro",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Lobata District",
+        "lat":0.36574,
+        "lon":6.68855,
+        "pop":1063
+    },
+    {
+        "id":12718723,
+        "name":"Cova Barro",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Mé-Zóchi District",
+        "lat":0.31499,
+        "lon":6.7383,
+        "pop":1026
+    },
+    {
+        "id":12718729,
+        "name":"Micondo",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Cantagalo District",
+        "lat":0.17121,
+        "lon":6.67729,
+        "pop":1022
+    },
+    {
+        "id":2410853,
+        "name":"Agostinho Neto",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Lobata District",
+        "lat":0.36769,
+        "lon":6.64396,
+        "pop":992
+    },
+    {
+        "id":12718720,
+        "name":"Belém",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Mé-Zóchi District",
+        "lat":0.30154,
+        "lon":6.67423,
+        "pop":932
+    },
+    {
+        "id":12718730,
+        "name":"Monta Alegre",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Mé-Zóchi District",
+        "lat":0.30285,
+        "lon":6.72292,
+        "pop":913
+    },
+    {
+        "id":12718719,
+        "name":"Batepá",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Mé-Zóchi District",
+        "lat":0.30061,
+        "lon":6.66031,
+        "pop":909
+    },
+    {
+        "id":12718732,
+        "name":"Obolongo",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Mé-Zóchi District",
+        "lat":0.28999,
+        "lon":6.69322,
+        "pop":835
+    },
+    {
+        "id":12718731,
+        "name":"Obo Izaquente",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Mé-Zóchi District",
+        "lat":0.32022,
+        "lon":6.68935,
+        "pop":795
+    },
+    {
+        "id":12718728,
+        "name":"Margarida Manuel",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Mé-Zóchi District",
+        "lat":0.30252,
+        "lon":6.71658,
+        "pop":775
+    },
+    {
+        "id":12718721,
+        "name":"Capela",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Mé-Zóchi District",
+        "lat":0.30663,
+        "lon":6.67997,
+        "pop":761
+    },
+    {
+        "id":12718726,
+        "name":"Maianço",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Lobata District",
+        "lat":0.34916,
+        "lon":6.6742,
+        "pop":749
+    },
+    {
+        "id":2411250,
+        "name":"Boa Entrada",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Lobata District",
+        "lat":0.35166,
+        "lon":6.66321,
+        "pop":738
+    },
+    {
+        "id":12718725,
+        "name":"Diogo Simão",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Mé-Zóchi District",
+        "lat":0.31467,
+        "lon":6.69432,
+        "pop":703
+    },
+    {
+        "id":12718733,
+        "name":"Ototó",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Mé-Zóchi District",
+        "lat":0.31782,
+        "lon":6.66321,
+        "pop":686
+    },
+    {
+        "id":12718736,
+        "name":"Praia Morro Peixe",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Lobata District",
+        "lat":0.40553,
+        "lon":6.63847,
+        "pop":685
+    },
+    {
+        "id":2410998,
+        "name":"Monte Café",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Mé-Zóchi District",
+        "lat":0.30036,
+        "lon":6.63977,
+        "pop":684
+    },
+    {
+        "id":13151801,
+        "name":"Melhorada",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Mé-Zóchi District",
+        "lat":0.30645,
+        "lon":6.71216,
+        "pop":656
+    },
+    {
+        "id":12718724,
+        "name":"Desejada",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Lobata District",
+        "lat":0.35619,
+        "lon":6.67086,
+        "pop":656
+    },
+    {
+        "id":12718727,
+        "name":"Malanza",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Caué District",
+        "lat":0.04851,
+        "lon":6.53774,
+        "pop":645
+    },
+    {
+        "id":2411160,
+        "name":"Diogo Vaz",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Lemba District",
+        "lat":0.3171,
+        "lon":6.49846,
+        "pop":632
+    },
+    {
+        "id":2410900,
+        "name":"Ponta Figo",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Lemba District",
+        "lat":0.34551,
+        "lon":6.54377,
+        "pop":615
+    },
+    {
+        "id":12718735,
+        "name":"Pété-Pété",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Cantagalo District",
+        "lat":0.30093,
+        "lon":6.73957,
+        "pop":606
+    },
+    {
+        "id":12718737,
+        "name":"Ribeira Peixe",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Caué District",
+        "lat":0.09038,
+        "lon":6.61557,
+        "pop":590
+    },
+    {
+        "id":12718738,
+        "name":"Torres Dias",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Mé-Zóchi District",
+        "lat":0.30728,
+        "lon":6.69628,
+        "pop":585
+    },
+    {
+        "id":2411263,
+        "name":"Bela Vista",
+        "country":"ST",
+        "admin1":"São Tomé Island",
+        "admin2":"Lobata District",
+        "lat":0.35927,
+        "lon":6.68933,
+        "pop":517
+    }
+]

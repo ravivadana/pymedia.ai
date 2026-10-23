@@ -1,0 +1,52 @@
+[
+    {
+        "id":7828758,
+        "name":"Saipan",
+        "country":"MP",
+        "admin1":"Saipan",
+        "admin2":"",
+        "lat":15.21233,
+        "lon":145.7545,
+        "pop":48220
+    },
+    {
+        "id":7267949,
+        "name":"San Jose Village",
+        "country":"MP",
+        "admin1":"Tinian",
+        "admin2":"",
+        "lat":14.96823,
+        "lon":145.61998,
+        "pop":15000
+    },
+    {
+        "id":13527050,
+        "name":"Garapan",
+        "country":"MP",
+        "admin1":"Saipan",
+        "admin2":"",
+        "lat":15.21107,
+        "lon":145.72038,
+        "pop":5225
+    },
+    {
+        "id":7828768,
+        "name":"Capitol Hill Village",
+        "country":"MP",
+        "admin1":"Saipan",
+        "admin2":"",
+        "lat":15.20825,
+        "lon":145.75313,
+        "pop":979
+    },
+    {
+        "id":4041579,
+        "name":"Songsong",
+        "country":"MP",
+        "admin1":"Rota",
+        "admin2":"",
+        "lat":14.13972,
+        "lon":145.14111,
+        "pop":593
+    }
+]

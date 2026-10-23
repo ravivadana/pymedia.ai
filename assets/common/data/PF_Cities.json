@@ -1,0 +1,422 @@
+[
+    {
+        "id":4034561,
+        "name":"Faaa",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Faaa",
+        "lat":-17.55933,
+        "lon":-149.60352,
+        "pop":29851
+    },
+    {
+        "id":4033936,
+        "name":"Papeete",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Papeete",
+        "lat":-17.5347,
+        "lon":-149.56843,
+        "pop":26357
+    },
+    {
+        "id":4033779,
+        "name":"Punaauia",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Punaauia",
+        "lat":-17.63333,
+        "lon":-149.6,
+        "pop":25750
+    },
+    {
+        "id":4033838,
+        "name":"Pirae",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Pirae",
+        "lat":-17.52985,
+        "lon":-149.55119,
+        "pop":14475
+    },
+    {
+        "id":4034307,
+        "name":"Mahina",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Mahina",
+        "lat":-17.50648,
+        "lon":-149.48899,
+        "pop":14369
+    },
+    {
+        "id":4034005,
+        "name":"Paea",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Paea",
+        "lat":-17.68333,
+        "lon":-149.58333,
+        "pop":12084
+    },
+    {
+        "id":4033951,
+        "name":"Papao",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Papara",
+        "lat":-17.75,
+        "lon":-149.55,
+        "pop":10360
+    },
+    {
+        "id":4034636,
+        "name":"Arue",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Arue",
+        "lat":-17.52764,
+        "lon":-149.53437,
+        "pop":9458
+    },
+    {
+        "id":4033062,
+        "name":"Vaitoare",
+        "country":"PF",
+        "admin1":"Îles Australes",
+        "admin2":"",
+        "lat":-16.67618,
+        "lon":-151.45743,
+        "pop":5946
+    },
+    {
+        "id":4034745,
+        "name":"Afaahiti",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Taiarapu-Ouest",
+        "lat":-17.74395,
+        "lon":-149.32444,
+        "pop":5186
+    },
+    {
+        "id":4033077,
+        "name":"Vaitape",
+        "country":"PF",
+        "admin1":"Leeward Islands",
+        "admin2":"Bora-Bora",
+        "lat":-16.50741,
+        "lon":-151.74913,
+        "pop":4927
+    },
+    {
+        "id":4034022,
+        "name":"Otutara",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Teva I Uta",
+        "lat":-17.77207,
+        "lon":-149.41341,
+        "pop":4609
+    },
+    {
+        "id":4033958,
+        "name":"Paopao",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Moorea-Maiao",
+        "lat":-17.51863,
+        "lon":-149.82193,
+        "pop":4221
+    },
+    {
+        "id":4033566,
+        "name":"Taunoa",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Teva I Uta",
+        "lat":-17.75139,
+        "lon":-149.35602,
+        "pop":4131
+    },
+    {
+        "id":4034438,
+        "name":"Haapiti",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Moorea-Maiao",
+        "lat":-17.56352,
+        "lon":-149.86905,
+        "pop":3959
+    },
+    {
+        "id":4033205,
+        "name":"Uturoa",
+        "country":"PF",
+        "admin1":"Leeward Islands",
+        "admin2":"Uturoa",
+        "lat":-16.73022,
+        "lon":-151.44256,
+        "pop":3668
+    },
+    {
+        "id":4034741,
+        "name":"Afareaitu",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"",
+        "lat":-17.55,
+        "lon":-149.78333,
+        "pop":3213
+    },
+    {
+        "id":4033295,
+        "name":"Tohautu",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Taiarapu-Ouest",
+        "lat":-17.76099,
+        "lon":-149.31676,
+        "pop":2842
+    },
+    {
+        "id":4033356,
+        "name":"Tiarei",
+        "country":"PF",
+        "admin1":null,
+        "admin2":"",
+        "lat":-17.53333,
+        "lon":-149.33333,
+        "pop":2795
+    },
+    {
+        "id":4033094,
+        "name":"Vairao",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Taiarapu-Ouest",
+        "lat":-17.78333,
+        "lon":-149.28333,
+        "pop":2423
+    },
+    {
+        "id":4033557,
+        "name":"Tautira",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Taiarapu-Est",
+        "lat":-17.74744,
+        "lon":-149.16123,
+        "pop":2293
+    },
+    {
+        "id":4033514,
+        "name":"Teavaro",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Moorea-Maiao",
+        "lat":-17.5,
+        "lon":-149.76667,
+        "pop":2289
+    },
+    {
+        "id":4034551,
+        "name":"Faanui",
+        "country":"PF",
+        "admin1":"Leeward Islands",
+        "admin2":"Bora-Bora",
+        "lat":-16.48679,
+        "lon":-151.74102,
+        "pop":2061
+    },
+    {
+        "id":4033792,
+        "name":"Pueu",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Taiarapu-Est",
+        "lat":-17.73831,
+        "lon":-149.22376,
+        "pop":1968
+    },
+    {
+        "id":4033910,
+        "name":"Papetoai",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Moorea-Maiao",
+        "lat":-17.49538,
+        "lon":-149.87437,
+        "pop":1964
+    },
+    {
+        "id":4033375,
+        "name":"Tevaitoa",
+        "country":"PF",
+        "admin1":"Leeward Islands",
+        "admin2":"Tumaraa",
+        "lat":-16.79139,
+        "lon":-151.48893,
+        "pop":1851
+    },
+    {
+        "id":4034402,
+        "name":"Hitiaa",
+        "country":"PF",
+        "admin1":null,
+        "admin2":"",
+        "lat":-17.6,
+        "lon":-149.3,
+        "pop":1826
+    },
+    {
+        "id":4020109,
+        "name":"Atuona",
+        "country":"PF",
+        "admin1":"Îles Marquises",
+        "admin2":"Hiva-Oa",
+        "lat":-9.80342,
+        "lon":-139.04202,
+        "pop":1762
+    },
+    {
+        "id":4034548,
+        "name":"Faone",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Taiarapu-Est",
+        "lat":-17.66917,
+        "lon":-149.30919,
+        "pop":1747
+    },
+    {
+        "id":4034496,
+        "name":"Fare",
+        "country":"PF",
+        "admin1":"Leeward Islands",
+        "admin2":"Huahine",
+        "lat":-16.7123,
+        "lon":-151.03493,
+        "pop":1540
+    },
+    {
+        "id":4033543,
+        "name":"Teahupoo",
+        "country":"PF",
+        "admin1":"Îles du Vent",
+        "admin2":"Taiarapu-Ouest",
+        "lat":-17.84645,
+        "lon":-149.26682,
+        "pop":1422
+    },
+    {
+        "id":4034688,
+        "name":"Anau",
+        "country":"PF",
+        "admin1":"Leeward Islands",
+        "admin2":"Bora-Bora",
+        "lat":-16.50148,
+        "lon":-151.72135,
+        "pop":1412
+    },
+    {
+        "id":8063344,
+        "name":"Taiohae",
+        "country":"PF",
+        "admin1":"Îles Marquises",
+        "admin2":"Nuku-Hiva",
+        "lat":-8.91093,
+        "lon":-140.09972,
+        "pop":1224
+    },
+    {
+        "id":4034451,
+        "name":"Fitii",
+        "country":"PF",
+        "admin1":"Leeward Islands",
+        "admin2":"Huahine",
+        "lat":-16.73535,
+        "lon":-151.0327,
+        "pop":1154
+    },
+    {
+        "id":4030556,
+        "name":"Rikitea",
+        "country":"PF",
+        "admin1":"Îles Tuamotu-Gambier",
+        "admin2":"Gambier",
+        "lat":-23.12322,
+        "lon":-134.96858,
+        "pop":1103
+    },
+    {
+        "id":4034188,
+        "name":"Moerai",
+        "country":"PF",
+        "admin1":"Îles Australes",
+        "admin2":"Rurutu",
+        "lat":-22.45133,
+        "lon":-151.34191,
+        "pop":1044
+    },
+    {
+        "id":4034320,
+        "name":"Mahaena",
+        "country":"PF",
+        "admin1":null,
+        "admin2":"",
+        "lat":-17.56667,
+        "lon":-149.31667,
+        "pop":960
+    },
+    {
+        "id":4034228,
+        "name":"Mataura",
+        "country":"PF",
+        "admin1":"Îles Australes",
+        "admin2":"Tubuai",
+        "lat":-23.34722,
+        "lon":-149.48487,
+        "pop":913
+    },
+    {
+        "id":8554431,
+        "name":"Vaiaau",
+        "country":"PF",
+        "admin1":"Leeward Islands",
+        "admin2":"Tumaraa",
+        "lat":-16.85964,
+        "lon":-151.48018,
+        "pop":782
+    },
+    {
+        "id":4034588,
+        "name":"Avera",
+        "country":"PF",
+        "admin1":"Îles Australes",
+        "admin2":"Rurutu",
+        "lat":-22.47814,
+        "lon":-151.35126,
+        "pop":711
+    },
+    {
+        "id":4034590,
+        "name":"Avatoru",
+        "country":"PF",
+        "admin1":"Îles Tuamotu-Gambier",
+        "admin2":"Rangiroa",
+        "lat":-14.94172,
+        "lon":-147.702,
+        "pop":700
+    },
+    {
+        "id":4034434,
+        "name":"Haapu",
+        "country":"PF",
+        "admin1":"Leeward Islands",
+        "admin2":"Huahine",
+        "lat":-16.79217,
+        "lon":-151.01091,
+        "pop":579
+    }
+]

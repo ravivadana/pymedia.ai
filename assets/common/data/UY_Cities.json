@@ -1,0 +1,1512 @@
+[
+    {
+        "id":3441575,
+        "name":"Montevideo",
+        "country":"UY",
+        "admin1":"Montevideo Department",
+        "admin2":"Municipio B",
+        "lat":-34.90328,
+        "lon":-56.18816,
+        "pop":1270737
+    },
+    {
+        "id":3440714,
+        "name":"Salto",
+        "country":"UY",
+        "admin1":"Salto Department",
+        "admin2":"",
+        "lat":-31.38811,
+        "lon":-57.95983,
+        "pop":99823
+    },
+    {
+        "id":3441243,
+        "name":"Paysandú",
+        "country":"UY",
+        "admin1":"Paysandú Department",
+        "admin2":"",
+        "lat":-32.3171,
+        "lon":-58.08072,
+        "pop":73249
+    },
+    {
+        "id":3442057,
+        "name":"Las Piedras",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Las Piedras",
+        "lat":-34.7302,
+        "lon":-56.21915,
+        "pop":69682
+    },
+    {
+        "id":3440781,
+        "name":"Rivera",
+        "country":"UY",
+        "admin1":"Rivera Department",
+        "admin2":"",
+        "lat":-30.90534,
+        "lon":-55.55076,
+        "pop":64631
+    },
+    {
+        "id":3441894,
+        "name":"Maldonado",
+        "country":"UY",
+        "admin1":"Maldonado",
+        "admin2":"Maldonado",
+        "lat":-34.89791,
+        "lon":-54.95021,
+        "pop":55478
+    },
+    {
+        "id":3440034,
+        "name":"Tacuarembó",
+        "country":"UY",
+        "admin1":"Tacuarembó Department",
+        "admin2":"",
+        "lat":-31.71882,
+        "lon":-55.97925,
+        "pop":51854
+    },
+    {
+        "id":3441702,
+        "name":"Melo",
+        "country":"UY",
+        "admin1":"Cerro Largo",
+        "admin2":"",
+        "lat":-32.3682,
+        "lon":-54.16409,
+        "pop":51023
+    },
+    {
+        "id":3441684,
+        "name":"Mercedes",
+        "country":"UY",
+        "admin1":"Soriano",
+        "admin2":"",
+        "lat":-33.2524,
+        "lon":-58.03047,
+        "pop":42359
+    },
+    {
+        "id":3443758,
+        "name":"Artigas",
+        "country":"UY",
+        "admin1":"Artigas",
+        "admin2":"",
+        "lat":-30.40431,
+        "lon":-56.46926,
+        "pop":41909
+    },
+    {
+        "id":3441665,
+        "name":"Minas",
+        "country":"UY",
+        "admin1":"Lavalleja",
+        "admin2":"",
+        "lat":-34.37589,
+        "lon":-55.23771,
+        "pop":38025
+    },
+    {
+        "id":3440639,
+        "name":"San José de Mayo",
+        "country":"UY",
+        "admin1":"San José Department",
+        "admin2":"",
+        "lat":-34.33898,
+        "lon":-56.71339,
+        "pop":36529
+    },
+    {
+        "id":3442727,
+        "name":"Durazno",
+        "country":"UY",
+        "admin1":"Durazno Department",
+        "admin2":"",
+        "lat":-33.38063,
+        "lon":-56.52312,
+        "pop":33926
+    },
+    {
+        "id":3442585,
+        "name":"Florida",
+        "country":"UY",
+        "admin1":"Florida",
+        "admin2":"",
+        "lat":-34.10032,
+        "lon":-56.21477,
+        "pop":32234
+    },
+    {
+        "id":10098279,
+        "name":"Barros Blancos",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Barros Blancos",
+        "lat":-34.7524,
+        "lon":-56.00259,
+        "pop":31650
+    },
+    {
+        "id":3440696,
+        "name":"San Carlos",
+        "country":"UY",
+        "admin1":"Maldonado",
+        "admin2":"San Carlos",
+        "lat":-34.79123,
+        "lon":-54.91824,
+        "pop":27471
+    },
+    {
+        "id":3439781,
+        "name":"Treinta y Tres",
+        "country":"UY",
+        "admin1":"Treinta y Tres Department",
+        "admin2":"",
+        "lat":-33.231,
+        "lon":-54.38577,
+        "pop":25653
+    },
+    {
+        "id":3440777,
+        "name":"Rocha",
+        "country":"UY",
+        "admin1":"Rocha Department",
+        "admin2":"",
+        "lat":-34.47995,
+        "lon":-54.33064,
+        "pop":25515
+    },
+    {
+        "id":3441354,
+        "name":"Pando",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Pando",
+        "lat":-34.71716,
+        "lon":-55.9584,
+        "pop":24047
+    },
+    {
+        "id":3442568,
+        "name":"Fray Bentos",
+        "country":"UY",
+        "admin1":"Río Negro Department",
+        "admin2":"",
+        "lat":-33.11651,
+        "lon":-58.31067,
+        "pop":23279
+    },
+    {
+        "id":3443013,
+        "name":"Colonia del Sacramento",
+        "country":"UY",
+        "admin1":"Colonia",
+        "admin2":"",
+        "lat":-34.46262,
+        "lon":-57.83976,
+        "pop":21714
+    },
+    {
+        "id":3439748,
+        "name":"Trinidad",
+        "country":"UY",
+        "admin1":"Flores Department",
+        "admin2":"",
+        "lat":-33.5165,
+        "lon":-56.89957,
+        "pop":21429
+    },
+    {
+        "id":3442098,
+        "name":"La Paz",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"La Paz",
+        "lat":-34.76031,
+        "lon":-56.2259,
+        "pop":19913
+    },
+    {
+        "id":3443413,
+        "name":"Canelones",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Canelones",
+        "lat":-34.52381,
+        "lon":-56.28215,
+        "pop":19698
+    },
+    {
+        "id":3443341,
+        "name":"Carmelo",
+        "country":"UY",
+        "admin1":"Colonia",
+        "admin2":"Carmelo",
+        "lat":-34.00023,
+        "lon":-58.28402,
+        "pop":18041
+    },
+    {
+        "id":3442778,
+        "name":"Delta del Tigre",
+        "country":"UY",
+        "admin1":"San José Department",
+        "admin2":"Ciudad Del Plata",
+        "lat":-34.76488,
+        "lon":-56.3645,
+        "pop":17973
+    },
+    {
+        "id":3442750,
+        "name":"Dolores",
+        "country":"UY",
+        "admin1":"Soriano",
+        "admin2":"Dolores",
+        "lat":-33.53009,
+        "lon":-58.21701,
+        "pop":17174
+    },
+    {
+        "id":3439525,
+        "name":"Young",
+        "country":"UY",
+        "admin1":"Río Negro Department",
+        "admin2":"Young",
+        "lat":-32.69844,
+        "lon":-57.62693,
+        "pop":16756
+    },
+    {
+        "id":3440571,
+        "name":"Santa Lucía",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Santa Lucia",
+        "lat":-34.45333,
+        "lon":-56.39056,
+        "pop":16438
+    },
+    {
+        "id":3440963,
+        "name":"Progreso",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Progreso",
+        "lat":-34.66737,
+        "lon":-56.21758,
+        "pop":16244
+    },
+    {
+        "id":3441292,
+        "name":"Paso de Carrasco",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Paso Carrasco",
+        "lat":-34.86028,
+        "lon":-56.05222,
+        "pop":15393
+    },
+    {
+        "id":3440791,
+        "name":"Río Branco",
+        "country":"UY",
+        "admin1":"Cerro Largo",
+        "admin2":"Rio Branco",
+        "lat":-32.59802,
+        "lon":-53.38583,
+        "pop":14604
+    },
+    {
+        "id":3441273,
+        "name":"Paso de los Toros",
+        "country":"UY",
+        "admin1":"Tacuarembó Department",
+        "admin2":"Paso De Los Toros",
+        "lat":-32.81667,
+        "lon":-56.51667,
+        "pop":12985
+    },
+    {
+        "id":3442206,
+        "name":"Juan L. Lacaze",
+        "country":"UY",
+        "admin1":"Colonia",
+        "admin2":"Juan Lacaze",
+        "lat":-34.41888,
+        "lon":-57.45285,
+        "pop":12816
+    },
+    {
+        "id":3443631,
+        "name":"Bella Unión",
+        "country":"UY",
+        "admin1":"Artigas",
+        "admin2":"Bella Union",
+        "lat":-30.25966,
+        "lon":-57.59919,
+        "pop":12200
+    },
+    {
+        "id":3441988,
+        "name":"Libertad",
+        "country":"UY",
+        "admin1":"San José Department",
+        "admin2":"Libertad",
+        "lat":-34.63459,
+        "lon":-56.61739,
+        "pop":10166
+    },
+    {
+        "id":3440747,
+        "name":"Rosario",
+        "country":"UY",
+        "admin1":"Colonia",
+        "admin2":"Rosario",
+        "lat":-34.31667,
+        "lon":-57.35,
+        "pop":10085
+    },
+    {
+        "id":3441483,
+        "name":"Nueva Helvecia",
+        "country":"UY",
+        "admin1":"Colonia",
+        "admin2":"Nueva Helvecia",
+        "lat":-34.3,
+        "lon":-57.23333,
+        "pop":10054
+    },
+    {
+        "id":3441481,
+        "name":"Nueva Palmira",
+        "country":"UY",
+        "admin1":"Colonia",
+        "admin2":"Nueva Palmira",
+        "lat":-33.87031,
+        "lon":-58.41176,
+        "pop":9857
+    },
+    {
+        "id":3443061,
+        "name":"Chui",
+        "country":"UY",
+        "admin1":"Rocha Department",
+        "admin2":"Chuy",
+        "lat":-33.69792,
+        "lon":-53.45926,
+        "pop":9675
+    },
+    {
+        "id":3440939,
+        "name":"Punta del Este",
+        "country":"UY",
+        "admin1":"Maldonado",
+        "admin2":"Punta Del Este",
+        "lat":-34.94747,
+        "lon":-54.93382,
+        "pop":9277
+    },
+    {
+        "id":3480820,
+        "name":"Colonia Nicolich",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Nicolich",
+        "lat":-34.81516,
+        "lon":-56.02435,
+        "pop":8902
+    },
+    {
+        "id":3440722,
+        "name":"Salinas",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Salinas",
+        "lat":-34.77731,
+        "lon":-55.83954,
+        "pop":8626
+    },
+    {
+        "id":3441074,
+        "name":"Piriápolis",
+        "country":"UY",
+        "admin1":"Maldonado",
+        "admin2":"Piriapolis",
+        "lat":-34.86287,
+        "lon":-55.27471,
+        "pop":7968
+    },
+    {
+        "id":3443289,
+        "name":"Castillos",
+        "country":"UY",
+        "admin1":"Rocha Department",
+        "admin2":"Castillos",
+        "lat":-34.19871,
+        "lon":-53.85919,
+        "pop":7541
+    },
+    {
+        "id":3439787,
+        "name":"Tranqueras",
+        "country":"UY",
+        "admin1":"Rivera Department",
+        "admin2":"Tranqueras",
+        "lat":-31.2,
+        "lon":-55.75,
+        "pop":7235
+    },
+    {
+        "id":3440400,
+        "name":"Sarandí del Yi",
+        "country":"UY",
+        "admin1":"Durazno Department",
+        "admin2":"Sarandí Del Yí",
+        "lat":-33.35,
+        "lon":-55.63333,
+        "pop":7176
+    },
+    {
+        "id":3440596,
+        "name":"San Ramón",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"San Ramon",
+        "lat":-34.29155,
+        "lon":-55.95571,
+        "pop":7133
+    },
+    {
+        "id":3442071,
+        "name":"Lascano",
+        "country":"UY",
+        "admin1":"Rocha Department",
+        "admin2":"Lascano",
+        "lat":-33.67235,
+        "lon":-54.2065,
+        "pop":6976
+    },
+    {
+        "id":3439902,
+        "name":"Tarariras",
+        "country":"UY",
+        "admin1":"Colonia",
+        "admin2":"Tarariras",
+        "lat":-34.26555,
+        "lon":-57.61866,
+        "pop":6632
+    },
+    {
+        "id":3441358,
+        "name":"Pan de Azúcar",
+        "country":"UY",
+        "admin1":"Maldonado",
+        "admin2":"Pan De Azucar",
+        "lat":-34.7787,
+        "lon":-55.23582,
+        "pop":6597
+    },
+    {
+        "id":3442236,
+        "name":"Joaquín Suárez",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Joaquin Suarez",
+        "lat":-34.73501,
+        "lon":-56.0347,
+        "pop":6570
+    },
+    {
+        "id":3440394,
+        "name":"Sarandí Grande",
+        "country":"UY",
+        "admin1":"Florida",
+        "admin2":"Sarandí Grande",
+        "lat":-33.73333,
+        "lon":-56.33333,
+        "pop":6130
+    },
+    {
+        "id":3440379,
+        "name":"Sauce",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Sauce",
+        "lat":-34.65191,
+        "lon":-56.06431,
+        "pop":5910
+    },
+    {
+        "id":3443737,
+        "name":"Atlántida",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Atlantida",
+        "lat":-34.7719,
+        "lon":-55.7584,
+        "pop":5562
+    },
+    {
+        "id":3480822,
+        "name":"Barra de Carrasco",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Paso Carrasco",
+        "lat":-34.87722,
+        "lon":-56.02972,
+        "pop":5410
+    },
+    {
+        "id":3442221,
+        "name":"José Pedro Varela",
+        "country":"UY",
+        "admin1":"Lavalleja",
+        "admin2":"Jose Pedro Varela",
+        "lat":-33.45451,
+        "lon":-54.53586,
+        "pop":5118
+    },
+    {
+        "id":3442398,
+        "name":"Guichón",
+        "country":"UY",
+        "admin1":"Paysandú Department",
+        "admin2":"Guichon",
+        "lat":-32.35846,
+        "lon":-57.19778,
+        "pop":5051
+    },
+    {
+        "id":3440021,
+        "name":"Tala",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Tala",
+        "lat":-34.34349,
+        "lon":-55.76375,
+        "pop":4949
+    },
+    {
+        "id":3443352,
+        "name":"Cardona",
+        "country":"UY",
+        "admin1":"Soriano",
+        "admin2":"Cardona",
+        "lat":-33.87049,
+        "lon":-57.36954,
+        "pop":4600
+    },
+    {
+        "id":3439838,
+        "name":"Toledo",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Toledo",
+        "lat":-34.73807,
+        "lon":-56.09469,
+        "pop":4397
+    },
+    {
+        "id":3442683,
+        "name":"Empalme Olmos",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Empalme Olmos",
+        "lat":-34.69753,
+        "lon":-55.89268,
+        "pop":4199
+    },
+    {
+        "id":3440654,
+        "name":"San Jacinto",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"San Jacinto",
+        "lat":-34.54465,
+        "lon":-55.87151,
+        "pop":3954
+    },
+    {
+        "id":3439622,
+        "name":"Vergara",
+        "country":"UY",
+        "admin1":"Treinta y Tres Department",
+        "admin2":"Municipio de Vergara",
+        "lat":-32.94419,
+        "lon":-53.9381,
+        "pop":3810
+    },
+    {
+        "id":3441659,
+        "name":"Minas de Corrales",
+        "country":"UY",
+        "admin1":"Rivera Department",
+        "admin2":"Minas De Corrales",
+        "lat":-31.57375,
+        "lon":-55.47075,
+        "pop":3788
+    },
+    {
+        "id":3440554,
+        "name":"Santa Rosa",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Santa Rosa",
+        "lat":-34.49819,
+        "lon":-56.03795,
+        "pop":3727
+    },
+    {
+        "id":3442597,
+        "name":"Florencio Sánchez",
+        "country":"UY",
+        "admin1":"Colonia",
+        "admin2":"Florencio Sanchez",
+        "lat":-33.87785,
+        "lon":-57.37166,
+        "pop":3716
+    },
+    {
+        "id":3439619,
+        "name":"Vichadero",
+        "country":"UY",
+        "admin1":"Rivera Department",
+        "admin2":"Vichadero",
+        "lat":-31.77794,
+        "lon":-54.69183,
+        "pop":3698
+    },
+    {
+        "id":10861467,
+        "name":"Marindia",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Salinas",
+        "lat":-34.77433,
+        "lon":-55.82406,
+        "pop":3543
+    },
+    {
+        "id":3442105,
+        "name":"La Paloma",
+        "country":"UY",
+        "admin1":"Rocha Department",
+        "admin2":"La Paloma",
+        "lat":-34.66268,
+        "lon":-54.16452,
+        "pop":3495
+    },
+    {
+        "id":3440656,
+        "name":"San Gregorio de Polanco",
+        "country":"UY",
+        "admin1":"Tacuarembó Department",
+        "admin2":"San Gregorio De Polanco",
+        "lat":-32.61667,
+        "lon":-55.83333,
+        "pop":3415
+    },
+    {
+        "id":3441442,
+        "name":"Ombúes de Lavalle",
+        "country":"UY",
+        "admin1":"Colonia",
+        "admin2":"Ombues De Lavalle",
+        "lat":-33.93783,
+        "lon":-57.80959,
+        "pop":3390
+    },
+    {
+        "id":3439696,
+        "name":"Colonia Valdense",
+        "country":"UY",
+        "admin1":"Colonia",
+        "admin2":"Colonia Valdense",
+        "lat":-34.33957,
+        "lon":-57.26246,
+        "pop":3235
+    },
+    {
+        "id":3442582,
+        "name":"Fraile Muerto",
+        "country":"UY",
+        "admin1":"Cerro Largo",
+        "admin2":"Fraile Muerto",
+        "lat":-32.51667,
+        "lon":-54.53333,
+        "pop":3168
+    },
+    {
+        "id":3442050,
+        "name":"Las Toscas",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Parque Del Plata",
+        "lat":-34.73333,
+        "lon":-55.71667,
+        "pop":3146
+    },
+    {
+        "id":3439831,
+        "name":"Tomás Gomensoro",
+        "country":"UY",
+        "admin1":"Artigas",
+        "admin2":"Tomas Gomensoro",
+        "lat":-30.4287,
+        "lon":-57.43609,
+        "pop":2872
+    },
+    {
+        "id":3440925,
+        "name":"Quebracho",
+        "country":"UY",
+        "admin1":"Paysandú Department",
+        "admin2":"Quebracho",
+        "lat":-31.93526,
+        "lon":-57.9014,
+        "pop":2853
+    },
+    {
+        "id":3442939,
+        "name":"Villa Constitución",
+        "country":"UY",
+        "admin1":"Salto Department",
+        "admin2":"Villa Constitucion",
+        "lat":-31.06913,
+        "lon":-57.84946,
+        "pop":2846
+    },
+    {
+        "id":3440063,
+        "name":"Solís de Mataojo",
+        "country":"UY",
+        "admin1":"Lavalleja",
+        "admin2":"Solis De Mataojo",
+        "lat":-34.59951,
+        "lon":-55.46808,
+        "pop":2825
+    },
+    {
+        "id":3439598,
+        "name":"Villa del Carmen",
+        "country":"UY",
+        "admin1":"Durazno Department",
+        "admin2":"Villa Carmen",
+        "lat":-33.23943,
+        "lon":-56.00936,
+        "pop":2703
+    },
+    {
+        "id":3440549,
+        "name":"Santa Teresa",
+        "country":"UY",
+        "admin1":"Colonia",
+        "admin2":"",
+        "lat":-34.43333,
+        "lon":-57.71667,
+        "pop":2657
+    },
+    {
+        "id":3440762,
+        "name":"Rodríguez",
+        "country":"UY",
+        "admin1":"San José Department",
+        "admin2":"Rodriguez",
+        "lat":-34.381,
+        "lon":-56.53797,
+        "pop":2604
+    },
+    {
+        "id":3443697,
+        "name":"Baltasar Brum",
+        "country":"UY",
+        "admin1":"Artigas",
+        "admin2":"Baltasar Brum",
+        "lat":-30.71905,
+        "lon":-57.32596,
+        "pop":2531
+    },
+    {
+        "id":3441954,
+        "name":"Los Cerrillos",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Los Cerrillos",
+        "lat":-34.605,
+        "lon":-56.35639,
+        "pop":2508
+    },
+    {
+        "id":3443909,
+        "name":"Aiguá",
+        "country":"UY",
+        "admin1":"Maldonado",
+        "admin2":"Aiguá",
+        "lat":-34.20498,
+        "lon":-54.75665,
+        "pop":2465
+    },
+    {
+        "id":3441476,
+        "name":"Nuevo Berlín",
+        "country":"UY",
+        "admin1":"Río Negro Department",
+        "admin2":"Nuevo Berlin",
+        "lat":-32.97974,
+        "lon":-58.05858,
+        "pop":2450
+    },
+    {
+        "id":3443280,
+        "name":"Casupá",
+        "country":"UY",
+        "admin1":"Florida",
+        "admin2":"Casupá",
+        "lat":-34.09994,
+        "lon":-55.64811,
+        "pop":2402
+    },
+    {
+        "id":3442716,
+        "name":"Ecilda Paullier",
+        "country":"UY",
+        "admin1":"San José Department",
+        "admin2":"Ecilda Paullier",
+        "lat":-34.35778,
+        "lon":-57.04883,
+        "pop":2395
+    },
+    {
+        "id":3440577,
+        "name":"Santa Clara de Olimar",
+        "country":"UY",
+        "admin1":"Treinta y Tres Department",
+        "admin2":"Santa Clara De Olimar",
+        "lat":-32.92254,
+        "lon":-54.94447,
+        "pop":2341
+    },
+    {
+        "id":3442299,
+        "name":"Isidoro Noblía",
+        "country":"UY",
+        "admin1":"Cerro Largo",
+        "admin2":"Isidoro Noblia",
+        "lat":-31.96218,
+        "lon":-54.12309,
+        "pop":2331
+    },
+    {
+        "id":3442233,
+        "name":"José Batlle y Ordóñez",
+        "country":"UY",
+        "admin1":"Lavalleja",
+        "admin2":"Jose Batlle Y Ordoñez",
+        "lat":-33.46667,
+        "lon":-55.11667,
+        "pop":2203
+    },
+    {
+        "id":3441377,
+        "name":"Palmitas",
+        "country":"UY",
+        "admin1":"Soriano",
+        "admin2":"Palmitas",
+        "lat":-33.50719,
+        "lon":-57.80079,
+        "pop":2123
+    },
+    {
+        "id":3442231,
+        "name":"José Enrique Rodó",
+        "country":"UY",
+        "admin1":"Soriano",
+        "admin2":"Jose Enrique Rodo",
+        "lat":-33.69618,
+        "lon":-57.53153,
+        "pop":2120
+    },
+    {
+        "id":3441674,
+        "name":"Migues",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Migues",
+        "lat":-34.48759,
+        "lon":-55.62793,
+        "pop":2109
+    },
+    {
+        "id":3443644,
+        "name":"Belén",
+        "country":"UY",
+        "admin1":"Salto Department",
+        "admin2":"Pueblo Belen",
+        "lat":-30.78716,
+        "lon":-57.77577,
+        "pop":2033
+    },
+    {
+        "id":3480825,
+        "name":"Pajas Blancas",
+        "country":"UY",
+        "admin1":"Montevideo Department",
+        "admin2":"Municipio A",
+        "lat":-34.80167,
+        "lon":-56.33417,
+        "pop":2000
+    },
+    {
+        "id":3440698,
+        "name":"San Bautista",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"San Bautista",
+        "lat":-34.44016,
+        "lon":-55.95861,
+        "pop":1905
+    },
+    {
+        "id":3439659,
+        "name":"25 de Mayo",
+        "country":"UY",
+        "admin1":"Florida",
+        "admin2":"",
+        "lat":-34.18917,
+        "lon":-56.33944,
+        "pop":1852
+    },
+    {
+        "id":3439661,
+        "name":"25 de Agosto",
+        "country":"UY",
+        "admin1":"Florida",
+        "admin2":"",
+        "lat":-34.41167,
+        "lon":-56.40222,
+        "pop":1849
+    },
+    {
+        "id":3440653,
+        "name":"San Javier",
+        "country":"UY",
+        "admin1":"Río Negro Department",
+        "admin2":"San Javier",
+        "lat":-32.66523,
+        "lon":-58.1332,
+        "pop":1781
+    },
+    {
+        "id":3441577,
+        "name":"Montes",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Montes",
+        "lat":-34.49339,
+        "lon":-55.56219,
+        "pop":1760
+    },
+    {
+        "id":3440076,
+        "name":"Soca",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Soca",
+        "lat":-34.68432,
+        "lon":-55.702,
+        "pop":1742
+    },
+    {
+        "id":3440684,
+        "name":"San Félix",
+        "country":"UY",
+        "admin1":"Paysandú Department",
+        "admin2":"",
+        "lat":-32.34631,
+        "lon":-58.10094,
+        "pop":1718
+    },
+    {
+        "id":3441803,
+        "name":"Mariscala",
+        "country":"UY",
+        "admin1":"Lavalleja",
+        "admin2":"",
+        "lat":-34.04085,
+        "lon":-54.77732,
+        "pop":1626
+    },
+    {
+        "id":3443256,
+        "name":"Cebollatí",
+        "country":"UY",
+        "admin1":"Rocha Department",
+        "admin2":"",
+        "lat":-33.26703,
+        "lon":-53.79425,
+        "pop":1609
+    },
+    {
+        "id":3442106,
+        "name":"La Paloma",
+        "country":"UY",
+        "admin1":"Durazno Department",
+        "admin2":"",
+        "lat":-32.72689,
+        "lon":-55.5827,
+        "pop":1567
+    },
+    {
+        "id":3439925,
+        "name":"Tambores",
+        "country":"UY",
+        "admin1":"Tacuarembó Department",
+        "admin2":"",
+        "lat":-31.87743,
+        "lon":-56.24438,
+        "pop":1561
+    },
+    {
+        "id":3443952,
+        "name":"Aceguá",
+        "country":"UY",
+        "admin1":"Cerro Largo",
+        "admin2":"Acegua",
+        "lat":-31.87178,
+        "lon":-54.16351,
+        "pop":1511
+    },
+    {
+        "id":3480812,
+        "name":"Puntas de Valdéz",
+        "country":"UY",
+        "admin1":"San José Department",
+        "admin2":"",
+        "lat":-34.5855,
+        "lon":-56.70097,
+        "pop":1491
+    },
+    {
+        "id":3440541,
+        "name":"Santiago Vázquez",
+        "country":"UY",
+        "admin1":"Montevideo Department",
+        "admin2":"Municipio A",
+        "lat":-34.79028,
+        "lon":-56.35,
+        "pop":1468
+    },
+    {
+        "id":3440705,
+        "name":"San Antonio",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"San Antonio",
+        "lat":-34.4513,
+        "lon":-56.08036,
+        "pop":1453
+    },
+    {
+        "id":3442528,
+        "name":"General Enrique Martínez",
+        "country":"UY",
+        "admin1":"Rocha Department",
+        "admin2":"",
+        "lat":-33.20388,
+        "lon":-53.80524,
+        "pop":1430
+    },
+    {
+        "id":3443183,
+        "name":"Alejandro Gallinal",
+        "country":"UY",
+        "admin1":"Florida",
+        "admin2":"",
+        "lat":-33.86252,
+        "lon":-55.54264,
+        "pop":1357
+    },
+    {
+        "id":10636508,
+        "name":"Puimayen",
+        "country":"UY",
+        "admin1":"Lavalleja",
+        "admin2":"",
+        "lat":-33.77411,
+        "lon":-53.40925,
+        "pop":1346
+    },
+    {
+        "id":3442238,
+        "name":"Juanicó",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Canelones",
+        "lat":-34.59454,
+        "lon":-56.25334,
+        "pop":1305
+    },
+    {
+        "id":3443356,
+        "name":"Cardal",
+        "country":"UY",
+        "admin1":"Florida",
+        "admin2":"",
+        "lat":-34.29056,
+        "lon":-56.38889,
+        "pop":1291
+    },
+    {
+        "id":3440879,
+        "name":"Rafael Perazza",
+        "country":"UY",
+        "admin1":"San José Department",
+        "admin2":"",
+        "lat":-34.52335,
+        "lon":-56.7971,
+        "pop":1274
+    },
+    {
+        "id":3439590,
+        "name":"Villa Sara",
+        "country":"UY",
+        "admin1":"Treinta y Tres Department",
+        "admin2":"",
+        "lat":-33.2534,
+        "lon":-54.41947,
+        "pop":1199
+    },
+    {
+        "id":3440984,
+        "name":"Porvenir",
+        "country":"UY",
+        "admin1":"Paysandú Department",
+        "admin2":"Porvenir",
+        "lat":-32.39273,
+        "lon":-57.96961,
+        "pop":1159
+    },
+    {
+        "id":3440092,
+        "name":"Pueblo Sequeira",
+        "country":"UY",
+        "admin1":"Artigas",
+        "admin2":"",
+        "lat":-30.9892,
+        "lon":-56.87044,
+        "pop":1149
+    },
+    {
+        "id":3440959,
+        "name":"Pueblo Centenario",
+        "country":"UY",
+        "admin1":"Durazno Department",
+        "admin2":"",
+        "lat":-32.86667,
+        "lon":-56.46667,
+        "pop":1136
+    },
+    {
+        "id":3440055,
+        "name":"Villa Soriano",
+        "country":"UY",
+        "admin1":"Soriano",
+        "admin2":"",
+        "lat":-33.39811,
+        "lon":-58.32177,
+        "pop":1124
+    },
+    {
+        "id":3439725,
+        "name":"Tupambaé",
+        "country":"UY",
+        "admin1":"Cerro Largo",
+        "admin2":"Tupambae",
+        "lat":-32.83333,
+        "lon":-54.76667,
+        "pop":1122
+    },
+    {
+        "id":3442138,
+        "name":"La Floresta",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"La Floresta",
+        "lat":-34.75572,
+        "lon":-55.68141,
+        "pop":1107
+    },
+    {
+        "id":3441114,
+        "name":"Piedras Coloradas",
+        "country":"UY",
+        "admin1":"Paysandú Department",
+        "admin2":"Piedras Coloradas",
+        "lat":-32.37183,
+        "lon":-57.60901,
+        "pop":1094
+    },
+    {
+        "id":3440581,
+        "name":"Santa Bernardina",
+        "country":"UY",
+        "admin1":"Durazno Department",
+        "admin2":"",
+        "lat":-33.3536,
+        "lon":-56.52498,
+        "pop":1094
+    },
+    {
+        "id":7645440,
+        "name":"Costa Azul",
+        "country":"UY",
+        "admin1":"Rocha Department",
+        "admin2":"La Paloma",
+        "lat":-34.62925,
+        "lon":-54.15307,
+        "pop":1090
+    },
+    {
+        "id":3443588,
+        "name":"Blanquillo",
+        "country":"UY",
+        "admin1":"Durazno Department",
+        "admin2":"",
+        "lat":-32.76667,
+        "lon":-55.63333,
+        "pop":1084
+    },
+    {
+        "id":3440580,
+        "name":"Santa Catalina",
+        "country":"UY",
+        "admin1":"Soriano",
+        "admin2":"",
+        "lat":-33.791,
+        "lon":-57.48824,
+        "pop":1067
+    },
+    {
+        "id":3440985,
+        "name":"Estación Porvenir",
+        "country":"UY",
+        "admin1":"Paysandú Department",
+        "admin2":"Porvenir",
+        "lat":-32.37085,
+        "lon":-57.85371,
+        "pop":1055
+    },
+    {
+        "id":3443928,
+        "name":"Aguas Corrientes",
+        "country":"UY",
+        "admin1":"Canelones",
+        "admin2":"Aguas Corrientes",
+        "lat":-34.52194,
+        "lon":-56.39361,
+        "pop":1047
+    },
+    {
+        "id":3442803,
+        "name":"Curtina",
+        "country":"UY",
+        "admin1":"Tacuarembó Department",
+        "admin2":"",
+        "lat":-32.15,
+        "lon":-56.11667,
+        "pop":1037
+    },
+    {
+        "id":8358381,
+        "name":"Cuareim",
+        "country":"UY",
+        "admin1":"Artigas",
+        "admin2":"Bella Union",
+        "lat":-30.22519,
+        "lon":-57.56802,
+        "pop":1025
+    },
+    {
+        "id":3439652,
+        "name":"Velázquez",
+        "country":"UY",
+        "admin1":"Rocha Department",
+        "admin2":"",
+        "lat":-34.03631,
+        "lon":-54.28054,
+        "pop":1022
+    },
+    {
+        "id":3441679,
+        "name":"Miguelete",
+        "country":"UY",
+        "admin1":"Colonia",
+        "admin2":"",
+        "lat":-34.00646,
+        "lon":-57.64792,
+        "pop":999
+    },
+    {
+        "id":3442766,
+        "name":"Dieciocho de Julio",
+        "country":"UY",
+        "admin1":"Rocha Department",
+        "admin2":"",
+        "lat":-33.68216,
+        "lon":-53.55325,
+        "pop":977
+    },
+    {
+        "id":3443342,
+        "name":"Carlos Reyles",
+        "country":"UY",
+        "admin1":"Durazno Department",
+        "admin2":"",
+        "lat":-33.05658,
+        "lon":-56.47652,
+        "pop":976
+    },
+    {
+        "id":3442993,
+        "name":"Colonia Lavalleja",
+        "country":"UY",
+        "admin1":"Salto Department",
+        "admin2":"Lavalleja",
+        "lat":-31.09386,
+        "lon":-57.02332,
+        "pop":956
+    },
+    {
+        "id":3443676,
+        "name":"Barra del Chuy",
+        "country":"UY",
+        "admin1":"Rocha Department",
+        "admin2":"",
+        "lat":-33.74911,
+        "lon":-53.37935,
+        "pop":905
+    },
+    {
+        "id":3443880,
+        "name":"Algorta",
+        "country":"UY",
+        "admin1":"Río Negro Department",
+        "admin2":"",
+        "lat":-32.42124,
+        "lon":-57.38929,
+        "pop":779
+    },
+    {
+        "id":3443377,
+        "name":"Capurro",
+        "country":"UY",
+        "admin1":"San José Department",
+        "admin2":"",
+        "lat":-34.43662,
+        "lon":-56.46447,
+        "pop":771
+    },
+    {
+        "id":3442249,
+        "name":"Ituzaingó",
+        "country":"UY",
+        "admin1":"San José Department",
+        "admin2":"",
+        "lat":-34.42028,
+        "lon":-56.42488,
+        "pop":771
+    },
+    {
+        "id":3443112,
+        "name":"Chapicuy",
+        "country":"UY",
+        "admin1":"Paysandú Department",
+        "admin2":"Chapicuy",
+        "lat":-31.66048,
+        "lon":-57.88809,
+        "pop":735
+    },
+    {
+        "id":10866292,
+        "name":"Gallinal",
+        "country":"UY",
+        "admin1":"Paysandú Department",
+        "admin2":"",
+        "lat":-31.8847,
+        "lon":-57.48016,
+        "pop":700
+    },
+    {
+        "id":3443939,
+        "name":"Agraciada",
+        "country":"UY",
+        "admin1":"Soriano",
+        "admin2":"",
+        "lat":-33.80981,
+        "lon":-58.26669,
+        "pop":586
+    },
+    {
+        "id":3439497,
+        "name":"Zapicán",
+        "country":"UY",
+        "admin1":"Lavalleja",
+        "admin2":"",
+        "lat":-33.52284,
+        "lon":-54.94221,
+        "pop":553
+    },
+    {
+        "id":3443896,
+        "name":"Albisu",
+        "country":"UY",
+        "admin1":"Salto Department",
+        "admin2":"San Antonio",
+        "lat":-31.38411,
+        "lon":-57.81469,
+        "pop":544
+    },
+    {
+        "id":8057961,
+        "name":"Ingeniero Agrónomo Alfredo Mones Quintela",
+        "country":"UY",
+        "admin1":"Artigas",
+        "admin2":"Bella Union",
+        "lat":-30.37375,
+        "lon":-57.66376,
+        "pop":531
+    },
+    {
+        "id":3441681,
+        "name":"Merinos",
+        "country":"UY",
+        "admin1":"Paysandú Department",
+        "admin2":"Guichon",
+        "lat":-32.38486,
+        "lon":-56.90429,
+        "pop":528
+    },
+    {
+        "id":10174965,
+        "name":"Paso Bonilla",
+        "country":"UY",
+        "admin1":"Tacuarembó Department",
+        "admin2":"",
+        "lat":-31.80763,
+        "lon":-55.97929,
+        "pop":510
+    },
+    {
+        "id":3442151,
+        "name":"La Coronilla",
+        "country":"UY",
+        "admin1":"Rocha Department",
+        "admin2":"",
+        "lat":-33.55791,
+        "lon":-53.85803,
+        "pop":510
+    }
+]

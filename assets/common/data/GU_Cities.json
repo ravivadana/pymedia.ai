@@ -1,0 +1,242 @@
+[
+    {
+        "id":4043909,
+        "name":"Dededo Village",
+        "country":"GU",
+        "admin1":"Dededo",
+        "admin2":"",
+        "lat":13.51777,
+        "lon":144.8391,
+        "pop":44943
+    },
+    {
+        "id":4038794,
+        "name":"Yigo Village",
+        "country":"GU",
+        "admin1":"Yigo",
+        "admin2":"",
+        "lat":13.53605,
+        "lon":144.88855,
+        "pop":20539
+    },
+    {
+        "id":4038659,
+        "name":"Tamuning-Tumon-Harmon Village",
+        "country":"GU",
+        "admin1":"Tamuning",
+        "admin2":"",
+        "lat":13.48773,
+        "lon":144.78138,
+        "pop":19685
+    },
+    {
+        "id":7268049,
+        "name":"Mangilao Village",
+        "country":"GU",
+        "admin1":"Mangilao",
+        "admin2":"",
+        "lat":13.44761,
+        "lon":144.80109,
+        "pop":15191
+    },
+    {
+        "id":4043656,
+        "name":"Barrigada Village",
+        "country":"GU",
+        "admin1":"Barrigada",
+        "admin2":"",
+        "lat":13.46913,
+        "lon":144.79901,
+        "pop":8875
+    },
+    {
+        "id":4038554,
+        "name":"Santa Rita Village",
+        "country":"GU",
+        "admin1":"Santa Rita",
+        "admin2":"",
+        "lat":13.38608,
+        "lon":144.67226,
+        "pop":7500
+    },
+    {
+        "id":7873866,
+        "name":"Mongmong-Toto-Maite Village",
+        "country":"GU",
+        "admin1":"Mongmong-Toto-Maite",
+        "admin2":"",
+        "lat":13.46857,
+        "lon":144.78214,
+        "pop":6825
+    },
+    {
+        "id":4043615,
+        "name":"Chalan Pago-Ordot Village",
+        "country":"GU",
+        "admin1":"Chalan Pago-Ordot",
+        "admin2":"",
+        "lat":13.44741,
+        "lon":144.75902,
+        "pop":6822
+    },
+    {
+        "id":4038809,
+        "name":"Yona Village",
+        "country":"GU",
+        "admin1":"Yona",
+        "admin2":"",
+        "lat":13.40974,
+        "lon":144.77697,
+        "pop":6484
+    },
+    {
+        "id":4043525,
+        "name":"Agana Heights Village",
+        "country":"GU",
+        "admin1":"Agana Heights",
+        "admin2":"",
+        "lat":13.46559,
+        "lon":144.74795,
+        "pop":3940
+    },
+    {
+        "id":13237018,
+        "name":"Adacao",
+        "country":"GU",
+        "admin1":"Mangilao",
+        "admin2":"",
+        "lat":13.49242,
+        "lon":144.8447,
+        "pop":3638
+    },
+    {
+        "id":4043804,
+        "name":"Agat Village",
+        "country":"GU",
+        "admin1":"Agat",
+        "admin2":"",
+        "lat":13.383,
+        "lon":144.66003,
+        "pop":3292
+    },
+    {
+        "id":4038647,
+        "name":"Talofofo Village",
+        "country":"GU",
+        "admin1":"Talofofo",
+        "admin2":"",
+        "lat":13.35513,
+        "lon":144.75835,
+        "pop":3215
+    },
+    {
+        "id":4043499,
+        "name":"Inarajan Village",
+        "country":"GU",
+        "admin1":"Inarajan",
+        "admin2":"",
+        "lat":13.27363,
+        "lon":144.74845,
+        "pop":3052
+    },
+    {
+        "id":13237020,
+        "name":"Apra Harbor",
+        "country":"GU",
+        "admin1":"Santa Rita",
+        "admin2":"",
+        "lat":13.42827,
+        "lon":144.65252,
+        "pop":2930
+    },
+    {
+        "id":4038588,
+        "name":"Sinajana Village",
+        "country":"GU",
+        "admin1":"Sinajana",
+        "admin2":"",
+        "lat":13.46334,
+        "lon":144.75406,
+        "pop":2853
+    },
+    {
+        "id":13237021,
+        "name":"Chaguian",
+        "country":"GU",
+        "admin1":"Yigo",
+        "admin2":"",
+        "lat":13.57175,
+        "lon":144.88058,
+        "pop":2524
+    },
+    {
+        "id":13237019,
+        "name":"Anao",
+        "country":"GU",
+        "admin1":"Yigo",
+        "admin2":"",
+        "lat":13.5289,
+        "lon":144.9182,
+        "pop":2385
+    },
+    {
+        "id":4043399,
+        "name":"Merizo Village",
+        "country":"GU",
+        "admin1":"Merizo",
+        "admin2":"",
+        "lat":13.26584,
+        "lon":144.66908,
+        "pop":2152
+    },
+    {
+        "id":4043812,
+        "name":"Asan-Maina Village",
+        "country":"GU",
+        "admin1":"Asan",
+        "admin2":"",
+        "lat":13.47215,
+        "lon":144.71654,
+        "pop":2137
+    },
+    {
+        "id":4038473,
+        "name":"Piti Village",
+        "country":"GU",
+        "admin1":"Piti",
+        "admin2":"",
+        "lat":13.46256,
+        "lon":144.69331,
+        "pop":1666
+    },
+    {
+        "id":7874008,
+        "name":"Hagåtña Village",
+        "country":"GU",
+        "admin1":"Hagatna",
+        "admin2":"",
+        "lat":13.47279,
+        "lon":144.75802,
+        "pop":1051
+    },
+    {
+        "id":4044012,
+        "name":"Hagåtña",
+        "country":"GU",
+        "admin1":"Hagatna",
+        "admin2":"",
+        "lat":13.47567,
+        "lon":144.74886,
+        "pop":1051
+    },
+    {
+        "id":4038733,
+        "name":"Umatac Village",
+        "country":"GU",
+        "admin1":"Umatac",
+        "admin2":"",
+        "lat":13.29843,
+        "lon":144.66314,
+        "pop":903
+    }
+]

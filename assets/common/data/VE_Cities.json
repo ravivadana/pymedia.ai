@@ -1,0 +1,2362 @@
+[
+    {
+        "id":3646738,
+        "name":"Caracas",
+        "country":"VE",
+        "admin1":"Distrito Federal",
+        "admin2":"Municipio Libertador",
+        "lat":10.48801,
+        "lon":-66.87919,
+        "pop":3000000
+    },
+    {
+        "id":3633009,
+        "name":"Maracaibo",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Maracaibo",
+        "lat":10.64232,
+        "lon":-71.61089,
+        "pop":1752602
+    },
+    {
+        "id":3625549,
+        "name":"Valencia",
+        "country":"VE",
+        "admin1":"Carabobo",
+        "admin2":"Municipio Valencia",
+        "lat":10.16153,
+        "lon":-68.00044,
+        "pop":1619470
+    },
+    {
+        "id":3648522,
+        "name":"Barquisimeto",
+        "country":"VE",
+        "admin1":"Lara",
+        "admin2":"Municipio Iribarren",
+        "lat":10.0647,
+        "lon":-69.35703,
+        "pop":1240714
+    },
+    {
+        "id":3645528,
+        "name":"Ciudad Guayana",
+        "country":"VE",
+        "admin1":"Bolívar",
+        "admin2":"Municipio Caroní",
+        "lat":8.35122,
+        "lon":-62.64102,
+        "pop":978202
+    },
+    {
+        "id":3648559,
+        "name":"Barcelona",
+        "country":"VE",
+        "admin1":"Anzoátegui",
+        "admin2":"Municipio Simón Bolívar",
+        "lat":10.1384,
+        "lon":-64.68769,
+        "pop":815141
+    },
+    {
+        "id":3778045,
+        "name":"Maturín",
+        "country":"VE",
+        "admin1":"Monagas",
+        "admin2":"Municipio Maturín",
+        "lat":9.74569,
+        "lon":-63.18323,
+        "pop":647459
+    },
+    {
+        "id":3632998,
+        "name":"Maracay",
+        "country":"VE",
+        "admin1":"Aragua",
+        "admin2":"Municipio Girardot",
+        "lat":10.24972,
+        "lon":-67.59475,
+        "pop":464700
+    },
+    {
+        "id":3645532,
+        "name":"Ciudad Bolívar",
+        "country":"VE",
+        "admin1":"Bolívar",
+        "admin2":"Municipio Heres",
+        "lat":8.12366,
+        "lon":-63.54694,
+        "pop":412619
+    },
+    {
+        "id":3644768,
+        "name":"Cumaná",
+        "country":"VE",
+        "admin1":"Sucre",
+        "admin2":"Municipio Sucre",
+        "lat":10.4639,
+        "lon":-64.17859,
+        "pop":405626
+    },
+    {
+        "id":3648546,
+        "name":"Barinas",
+        "country":"VE",
+        "admin1":"Barinas",
+        "admin2":"Municipio Barinas",
+        "lat":8.62064,
+        "lon":-70.23105,
+        "pop":397279
+    },
+    {
+        "id":3629672,
+        "name":"Puerto La Cruz",
+        "country":"VE",
+        "admin1":"Anzoátegui",
+        "admin2":"Municipio Juan Antonio Sotillo",
+        "lat":10.21382,
+        "lon":-64.6328,
+        "pop":370000
+    },
+    {
+        "id":3630297,
+        "name":"Petare",
+        "country":"VE",
+        "admin1":"Miranda",
+        "admin2":"Municipio Sucre",
+        "lat":10.47679,
+        "lon":-66.80786,
+        "pop":364684
+    },
+    {
+        "id":3647651,
+        "name":"Cabimas",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Cabimas",
+        "lat":10.39907,
+        "lon":-71.45206,
+        "pop":351736
+    },
+    {
+        "id":3625829,
+        "name":"Turmero",
+        "country":"VE",
+        "admin1":"Aragua",
+        "admin2":"Municipio Santiago Mariño",
+        "lat":10.22856,
+        "lon":-67.47421,
+        "pop":344700
+    },
+    {
+        "id":3632308,
+        "name":"Mérida",
+        "country":"VE",
+        "admin1":"Mérida",
+        "admin2":"Municipio Libertador",
+        "lat":8.57899,
+        "lon":-71.16922,
+        "pop":300000
+    },
+    {
+        "id":3628473,
+        "name":"San Cristóbal",
+        "country":"VE",
+        "admin1":"Táchira",
+        "admin2":"Municipio San Cristóbal",
+        "lat":7.76593,
+        "lon":-72.23576,
+        "pop":289852
+    },
+    {
+        "id":3487903,
+        "name":"Alto Barinas",
+        "country":"VE",
+        "admin1":"Barinas",
+        "admin2":"Municipio Barinas",
+        "lat":8.5931,
+        "lon":-70.2261,
+        "pop":284289
+    },
+    {
+        "id":3627047,
+        "name":"Santa Teresa del Tuy",
+        "country":"VE",
+        "admin1":"Miranda",
+        "admin2":"Municipio Independencia",
+        "lat":10.23291,
+        "lon":-66.66474,
+        "pop":278890
+    },
+    {
+        "id":3633622,
+        "name":"Los Teques",
+        "country":"VE",
+        "admin1":"Miranda",
+        "admin2":"Municipio Guaicaipuro",
+        "lat":10.34954,
+        "lon":-67.04266,
+        "pop":252242
+    },
+    {
+        "id":3640049,
+        "name":"Guarenas",
+        "country":"VE",
+        "admin1":"Miranda",
+        "admin2":"Municipio Plaza",
+        "lat":10.47027,
+        "lon":-66.61934,
+        "pop":248588
+    },
+    {
+        "id":3645213,
+        "name":"Coro",
+        "country":"VE",
+        "admin1":"Falcón",
+        "admin2":"Municipio Miranda",
+        "lat":11.40769,
+        "lon":-69.67822,
+        "pop":246657
+    },
+    {
+        "id":3625542,
+        "name":"Valera",
+        "country":"VE",
+        "admin1":"Trujillo",
+        "admin2":"Municipio Valera",
+        "lat":9.31778,
+        "lon":-70.60361,
+        "pop":244708
+    },
+    {
+        "id":3648439,
+        "name":"Baruta",
+        "country":"VE",
+        "admin1":"Miranda",
+        "admin2":"Municipio Baruta",
+        "lat":10.43424,
+        "lon":-66.87558,
+        "pop":244216
+    },
+    {
+        "id":3645527,
+        "name":"Ciudad Ojeda",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Lagunillas",
+        "lat":10.20161,
+        "lon":-71.3148,
+        "pop":240283
+    },
+    {
+        "id":3805673,
+        "name":"San Fernando de Apure",
+        "country":"VE",
+        "admin1":"Apure",
+        "admin2":"Municipio San Fernando",
+        "lat":7.88963,
+        "lon":-67.47181,
+        "pop":229197
+    },
+    {
+        "id":3639898,
+        "name":"Guatire",
+        "country":"VE",
+        "admin1":"Miranda",
+        "admin2":"Municipio Zamora",
+        "lat":10.474,
+        "lon":-66.54241,
+        "pop":227666
+    },
+    {
+        "id":3641351,
+        "name":"El Tigre",
+        "country":"VE",
+        "admin1":"Anzoátegui",
+        "admin2":"Municipio Simón Rodríguez",
+        "lat":8.88902,
+        "lon":-64.2527,
+        "pop":222450
+    },
+    {
+        "id":3629965,
+        "name":"Porlamar",
+        "country":"VE",
+        "admin1":"Nueva Esparta",
+        "admin2":"Municipio Mariño",
+        "lat":10.95771,
+        "lon":-63.86971,
+        "pop":216234
+    },
+    {
+        "id":3628423,
+        "name":"San Felipe",
+        "country":"VE",
+        "admin1":"Yaracuy",
+        "admin2":"Municipio San Felipe",
+        "lat":10.3401,
+        "lon":-68.74297,
+        "pop":206270
+    },
+    {
+        "id":3640465,
+        "name":"Guacara",
+        "country":"VE",
+        "admin1":"Carabobo",
+        "admin2":"Municipio Guacara",
+        "lat":10.22609,
+        "lon":-67.877,
+        "pop":198883
+    },
+    {
+        "id":3649833,
+        "name":"Acarigua",
+        "country":"VE",
+        "admin1":"Portuguesa",
+        "admin2":"Municipio Páez",
+        "lat":9.55451,
+        "lon":-69.19564,
+        "pop":188278
+    },
+    {
+        "id":3644918,
+        "name":"Cúa",
+        "country":"VE",
+        "admin1":"Miranda",
+        "admin2":"Municipio Urdaneta",
+        "lat":10.16245,
+        "lon":-66.88248,
+        "pop":182558
+    },
+    {
+        "id":3649017,
+        "name":"Araure",
+        "country":"VE",
+        "admin1":"Portuguesa",
+        "admin2":"Municipio Araure",
+        "lat":9.58144,
+        "lon":-69.23851,
+        "pop":181820
+    },
+    {
+        "id":3629706,
+        "name":"Puerto Cabello",
+        "country":"VE",
+        "admin1":"Carabobo",
+        "admin2":"Municipio Puerto Cabello",
+        "lat":10.47306,
+        "lon":-68.0125,
+        "pop":174000
+    },
+    {
+        "id":3647444,
+        "name":"Calabozo",
+        "country":"VE",
+        "admin1":"Guárico",
+        "admin2":"Municipio Francisco de Miranda",
+        "lat":8.92416,
+        "lon":-67.42929,
+        "pop":168605
+    },
+    {
+        "id":3646382,
+        "name":"Carúpano",
+        "country":"VE",
+        "admin1":"Sucre",
+        "admin2":"Municipio Bermúdez",
+        "lat":10.66516,
+        "lon":-63.25387,
+        "pop":167187
+    },
+    {
+        "id":3631412,
+        "name":"Ocumare del Tuy",
+        "country":"VE",
+        "admin1":"Miranda",
+        "admin2":"Municipio Lander",
+        "lat":10.1182,
+        "lon":-66.77513,
+        "pop":166072
+    },
+    {
+        "id":3641099,
+        "name":"El Vigía",
+        "country":"VE",
+        "admin1":"Mérida",
+        "admin2":"Municipio Alberto Adriani",
+        "lat":8.6135,
+        "lon":-71.65702,
+        "pop":162289
+    },
+    {
+        "id":3628053,
+        "name":"San Juan de los Morros",
+        "country":"VE",
+        "admin1":"Guárico",
+        "admin2":"Municipio Juan Germán Roscio",
+        "lat":9.91246,
+        "lon":-67.35398,
+        "pop":160868
+    },
+    {
+        "id":3625515,
+        "name":"Valle de La Pascua",
+        "country":"VE",
+        "admin1":"Guárico",
+        "admin2":"Municipio Leonardo Infante",
+        "lat":9.21554,
+        "lon":-66.00734,
+        "pop":153136
+    },
+    {
+        "id":3642833,
+        "name":"El Limón",
+        "country":"VE",
+        "admin1":"Aragua",
+        "admin2":"Municipio Mario Briceño Iragorry",
+        "lat":10.30589,
+        "lon":-67.63212,
+        "pop":148247
+    },
+    {
+        "id":3629576,
+        "name":"Punto Fijo",
+        "country":"VE",
+        "admin1":"Falcón",
+        "admin2":"Municipio Carirubana",
+        "lat":11.69152,
+        "lon":-70.19918,
+        "pop":141729
+    },
+    {
+        "id":3486270,
+        "name":"Anaco",
+        "country":"VE",
+        "admin1":"Anzoátegui",
+        "admin2":"Municipio Anaco",
+        "lat":9.42958,
+        "lon":-64.46428,
+        "pop":139397
+    },
+    {
+        "id":3626402,
+        "name":"Táriba",
+        "country":"VE",
+        "admin1":"Táchira",
+        "admin2":"Municipio Cárdenas",
+        "lat":7.82117,
+        "lon":-72.22329,
+        "pop":138402
+    },
+    {
+        "id":3633444,
+        "name":"Machiques",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Machiques de Perijá",
+        "lat":10.06077,
+        "lon":-72.55212,
+        "pop":132734
+    },
+    {
+        "id":3645854,
+        "name":"Charallave",
+        "country":"VE",
+        "admin1":"Miranda",
+        "admin2":"Municipio Cristóbal Rojas",
+        "lat":10.24247,
+        "lon":-66.85723,
+        "pop":129182
+    },
+    {
+        "id":3630932,
+        "name":"Palo Negro",
+        "country":"VE",
+        "admin1":"Aragua",
+        "admin2":"Municipio Libertador",
+        "lat":10.17389,
+        "lon":-67.54194,
+        "pop":128875
+    },
+    {
+        "id":3634922,
+        "name":"La Victoria",
+        "country":"VE",
+        "admin1":"Aragua",
+        "admin2":"Municipio José Félix Ribas",
+        "lat":10.22677,
+        "lon":-67.33122,
+        "pop":126721
+    },
+    {
+        "id":3628489,
+        "name":"San Carlos del Zulia",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Colón",
+        "lat":9.00098,
+        "lon":-71.92683,
+        "pop":126353
+    },
+    {
+        "id":3629710,
+        "name":"Puerto Ayacucho",
+        "country":"VE",
+        "admin1":"Amazonas",
+        "admin2":"Municipio Autónomo Atures",
+        "lat":5.66049,
+        "lon":-67.58343,
+        "pop":125840
+    },
+    {
+        "id":3646487,
+        "name":"Carora",
+        "country":"VE",
+        "admin1":"Lara",
+        "admin2":"Municipio Torres",
+        "lat":10.17283,
+        "lon":-70.081,
+        "pop":121741
+    },
+    {
+        "id":3644417,
+        "name":"Ejido",
+        "country":"VE",
+        "admin1":"Mérida",
+        "admin2":"Municipio Campo Elías",
+        "lat":8.54665,
+        "lon":-71.24087,
+        "pop":120978
+    },
+    {
+        "id":3638371,
+        "name":"La Concepción",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Jesús Enrique Lossada",
+        "lat":10.61919,
+        "lon":-71.83814,
+        "pop":120478
+    },
+    {
+        "id":3628503,
+        "name":"San Carlos",
+        "country":"VE",
+        "admin1":"Cojedes",
+        "admin2":"Municipio San Carlos",
+        "lat":9.66415,
+        "lon":-68.58659,
+        "pop":120375
+    },
+    {
+        "id":3647549,
+        "name":"Cagua",
+        "country":"VE",
+        "admin1":"Aragua",
+        "admin2":"Municipio Sucre",
+        "lat":10.18634,
+        "lon":-67.45935,
+        "pop":119033
+    },
+    {
+        "id":3632929,
+        "name":"Mariara",
+        "country":"VE",
+        "admin1":"Carabobo",
+        "admin2":"Municipio Diego Ibarra",
+        "lat":10.29532,
+        "lon":-67.7177,
+        "pop":116142
+    },
+    {
+        "id":3626219,
+        "name":"Tinaquillo",
+        "country":"VE",
+        "admin1":"Cojedes",
+        "admin2":"Municipio Tinaquillo",
+        "lat":9.91861,
+        "lon":-68.30472,
+        "pop":115937
+    },
+    {
+        "id":3629614,
+        "name":"Punta Cardón",
+        "country":"VE",
+        "admin1":"Falcón",
+        "admin2":"Municipio Carirubana",
+        "lat":11.65806,
+        "lon":-70.215,
+        "pop":113999
+    },
+    {
+        "id":3625207,
+        "name":"Yaritagua",
+        "country":"VE",
+        "admin1":"Yaracuy",
+        "admin2":"Municipio Peña",
+        "lat":10.08081,
+        "lon":-69.1242,
+        "pop":113343
+    },
+    {
+        "id":3625710,
+        "name":"Upata",
+        "country":"VE",
+        "admin1":"Bolívar",
+        "admin2":"Municipio Piar",
+        "lat":8.0162,
+        "lon":-62.40561,
+        "pop":112617
+    },
+    {
+        "id":3640226,
+        "name":"Guanare",
+        "country":"VE",
+        "admin1":"Portuguesa",
+        "admin2":"Municipio Guanare",
+        "lat":9.03934,
+        "lon":-69.73364,
+        "pop":112286
+    },
+    {
+        "id":3646190,
+        "name":"Catia La Mar",
+        "country":"VE",
+        "admin1":"Vargas",
+        "admin2":"Municipio Vargas",
+        "lat":10.60545,
+        "lon":-67.03238,
+        "pop":106822
+    },
+    {
+        "id":3647637,
+        "name":"Cabudare",
+        "country":"VE",
+        "admin1":"Lara",
+        "admin2":"Municipio Palavecino",
+        "lat":10.02658,
+        "lon":-69.26203,
+        "pop":102686
+    },
+    {
+        "id":3649417,
+        "name":"Los Puertos de Altagracia",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Miranda",
+        "lat":10.71492,
+        "lon":-71.52168,
+        "pop":101527
+    },
+    {
+        "id":3633677,
+        "name":"Los Rastrojos",
+        "country":"VE",
+        "admin1":"Lara",
+        "admin2":"Municipio Palavecino",
+        "lat":10.02588,
+        "lon":-69.24166,
+        "pop":100497
+    },
+    {
+        "id":3625929,
+        "name":"Tucupita",
+        "country":"VE",
+        "admin1":"Delta Amacuro",
+        "admin2":"Municipio Tucupita",
+        "lat":9.06263,
+        "lon":-62.05208,
+        "pop":99778
+    },
+    {
+        "id":3625341,
+        "name":"Villa de Cura",
+        "country":"VE",
+        "admin1":"Aragua",
+        "admin2":"Municipio Zamora",
+        "lat":10.03863,
+        "lon":-67.48938,
+        "pop":99669
+    },
+    {
+        "id":3628952,
+        "name":"Rubio",
+        "country":"VE",
+        "admin1":"Táchira",
+        "admin2":"Municipio Junín",
+        "lat":7.70156,
+        "lon":-72.35551,
+        "pop":93197
+    },
+    {
+        "id":3638374,
+        "name":"Concepción",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio La Cañada de Urdaneta",
+        "lat":10.4119,
+        "lon":-71.68919,
+        "pop":92463
+    },
+    {
+        "id":3628066,
+        "name":"San Juan Bautista",
+        "country":"VE",
+        "admin1":"Nueva Esparta",
+        "admin2":"Municipio Díaz",
+        "lat":11.01243,
+        "lon":-63.94412,
+        "pop":90387
+    },
+    {
+        "id":3628142,
+        "name":"San José de Guanipa",
+        "country":"VE",
+        "admin1":"Anzoátegui",
+        "admin2":"Municipio San José de Guanipa",
+        "lat":8.88724,
+        "lon":-64.16512,
+        "pop":83092
+    },
+    {
+        "id":3628966,
+        "name":"La Villa del Rosario",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Rosario de Perijá",
+        "lat":10.3258,
+        "lon":-72.31343,
+        "pop":82766
+    },
+    {
+        "id":3627034,
+        "name":"San Timoteo",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Baralt",
+        "lat":9.7901,
+        "lon":-71.07084,
+        "pop":81017
+    },
+    {
+        "id":3639747,
+        "name":"Güigüe",
+        "country":"VE",
+        "admin1":"Carabobo",
+        "admin2":"Municipio Carlos Arvelo",
+        "lat":10.08344,
+        "lon":-67.77799,
+        "pop":80627
+    },
+    {
+        "id":3648279,
+        "name":"Biruaca",
+        "country":"VE",
+        "admin1":"Apure",
+        "admin2":"Municipio Biruaca",
+        "lat":7.84483,
+        "lon":-67.51679,
+        "pop":76553
+    },
+    {
+        "id":3641275,
+        "name":"El Tocuyo",
+        "country":"VE",
+        "admin1":"Lara",
+        "admin2":"Municipio Morán",
+        "lat":9.78709,
+        "lon":-69.79294,
+        "pop":74829
+    },
+    {
+        "id":3625066,
+        "name":"Zaraza",
+        "country":"VE",
+        "admin1":"Guárico",
+        "admin2":"Municipio Pedro Zaraza",
+        "lat":9.35029,
+        "lon":-65.32452,
+        "pop":74017
+    },
+    {
+        "id":3626764,
+        "name":"Socopó",
+        "country":"VE",
+        "admin1":"Barinas",
+        "admin2":"Municipio Antonio José de Sucre",
+        "lat":8.23062,
+        "lon":-70.82198,
+        "pop":72352
+    },
+    {
+        "id":3625979,
+        "name":"Trujillo",
+        "country":"VE",
+        "admin1":"Trujillo",
+        "admin2":"Municipio Trujillo",
+        "lat":9.36587,
+        "lon":-70.43659,
+        "pop":71362
+    },
+    {
+        "id":3645671,
+        "name":"Chivacoa",
+        "country":"VE",
+        "admin1":"Yaracuy",
+        "admin2":"Municipio Bruzual",
+        "lat":10.15951,
+        "lon":-68.89453,
+        "pop":70298
+    },
+    {
+        "id":3628267,
+        "name":"San Joaquín",
+        "country":"VE",
+        "admin1":"Carabobo",
+        "admin2":"Municipio San Joaquín",
+        "lat":10.26061,
+        "lon":-67.79348,
+        "pop":69894
+    },
+    {
+        "id":3627420,
+        "name":"Santa Cruz de Mara",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Mara",
+        "lat":10.79269,
+        "lon":-71.68505,
+        "pop":69781
+    },
+    {
+        "id":3646062,
+        "name":"Tacarigua",
+        "country":"VE",
+        "admin1":"Carabobo",
+        "admin2":"Municipio Carlos Arvelo",
+        "lat":10.08621,
+        "lon":-67.91982,
+        "pop":69636
+    },
+    {
+        "id":3648132,
+        "name":"Boconó",
+        "country":"VE",
+        "admin1":"Trujillo",
+        "admin2":"Municipio Boconó",
+        "lat":9.25385,
+        "lon":-70.25105,
+        "pop":68990
+    },
+    {
+        "id":3646869,
+        "name":"Cantaura",
+        "country":"VE",
+        "admin1":"Anzoátegui",
+        "admin2":"Municipio Pedro María Freites",
+        "lat":9.30571,
+        "lon":-64.35841,
+        "pop":68885
+    },
+    {
+        "id":3649408,
+        "name":"Altagracia de Orituco",
+        "country":"VE",
+        "admin1":"Guárico",
+        "admin2":"Municipio José Tadeo Monagas",
+        "lat":9.86005,
+        "lon":-66.38139,
+        "pop":68207
+    },
+    {
+        "id":3631878,
+        "name":"Morón",
+        "country":"VE",
+        "admin1":"Carabobo",
+        "admin2":"Municipio Juan José Mora",
+        "lat":10.48715,
+        "lon":-68.20078,
+        "pop":68084
+    },
+    {
+        "id":3647537,
+        "name":"Caicara del Orinoco",
+        "country":"VE",
+        "admin1":"Bolívar",
+        "admin2":"Municipio Cedeño",
+        "lat":7.63501,
+        "lon":-66.16815,
+        "pop":67277
+    },
+    {
+        "id":3628549,
+        "name":"San Antonio del Táchira",
+        "country":"VE",
+        "admin1":"Táchira",
+        "admin2":"Municipio Bolívar",
+        "lat":7.8112,
+        "lon":-72.44437,
+        "pop":66392
+    },
+    {
+        "id":3630893,
+        "name":"Pampatar",
+        "country":"VE",
+        "admin1":"Nueva Esparta",
+        "admin2":"Municipio Maneiro",
+        "lat":11.00085,
+        "lon":-63.79298,
+        "pop":64983
+    },
+    {
+        "id":3645981,
+        "name":"Chacao",
+        "country":"VE",
+        "admin1":"Miranda",
+        "admin2":"Municipio Chacao",
+        "lat":10.49581,
+        "lon":-66.85367,
+        "pop":64609
+    },
+    {
+        "id":3804949,
+        "name":"Guasdualito",
+        "country":"VE",
+        "admin1":"Apure",
+        "admin2":"Municipio Páez",
+        "lat":7.24241,
+        "lon":-70.73235,
+        "pop":64608
+    },
+    {
+        "id":3628550,
+        "name":"San Antonio de Los Altos",
+        "country":"VE",
+        "admin1":"Miranda",
+        "admin2":"Municipio Los Salias",
+        "lat":10.38853,
+        "lon":-66.95179,
+        "pop":63873
+    },
+    {
+        "id":3628060,
+        "name":"Colón",
+        "country":"VE",
+        "admin1":"Táchira",
+        "admin2":"Municipio Ayacucho",
+        "lat":8.03125,
+        "lon":-72.26053,
+        "pop":62513
+    },
+    {
+        "id":3795152,
+        "name":"La Fría",
+        "country":"VE",
+        "admin1":"Táchira",
+        "admin2":"Municipio García de Hevia",
+        "lat":8.21523,
+        "lon":-72.24888,
+        "pop":61568
+    },
+    {
+        "id":3629606,
+        "name":"Punta de Mata",
+        "country":"VE",
+        "admin1":"Monagas",
+        "admin2":"Municipio Ezequiel Zamora",
+        "lat":9.69131,
+        "lon":-63.60921,
+        "pop":61080
+    },
+    {
+        "id":3632399,
+        "name":"Mene Grande",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Baralt",
+        "lat":9.84639,
+        "lon":-70.92655,
+        "pop":60580
+    },
+    {
+        "id":3630896,
+        "name":"Pampán",
+        "country":"VE",
+        "admin1":"Trujillo",
+        "admin2":"Municipio Pampán",
+        "lat":9.44519,
+        "lon":-70.47556,
+        "pop":59657
+    },
+    {
+        "id":3634184,
+        "name":"Los Dos Caminos",
+        "country":"VE",
+        "admin1":"Miranda",
+        "admin2":"Municipio Sucre",
+        "lat":10.49389,
+        "lon":-66.82863,
+        "pop":58168
+    },
+    {
+        "id":3643031,
+        "name":"El Hatillo",
+        "country":"VE",
+        "admin1":"Miranda",
+        "admin2":"Municipio El Hatillo",
+        "lat":10.42411,
+        "lon":-66.82581,
+        "pop":57591
+    },
+    {
+        "id":3625655,
+        "name":"Ureña",
+        "country":"VE",
+        "admin1":"Táchira",
+        "admin2":"Municipio Pedro María Ureña",
+        "lat":7.92162,
+        "lon":-72.44396,
+        "pop":56509
+    },
+    {
+        "id":3627713,
+        "name":"San Rafael",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Mara",
+        "lat":10.96205,
+        "lon":-71.73034,
+        "pop":55810
+    },
+    {
+        "id":3625346,
+        "name":"Villa Bruzual",
+        "country":"VE",
+        "admin1":"Portuguesa",
+        "admin2":"Municipio Turén",
+        "lat":9.33186,
+        "lon":-69.11968,
+        "pop":55244
+    },
+    {
+        "id":3758764,
+        "name":"San Josecito",
+        "country":"VE",
+        "admin1":"Táchira",
+        "admin2":"Municipio Torbes",
+        "lat":7.66106,
+        "lon":-72.22009,
+        "pop":54669
+    },
+    {
+        "id":3631507,
+        "name":"Nirgua",
+        "country":"VE",
+        "admin1":"Yaracuy",
+        "admin2":"Municipio Nirgua",
+        "lat":10.15039,
+        "lon":-68.56478,
+        "pop":54080
+    },
+    {
+        "id":3645469,
+        "name":"Cocorote",
+        "country":"VE",
+        "admin1":"Yaracuy",
+        "admin2":"Municipio Cocorote",
+        "lat":10.31954,
+        "lon":-68.78298,
+        "pop":52803
+    },
+    {
+        "id":3633341,
+        "name":"Maiquetía",
+        "country":"VE",
+        "admin1":"Vargas",
+        "admin2":"Municipio Vargas",
+        "lat":10.5945,
+        "lon":-66.95624,
+        "pop":52564
+    },
+    {
+        "id":3646169,
+        "name":"Caucagüito",
+        "country":"VE",
+        "admin1":"Miranda",
+        "admin2":"Municipio Sucre",
+        "lat":10.48666,
+        "lon":-66.73799,
+        "pop":52556
+    },
+    {
+        "id":3645531,
+        "name":"Ciudad Bolivia",
+        "country":"VE",
+        "admin1":"Barinas",
+        "admin2":"Municipio Pedraza",
+        "lat":8.35304,
+        "lon":-70.57121,
+        "pop":52476
+    },
+    {
+        "id":3645525,
+        "name":"Ciudad Piar",
+        "country":"VE",
+        "admin1":"Bolívar",
+        "admin2":"Bolivariano Angostura",
+        "lat":7.45209,
+        "lon":-63.31992,
+        "pop":51967
+    },
+    {
+        "id":3648540,
+        "name":"Barinitas",
+        "country":"VE",
+        "admin1":"Barinas",
+        "admin2":"Municipio Bolívar",
+        "lat":8.76171,
+        "lon":-70.41199,
+        "pop":51556
+    },
+    {
+        "id":3629419,
+        "name":"Quíbor",
+        "country":"VE",
+        "admin1":"Lara",
+        "admin2":"Municipio Jiménez",
+        "lat":9.92866,
+        "lon":-69.6201,
+        "pop":51377
+    },
+    {
+        "id":3627968,
+        "name":"San Mateo",
+        "country":"VE",
+        "admin1":"Aragua",
+        "admin2":"Municipio Bolívar",
+        "lat":10.21302,
+        "lon":-67.42365,
+        "pop":50401
+    },
+    {
+        "id":3626047,
+        "name":"Tovar",
+        "country":"VE",
+        "admin1":"Mérida",
+        "admin2":"Municipio Tovar",
+        "lat":8.33015,
+        "lon":-71.75277,
+        "pop":48395
+    },
+    {
+        "id":3630982,
+        "name":"Palmira",
+        "country":"VE",
+        "admin1":"Táchira",
+        "admin2":"Municipio Guásimos",
+        "lat":7.8375,
+        "lon":-72.22794,
+        "pop":48087
+    },
+    {
+        "id":3642497,
+        "name":"Lecherías",
+        "country":"VE",
+        "admin1":"Anzoátegui",
+        "admin2":"Municipio Turistico Diego Bautista Urbaneja",
+        "lat":10.19167,
+        "lon":-64.69207,
+        "pop":47778
+    },
+    {
+        "id":3627561,
+        "name":"Santa Bárbara",
+        "country":"VE",
+        "admin1":"Barinas",
+        "admin2":"Municipio Ezequiel Zamora",
+        "lat":7.81348,
+        "lon":-71.17788,
+        "pop":45808
+    },
+    {
+        "id":3649810,
+        "name":"Achaguas",
+        "country":"VE",
+        "admin1":"Apure",
+        "admin2":"Municipio Achaguas",
+        "lat":7.77917,
+        "lon":-68.22373,
+        "pop":45311
+    },
+    {
+        "id":3637623,
+        "name":"Lagunillas",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Lagunillas",
+        "lat":10.13008,
+        "lon":-71.25946,
+        "pop":44257
+    },
+    {
+        "id":3630089,
+        "name":"Píritu",
+        "country":"VE",
+        "admin1":"Portuguesa",
+        "admin2":"Municipio Esteller",
+        "lat":9.37083,
+        "lon":-69.21028,
+        "pop":43746
+    },
+    {
+        "id":3646534,
+        "name":"Caripito",
+        "country":"VE",
+        "admin1":"Monagas",
+        "admin2":"Municipio Bolívar",
+        "lat":10.11135,
+        "lon":-63.09985,
+        "pop":43448
+    },
+    {
+        "id":3635325,
+        "name":"Las Tejerías",
+        "country":"VE",
+        "admin1":"Aragua",
+        "admin2":"Municipio Santos Michelena",
+        "lat":10.25416,
+        "lon":-67.17333,
+        "pop":43445
+    },
+    {
+        "id":3625944,
+        "name":"Tucupido",
+        "country":"VE",
+        "admin1":"Guárico",
+        "admin2":"Municipio José Félix Ribas",
+        "lat":9.27304,
+        "lon":-65.77153,
+        "pop":42633
+    },
+    {
+        "id":3629790,
+        "name":"Pueblo Nuevo El Chivo",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Francisco Javier Pulgar",
+        "lat":8.96249,
+        "lon":-71.60754,
+        "pop":41740
+    },
+    {
+        "id":3646581,
+        "name":"Cariaco",
+        "country":"VE",
+        "admin1":"Sucre",
+        "admin2":"Municipio Ribero",
+        "lat":10.49682,
+        "lon":-63.55286,
+        "pop":41589
+    },
+    {
+        "id":3639526,
+        "name":"Higuerote",
+        "country":"VE",
+        "admin1":"Miranda",
+        "admin2":"Municipio Brión",
+        "lat":10.48287,
+        "lon":-66.10096,
+        "pop":41364
+    },
+    {
+        "id":3630687,
+        "name":"Pariaguán",
+        "country":"VE",
+        "admin1":"Anzoátegui",
+        "admin2":"Municipio Francisco de Miranda",
+        "lat":8.84357,
+        "lon":-64.71053,
+        "pop":40751
+    },
+    {
+        "id":3646451,
+        "name":"Carrizal",
+        "country":"VE",
+        "admin1":"Miranda",
+        "admin2":"Municipio Carrizal",
+        "lat":10.34985,
+        "lon":-66.98632,
+        "pop":40618
+    },
+    {
+        "id":3795218,
+        "name":"Capacho Nuevo",
+        "country":"VE",
+        "admin1":"Táchira",
+        "admin2":"Municipio Independencia",
+        "lat":7.82472,
+        "lon":-72.3084,
+        "pop":40169
+    },
+    {
+        "id":3639725,
+        "name":"Güiria",
+        "country":"VE",
+        "admin1":"Sucre",
+        "admin2":"Municipio Valdez",
+        "lat":10.57721,
+        "lon":-62.29841,
+        "pop":40000
+    },
+    {
+        "id":3644440,
+        "name":"Duaca",
+        "country":"VE",
+        "admin1":"Lara",
+        "admin2":"Municipio Crespo",
+        "lat":10.28554,
+        "lon":-69.16244,
+        "pop":39653
+    },
+    {
+        "id":3628853,
+        "name":"Sabaneta",
+        "country":"VE",
+        "admin1":"Barinas",
+        "admin2":"Municipio Alberto Arvelo Torrealba",
+        "lat":8.75234,
+        "lon":-69.93351,
+        "pop":39493
+    },
+    {
+        "id":3626235,
+        "name":"Tinaco",
+        "country":"VE",
+        "admin1":"Cojedes",
+        "admin2":"Municipio Tinaco",
+        "lat":9.69894,
+        "lon":-68.43273,
+        "pop":38172
+    },
+    {
+        "id":3646767,
+        "name":"Caraballeda",
+        "country":"VE",
+        "admin1":"Vargas",
+        "admin2":"Municipio Vargas",
+        "lat":10.61216,
+        "lon":-66.85192,
+        "pop":37824
+    },
+    {
+        "id":3629653,
+        "name":"Puerto Píritu",
+        "country":"VE",
+        "admin1":"Anzoátegui",
+        "admin2":"Municipio Fernando de Peñalver",
+        "lat":10.05896,
+        "lon":-65.03698,
+        "pop":37745
+    },
+    {
+        "id":3625892,
+        "name":"Tumeremo",
+        "country":"VE",
+        "admin1":"Bolívar",
+        "admin2":"Municipio Sifontes",
+        "lat":7.29861,
+        "lon":-61.50497,
+        "pop":37614
+    },
+    {
+        "id":3795170,
+        "name":"La Grita",
+        "country":"VE",
+        "admin1":"Táchira",
+        "admin2":"Municipio Jáuregui",
+        "lat":8.13316,
+        "lon":-71.9839,
+        "pop":37545
+    },
+    {
+        "id":3640215,
+        "name":"Guanarito",
+        "country":"VE",
+        "admin1":"Portuguesa",
+        "admin2":"Municipio Guanarito",
+        "lat":8.69625,
+        "lon":-69.20832,
+        "pop":37219
+    },
+    {
+        "id":3626352,
+        "name":"Temblador",
+        "country":"VE",
+        "admin1":"Monagas",
+        "admin2":"Municipio Libertador",
+        "lat":9.00525,
+        "lon":-62.64493,
+        "pop":36447
+    },
+    {
+        "id":3628545,
+        "name":"Sanare",
+        "country":"VE",
+        "admin1":"Lara",
+        "admin2":"Municipio Andrés Eloy Blanco",
+        "lat":9.75209,
+        "lon":-69.6524,
+        "pop":35850
+    },
+    {
+        "id":3630894,
+        "name":"Pampanito",
+        "country":"VE",
+        "admin1":"Trujillo",
+        "admin2":"Municipio Pampanito",
+        "lat":9.41037,
+        "lon":-70.50116,
+        "pop":35847
+    },
+    {
+        "id":3648873,
+        "name":"Aroa",
+        "country":"VE",
+        "admin1":"Yaracuy",
+        "admin2":"Municipio Bolívar",
+        "lat":10.43949,
+        "lon":-68.89496,
+        "pop":35508
+    },
+    {
+        "id":3627614,
+        "name":"Santa Ana",
+        "country":"VE",
+        "admin1":"Táchira",
+        "admin2":"Municipio Córdoba",
+        "lat":7.6429,
+        "lon":-72.27636,
+        "pop":35452
+    },
+    {
+        "id":3480908,
+        "name":"La Asunción",
+        "country":"VE",
+        "admin1":"Nueva Esparta",
+        "admin2":"Municipio Arismendi",
+        "lat":11.03333,
+        "lon":-63.86278,
+        "pop":35084
+    },
+    {
+        "id":3628921,
+        "name":"Sabana de Mendoza",
+        "country":"VE",
+        "admin1":"Trujillo",
+        "admin2":"Municipio Sucre",
+        "lat":9.43494,
+        "lon":-70.77495,
+        "pop":34869
+    },
+    {
+        "id":3634965,
+        "name":"La Vela de Coro",
+        "country":"VE",
+        "admin1":"Falcón",
+        "admin2":"Municipio Colina",
+        "lat":11.46077,
+        "lon":-69.5657,
+        "pop":34680
+    },
+    {
+        "id":3648386,
+        "name":"Bejuma",
+        "country":"VE",
+        "admin1":"Carabobo",
+        "admin2":"Municipio Bejuma",
+        "lat":10.17383,
+        "lon":-68.25892,
+        "pop":34618
+    },
+    {
+        "id":3625965,
+        "name":"Tucacas",
+        "country":"VE",
+        "admin1":"Falcón",
+        "admin2":"Municipio Silva",
+        "lat":10.79006,
+        "lon":-68.32564,
+        "pop":34407
+    },
+    {
+        "id":3647462,
+        "name":"Caja Seca",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Sucre",
+        "lat":9.14151,
+        "lon":-71.06741,
+        "pop":34165
+    },
+    {
+        "id":3649100,
+        "name":"Aragua de Barcelona",
+        "country":"VE",
+        "admin1":"Anzoátegui",
+        "admin2":"Municipio Aragua",
+        "lat":9.45588,
+        "lon":-64.82928,
+        "pop":34048
+    },
+    {
+        "id":3631208,
+        "name":"Ospino",
+        "country":"VE",
+        "admin1":"Portuguesa",
+        "admin2":"Municipio Ospino",
+        "lat":9.29572,
+        "lon":-69.45434,
+        "pop":33547
+    },
+    {
+        "id":3632198,
+        "name":"Miranda",
+        "country":"VE",
+        "admin1":"Carabobo",
+        "admin2":"Municipio Miranda",
+        "lat":10.15077,
+        "lon":-68.39325,
+        "pop":32907
+    },
+    {
+        "id":3629601,
+        "name":"Punta de Piedras",
+        "country":"VE",
+        "admin1":"Nueva Esparta",
+        "admin2":"Municipio Tubores",
+        "lat":10.90123,
+        "lon":-64.0969,
+        "pop":31886
+    },
+    {
+        "id":3627186,
+        "name":"Santa Rita",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Santa Rita",
+        "lat":10.53642,
+        "lon":-71.51104,
+        "pop":31810
+    },
+    {
+        "id":3646175,
+        "name":"Caucagua",
+        "country":"VE",
+        "admin1":"Miranda",
+        "admin2":"Municipio Acevedo",
+        "lat":10.2831,
+        "lon":-66.37591,
+        "pop":31788
+    },
+    {
+        "id":3641440,
+        "name":"El Sombrero",
+        "country":"VE",
+        "admin1":"Guárico",
+        "admin2":"Municipio Julián Mellado",
+        "lat":9.3863,
+        "lon":-67.05818,
+        "pop":31788
+    },
+    {
+        "id":3629696,
+        "name":"Puerto Cumarebo",
+        "country":"VE",
+        "admin1":"Falcón",
+        "admin2":"Municipio Zamora",
+        "lat":11.48614,
+        "lon":-69.35319,
+        "pop":31644
+    },
+    {
+        "id":3633248,
+        "name":"Mamporal",
+        "country":"VE",
+        "admin1":"Miranda",
+        "admin2":"Municipio Buroz",
+        "lat":10.36556,
+        "lon":-66.13391,
+        "pop":30918
+    },
+    {
+        "id":3627382,
+        "name":"Santa Elena de Uairén",
+        "country":"VE",
+        "admin1":"Bolívar",
+        "admin2":"Municipio Gran Sabana",
+        "lat":4.60226,
+        "lon":-61.11025,
+        "pop":29795
+    },
+    {
+        "id":3626741,
+        "name":"Soledad",
+        "country":"VE",
+        "admin1":"Anzoátegui",
+        "admin2":"Municipio Independencia",
+        "lat":8.16206,
+        "lon":-63.5654,
+        "pop":29763
+    },
+    {
+        "id":3632072,
+        "name":"Montalbán",
+        "country":"VE",
+        "admin1":"Carabobo",
+        "admin2":"Municipio Montalbán",
+        "lat":10.21313,
+        "lon":-68.32669,
+        "pop":29451
+    },
+    {
+        "id":3639107,
+        "name":"Juan Griego",
+        "country":"VE",
+        "admin1":"Nueva Esparta",
+        "admin2":"Municipio Marcano",
+        "lat":11.08172,
+        "lon":-63.96549,
+        "pop":28256
+    },
+    {
+        "id":3637624,
+        "name":"Lagunillas",
+        "country":"VE",
+        "admin1":"Mérida",
+        "admin2":"Municipio Sucre",
+        "lat":8.50457,
+        "lon":-71.3894,
+        "pop":28176
+    },
+    {
+        "id":3644571,
+        "name":"Dabajuro",
+        "country":"VE",
+        "admin1":"Falcón",
+        "admin2":"Municipio Dabajuro",
+        "lat":11.02273,
+        "lon":-70.67769,
+        "pop":28117
+    },
+    {
+        "id":3639922,
+        "name":"Guasipati",
+        "country":"VE",
+        "admin1":"Bolívar",
+        "admin2":"Municipio Roscio",
+        "lat":7.47702,
+        "lon":-61.89666,
+        "pop":27988
+    },
+    {
+        "id":3642390,
+        "name":"Elorza",
+        "country":"VE",
+        "admin1":"Apure",
+        "admin2":"Municipio Rómulo Gallegos",
+        "lat":7.06088,
+        "lon":-69.49765,
+        "pop":27795
+    },
+    {
+        "id":3625696,
+        "name":"Urachiche",
+        "country":"VE",
+        "admin1":"Yaracuy",
+        "admin2":"Municipio Urachiche",
+        "lat":10.15847,
+        "lon":-69.00782,
+        "pop":26755
+    },
+    {
+        "id":3641008,
+        "name":"Encontrados",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Catatumbo",
+        "lat":9.05983,
+        "lon":-72.2346,
+        "pop":26121
+    },
+    {
+        "id":3644767,
+        "name":"Cumanacoa",
+        "country":"VE",
+        "admin1":"Sucre",
+        "admin2":"Municipio Montes",
+        "lat":10.25056,
+        "lon":-63.91938,
+        "pop":25858
+    },
+    {
+        "id":3631791,
+        "name":"Motatán",
+        "country":"VE",
+        "admin1":"Trujillo",
+        "admin2":"Municipio Motatán",
+        "lat":9.39182,
+        "lon":-70.59061,
+        "pop":25437
+    },
+    {
+        "id":3645360,
+        "name":"Coloncito",
+        "country":"VE",
+        "admin1":"Táchira",
+        "admin2":"Municipio Panamericano",
+        "lat":8.32611,
+        "lon":-72.08742,
+        "pop":25352
+    },
+    {
+        "id":3637721,
+        "name":"La Guaira",
+        "country":"VE",
+        "admin1":"Vargas",
+        "admin2":"Municipio Vargas",
+        "lat":10.60156,
+        "lon":-66.93293,
+        "pop":25259
+    },
+    {
+        "id":7909705,
+        "name":"Santa Cruz de los Taques",
+        "country":"VE",
+        "admin1":"Falcón",
+        "admin2":"Municipio Los Taques",
+        "lat":11.8235,
+        "lon":-70.25637,
+        "pop":25047
+    },
+    {
+        "id":3646296,
+        "name":"Casigua El Cubo",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Jesús María Semprún",
+        "lat":8.74602,
+        "lon":-72.51889,
+        "pop":24592
+    },
+    {
+        "id":3640324,
+        "name":"Guama",
+        "country":"VE",
+        "admin1":"Yaracuy",
+        "admin2":"Municipio Sucre",
+        "lat":10.26638,
+        "lon":-68.81986,
+        "pop":24570
+    },
+    {
+        "id":3648506,
+        "name":"Barrancas",
+        "country":"VE",
+        "admin1":"Barinas",
+        "admin2":"Municipio Cruz Paredes",
+        "lat":8.76962,
+        "lon":-70.11086,
+        "pop":24354
+    },
+    {
+        "id":3628918,
+        "name":"Sabana de Parra",
+        "country":"VE",
+        "admin1":"Yaracuy",
+        "admin2":"Municipio José Antonio Páez",
+        "lat":10.12111,
+        "lon":-69.03639,
+        "pop":24262
+    },
+    {
+        "id":3625963,
+        "name":"Tucaní",
+        "country":"VE",
+        "admin1":"Mérida",
+        "admin2":"Municipio Caracciolo Parra Olmedo",
+        "lat":8.97003,
+        "lon":-71.27277,
+        "pop":24034
+    },
+    {
+        "id":3626302,
+        "name":"Tía Juana",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Simón Bolívar",
+        "lat":10.25927,
+        "lon":-71.36343,
+        "pop":23714
+    },
+    {
+        "id":3649005,
+        "name":"Araya",
+        "country":"VE",
+        "admin1":"Sucre",
+        "admin2":"Municipio Cruz Salmerón Acosta",
+        "lat":10.57998,
+        "lon":-64.25548,
+        "pop":23693
+    },
+    {
+        "id":3647535,
+        "name":"Caicara",
+        "country":"VE",
+        "admin1":"Monagas",
+        "admin2":"Municipio Cedeño",
+        "lat":9.81755,
+        "lon":-63.61331,
+        "pop":23625
+    },
+    {
+        "id":3626595,
+        "name":"Tabay",
+        "country":"VE",
+        "admin1":"Mérida",
+        "admin2":"Municipio Santos Marquina",
+        "lat":8.6317,
+        "lon":-71.07833,
+        "pop":23539
+    },
+    {
+        "id":3639086,
+        "name":"Judibana",
+        "country":"VE",
+        "admin1":"Falcón",
+        "admin2":"Municipio Los Taques",
+        "lat":11.75908,
+        "lon":-70.18418,
+        "pop":23182
+    },
+    {
+        "id":3629102,
+        "name":"Río Chico",
+        "country":"VE",
+        "admin1":"Miranda",
+        "admin2":"Municipio Páez",
+        "lat":10.31899,
+        "lon":-65.97751,
+        "pop":22830
+    },
+    {
+        "id":3628129,
+        "name":"San José de Barlovento",
+        "country":"VE",
+        "admin1":"Miranda",
+        "admin2":"Municipio Andrés Bello",
+        "lat":10.30125,
+        "lon":-65.99053,
+        "pop":22352
+    },
+    {
+        "id":3648042,
+        "name":"Boraure",
+        "country":"VE",
+        "admin1":"Yaracuy",
+        "admin2":"Municipio La Trinidad",
+        "lat":10.24752,
+        "lon":-68.76966,
+        "pop":21588
+    },
+    {
+        "id":3645522,
+        "name":"Clarines",
+        "country":"VE",
+        "admin1":"Anzoátegui",
+        "admin2":"Municipio Manuel Ezequiel Bruzual",
+        "lat":9.93991,
+        "lon":-65.16517,
+        "pop":21582
+    },
+    {
+        "id":3627418,
+        "name":"Santa Cruz de Mora",
+        "country":"VE",
+        "admin1":"Mérida",
+        "admin2":"Municipio Antonio Pinto Salinas",
+        "lat":8.39925,
+        "lon":-71.64082,
+        "pop":21209
+    },
+    {
+        "id":3647400,
+        "name":"Camaguán",
+        "country":"VE",
+        "admin1":"Guárico",
+        "admin2":"Municipio Camaguán",
+        "lat":8.10732,
+        "lon":-67.60738,
+        "pop":20791
+    },
+    {
+        "id":3646316,
+        "name":"Casanay",
+        "country":"VE",
+        "admin1":"Sucre",
+        "admin2":"Municipio Andrés Eloy Blanco",
+        "lat":10.5042,
+        "lon":-63.41729,
+        "pop":20609
+    },
+    {
+        "id":3632260,
+        "name":"Michelena",
+        "country":"VE",
+        "admin1":"Táchira",
+        "admin2":"Municipio Michelena",
+        "lat":7.95642,
+        "lon":-72.24235,
+        "pop":20539
+    },
+    {
+        "id":3635260,
+        "name":"Las Vegas",
+        "country":"VE",
+        "admin1":"Cojedes",
+        "admin2":"Municipio Rómulo Gallegos",
+        "lat":9.53724,
+        "lon":-68.63022,
+        "pop":20172
+    },
+    {
+        "id":3648685,
+        "name":"Bailadores",
+        "country":"VE",
+        "admin1":"Mérida",
+        "admin2":"Municipio Rivas Dávila",
+        "lat":8.25347,
+        "lon":-71.82818,
+        "pop":20113
+    },
+    {
+        "id":3626237,
+        "name":"Timotes",
+        "country":"VE",
+        "admin1":"Mérida",
+        "admin2":"Municipio Miranda",
+        "lat":8.98224,
+        "lon":-70.73926,
+        "pop":20098
+    },
+    {
+        "id":3631465,
+        "name":"Nueva Bolivia",
+        "country":"VE",
+        "admin1":"Mérida",
+        "admin2":"Municipio Tulio Febres Cordero",
+        "lat":9.14007,
+        "lon":-71.09143,
+        "pop":19885
+    },
+    {
+        "id":3648507,
+        "name":"Barrancas",
+        "country":"VE",
+        "admin1":"Monagas",
+        "admin2":"Municipio Sotillo",
+        "lat":8.6989,
+        "lon":-62.19656,
+        "pop":19474
+    },
+    {
+        "id":3643361,
+        "name":"El Dividive",
+        "country":"VE",
+        "admin1":"Trujillo",
+        "admin2":"Municipio Miranda",
+        "lat":9.4751,
+        "lon":-70.73493,
+        "pop":19243
+    },
+    {
+        "id":3627593,
+        "name":"Santa Ana",
+        "country":"VE",
+        "admin1":"Nueva Esparta",
+        "admin2":"Municipio Gómez",
+        "lat":11.06831,
+        "lon":-63.92256,
+        "pop":19215
+    },
+    {
+        "id":3632401,
+        "name":"Mene de Mauroa",
+        "country":"VE",
+        "admin1":"Falcón",
+        "admin2":"Municipio Mauroa",
+        "lat":10.68091,
+        "lon":-71.03609,
+        "pop":19174
+    },
+    {
+        "id":3636861,
+        "name":"La Paragua",
+        "country":"VE",
+        "admin1":"Bolívar",
+        "admin2":"Bolivariano Angostura",
+        "lat":6.83333,
+        "lon":-63.33333,
+        "pop":18591
+    },
+    {
+        "id":3629768,
+        "name":"Pueblo Nuevo",
+        "country":"VE",
+        "admin1":"Falcón",
+        "admin2":"Municipio Falcón",
+        "lat":11.94788,
+        "lon":-69.92306,
+        "pop":18525
+    },
+    {
+        "id":3642260,
+        "name":"El Pao",
+        "country":"VE",
+        "admin1":"Cojedes",
+        "admin2":"Municipio Pao de San Juan Bautista",
+        "lat":9.63926,
+        "lon":-68.12917,
+        "pop":18520
+    },
+    {
+        "id":3640956,
+        "name":"Escuque",
+        "country":"VE",
+        "admin1":"Trujillo",
+        "admin2":"Municipio Escuque",
+        "lat":9.29687,
+        "lon":-70.67189,
+        "pop":18128
+    },
+    {
+        "id":3648127,
+        "name":"Boconoito",
+        "country":"VE",
+        "admin1":"Portuguesa",
+        "admin2":"Municipio San Genaro de Boconoito",
+        "lat":8.84659,
+        "lon":-69.98032,
+        "pop":18086
+    },
+    {
+        "id":3645944,
+        "name":"Chaguaramas",
+        "country":"VE",
+        "admin1":"Guárico",
+        "admin2":"Municipio Chaguaramas",
+        "lat":9.33754,
+        "lon":-66.25282,
+        "pop":17728
+    },
+    {
+        "id":3631431,
+        "name":"Obispos",
+        "country":"VE",
+        "admin1":"Barinas",
+        "admin2":"Municipio Obispos",
+        "lat":8.60701,
+        "lon":-70.10489,
+        "pop":17440
+    },
+    {
+        "id":3627680,
+        "name":"San Rafael de Onoto",
+        "country":"VE",
+        "admin1":"Portuguesa",
+        "admin2":"Municipio San Rafael de Onoto",
+        "lat":9.67813,
+        "lon":-68.97278,
+        "pop":17402
+    },
+    {
+        "id":3645727,
+        "name":"Chiquinquirá",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio La Cañada de Urdaneta",
+        "lat":10.44333,
+        "lon":-71.64722,
+        "pop":17271
+    },
+    {
+        "id":3638904,
+        "name":"La Azulita",
+        "country":"VE",
+        "admin1":"Mérida",
+        "admin2":"Municipio Andrés Bello",
+        "lat":8.71364,
+        "lon":-71.44421,
+        "pop":17111
+    },
+    {
+        "id":3643353,
+        "name":"El Dorado",
+        "country":"VE",
+        "admin1":"Bolívar",
+        "admin2":"Municipio Sifontes",
+        "lat":6.71581,
+        "lon":-61.63738,
+        "pop":16100
+    },
+    {
+        "id":3625155,
+        "name":"Yumare",
+        "country":"VE",
+        "admin1":"Yaracuy",
+        "admin2":"Municipio Manuel Monge",
+        "lat":10.59703,
+        "lon":-68.67328,
+        "pop":15661
+    },
+    {
+        "id":3625519,
+        "name":"Valle de Guanape",
+        "country":"VE",
+        "admin1":"Anzoátegui",
+        "admin2":"Municipio Francisco del Carmen Carvajal",
+        "lat":9.90999,
+        "lon":-65.67405,
+        "pop":14983
+    },
+    {
+        "id":3629593,
+        "name":"Punta Gorda",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Cabimas",
+        "lat":10.33407,
+        "lon":-71.41352,
+        "pop":14855
+    },
+    {
+        "id":3634696,
+        "name":"Lobatera",
+        "country":"VE",
+        "admin1":"Táchira",
+        "admin2":"Municipio Lobatera",
+        "lat":7.93005,
+        "lon":-72.24679,
+        "pop":14041
+    },
+    {
+        "id":3625239,
+        "name":"Yaguaraparo",
+        "country":"VE",
+        "admin1":"Sucre",
+        "admin2":"Municipio Cajigal",
+        "lat":10.56839,
+        "lon":-62.82628,
+        "pop":13610
+    },
+    {
+        "id":3634761,
+        "name":"Libertad",
+        "country":"VE",
+        "admin1":"Barinas",
+        "admin2":"Municipio Rojas",
+        "lat":8.32709,
+        "lon":-69.63093,
+        "pop":13251
+    },
+    {
+        "id":3628619,
+        "name":"San Antonio",
+        "country":"VE",
+        "admin1":"Monagas",
+        "admin2":"Municipio Acosta",
+        "lat":10.11914,
+        "lon":-63.72535,
+        "pop":12522
+    },
+    {
+        "id":3645806,
+        "name":"Chichiriviche",
+        "country":"VE",
+        "admin1":"Falcón",
+        "admin2":"Municipio Monseñor Iturriza",
+        "lat":10.92872,
+        "lon":-68.27283,
+        "pop":12500
+    },
+    {
+        "id":3628394,
+        "name":"San Fernando de Atabapo",
+        "country":"VE",
+        "admin1":"Amazonas",
+        "admin2":"Municipio Autónomo Atabapo",
+        "lat":4.04564,
+        "lon":-67.69934,
+        "pop":11929
+    },
+    {
+        "id":3627969,
+        "name":"San Mateo",
+        "country":"VE",
+        "admin1":"Anzoátegui",
+        "admin2":"Municipio Libertad",
+        "lat":9.74004,
+        "lon":-64.54937,
+        "pop":11670
+    },
+    {
+        "id":3648163,
+        "name":"Boca de Uchire",
+        "country":"VE",
+        "admin1":"Anzoátegui",
+        "admin2":"Municipio San Juan de Capistrano",
+        "lat":10.13191,
+        "lon":-65.42236,
+        "pop":10904
+    },
+    {
+        "id":3644163,
+        "name":"El Baúl",
+        "country":"VE",
+        "admin1":"Cojedes",
+        "admin2":"Municipio Girardot",
+        "lat":8.96225,
+        "lon":-68.29511,
+        "pop":10760
+    },
+    {
+        "id":3648215,
+        "name":"Boca de Aroa",
+        "country":"VE",
+        "admin1":"Falcón",
+        "admin2":"Municipio Silva",
+        "lat":10.68229,
+        "lon":-68.29829,
+        "pop":10033
+    },
+    {
+        "id":3626150,
+        "name":"Tocuyo de La Costa",
+        "country":"VE",
+        "admin1":"Falcón",
+        "admin2":"Municipio Monseñor Iturriza",
+        "lat":11.0357,
+        "lon":-68.37448,
+        "pop":9504
+    },
+    {
+        "id":3648915,
+        "name":"Aricagua",
+        "country":"VE",
+        "admin1":"Sucre",
+        "admin2":"Municipio Montes",
+        "lat":10.23861,
+        "lon":-63.89761,
+        "pop":9272
+    },
+    {
+        "id":3631752,
+        "name":"Mucuchíes",
+        "country":"VE",
+        "admin1":"Mérida",
+        "admin2":"Municipio Rangel",
+        "lat":8.74921,
+        "lon":-70.91978,
+        "pop":8880
+    },
+    {
+        "id":3625051,
+        "name":"Zea",
+        "country":"VE",
+        "admin1":"Mérida",
+        "admin2":"Municipio Zea",
+        "lat":8.37706,
+        "lon":-71.78398,
+        "pop":8713
+    },
+    {
+        "id":3628025,
+        "name":"San Lorenzo",
+        "country":"VE",
+        "admin1":"Sucre",
+        "admin2":"Municipio Montes",
+        "lat":10.22301,
+        "lon":-63.92452,
+        "pop":8343
+    },
+    {
+        "id":3648231,
+        "name":"Bobures",
+        "country":"VE",
+        "admin1":"Zulia",
+        "admin2":"Municipio Sucre",
+        "lat":9.24173,
+        "lon":-71.17506,
+        "pop":8012
+    },
+    {
+        "id":3785489,
+        "name":"La Aguada",
+        "country":"VE",
+        "admin1":"Falcón",
+        "admin2":"",
+        "lat":11.27667,
+        "lon":-67.46444,
+        "pop":7261
+    },
+    {
+        "id":3627798,
+        "name":"San Pedro de Coche",
+        "country":"VE",
+        "admin1":"Nueva Esparta",
+        "admin2":"Municipio Villalba",
+        "lat":10.78153,
+        "lon":-63.99636,
+        "pop":6704
+    },
+    {
+        "id":3648972,
+        "name":"Arenas",
+        "country":"VE",
+        "admin1":"Sucre",
+        "admin2":"Municipio Montes",
+        "lat":10.27931,
+        "lon":-63.93725,
+        "pop":6312
+    },
+    {
+        "id":3627633,
+        "name":"San Simón",
+        "country":"VE",
+        "admin1":"Táchira",
+        "admin2":"Municipio Simón Rodríguez",
+        "lat":8.35018,
+        "lon":-71.85114,
+        "pop":2085
+    },
+    {
+        "id":3639049,
+        "name":"Kanavayén",
+        "country":"VE",
+        "admin1":"Bolívar",
+        "admin2":"Municipio Gran Sabana",
+        "lat":5.63333,
+        "lon":-61.8,
+        "pop":1500
+    },
+    {
+        "id":3641622,
+        "name":"Los Roques",
+        "country":"VE",
+        "admin1":"Dependencias Federales",
+        "admin2":"",
+        "lat":11.94836,
+        "lon":-66.67835,
+        "pop":1471
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id":3374036,
+        "name":"Bridgetown",
+        "country":"BB",
+        "admin1":"Saint Michael",
+        "admin2":"",
+        "lat":13.10732,
+        "lon":-59.62021,
+        "pop":98511
+    },
+    {
+        "id":3373505,
+        "name":"Speightstown",
+        "country":"BB",
+        "admin1":"Saint Peter",
+        "admin2":"",
+        "lat":13.25072,
+        "lon":-59.64396,
+        "pop":3634
+    },
+    {
+        "id":3373652,
+        "name":"Oistins",
+        "country":"BB",
+        "admin1":"Christ Church",
+        "admin2":"",
+        "lat":13.07067,
+        "lon":-59.54637,
+        "pop":2285
+    },
+    {
+        "id":3374083,
+        "name":"Bathsheba",
+        "country":"BB",
+        "admin1":"Saint Joseph",
+        "admin2":"",
+        "lat":13.21133,
+        "lon":-59.52596,
+        "pop":1765
+    },
+    {
+        "id":3373805,
+        "name":"Hastings",
+        "country":"BB",
+        "admin1":"Christ Church",
+        "admin2":"",
+        "lat":13.07513,
+        "lon":-59.59688,
+        "pop":1500
+    },
+    {
+        "id":3373790,
+        "name":"Holetown",
+        "country":"BB",
+        "admin1":"Saint James",
+        "admin2":"",
+        "lat":13.18672,
+        "lon":-59.63808,
+        "pop":1350
+    },
+    {
+        "id":3373515,
+        "name":"Six Cross Roads",
+        "country":"BB",
+        "admin1":"Christ Church",
+        "admin2":"",
+        "lat":13.11772,
+        "lon":-59.477,
+        "pop":1005
+    },
+    {
+        "id":3373477,
+        "name":"Crane",
+        "country":"BB",
+        "admin1":"Saint Philip",
+        "admin2":"",
+        "lat":13.10487,
+        "lon":-59.44861,
+        "pop":935
+    },
+    {
+        "id":3373942,
+        "name":"Crab Hill",
+        "country":"BB",
+        "admin1":"Saint Lucy",
+        "admin2":"",
+        "lat":13.3196,
+        "lon":-59.63831,
+        "pop":727
+    },
+    {
+        "id":3374056,
+        "name":"Blackmans",
+        "country":"BB",
+        "admin1":"Saint Joseph",
+        "admin2":"",
+        "lat":13.18501,
+        "lon":-59.54519,
+        "pop":623
+    },
+    {
+        "id":3373831,
+        "name":"Greenland",
+        "country":"BB",
+        "admin1":"Saint Andrew",
+        "admin2":"",
+        "lat":13.25808,
+        "lon":-59.57763,
+        "pop":623
+    },
+    {
+        "id":3373794,
+        "name":"Hillaby",
+        "country":"BB",
+        "admin1":"Saint Andrew",
+        "admin2":"",
+        "lat":13.21288,
+        "lon":-59.58838,
+        "pop":519
+    }
+]

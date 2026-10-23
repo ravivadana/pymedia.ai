@@ -1,0 +1,7032 @@
+[
+    {
+        "id":281184,
+        "name":"Jerusalem",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.76904,
+        "lon":35.21633,
+        "pop":971800
+    },
+    {
+        "id":293397,
+        "name":"Tel Aviv",
+        "country":"IL",
+        "admin1":"Tel Aviv",
+        "admin2":"",
+        "lat":32.08088,
+        "lon":34.78057,
+        "pop":432892
+    },
+    {
+        "id":294801,
+        "name":"Haifa",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.81303,
+        "lon":34.99928,
+        "pop":285316
+    },
+    {
+        "id":293703,
+        "name":"Rishon LeTsiyyon",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.97102,
+        "lon":34.78939,
+        "pop":258535
+    },
+    {
+        "id":293918,
+        "name":"Petaẖ Tiqva",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.08707,
+        "lon":34.88747,
+        "pop":253529
+    },
+    {
+        "id":294071,
+        "name":"Netanya",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.33291,
+        "lon":34.85992,
+        "pop":228204
+    },
+    {
+        "id":295629,
+        "name":"Ashdod",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.79213,
+        "lon":34.64966,
+        "pop":226838
+    },
+    {
+        "id":295514,
+        "name":"Bnei Brak",
+        "country":"IL",
+        "admin1":"Tel Aviv",
+        "admin2":"",
+        "lat":32.08074,
+        "lon":34.8338,
+        "pop":214444
+    },
+    {
+        "id":294751,
+        "name":"H̱olon",
+        "country":"IL",
+        "admin1":"Tel Aviv",
+        "admin2":"",
+        "lat":32.01034,
+        "lon":34.77918,
+        "pop":196282
+    },
+    {
+        "id":295530,
+        "name":"Beersheba",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.25181,
+        "lon":34.7913,
+        "pop":186600
+    },
+    {
+        "id":293788,
+        "name":"Ramat Gan",
+        "country":"IL",
+        "admin1":"Tel Aviv",
+        "admin2":"",
+        "lat":32.08227,
+        "lon":34.81065,
+        "pop":170822
+    },
+    {
+        "id":293725,
+        "name":"Reẖovot",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.89421,
+        "lon":34.81199,
+        "pop":149392
+    },
+    {
+        "id":295620,
+        "name":"Ashkelon",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.66926,
+        "lon":34.57149,
+        "pop":144073
+    },
+    {
+        "id":295548,
+        "name":"Bat Yam",
+        "country":"IL",
+        "admin1":"Tel Aviv",
+        "admin2":"",
+        "lat":32.02379,
+        "lon":34.75185,
+        "pop":129012
+    },
+    {
+        "id":295432,
+        "name":"Bet Shemesh",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.73072,
+        "lon":34.99293,
+        "pop":124957
+    },
+    {
+        "id":294514,
+        "name":"Kfar Saba",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.175,
+        "lon":34.90694,
+        "pop":110456
+    },
+    {
+        "id":294778,
+        "name":"Herzliya",
+        "country":"IL",
+        "admin1":"Tel Aviv",
+        "admin2":"",
+        "lat":32.16627,
+        "lon":34.82536,
+        "pop":97470
+    },
+    {
+        "id":294946,
+        "name":"Hadera",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.44192,
+        "lon":34.9039,
+        "pop":97335
+    },
+    {
+        "id":282926,
+        "name":"Modi‘in Makkabbim Re‘ut",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.89385,
+        "lon":35.01504,
+        "pop":93277
+    },
+    {
+        "id":294098,
+        "name":"Nazareth",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.70087,
+        "lon":35.29719,
+        "pop":77445
+    },
+    {
+        "id":294421,
+        "name":"Lod",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.9467,
+        "lon":34.8903,
+        "pop":77223
+    },
+    {
+        "id":8199378,
+        "name":"Modiin Ilit",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.93221,
+        "lon":35.04416,
+        "pop":76374
+    },
+    {
+        "id":293768,
+        "name":"Ramla",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.92624,
+        "lon":34.8635,
+        "pop":76246
+    },
+    {
+        "id":293807,
+        "name":"Ra'anana",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.1836,
+        "lon":34.87386,
+        "pop":75421
+    },
+    {
+        "id":293690,
+        "name":"Rosh Ha‘Ayin",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.09556,
+        "lon":34.95664,
+        "pop":72881
+    },
+    {
+        "id":294760,
+        "name":"Hod HaSharon",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.15934,
+        "lon":34.8932,
+        "pop":63175
+    },
+    {
+        "id":293842,
+        "name":"Kiryat Gat",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.60998,
+        "lon":34.76422,
+        "pop":61817
+    },
+    {
+        "id":294999,
+        "name":"Givatayim",
+        "country":"IL",
+        "admin1":"Tel Aviv",
+        "admin2":"",
+        "lat":32.07225,
+        "lon":34.81253,
+        "pop":60644
+    },
+    {
+        "id":293845,
+        "name":"Qiryat Ata",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.81149,
+        "lon":35.11323,
+        "pop":59030
+    },
+    {
+        "id":294117,
+        "name":"Nahariyya",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.00892,
+        "lon":35.09814,
+        "pop":58096
+    },
+    {
+        "id":293286,
+        "name":"Umm el Faḥm",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.51725,
+        "lon":35.15349,
+        "pop":56109
+    },
+    {
+        "id":295277,
+        "name":"Eilat",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":29.55805,
+        "lon":34.94821,
+        "pop":52299
+    },
+    {
+        "id":295721,
+        "name":"Acre",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.92814,
+        "lon":35.07647,
+        "pop":51420
+    },
+    {
+        "id":294074,
+        "name":"Ness Ziona",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.92933,
+        "lon":34.79868,
+        "pop":50351
+    },
+    {
+        "id":8428480,
+        "name":"El‘ad",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.04984,
+        "lon":34.95382,
+        "pop":48763
+    },
+    {
+        "id":293222,
+        "name":"Yavné",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.87808,
+        "lon":34.73983,
+        "pop":47585
+    },
+    {
+        "id":293783,
+        "name":"Ramat HaSharon",
+        "country":"IL",
+        "admin1":"Tel Aviv",
+        "admin2":"",
+        "lat":32.14613,
+        "lon":34.8394,
+        "pop":47245
+    },
+    {
+        "id":294577,
+        "name":"Karmi’el",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.91708,
+        "lon":35.30501,
+        "pop":46252
+    },
+    {
+        "id":295740,
+        "name":"Afula",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.60907,
+        "lon":35.2892,
+        "pop":44930
+    },
+    {
+        "id":293943,
+        "name":"Pardés H̱anna Karkur",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"H̱efa",
+        "lat":32.47408,
+        "lon":34.97781,
+        "pop":44840
+    },
+    {
+        "id":293322,
+        "name":"Tiberias",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.79221,
+        "lon":35.53124,
+        "pop":44779
+    },
+    {
+        "id":295130,
+        "name":"Eṭ Ṭaiyiba",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.26616,
+        "lon":35.00893,
+        "pop":43957
+    },
+    {
+        "id":293844,
+        "name":"Qiryat Bialik",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.8275,
+        "lon":35.08583,
+        "pop":43955
+    },
+    {
+        "id":294068,
+        "name":"Netivot",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.42305,
+        "lon":34.58911,
+        "pop":43732
+    },
+    {
+        "id":294097,
+        "name":"Naẕerat ‘Illit",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.70816,
+        "lon":35.32469,
+        "pop":43556
+    },
+    {
+        "id":293831,
+        "name":"Qiryat Motsqin",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.83706,
+        "lon":35.0776,
+        "pop":43303
+    },
+    {
+        "id":293539,
+        "name":"Shefar‘am",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.80583,
+        "lon":35.16895,
+        "pop":42137
+    },
+    {
+        "id":12031840,
+        "name":"Kiryat Ono",
+        "country":"IL",
+        "admin1":"Tel Aviv",
+        "admin2":"",
+        "lat":32.06124,
+        "lon":34.85618,
+        "pop":39986
+    },
+    {
+        "id":293822,
+        "name":"Qiryat Yam",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.84966,
+        "lon":35.06973,
+        "pop":39897
+    },
+    {
+        "id":293962,
+        "name":"Or Yehuda",
+        "country":"IL",
+        "admin1":"Tel Aviv",
+        "admin2":"",
+        "lat":32.02923,
+        "lon":34.85788,
+        "pop":36813
+    },
+    {
+        "id":295328,
+        "name":"Dimona",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.07079,
+        "lon":35.03269,
+        "pop":36192
+    },
+    {
+        "id":293100,
+        "name":"Safed",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.96465,
+        "lon":35.496,
+        "pop":36094
+    },
+    {
+        "id":293992,
+        "name":"Ofaqim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.3141,
+        "lon":34.62025,
+        "pop":34666
+    },
+    {
+        "id":293655,
+        "name":"Sakhnīn",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.86422,
+        "lon":35.29707,
+        "pop":31702
+    },
+    {
+        "id":295064,
+        "name":"Gedera",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.81456,
+        "lon":34.77998,
+        "pop":30798
+    },
+    {
+        "id":295571,
+        "name":"Bāqa el Gharbīya",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.41806,
+        "lon":35.04312,
+        "pop":29950
+    },
+    {
+        "id":10227184,
+        "name":"Yehud-Monosson",
+        "country":"IL",
+        "admin1":"Tel Aviv",
+        "admin2":"",
+        "lat":32.0284,
+        "lon":34.8796,
+        "pop":29312
+    },
+    {
+        "id":294981,
+        "name":"Giv'at Shmuel",
+        "country":"IL",
+        "admin1":"Tel Aviv",
+        "admin2":"",
+        "lat":32.07817,
+        "lon":34.84858,
+        "pop":28628
+    },
+    {
+        "id":295657,
+        "name":"Arad",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.25882,
+        "lon":35.21282,
+        "pop":27967
+    },
+    {
+        "id":293308,
+        "name":"Tirat Karmel",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.76021,
+        "lon":34.97183,
+        "pop":27822
+    },
+    {
+        "id":295525,
+        "name":"Be’er Ya‘aqov",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.93864,
+        "lon":34.83749,
+        "pop":27768
+    },
+    {
+        "id":293619,
+        "name":"Sderot",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.525,
+        "lon":34.59693,
+        "pop":27635
+    },
+    {
+        "id":295127,
+        "name":"Eṭ Ṭīra",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.2341,
+        "lon":34.95023,
+        "pop":26552
+    },
+    {
+        "id":293426,
+        "name":"Tamra",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.85301,
+        "lon":35.1987,
+        "pop":25917
+    },
+    {
+        "id":294210,
+        "name":"Migdal Ha‘Emeq",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.67597,
+        "lon":35.23986,
+        "pop":25675
+    },
+    {
+        "id":293207,
+        "name":"Yehud",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.03317,
+        "lon":34.89091,
+        "pop":25600
+    },
+    {
+        "id":293835,
+        "name":"Qiryat Mal’akhi",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.72888,
+        "lon":34.74632,
+        "pop":25362
+    },
+    {
+        "id":295365,
+        "name":"Daliyat al Karmel",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.69383,
+        "lon":35.04686,
+        "pop":25000
+    },
+    {
+        "id":295655,
+        "name":"‘Ar‘ara",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.49553,
+        "lon":35.09411,
+        "pop":24904
+    },
+    {
+        "id":294492,
+        "name":"Kfar Yona",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.31669,
+        "lon":34.93507,
+        "pop":24778
+    },
+    {
+        "id":294078,
+        "name":"Nesher",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.76622,
+        "lon":35.04425,
+        "pop":24148
+    },
+    {
+        "id":294245,
+        "name":"Mevasseret Tsiyyon",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.80186,
+        "lon":35.15072,
+        "pop":24052
+    },
+    {
+        "id":295080,
+        "name":"Gan Yavne",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.78737,
+        "lon":34.70659,
+        "pop":23869
+    },
+    {
+        "id":294604,
+        "name":"Kafr Qāsim",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.11406,
+        "lon":34.97624,
+        "pop":23823
+    },
+    {
+        "id":293153,
+        "name":"Yoqne‘am ‘Illit",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.65385,
+        "lon":35.10382,
+        "pop":23796
+    },
+    {
+        "id":293067,
+        "name":"Zikhron Ya‘aqov",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.56645,
+        "lon":34.95628,
+        "pop":23206
+    },
+    {
+        "id":294387,
+        "name":"Maghār",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.88984,
+        "lon":35.40703,
+        "pop":22957
+    },
+    {
+        "id":294610,
+        "name":"Kafr Kannā",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.7466,
+        "lon":35.34242,
+        "pop":22751
+    },
+    {
+        "id":293825,
+        "name":"Qiryat Shmona",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.20733,
+        "lon":35.57212,
+        "pop":22512
+    },
+    {
+        "id":11524864,
+        "name":"Kadima Zoran",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.27782,
+        "lon":34.9194,
+        "pop":22490
+    },
+    {
+        "id":293420,
+        "name":"maalot Tarshīhā",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.01667,
+        "lon":35.26667,
+        "pop":21836
+    },
+    {
+        "id":8374209,
+        "name":"H̱ura",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.30084,
+        "lon":34.93606,
+        "pop":21558
+    },
+    {
+        "id":294622,
+        "name":"Judeida Makr",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.9282,
+        "lon":35.15705,
+        "pop":21163
+    },
+    {
+        "id":8374220,
+        "name":"Kuseifa",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.24535,
+        "lon":35.0931,
+        "pop":21079
+    },
+    {
+        "id":8428283,
+        "name":"Shoham",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.99866,
+        "lon":34.94559,
+        "pop":20740
+    },
+    {
+        "id":8199394,
+        "name":"Ariel",
+        "country":"IL",
+        "admin1":"Judea and Samaria Area",
+        "admin2":"",
+        "lat":32.1065,
+        "lon":35.18449,
+        "pop":20540
+    },
+    {
+        "id":295089,
+        "name":"Ganei Tikva",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.05971,
+        "lon":34.8732,
+        "pop":20398
+    },
+    {
+        "id":8310136,
+        "name":"Tel Sheva‘",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.24864,
+        "lon":34.86007,
+        "pop":20204
+    },
+    {
+        "id":294608,
+        "name":"Kafr Mandā",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.81034,
+        "lon":35.26009,
+        "pop":20188
+    },
+    {
+        "id":8184212,
+        "name":"Rahat",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.39547,
+        "lon":34.75699,
+        "pop":19586
+    },
+    {
+        "id":294605,
+        "name":"Kafr Qari‘",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.50666,
+        "lon":35.05392,
+        "pop":19018
+    },
+    {
+        "id":293969,
+        "name":"Or Akiva",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.5064,
+        "lon":34.92087,
+        "pop":18972
+    },
+    {
+        "id":293254,
+        "name":"Yāfā",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.68923,
+        "lon":35.27832,
+        "pop":18905
+    },
+    {
+        "id":293823,
+        "name":"Qiryat Tiv‘on",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.71618,
+        "lon":35.12494,
+        "pop":18130
+    },
+    {
+        "id":8374203,
+        "name":"‘Ar‘ara BaNegev",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.16046,
+        "lon":35.02274,
+        "pop":17640
+    },
+    {
+        "id":293181,
+        "name":"Yirkā",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.95435,
+        "lon":35.21197,
+        "pop":17171
+    },
+    {
+        "id":293896,
+        "name":"Qalansuwa",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.28493,
+        "lon":34.98106,
+        "pop":16898
+    },
+    {
+        "id":295435,
+        "name":"Bet She’an",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.49728,
+        "lon":35.49632,
+        "pop":16800
+    },
+    {
+        "id":12156557,
+        "name":"Binyamina-Giv'at Ada",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.51824,
+        "lon":34.95398,
+        "pop":15847
+    },
+    {
+        "id":295410,
+        "name":"Binyamina",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.5232,
+        "lon":34.94499,
+        "pop":15847
+    },
+    {
+        "id":295174,
+        "name":"Er Reina",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.72339,
+        "lon":35.31622,
+        "pop":15621
+    },
+    {
+        "id":294373,
+        "name":"Majd el Kurūm",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.92186,
+        "lon":35.25568,
+        "pop":15455
+    },
+    {
+        "id":294626,
+        "name":"Jisr ez Zarqā",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.53684,
+        "lon":34.9127,
+        "pop":14930
+    },
+    {
+        "id":294303,
+        "name":"Mazkeret Batya",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.85357,
+        "lon":34.84646,
+        "pop":14837
+    },
+    {
+        "id":11979755,
+        "name":"Maale Iron",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.55382,
+        "lon":35.18412,
+        "pop":14833
+    },
+    {
+        "id":294658,
+        "name":"Iksāl",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.68164,
+        "lon":35.32365,
+        "pop":14784
+    },
+    {
+        "id":295765,
+        "name":"Abū Sinān",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.95891,
+        "lon":35.17152,
+        "pop":14099
+    },
+    {
+        "id":294615,
+        "name":"Kābūl",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.86856,
+        "lon":35.21171,
+        "pop":14095
+    },
+    {
+        "id":8184241,
+        "name":"Laqiyya",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.3185,
+        "lon":34.8589,
+        "pop":14075
+    },
+    {
+        "id":295122,
+        "name":"Even Yehuda",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.26959,
+        "lon":34.88759,
+        "pop":13826
+    },
+    {
+        "id":295285,
+        "name":"‘Ein Māhil",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.72304,
+        "lon":35.35303,
+        "pop":13335
+    },
+    {
+        "id":294663,
+        "name":"I‘billīn",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.82233,
+        "lon":35.19271,
+        "pop":13305
+    },
+    {
+        "id":295269,
+        "name":"El Fureidīs",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.59812,
+        "lon":34.95153,
+        "pop":13247
+    },
+    {
+        "id":293354,
+        "name":"Tel Mond",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.24995,
+        "lon":34.91737,
+        "pop":13144
+    },
+    {
+        "id":294114,
+        "name":"Naḥf",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.93444,
+        "lon":35.31679,
+        "pop":13113
+    },
+    {
+        "id":295584,
+        "name":"Azor",
+        "country":"IL",
+        "admin1":"Tel Aviv",
+        "admin2":"",
+        "lat":32.0243,
+        "lon":34.80632,
+        "pop":12957
+    },
+    {
+        "id":293721,
+        "name":"Rekhasim",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.74907,
+        "lon":35.09901,
+        "pop":12668
+    },
+    {
+        "id":295341,
+        "name":"Deir el Asad",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.93598,
+        "lon":35.26998,
+        "pop":12514
+    },
+    {
+        "id":294642,
+        "name":"‘Isfiyā",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.71836,
+        "lon":35.06509,
+        "pop":12503
+    },
+    {
+        "id":294630,
+        "name":"Jatt",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.39843,
+        "lon":35.03933,
+        "pop":12100
+    },
+    {
+        "id":295523,
+        "name":"Beit Jann",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.96464,
+        "lon":35.38152,
+        "pop":12001
+    },
+    {
+        "id":167444,
+        "name":"Majdal Shams",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.27029,
+        "lon":35.7716,
+        "pop":11180
+    },
+    {
+        "id":294552,
+        "name":"Qiryat ‘Eqron",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.86119,
+        "lon":34.82275,
+        "pop":11001
+    },
+    {
+        "id":8184332,
+        "name":"Segev Shalom",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.19918,
+        "lon":34.83956,
+        "pop":10362
+    },
+    {
+        "id":295339,
+        "name":"Deir Ḥannā",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.86196,
+        "lon":35.36365,
+        "pop":10339
+    },
+    {
+        "id":293203,
+        "name":"Yeroẖam",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":30.98822,
+        "lon":34.93176,
+        "pop":10294
+    },
+    {
+        "id":294634,
+        "name":"Jaljūlya",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.1547,
+        "lon":34.95372,
+        "pop":10148
+    },
+    {
+        "id":294600,
+        "name":"Kfar Yasif",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.95451,
+        "lon":35.1623,
+        "pop":10133
+    },
+    {
+        "id":12156812,
+        "name":"Basma",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.52904,
+        "lon":35.10059,
+        "pop":9779
+    },
+    {
+        "id":11979636,
+        "name":"Bu'ayna-Nujaydat",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.80966,
+        "lon":35.36987,
+        "pop":9645
+    },
+    {
+        "id":294809,
+        "name":"H̱atsor HaGelilit",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.98049,
+        "lon":35.54243,
+        "pop":9272
+    },
+    {
+        "id":295613,
+        "name":"Atlit",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.68889,
+        "lon":34.94236,
+        "pop":8875
+    },
+    {
+        "id":11979665,
+        "name":"Kisra - Sume'a",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.97262,
+        "lon":35.29877,
+        "pop":8818
+    },
+    {
+        "id":8141161,
+        "name":"Kokhav Ya’ir",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.22623,
+        "lon":35.00222,
+        "pop":8702
+    },
+    {
+        "id":8062538,
+        "name":"Meitar",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.32726,
+        "lon":34.93855,
+        "pop":8438
+    },
+    {
+        "id":295411,
+        "name":"Bi’na",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.93066,
+        "lon":35.27157,
+        "pop":8381
+    },
+    {
+        "id":294654,
+        "name":"‘Ilūṭ",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.71639,
+        "lon":35.25944,
+        "pop":8356
+    },
+    {
+        "id":295370,
+        "name":"Dabbūrīya",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.69256,
+        "lon":35.37123,
+        "pop":8305
+    },
+    {
+        "id":8264669,
+        "name":"Zarzir",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.72754,
+        "lon":35.21381,
+        "pop":7942
+    },
+    {
+        "id":295553,
+        "name":"Basmat Ṭab‘ūn",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.73898,
+        "lon":35.15716,
+        "pop":7916
+    },
+    {
+        "id":295380,
+        "name":"Bu‘eina",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.80636,
+        "lon":35.36486,
+        "pop":7900
+    },
+    {
+        "id":293773,
+        "name":"Ramat Yishay",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.70444,
+        "lon":35.1707,
+        "pop":7785
+    },
+    {
+        "id":293793,
+        "name":"Rama",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.93844,
+        "lon":35.3675,
+        "pop":7728
+    },
+    {
+        "id":295772,
+        "name":"Abū Ghaush",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.80592,
+        "lon":35.1093,
+        "pop":7698
+    },
+    {
+        "id":8141842,
+        "name":"H̱arish",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.46096,
+        "lon":35.0435,
+        "pop":7569
+    },
+    {
+        "id":293982,
+        "name":"‘Omer",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.26489,
+        "lon":34.84766,
+        "pop":7530
+    },
+    {
+        "id":295404,
+        "name":"Bīr el Maksūr",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.77732,
+        "lon":35.22069,
+        "pop":7106
+    },
+    {
+        "id":295475,
+        "name":"Bet Dagan",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.00191,
+        "lon":34.82977,
+        "pop":7099
+    },
+    {
+        "id":8142386,
+        "name":"Zemer",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.36658,
+        "lon":35.03312,
+        "pop":7094
+    },
+    {
+        "id":295515,
+        "name":"Bnei Ayish",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.79,
+        "lon":34.759,
+        "pop":6978
+    },
+    {
+        "id":293595,
+        "name":"Sha‘av",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.88943,
+        "lon":35.24093,
+        "pop":6941
+    },
+    {
+        "id":293298,
+        "name":"Tūbā Zangarīya",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.96606,
+        "lon":35.59304,
+        "pop":6776
+    },
+    {
+        "id":11979655,
+        "name":"Yanuah Jat",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.9798,
+        "lon":35.23806,
+        "pop":6679
+    },
+    {
+        "id":12156671,
+        "name":"Yanuh-Jat",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.98515,
+        "lon":35.2491,
+        "pop":6614
+    },
+    {
+        "id":294545,
+        "name":"Kfar H̱abad",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.98793,
+        "lon":34.8516,
+        "pop":6598
+    },
+    {
+        "id":293522,
+        "name":"Shlomi",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.07216,
+        "lon":35.14452,
+        "pop":6511
+    },
+    {
+        "id":294620,
+        "name":"Jūlis",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.94267,
+        "lon":35.18278,
+        "pop":6465
+    },
+    {
+        "id":6693244,
+        "name":"Lehavim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.37284,
+        "lon":34.81619,
+        "pop":6415
+    },
+    {
+        "id":294666,
+        "name":"Ḥurfeish",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.01711,
+        "lon":35.34835,
+        "pop":6410
+    },
+    {
+        "id":293821,
+        "name":"Qiryat Ye‘arim",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.803,
+        "lon":35.102,
+        "pop":6128
+    },
+    {
+        "id":11979772,
+        "name":"Tsur Itshak",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.24047,
+        "lon":34.99788,
+        "pop":6044
+    },
+    {
+        "id":295473,
+        "name":"Bet El‘azari",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.84429,
+        "lon":34.80368,
+        "pop":6042
+    },
+    {
+        "id":12156807,
+        "name":"Shibli–Umm al-Ghanam",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.68395,
+        "lon":35.39621,
+        "pop":5995
+    },
+    {
+        "id":293942,
+        "name":"Pardesiyya",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.30577,
+        "lon":34.90911,
+        "pop":5930
+    },
+    {
+        "id":295379,
+        "name":"Buqei‘a",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.97747,
+        "lon":35.33345,
+        "pop":5893
+    },
+    {
+        "id":295291,
+        "name":"‘Eilabun",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.83693,
+        "lon":35.40029,
+        "pop":5752
+    },
+    {
+        "id":12156436,
+        "name":"Bir Hadaj",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.02416,
+        "lon":34.70857,
+        "pop":5735
+    },
+    {
+        "id":12156432,
+        "name":"AlSayid Tribe",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.28252,
+        "lon":34.91505,
+        "pop":5663
+    },
+    {
+        "id":8265524,
+        "name":"Ka‘abiyya",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.74985,
+        "lon":35.18361,
+        "pop":5504
+    },
+    {
+        "id":386445,
+        "name":"Kfar Veradim",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.99385,
+        "lon":35.27793,
+        "pop":5486
+    },
+    {
+        "id":7117228,
+        "name":"Caesarea",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.51888,
+        "lon":34.90459,
+        "pop":5343
+    },
+    {
+        "id":8141252,
+        "name":"Bat H̱efer",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.33307,
+        "lon":35.01272,
+        "pop":5301
+    },
+    {
+        "id":294166,
+        "name":"Mitzpe Ramon",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":30.60944,
+        "lon":34.80111,
+        "pop":5211
+    },
+    {
+        "id":386042,
+        "name":"Shibli",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.69464,
+        "lon":35.39252,
+        "pop":4800
+    },
+    {
+        "id":293020,
+        "name":"Tsur Hadassa",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.71912,
+        "lon":35.09708,
+        "pop":4700
+    },
+    {
+        "id":293126,
+        "name":"Zalafa",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.54805,
+        "lon":35.1852,
+        "pop":4639
+    },
+    {
+        "id":8199392,
+        "name":"Talmon",
+        "country":"IL",
+        "admin1":null,
+        "admin2":"",
+        "lat":31.93927,
+        "lon":35.13539,
+        "pop":4575
+    },
+    {
+        "id":293220,
+        "name":"Yavne’el",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.70619,
+        "lon":35.50435,
+        "pop":4460
+    },
+    {
+        "id":294502,
+        "name":"Kfar Tavor",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.68655,
+        "lon":35.42118,
+        "pop":4311
+    },
+    {
+        "id":293657,
+        "name":"Sājūr",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.94266,
+        "lon":35.34136,
+        "pop":4270
+    },
+    {
+        "id":293262,
+        "name":"Yad Binyamin",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.7974,
+        "lon":34.82083,
+        "pop":4268
+    },
+    {
+        "id":294140,
+        "name":"Muṣmuṣ",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.54358,
+        "lon":35.15619,
+        "pop":4215
+    },
+    {
+        "id":12156429,
+        "name":"Umm Batin",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.27735,
+        "lon":34.88246,
+        "pop":4093
+    },
+    {
+        "id":294142,
+        "name":"Muqeibila",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.51424,
+        "lon":35.29617,
+        "pop":4081
+    },
+    {
+        "id":293633,
+        "name":"Savyon",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.04966,
+        "lon":34.8777,
+        "pop":4036
+    },
+    {
+        "id":295249,
+        "name":"El Mazra‘a",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.98338,
+        "lon":35.09837,
+        "pop":3900
+    },
+    {
+        "id":294613,
+        "name":"Kafr Barā",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.13136,
+        "lon":34.97079,
+        "pop":3678
+    },
+    {
+        "id":8428532,
+        "name":"Matan",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.15856,
+        "lon":34.97413,
+        "pop":3600
+    },
+    {
+        "id":294571,
+        "name":"Kaukab Abū el Hījā",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.83155,
+        "lon":35.24848,
+        "pop":3589
+    },
+    {
+        "id":8183198,
+        "name":"‘Ein Naqūbā",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.79366,
+        "lon":35.12064,
+        "pop":3505
+    },
+    {
+        "id":295232,
+        "name":"Elyakhin",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.40793,
+        "lon":34.92433,
+        "pop":3415
+    },
+    {
+        "id":294611,
+        "name":"Kafr Kammā",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.72129,
+        "lon":35.44122,
+        "pop":3373
+    },
+    {
+        "id":386253,
+        "name":"Sallama",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.89443,
+        "lon":35.36931,
+        "pop":3340
+    },
+    {
+        "id":293014,
+        "name":"Tsur Moshe",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.29819,
+        "lon":34.91313,
+        "pop":3291
+    },
+    {
+        "id":293273,
+        "name":"‘Uzeir",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.79212,
+        "lon":35.32984,
+        "pop":3276
+    },
+    {
+        "id":295104,
+        "name":"Fassūta",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.04895,
+        "lon":35.30893,
+        "pop":3172
+    },
+    {
+        "id":293688,
+        "name":"Rosh Pinna",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.96894,
+        "lon":35.54258,
+        "pop":3148
+    },
+    {
+        "id":294627,
+        "name":"Jīsh",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.02216,
+        "lon":35.44694,
+        "pop":3105
+    },
+    {
+        "id":295157,
+        "name":"Esh Sheikh Dannūn",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.9941,
+        "lon":35.14805,
+        "pop":2887
+    },
+    {
+        "id":163684,
+        "name":"Tel Qatsir",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.70545,
+        "lon":35.61761,
+        "pop":2878
+    },
+    {
+        "id":294661,
+        "name":"Ibṭīn",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.7615,
+        "lon":35.11402,
+        "pop":2835
+    },
+    {
+        "id":8199382,
+        "name":"Hashmonaim",
+        "country":"IL",
+        "admin1":"Judea and Samaria Area",
+        "admin2":"",
+        "lat":31.92973,
+        "lon":35.0215,
+        "pop":2771
+    },
+    {
+        "id":294607,
+        "name":"Kafr Miṣr",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.64521,
+        "lon":35.42147,
+        "pop":2750
+    },
+    {
+        "id":8265522,
+        "name":"Nofit",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.76226,
+        "lon":35.1477,
+        "pop":2689
+    },
+    {
+        "id":294998,
+        "name":"Giv‘at Brenner",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.86684,
+        "lon":34.80097,
+        "pop":2678
+    },
+    {
+        "id":8340977,
+        "name":"Gan Ner",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.53106,
+        "lon":35.3377,
+        "pop":2670
+    },
+    {
+        "id":8199384,
+        "name":"Kfar NaOranim",
+        "country":"IL",
+        "admin1":null,
+        "admin2":"",
+        "lat":31.91982,
+        "lon":35.03669,
+        "pop":2657
+    },
+    {
+        "id":8199422,
+        "name":"Revava",
+        "country":"IL",
+        "admin1":null,
+        "admin2":"",
+        "lat":32.11926,
+        "lon":35.12896,
+        "pop":2632
+    },
+    {
+        "id":293449,
+        "name":"Sūlam",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.60606,
+        "lon":35.33408,
+        "pop":2609
+    },
+    {
+        "id":173882,
+        "name":"Ghajar",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.27115,
+        "lon":35.62288,
+        "pop":2607
+    },
+    {
+        "id":8264691,
+        "name":"Shimshit",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.73137,
+        "lon":35.24409,
+        "pop":2514
+    },
+    {
+        "id":8199383,
+        "name":"Lapid",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.91764,
+        "lon":35.03222,
+        "pop":2497
+    },
+    {
+        "id":294539,
+        "name":"Niẕẕan",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.73854,
+        "lon":34.62985,
+        "pop":2461
+    },
+    {
+        "id":294099,
+        "name":"Nā‘ūra",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.61403,
+        "lon":35.39168,
+        "pop":2324
+    },
+    {
+        "id":8139973,
+        "name":"Aẖuzzat Baraq",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.64187,
+        "lon":35.33834,
+        "pop":2279
+    },
+    {
+        "id":8072868,
+        "name":"Merkaz Shapira",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.69874,
+        "lon":34.70895,
+        "pop":2210
+    },
+    {
+        "id":390265,
+        "name":"Bet H̱ashmonay",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.88969,
+        "lon":34.91673,
+        "pop":2197
+    },
+    {
+        "id":293319,
+        "name":"Tifraẖ",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.32657,
+        "lon":34.67689,
+        "pop":2178
+    },
+    {
+        "id":8199389,
+        "name":"Na'ale",
+        "country":"IL",
+        "admin1":null,
+        "admin2":"",
+        "lat":31.96236,
+        "lon":35.06553,
+        "pop":2148
+    },
+    {
+        "id":8199379,
+        "name":"Nof Ayalon",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.87111,
+        "lon":34.99081,
+        "pop":2128
+    },
+    {
+        "id":293508,
+        "name":"Shtulim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.77354,
+        "lon":34.68388,
+        "pop":2116
+    },
+    {
+        "id":172119,
+        "name":"‘Ein Qunīya",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.23752,
+        "lon":35.73131,
+        "pop":2098
+    },
+    {
+        "id":295565,
+        "name":"Bareqet",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.01839,
+        "lon":34.94416,
+        "pop":2082
+    },
+    {
+        "id":293580,
+        "name":"Bet Yitsẖaq Sha’ar H̱efer",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.33462,
+        "lon":34.89052,
+        "pop":2079
+    },
+    {
+        "id":294392,
+        "name":"Ma‘galim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.39688,
+        "lon":34.5995,
+        "pop":2061
+    },
+    {
+        "id":443090,
+        "name":"H̱aspin",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.84571,
+        "lon":35.79295,
+        "pop":2055
+    },
+    {
+        "id":386169,
+        "name":"Hosha‘ya",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.75809,
+        "lon":35.2948,
+        "pop":2051
+    },
+    {
+        "id":8140105,
+        "name":"Giv‘at Avni",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.77682,
+        "lon":35.43747,
+        "pop":2049
+    },
+    {
+        "id":386194,
+        "name":"Rumat Heib",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.77802,
+        "lon":35.30571,
+        "pop":2047
+    },
+    {
+        "id":294410,
+        "name":"Ma‘agan Mikha’el",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.55549,
+        "lon":34.91638,
+        "pop":2039
+    },
+    {
+        "id":8374146,
+        "name":"Khirbat Abu Tulūl",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.14229,
+        "lon":34.91424,
+        "pop":2023
+    },
+    {
+        "id":294470,
+        "name":"Meisir",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.44445,
+        "lon":35.04134,
+        "pop":2017
+    },
+    {
+        "id":294498,
+        "name":"Kefar Vitqin",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.38036,
+        "lon":34.87537,
+        "pop":1973
+    },
+    {
+        "id":6929924,
+        "name":"Midreshet Ben-Gurion",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":30.85154,
+        "lon":34.7834,
+        "pop":1972
+    },
+    {
+        "id":8264692,
+        "name":"Giv‘at Ela",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.72377,
+        "lon":35.24469,
+        "pop":1964
+    },
+    {
+        "id":294214,
+        "name":"Migdal",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.8392,
+        "lon":35.50145,
+        "pop":1952
+    },
+    {
+        "id":294003,
+        "name":"Nordiyya",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.3147,
+        "lon":34.89617,
+        "pop":1950
+    },
+    {
+        "id":294508,
+        "name":"Kfar Shmaryahu",
+        "country":"IL",
+        "admin1":"Tel Aviv",
+        "admin2":"",
+        "lat":32.18529,
+        "lon":34.82082,
+        "pop":1938
+    },
+    {
+        "id":293590,
+        "name":"Sha‘alvim",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.86996,
+        "lon":34.98722,
+        "pop":1928
+    },
+    {
+        "id":8265550,
+        "name":"‘Adi",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.78486,
+        "lon":35.17282,
+        "pop":1910
+    },
+    {
+        "id":293585,
+        "name":"Sha‘ar Efrayim",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.29067,
+        "lon":34.9984,
+        "pop":1907
+    },
+    {
+        "id":295730,
+        "name":"Aẖi‘ezer",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.98133,
+        "lon":34.87213,
+        "pop":1906
+    },
+    {
+        "id":294089,
+        "name":"Nein",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.63063,
+        "lon":35.34885,
+        "pop":1876
+    },
+    {
+        "id":295131,
+        "name":"Taiyiba",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.60415,
+        "lon":35.44483,
+        "pop":1843
+    },
+    {
+        "id":295123,
+        "name":"Even Shemu’el",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.57641,
+        "lon":34.76342,
+        "pop":1807
+    },
+    {
+        "id":294093,
+        "name":"Neẖalim",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.06012,
+        "lon":34.91069,
+        "pop":1788
+    },
+    {
+        "id":8199388,
+        "name":"Nili",
+        "country":"IL",
+        "admin1":null,
+        "admin2":"",
+        "lat":31.96396,
+        "lon":35.04853,
+        "pop":1786
+    },
+    {
+        "id":8183071,
+        "name":"Karmé Yosef",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.84833,
+        "lon":34.92024,
+        "pop":1730
+    },
+    {
+        "id":293191,
+        "name":"Yesud HaMa‘ala",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.0592,
+        "lon":35.61033,
+        "pop":1730
+    },
+    {
+        "id":294135,
+        "name":"Na‘an",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.88282,
+        "lon":34.85832,
+        "pop":1717
+    },
+    {
+        "id":295421,
+        "name":"Bet Zayit",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.78233,
+        "lon":35.16161,
+        "pop":1708
+    },
+    {
+        "id":8066409,
+        "name":"‘Aramsha",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.08781,
+        "lon":35.22836,
+        "pop":1682
+    },
+    {
+        "id":295424,
+        "name":"Bet Yitsẖaq",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.32751,
+        "lon":34.88878,
+        "pop":1674
+    },
+    {
+        "id":293648,
+        "name":"Ṣandala",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.52234,
+        "lon":35.32325,
+        "pop":1644
+    },
+    {
+        "id":293248,
+        "name":"Yagur",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.7421,
+        "lon":35.0774,
+        "pop":1617
+    },
+    {
+        "id":294247,
+        "name":"Metulla",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.27918,
+        "lon":35.5795,
+        "pop":1615
+    },
+    {
+        "id":295042,
+        "name":"Gesher HaZiv",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.04039,
+        "lon":35.11065,
+        "pop":1614
+    },
+    {
+        "id":293852,
+        "name":"Qidron",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.81405,
+        "lon":34.79714,
+        "pop":1607
+    },
+    {
+        "id":295185,
+        "name":"Ein Sarid",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.27413,
+        "lon":34.93408,
+        "pop":1603
+    },
+    {
+        "id":294533,
+        "name":"Kfar Hess",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.24714,
+        "lon":34.93562,
+        "pop":1593
+    },
+    {
+        "id":293617,
+        "name":"Sde ‘Uziyyahu",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.75,
+        "lon":34.68333,
+        "pop":1571
+    },
+    {
+        "id":295182,
+        "name":"Ein Vered",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.26667,
+        "lon":34.93333,
+        "pop":1512
+    },
+    {
+        "id":295743,
+        "name":"Afiqim",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.68046,
+        "lon":35.57776,
+        "pop":1511
+    },
+    {
+        "id":293410,
+        "name":"Tel ‘Adashim",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.65627,
+        "lon":35.30216,
+        "pop":1504
+    },
+    {
+        "id":294505,
+        "name":"Kfar Syrkin",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.07804,
+        "lon":34.92261,
+        "pop":1502
+    },
+    {
+        "id":9618076,
+        "name":"Kammana",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.91366,
+        "lon":35.35991,
+        "pop":1495
+    },
+    {
+        "id":295582,
+        "name":"‘Azriqam",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.7507,
+        "lon":34.69933,
+        "pop":1495
+    },
+    {
+        "id":8262019,
+        "name":"Moreshet",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.82859,
+        "lon":35.23466,
+        "pop":1489
+    },
+    {
+        "id":294091,
+        "name":"Neẖusha",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.63064,
+        "lon":34.9531,
+        "pop":1484
+    },
+    {
+        "id":293616,
+        "name":"Sde Warburg",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.20361,
+        "lon":34.90722,
+        "pop":1478
+    },
+    {
+        "id":8309927,
+        "name":"H̱amam",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.82955,
+        "lon":35.49195,
+        "pop":1473
+    },
+    {
+        "id":294537,
+        "name":"Kfar HaRo’e",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.39245,
+        "lon":34.91163,
+        "pop":1460
+    },
+    {
+        "id":293701,
+        "name":"Rishpon",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.20254,
+        "lon":34.82322,
+        "pop":1458
+    },
+    {
+        "id":294980,
+        "name":"Giv‘at Ye‘arim",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.78653,
+        "lon":35.09182,
+        "pop":1455
+    },
+    {
+        "id":295011,
+        "name":"Gilat",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.3276,
+        "lon":34.65202,
+        "pop":1451
+    },
+    {
+        "id":8199393,
+        "name":"Dolev",
+        "country":"IL",
+        "admin1":null,
+        "admin2":"",
+        "lat":31.92609,
+        "lon":35.13393,
+        "pop":1448
+    },
+    {
+        "id":295510,
+        "name":"Bne Re’em",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.77029,
+        "lon":34.79105,
+        "pop":1417
+    },
+    {
+        "id":294079,
+        "name":"Nes Harim",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.74547,
+        "lon":35.0574,
+        "pop":1414
+    },
+    {
+        "id":295439,
+        "name":"Bet Qama",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.44749,
+        "lon":34.76235,
+        "pop":1405
+    },
+    {
+        "id":294204,
+        "name":"Mikhmoret",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.40535,
+        "lon":34.87091,
+        "pop":1403
+    },
+    {
+        "id":386301,
+        "name":"Kammon",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.90891,
+        "lon":35.36075,
+        "pop":1402
+    },
+    {
+        "id":295224,
+        "name":"‘En Boqeq",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.19941,
+        "lon":35.36253,
+        "pop":1400
+    },
+    {
+        "id":11979661,
+        "name":"Yoqneam",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.65497,
+        "lon":35.11381,
+        "pop":1398
+    },
+    {
+        "id":294347,
+        "name":"Ma’or",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.42306,
+        "lon":35.00513,
+        "pop":1398
+    },
+    {
+        "id":294029,
+        "name":"Nir Gallim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.82542,
+        "lon":34.68282,
+        "pop":1396
+    },
+    {
+        "id":9978429,
+        "name":"Manshīyet Zabda",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.70638,
+        "lon":35.19354,
+        "pop":1389
+    },
+    {
+        "id":293291,
+        "name":"Udim",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.26496,
+        "lon":34.84549,
+        "pop":1379
+    },
+    {
+        "id":295728,
+        "name":"Aẖisamakh",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.93503,
+        "lon":34.90739,
+        "pop":1377
+    },
+    {
+        "id":293431,
+        "name":"Tal Shaẖar",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.80466,
+        "lon":34.90271,
+        "pop":1369
+    },
+    {
+        "id":294526,
+        "name":"Kfar Menaẖem",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.73139,
+        "lon":34.83547,
+        "pop":1366
+    },
+    {
+        "id":294517,
+        "name":"Kfar Rosh HaNiqra",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.08607,
+        "lon":35.11348,
+        "pop":1363
+    },
+    {
+        "id":294302,
+        "name":"Matsliaẖ",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.90669,
+        "lon":34.87134,
+        "pop":1363
+    },
+    {
+        "id":294043,
+        "name":"Nevve Yaraq",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.13247,
+        "lon":34.92447,
+        "pop":1348
+    },
+    {
+        "id":390289,
+        "name":"Mazor",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.05115,
+        "lon":34.92291,
+        "pop":1331
+    },
+    {
+        "id":294286,
+        "name":"Megadim",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.72815,
+        "lon":34.95631,
+        "pop":1329
+    },
+    {
+        "id":294785,
+        "name":"H̱emed",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.0159,
+        "lon":34.84284,
+        "pop":1316
+    },
+    {
+        "id":293976,
+        "name":"Ora",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.75519,
+        "lon":35.15613,
+        "pop":1314
+    },
+    {
+        "id":295372,
+        "name":"Bustan HaGalil",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.95119,
+        "lon":35.08298,
+        "pop":1305
+    },
+    {
+        "id":293538,
+        "name":"Shefayim",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.21743,
+        "lon":34.82454,
+        "pop":1302
+    },
+    {
+        "id":294781,
+        "name":"H̱erut",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.24018,
+        "lon":34.91583,
+        "pop":1298
+    },
+    {
+        "id":12031827,
+        "name":"Be'er Ganim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.69973,
+        "lon":34.60978,
+        "pop":1295
+    },
+    {
+        "id":293310,
+        "name":"Timrat",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.70302,
+        "lon":35.22359,
+        "pop":1292
+    },
+    {
+        "id":293009,
+        "name":"Be’er Toviyya",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.73501,
+        "lon":34.72389,
+        "pop":1289
+    },
+    {
+        "id":293038,
+        "name":"Tsofit",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.19423,
+        "lon":34.91957,
+        "pop":1287
+    },
+    {
+        "id":294021,
+        "name":"Nir Tsevi",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.95291,
+        "lon":34.86408,
+        "pop":1286
+    },
+    {
+        "id":295497,
+        "name":"Berekhya",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.66895,
+        "lon":34.6258,
+        "pop":1274
+    },
+    {
+        "id":294185,
+        "name":"Mishmar Ha‘Emeq",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.61045,
+        "lon":35.14227,
+        "pop":1271
+    },
+    {
+        "id":295458,
+        "name":"Bet HaShitta",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.55131,
+        "lon":35.43874,
+        "pop":1263
+    },
+    {
+        "id":295395,
+        "name":"Biẕẕaron",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.79446,
+        "lon":34.72806,
+        "pop":1258
+    },
+    {
+        "id":294558,
+        "name":"Kfar Bilu",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.87702,
+        "lon":34.82108,
+        "pop":1258
+    },
+    {
+        "id":295284,
+        "name":"‘Ein Rāfa",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.7902,
+        "lon":35.11528,
+        "pop":1250
+    },
+    {
+        "id":295212,
+        "name":"‘En HaMifrats",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.90308,
+        "lon":35.09619,
+        "pop":1249
+    },
+    {
+        "id":295455,
+        "name":"Bet H̱ilqiyya",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.79281,
+        "lon":34.81048,
+        "pop":1248
+    },
+    {
+        "id":293476,
+        "name":"Shoresh",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.79711,
+        "lon":35.06525,
+        "pop":1247
+    },
+    {
+        "id":295143,
+        "name":"Eshta’ol",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.78072,
+        "lon":35.00994,
+        "pop":1238
+    },
+    {
+        "id":294395,
+        "name":"Mabbu‘im",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.44965,
+        "lon":34.65477,
+        "pop":1235
+    },
+    {
+        "id":293620,
+        "name":"Sde Neẖemya",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.18756,
+        "lon":35.62235,
+        "pop":1235
+    },
+    {
+        "id":293906,
+        "name":"Poriyya",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.74311,
+        "lon":35.53816,
+        "pop":1234
+    },
+    {
+        "id":10860931,
+        "name":"Giv'ot Bar",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.3565,
+        "lon":34.75525,
+        "pop":1230
+    },
+    {
+        "id":294252,
+        "name":"Mesillat Tsiyyon",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.802,
+        "lon":35.01095,
+        "pop":1215
+    },
+    {
+        "id":295545,
+        "name":"Batsra",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.21412,
+        "lon":34.87676,
+        "pop":1213
+    },
+    {
+        "id":294147,
+        "name":"Motsa ‘Illit",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.79357,
+        "lon":35.15776,
+        "pop":1212
+    },
+    {
+        "id":293679,
+        "name":"Rummāna",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.78783,
+        "lon":35.31091,
+        "pop":1212
+    },
+    {
+        "id":293187,
+        "name":"Yif‘at",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.6775,
+        "lon":35.22333,
+        "pop":1208
+    },
+    {
+        "id":295007,
+        "name":"Gimzo",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.92846,
+        "lon":34.94154,
+        "pop":1206
+    },
+    {
+        "id":293543,
+        "name":"Shave Tsiyyon",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.98098,
+        "lon":35.08331,
+        "pop":1205
+    },
+    {
+        "id":293305,
+        "name":"Tirat Yehuda",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.01392,
+        "lon":34.9342,
+        "pop":1201
+    },
+    {
+        "id":295037,
+        "name":"Geva‘ Karmel",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.66002,
+        "lon":34.94874,
+        "pop":1200
+    },
+    {
+        "id":12156602,
+        "name":"Drijat",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.30069,
+        "lon":35.07632,
+        "pop":1199
+    },
+    {
+        "id":295263,
+        "name":"Elishama‘",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.15208,
+        "lon":34.92827,
+        "pop":1199
+    },
+    {
+        "id":293182,
+        "name":"Yinnon",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.74199,
+        "lon":34.78229,
+        "pop":1197
+    },
+    {
+        "id":293706,
+        "name":"Riẖaniya",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.04904,
+        "lon":35.48815,
+        "pop":1195
+    },
+    {
+        "id":293704,
+        "name":"Rinnatya",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.04428,
+        "lon":34.9276,
+        "pop":1195
+    },
+    {
+        "id":294521,
+        "name":"Kfar Netter",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.273,
+        "lon":34.87349,
+        "pop":1193
+    },
+    {
+        "id":294532,
+        "name":"Kfar H̱ittim",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.79961,
+        "lon":35.50276,
+        "pop":1190
+    },
+    {
+        "id":8261862,
+        "name":"Tal El",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.92825,
+        "lon":35.18128,
+        "pop":1186
+    },
+    {
+        "id":294092,
+        "name":"Nehora",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.62276,
+        "lon":34.70424,
+        "pop":1181
+    },
+    {
+        "id":294995,
+        "name":"Giv‘at H̱ayyim Iẖud",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.39775,
+        "lon":34.93213,
+        "pop":1176
+    },
+    {
+        "id":295480,
+        "name":"Bet ‘Arif",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.99622,
+        "lon":34.93459,
+        "pop":1174
+    },
+    {
+        "id":295511,
+        "name":"Bne Dror",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.2615,
+        "lon":34.90196,
+        "pop":1171
+    },
+    {
+        "id":294295,
+        "name":"Matsuva",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.06375,
+        "lon":35.15761,
+        "pop":1165
+    },
+    {
+        "id":294674,
+        "name":"H̱ulda",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.83176,
+        "lon":34.88231,
+        "pop":1163
+    },
+    {
+        "id":294928,
+        "name":"H̱agor",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.13932,
+        "lon":34.94695,
+        "pop":1162
+    },
+    {
+        "id":293905,
+        "name":"Poria Illit",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.7319,
+        "lon":35.54635,
+        "pop":1162
+    },
+    {
+        "id":293755,
+        "name":"Ramot Menashe",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.59784,
+        "lon":35.05656,
+        "pop":1159
+    },
+    {
+        "id":294044,
+        "name":"Nevve Yamin",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.17217,
+        "lon":34.9393,
+        "pop":1155
+    },
+    {
+        "id":295225,
+        "name":"‘En Ayyala",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.62899,
+        "lon":34.94483,
+        "pop":1150
+    },
+    {
+        "id":295635,
+        "name":"‘Arugot",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.73503,
+        "lon":34.77016,
+        "pop":1147
+    },
+    {
+        "id":295535,
+        "name":"Be’erotayim",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.32111,
+        "lon":34.98324,
+        "pop":1143
+    },
+    {
+        "id":294497,
+        "name":"Kfar Warburg",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.71945,
+        "lon":34.72405,
+        "pop":1143
+    },
+    {
+        "id":12156768,
+        "name":"Tirabin al-Sana",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.34479,
+        "lon":34.73867,
+        "pop":1139
+    },
+    {
+        "id":294388,
+        "name":"Maggal",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.38506,
+        "lon":35.0368,
+        "pop":1139
+    },
+    {
+        "id":295181,
+        "name":"‘En Ya‘aqov",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.00977,
+        "lon":35.22982,
+        "pop":1137
+    },
+    {
+        "id":295375,
+        "name":"Burgata",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.32635,
+        "lon":34.96236,
+        "pop":1136
+    },
+    {
+        "id":294680,
+        "name":"H̱osen",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.99824,
+        "lon":35.29807,
+        "pop":1135
+    },
+    {
+        "id":295587,
+        "name":"Ayyelet HaShaẖar",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.02224,
+        "lon":35.57716,
+        "pop":1134
+    },
+    {
+        "id":295504,
+        "name":"Ben Zakkay",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.85612,
+        "lon":34.72747,
+        "pop":1132
+    },
+    {
+        "id":293985,
+        "name":"‘Olesh",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.33199,
+        "lon":34.98558,
+        "pop":1131
+    },
+    {
+        "id":293785,
+        "name":"Ramat HaKovésh",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.21768,
+        "lon":34.93815,
+        "pop":1130
+    },
+    {
+        "id":293256,
+        "name":"Yad Rambam",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.89997,
+        "lon":34.90027,
+        "pop":1124
+    },
+    {
+        "id":293094,
+        "name":"Zekharya",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.70927,
+        "lon":34.94488,
+        "pop":1124
+    },
+    {
+        "id":293605,
+        "name":"Segev",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.86602,
+        "lon":35.25189,
+        "pop":1121
+    },
+    {
+        "id":8265539,
+        "name":"Allon HaGalil",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.75742,
+        "lon":35.22089,
+        "pop":1118
+    },
+    {
+        "id":293284,
+        "name":"Umm el Quṭūf",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.46718,
+        "lon":35.05811,
+        "pop":1117
+    },
+    {
+        "id":295471,
+        "name":"Bet ‘Ezra",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.73606,
+        "lon":34.65594,
+        "pop":1116
+    },
+    {
+        "id":8199387,
+        "name":"Beit Horon",
+        "country":"IL",
+        "admin1":null,
+        "admin2":"",
+        "lat":31.87581,
+        "lon":35.12999,
+        "pop":1115
+    },
+    {
+        "id":294012,
+        "name":"Niẕẕané ‘Oz",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.306,
+        "lon":35.00374,
+        "pop":1115
+    },
+    {
+        "id":293615,
+        "name":"Sde Ya‘aqov",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.69,
+        "lon":35.13861,
+        "pop":1103
+    },
+    {
+        "id":293455,
+        "name":"Sitriyya",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.89238,
+        "lon":34.8438,
+        "pop":1102
+    },
+    {
+        "id":293781,
+        "name":"Ramat HaShofet",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.61102,
+        "lon":35.09472,
+        "pop":1101
+    },
+    {
+        "id":293080,
+        "name":"Tsrufa",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.64824,
+        "lon":34.94991,
+        "pop":1097
+    },
+    {
+        "id":293729,
+        "name":"Regba",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.97721,
+        "lon":35.09864,
+        "pop":1096
+    },
+    {
+        "id":293608,
+        "name":"Sdot Yam",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.49213,
+        "lon":34.89224,
+        "pop":1096
+    },
+    {
+        "id":8265537,
+        "name":"Harduf",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.76342,
+        "lon":35.17469,
+        "pop":1095
+    },
+    {
+        "id":386266,
+        "name":"Yuvallim",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.87756,
+        "lon":35.27031,
+        "pop":1093
+    },
+    {
+        "id":295727,
+        "name":"Aẖituv",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.38873,
+        "lon":34.99072,
+        "pop":1093
+    },
+    {
+        "id":8310823,
+        "name":"Gilon",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.90261,
+        "lon":35.23452,
+        "pop":1092
+    },
+    {
+        "id":293718,
+        "name":"Reshafim",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.48126,
+        "lon":35.4762,
+        "pop":1089
+    },
+    {
+        "id":295696,
+        "name":"‘Amminadav",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.75212,
+        "lon":35.14733,
+        "pop":1086
+    },
+    {
+        "id":295576,
+        "name":"Baẖan",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.35082,
+        "lon":35.01862,
+        "pop":1084
+    },
+    {
+        "id":294422,
+        "name":"Li On",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.67744,
+        "lon":34.93464,
+        "pop":1082
+    },
+    {
+        "id":293231,
+        "name":"Yarẖiv",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.15239,
+        "lon":34.9679,
+        "pop":1082
+    },
+    {
+        "id":295484,
+        "name":"Bet Alfa",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.51609,
+        "lon":35.43068,
+        "pop":1075
+    },
+    {
+        "id":293711,
+        "name":"Revivim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.04395,
+        "lon":34.72183,
+        "pop":1075
+    },
+    {
+        "id":8309435,
+        "name":"Bar Yuẖay",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.99848,
+        "lon":35.44419,
+        "pop":1072
+    },
+    {
+        "id":8262022,
+        "name":"Mitspe Aviv",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.83907,
+        "lon":35.19921,
+        "pop":1070
+    },
+    {
+        "id":295513,
+        "name":"Moledet",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.58613,
+        "lon":35.44201,
+        "pop":1068
+    },
+    {
+        "id":8199390,
+        "name":"Giv'on HaHadasha",
+        "country":"IL",
+        "admin1":null,
+        "admin2":"",
+        "lat":31.84927,
+        "lon":35.16106,
+        "pop":1067
+    },
+    {
+        "id":294322,
+        "name":"Mash‘én",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.65791,
+        "lon":34.62309,
+        "pop":1064
+    },
+    {
+        "id":293078,
+        "name":"Zetan",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.97534,
+        "lon":34.88928,
+        "pop":1064
+    },
+    {
+        "id":294805,
+        "name":"HaZore‘im",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.74707,
+        "lon":35.50274,
+        "pop":1060
+    },
+    {
+        "id":294177,
+        "name":"Mishmeret",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.22818,
+        "lon":34.91835,
+        "pop":1059
+    },
+    {
+        "id":386234,
+        "name":"Raqqefet",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.85744,
+        "lon":35.26142,
+        "pop":1057
+    },
+    {
+        "id":294616,
+        "name":"Kabri",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.0209,
+        "lon":35.14835,
+        "pop":1054
+    },
+    {
+        "id":294449,
+        "name":"Kokhav Michael Sobell",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.62804,
+        "lon":34.66904,
+        "pop":1053
+    },
+    {
+        "id":295538,
+        "name":"Be’eri",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.42426,
+        "lon":34.49163,
+        "pop":1049
+    },
+    {
+        "id":294992,
+        "name":"Giv‘ati",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.733,
+        "lon":34.67995,
+        "pop":1047
+    },
+    {
+        "id":295425,
+        "name":"Bet Yehoshua‘",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.25942,
+        "lon":34.86414,
+        "pop":1046
+    },
+    {
+        "id":293092,
+        "name":"Tselafon",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.80462,
+        "lon":34.9321,
+        "pop":1044
+    },
+    {
+        "id":294520,
+        "name":"Kfar Pines",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.48372,
+        "lon":35.00294,
+        "pop":1034
+    },
+    {
+        "id":295536,
+        "name":"Be’er Ora",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":29.71053,
+        "lon":34.98019,
+        "pop":1033
+    },
+    {
+        "id":294273,
+        "name":"Menaẖemya",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.66662,
+        "lon":35.555,
+        "pop":1033
+    },
+    {
+        "id":295241,
+        "name":"Elon",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.06365,
+        "lon":35.22009,
+        "pop":1031
+    },
+    {
+        "id":8140106,
+        "name":"Mitspe Netofa",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.80287,
+        "lon":35.38291,
+        "pop":1029
+    },
+    {
+        "id":295223,
+        "name":"‘En Dor",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.65614,
+        "lon":35.41703,
+        "pop":1026
+    },
+    {
+        "id":294288,
+        "name":"Mefallesim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.50125,
+        "lon":34.5637,
+        "pop":1024
+    },
+    {
+        "id":294178,
+        "name":"Mishmarot",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.48718,
+        "lon":34.98324,
+        "pop":1024
+    },
+    {
+        "id":294435,
+        "name":"Lahavot H̱aviva",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.39517,
+        "lon":35.00977,
+        "pop":1021
+    },
+    {
+        "id":293336,
+        "name":"Tel Yitsẖaq",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.25327,
+        "lon":34.87034,
+        "pop":1021
+    },
+    {
+        "id":295470,
+        "name":"Bet Gamli’él",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.85555,
+        "lon":34.76249,
+        "pop":1019
+    },
+    {
+        "id":293624,
+        "name":"Sde H̱emed",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.16043,
+        "lon":34.94347,
+        "pop":1019
+    },
+    {
+        "id":295437,
+        "name":"Bet Rabban",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.81677,
+        "lon":34.72937,
+        "pop":1018
+    },
+    {
+        "id":295467,
+        "name":"Bet Guvrin",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.61294,
+        "lon":34.89571,
+        "pop":1016
+    },
+    {
+        "id":293774,
+        "name":"Ramat Yoẖanan",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.79308,
+        "lon":35.12226,
+        "pop":1012
+    },
+    {
+        "id":295331,
+        "name":"Dvira",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.41222,
+        "lon":34.8254,
+        "pop":1007
+    },
+    {
+        "id":10247989,
+        "name":"Giv‘at H̱ayyim Me’uẖad",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.39171,
+        "lon":34.93115,
+        "pop":1006
+    },
+    {
+        "id":294184,
+        "name":"Mishmar HaNegev",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.36416,
+        "lon":34.7187,
+        "pop":1005
+    },
+    {
+        "id":295625,
+        "name":"Ashdot Ya‘aqov Iẖud",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.65843,
+        "lon":35.58117,
+        "pop":1003
+    },
+    {
+        "id":293228,
+        "name":"Yashresh",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.91481,
+        "lon":34.84911,
+        "pop":1001
+    },
+    {
+        "id":295632,
+        "name":"‘Aseret",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.82508,
+        "lon":34.74739,
+        "pop":998
+    },
+    {
+        "id":293434,
+        "name":"Talmé Yeẖi’él",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.7521,
+        "lon":34.76316,
+        "pop":997
+    },
+    {
+        "id":294063,
+        "name":"Nevatim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.22417,
+        "lon":34.88098,
+        "pop":996
+    },
+    {
+        "id":295716,
+        "name":"Allone Abba",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.73016,
+        "lon":35.17138,
+        "pop":991
+    },
+    {
+        "id":295079,
+        "name":"Gan Yoshiyya",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.34928,
+        "lon":34.99398,
+        "pop":990
+    },
+    {
+        "id":295065,
+        "name":"Ge’alya",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.88419,
+        "lon":34.76568,
+        "pop":990
+    },
+    {
+        "id":294258,
+        "name":"Meron",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.9878,
+        "lon":35.44087,
+        "pop":985
+    },
+    {
+        "id":294030,
+        "name":"Nir ‘Etsyon",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.69861,
+        "lon":34.99448,
+        "pop":985
+    },
+    {
+        "id":295228,
+        "name":"Emunim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.74391,
+        "lon":34.6754,
+        "pop":979
+    },
+    {
+        "id":293766,
+        "name":"Ram On",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.52787,
+        "lon":35.25774,
+        "pop":976
+    },
+    {
+        "id":294782,
+        "name":"H̱erev Le’et",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.40136,
+        "lon":34.91616,
+        "pop":972
+    },
+    {
+        "id":293057,
+        "name":"Tsippori",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.74535,
+        "lon":35.28003,
+        "pop":972
+    },
+    {
+        "id":293133,
+        "name":"Tsafriyya",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.00354,
+        "lon":34.85588,
+        "pop":971
+    },
+    {
+        "id":295066,
+        "name":"Ge’a",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.62696,
+        "lon":34.60334,
+        "pop":970
+    },
+    {
+        "id":294095,
+        "name":"Negba",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.66237,
+        "lon":34.68324,
+        "pop":969
+    },
+    {
+        "id":295402,
+        "name":"Biriyya",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.97832,
+        "lon":35.49973,
+        "pop":968
+    },
+    {
+        "id":295040,
+        "name":"Ge’ullim",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.29962,
+        "lon":34.94514,
+        "pop":968
+    },
+    {
+        "id":293259,
+        "name":"Yad H̱anna",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.32561,
+        "lon":35.00745,
+        "pop":968
+    },
+    {
+        "id":443088,
+        "name":"Nov",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.83283,
+        "lon":35.7836,
+        "pop":965
+    },
+    {
+        "id":386272,
+        "name":"Eshẖar",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.8864,
+        "lon":35.30059,
+        "pop":965
+    },
+    {
+        "id":295367,
+        "name":"Dafna",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.23013,
+        "lon":35.63867,
+        "pop":965
+    },
+    {
+        "id":294244,
+        "name":"Mevo Betar",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.72177,
+        "lon":35.10669,
+        "pop":965
+    },
+    {
+        "id":295516,
+        "name":"Bne ‘Atarot",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.02364,
+        "lon":34.91288,
+        "pop":964
+    },
+    {
+        "id":293857,
+        "name":"Qvutsat Yavne",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.81555,
+        "lon":34.7208,
+        "pop":964
+    },
+    {
+        "id":8312758,
+        "name":"H̱annaton",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.78366,
+        "lon":35.2446,
+        "pop":963
+    },
+    {
+        "id":294263,
+        "name":"Me‘ona",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.01685,
+        "lon":35.2595,
+        "pop":963
+    },
+    {
+        "id":295085,
+        "name":"Gannot Hadar",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.32244,
+        "lon":34.90178,
+        "pop":960
+    },
+    {
+        "id":294053,
+        "name":"Neve Ilan",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.80858,
+        "lon":35.08029,
+        "pop":959
+    },
+    {
+        "id":282163,
+        "name":"Kiryat Netafim",
+        "country":"IL",
+        "admin1":null,
+        "admin2":"",
+        "lat":32.11689,
+        "lon":35.11222,
+        "pop":958
+    },
+    {
+        "id":294507,
+        "name":"Kfar Shmu’el",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.89032,
+        "lon":34.93152,
+        "pop":956
+    },
+    {
+        "id":293293,
+        "name":"Tushiyya",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.43327,
+        "lon":34.54109,
+        "pop":955
+    },
+    {
+        "id":295492,
+        "name":"Beror H̱ayil",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.55764,
+        "lon":34.64664,
+        "pop":954
+    },
+    {
+        "id":9194273,
+        "name":"Nevve Ziv",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.02677,
+        "lon":35.18448,
+        "pop":950
+    },
+    {
+        "id":294186,
+        "name":"Mishmar David",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.8228,
+        "lon":34.90051,
+        "pop":949
+    },
+    {
+        "id":293936,
+        "name":"Pattish",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.32794,
+        "lon":34.55906,
+        "pop":947
+    },
+    {
+        "id":293437,
+        "name":"Talmé El‘azar",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.44566,
+        "lon":34.97717,
+        "pop":945
+    },
+    {
+        "id":293419,
+        "name":"Tarum",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.78289,
+        "lon":34.98096,
+        "pop":945
+    },
+    {
+        "id":294525,
+        "name":"Kfar Monash",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.3471,
+        "lon":34.91628,
+        "pop":943
+    },
+    {
+        "id":293235,
+        "name":"Yanuv",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.30627,
+        "lon":34.9503,
+        "pop":936
+    },
+    {
+        "id":295083,
+        "name":"Gan Shmu’el",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.4492,
+        "lon":34.95234,
+        "pop":933
+    },
+    {
+        "id":295035,
+        "name":"Gvat",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.67547,
+        "lon":35.21247,
+        "pop":933
+    },
+    {
+        "id":294844,
+        "name":"HaSolelim",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.7513,
+        "lon":35.23727,
+        "pop":932
+    },
+    {
+        "id":294127,
+        "name":"Nahalal",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.6904,
+        "lon":35.19648,
+        "pop":930
+    },
+    {
+        "id":293406,
+        "name":"Telamim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.56471,
+        "lon":34.67177,
+        "pop":929
+    },
+    {
+        "id":386233,
+        "name":"Qoranit",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.84388,
+        "lon":35.25179,
+        "pop":927
+    },
+    {
+        "id":8199421,
+        "name":"Nirit",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.14677,
+        "lon":34.98622,
+        "pop":926
+    },
+    {
+        "id":294881,
+        "name":"H̱anni’el",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.33306,
+        "lon":34.95051,
+        "pop":923
+    },
+    {
+        "id":295203,
+        "name":"‘En Karmel",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.67697,
+        "lon":34.95304,
+        "pop":922
+    },
+    {
+        "id":294878,
+        "name":"Ha‘Ogen",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.3621,
+        "lon":34.92392,
+        "pop":922
+    },
+    {
+        "id":293558,
+        "name":"Shamir",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.16587,
+        "lon":35.66035,
+        "pop":922
+    },
+    {
+        "id":293576,
+        "name":"Shafir",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.69686,
+        "lon":34.72971,
+        "pop":920
+    },
+    {
+        "id":293249,
+        "name":"Yagel",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.98775,
+        "lon":34.88026,
+        "pop":918
+    },
+    {
+        "id":295457,
+        "name":"Beit H̱erut",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.37623,
+        "lon":34.87357,
+        "pop":916
+    },
+    {
+        "id":294806,
+        "name":"HaZorea‘",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.64572,
+        "lon":35.11883,
+        "pop":914
+    },
+    {
+        "id":293464,
+        "name":"Kfar H̱oshen",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.01209,
+        "lon":35.44049,
+        "pop":910
+    },
+    {
+        "id":295459,
+        "name":"Bet H̱ananya",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.52913,
+        "lon":34.92596,
+        "pop":907
+    },
+    {
+        "id":295512,
+        "name":"Bne Darom",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.82034,
+        "lon":34.69235,
+        "pop":903
+    },
+    {
+        "id":294991,
+        "name":"Giv‘at Koaẖ",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.03117,
+        "lon":34.93657,
+        "pop":903
+    },
+    {
+        "id":295729,
+        "name":"Aẖihud",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.90836,
+        "lon":35.17137,
+        "pop":892
+    },
+    {
+        "id":8071775,
+        "name":"Netiv Ha‘Asara",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.57201,
+        "lon":34.53955,
+        "pop":891
+    },
+    {
+        "id":295290,
+        "name":"‘Ein el Asad",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.94137,
+        "lon":35.39639,
+        "pop":886
+    },
+    {
+        "id":295754,
+        "name":"Adderet",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.66071,
+        "lon":34.99564,
+        "pop":883
+    },
+    {
+        "id":293640,
+        "name":"Sarid",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.66345,
+        "lon":35.22556,
+        "pop":883
+    },
+    {
+        "id":293571,
+        "name":"Shaẖar",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.61923,
+        "lon":34.72416,
+        "pop":879
+    },
+    {
+        "id":295449,
+        "name":"Bet Me’ir",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.79393,
+        "lon":35.03689,
+        "pop":878
+    },
+    {
+        "id":294567,
+        "name":"Kfar Ahim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.7448,
+        "lon":34.75681,
+        "pop":877
+    },
+    {
+        "id":294023,
+        "name":"Nir Yisra’el",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.6881,
+        "lon":34.6378,
+        "pop":877
+    },
+    {
+        "id":386195,
+        "name":"Bet Rimmon",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.77995,
+        "lon":35.32766,
+        "pop":876
+    },
+    {
+        "id":295606,
+        "name":"Avi‘ezer",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.68161,
+        "lon":35.01767,
+        "pop":875
+    },
+    {
+        "id":294942,
+        "name":"H̱adid",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.96846,
+        "lon":34.93373,
+        "pop":875
+    },
+    {
+        "id":295508,
+        "name":"Ben Shemen",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.95281,
+        "lon":34.922,
+        "pop":870
+    },
+    {
+        "id":294997,
+        "name":"Giv‘at HaShlosha",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.09854,
+        "lon":34.92159,
+        "pop":870
+    },
+    {
+        "id":294910,
+        "name":"HaMa‘pil",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.37802,
+        "lon":34.98337,
+        "pop":869
+    },
+    {
+        "id":294528,
+        "name":"Kfar Masaryk",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.89019,
+        "lon":35.09889,
+        "pop":868
+    },
+    {
+        "id":293227,
+        "name":"Yas‘ur",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.90038,
+        "lon":35.16578,
+        "pop":867
+    },
+    {
+        "id":294754,
+        "name":"H̱ogla",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.38767,
+        "lon":34.92759,
+        "pop":865
+    },
+    {
+        "id":295430,
+        "name":"Bet Shiqma",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.63589,
+        "lon":34.60636,
+        "pop":863
+    },
+    {
+        "id":295178,
+        "name":"‘En Ẕurim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.69464,
+        "lon":34.7194,
+        "pop":863
+    },
+    {
+        "id":8261970,
+        "name":"Manof",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.85399,
+        "lon":35.23684,
+        "pop":862
+    },
+    {
+        "id":295360,
+        "name":"Dalton",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.01635,
+        "lon":35.48902,
+        "pop":862
+    },
+    {
+        "id":295206,
+        "name":"‘En HaShofet",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.59472,
+        "lon":35.09917,
+        "pop":861
+    },
+    {
+        "id":294318,
+        "name":"Maslul",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.32485,
+        "lon":34.59056,
+        "pop":859
+    },
+    {
+        "id":294924,
+        "name":"HaH̱oterim",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.75179,
+        "lon":34.95694,
+        "pop":858
+    },
+    {
+        "id":293669,
+        "name":"Sa‘ar",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.02852,
+        "lon":35.10951,
+        "pop":858
+    },
+    {
+        "id":294559,
+        "name":"Kfar Bialik",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.82126,
+        "lon":35.08756,
+        "pop":855
+    },
+    {
+        "id":293672,
+        "name":"Sa‘ad",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.47142,
+        "lon":34.53465,
+        "pop":854
+    },
+    {
+        "id":293050,
+        "name":"Ziqim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.60681,
+        "lon":34.52154,
+        "pop":852
+    },
+    {
+        "id":294051,
+        "name":"Nevve Mikha’el",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.67298,
+        "lon":35.00876,
+        "pop":849
+    },
+    {
+        "id":295464,
+        "name":"Bet HaGaddi",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.42516,
+        "lon":34.60601,
+        "pop":847
+    },
+    {
+        "id":295119,
+        "name":"‘Evron",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.99556,
+        "lon":35.10092,
+        "pop":847
+    },
+    {
+        "id":294854,
+        "name":"H̱arutsim",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.22759,
+        "lon":34.86486,
+        "pop":846
+    },
+    {
+        "id":295314,
+        "name":"Dorot",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.50646,
+        "lon":34.6456,
+        "pop":843
+    },
+    {
+        "id":295213,
+        "name":"‘En HaH̱oresh",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.38629,
+        "lon":34.93967,
+        "pop":836
+    },
+    {
+        "id":295226,
+        "name":"‘Enat",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.08318,
+        "lon":34.93866,
+        "pop":829
+    },
+    {
+        "id":295461,
+        "name":"Bet HaLevi",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.35285,
+        "lon":34.93012,
+        "pop":828
+    },
+    {
+        "id":295605,
+        "name":"Avigdor",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.71083,
+        "lon":34.7444,
+        "pop":826
+    },
+    {
+        "id":294979,
+        "name":"Giv‘at Yesha‘yahu",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.67119,
+        "lon":34.94472,
+        "pop":824
+    },
+    {
+        "id":293215,
+        "name":"Yatsits",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.86396,
+        "lon":34.8614,
+        "pop":822
+    },
+    {
+        "id":295607,
+        "name":"Avi’el",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.53195,
+        "lon":34.9936,
+        "pop":821
+    },
+    {
+        "id":294926,
+        "name":"HaGosherim",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.22061,
+        "lon":35.62331,
+        "pop":820
+    },
+    {
+        "id":293475,
+        "name":"Shoval",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.41337,
+        "lon":34.74378,
+        "pop":820
+    },
+    {
+        "id":295102,
+        "name":"Ga‘ash",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.22854,
+        "lon":34.82388,
+        "pop":819
+    },
+    {
+        "id":293435,
+        "name":"Talmé Yafe",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.61734,
+        "lon":34.61273,
+        "pop":818
+    },
+    {
+        "id":8072917,
+        "name":"‘Ézer",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.737,
+        "lon":34.6714,
+        "pop":817
+    },
+    {
+        "id":295363,
+        "name":"Daliyya",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.58982,
+        "lon":35.07514,
+        "pop":815
+    },
+    {
+        "id":386232,
+        "name":"Shekhanya",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.84851,
+        "lon":35.24682,
+        "pop":814
+    },
+    {
+        "id":293712,
+        "name":"Revadim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.77342,
+        "lon":34.81661,
+        "pop":813
+    },
+    {
+        "id":294404,
+        "name":"Ma‘anit",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.45617,
+        "lon":35.02889,
+        "pop":812
+    },
+    {
+        "id":443092,
+        "name":"H̱ad Nes",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.92686,
+        "lon":35.64228,
+        "pop":810
+    },
+    {
+        "id":294179,
+        "name":"Mishmar HaYarden",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.00333,
+        "lon":35.59806,
+        "pop":810
+    },
+    {
+        "id":293626,
+        "name":"Sde Eli‘ezer",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.04606,
+        "lon":35.56466,
+        "pop":809
+    },
+    {
+        "id":293621,
+        "name":"Sde Naẖum",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.52562,
+        "lon":35.48094,
+        "pop":806
+    },
+    {
+        "id":295214,
+        "name":"‘En Ha‘Emeq",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.62995,
+        "lon":35.08412,
+        "pop":803
+    },
+    {
+        "id":294256,
+        "name":"Meshar",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.81613,
+        "lon":34.75293,
+        "pop":795
+    },
+    {
+        "id":294399,
+        "name":"Midrakh ‘Oz",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.59517,
+        "lon":35.15912,
+        "pop":794
+    },
+    {
+        "id":294406,
+        "name":"Ma‘alé HaH̱amisha",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.81812,
+        "lon":35.11109,
+        "pop":793
+    },
+    {
+        "id":295501,
+        "name":"Beqoa‘",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.82902,
+        "lon":34.92579,
+        "pop":786
+    },
+    {
+        "id":386251,
+        "name":"Lotem",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.88179,
+        "lon":35.35882,
+        "pop":782
+    },
+    {
+        "id":295398,
+        "name":"Bitẖa",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.33431,
+        "lon":34.63371,
+        "pop":777
+    },
+    {
+        "id":293317,
+        "name":"Timmorim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.71534,
+        "lon":34.76127,
+        "pop":777
+    },
+    {
+        "id":295456,
+        "name":"Bet Hillel",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.20855,
+        "lon":35.60697,
+        "pop":775
+    },
+    {
+        "id":294757,
+        "name":"H̱ofit",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.38565,
+        "lon":34.87425,
+        "pop":774
+    },
+    {
+        "id":9618071,
+        "name":"Ḥuseinīya",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.903,
+        "lon":35.31417,
+        "pop":773
+    },
+    {
+        "id":8199381,
+        "name":"Shilat",
+        "country":"IL",
+        "admin1":null,
+        "admin2":"",
+        "lat":31.91931,
+        "lon":35.01763,
+        "pop":771
+    },
+    {
+        "id":293177,
+        "name":"Yish‘i",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.75064,
+        "lon":34.96653,
+        "pop":771
+    },
+    {
+        "id":293233,
+        "name":"Yaqum",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.24895,
+        "lon":34.84323,
+        "pop":770
+    },
+    {
+        "id":293965,
+        "name":"Or HaNer",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.55701,
+        "lon":34.60202,
+        "pop":769
+    },
+    {
+        "id":294307,
+        "name":"Ma‘yan Barukh",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.24032,
+        "lon":35.609,
+        "pop":767
+    },
+    {
+        "id":295518,
+        "name":"Ben ‘Ammi",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.00697,
+        "lon":35.12562,
+        "pop":766
+    },
+    {
+        "id":294555,
+        "name":"Kfar Blum",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.17172,
+        "lon":35.60982,
+        "pop":766
+    },
+    {
+        "id":8071778,
+        "name":"Bat Hadar",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.64773,
+        "lon":34.59661,
+        "pop":760
+    },
+    {
+        "id":293622,
+        "name":"Sde Moshe",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.61148,
+        "lon":34.80174,
+        "pop":760
+    },
+    {
+        "id":294164,
+        "name":"Mizra‘",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.65029,
+        "lon":35.28563,
+        "pop":757
+    },
+    {
+        "id":294884,
+        "name":"H̱anita",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.08746,
+        "lon":35.17364,
+        "pop":756
+    },
+    {
+        "id":293264,
+        "name":"Ya‘ara",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.06755,
+        "lon":35.18704,
+        "pop":752
+    },
+    {
+        "id":294557,
+        "name":"Kfar Bin Nun",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.86205,
+        "lon":34.94762,
+        "pop":749
+    },
+    {
+        "id":294306,
+        "name":"Ma‘yan Tsvi",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.5686,
+        "lon":34.94063,
+        "pop":749
+    },
+    {
+        "id":8066329,
+        "name":"Kelil",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.98151,
+        "lon":35.20335,
+        "pop":748
+    },
+    {
+        "id":295357,
+        "name":"Dan",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.23979,
+        "lon":35.65335,
+        "pop":745
+    },
+    {
+        "id":295447,
+        "name":"Bet Neqofa",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.80452,
+        "lon":35.12595,
+        "pop":744
+    },
+    {
+        "id":295180,
+        "name":"‘En Yahav",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":30.65817,
+        "lon":35.23746,
+        "pop":742
+    },
+    {
+        "id":293583,
+        "name":"Sha‘ar Ha‘Amaqim",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.7231,
+        "lon":35.11136,
+        "pop":738
+    },
+    {
+        "id":293258,
+        "name":"Yad Mordekhay",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.58902,
+        "lon":34.55815,
+        "pop":737
+    },
+    {
+        "id":293242,
+        "name":"Yakhini",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.48274,
+        "lon":34.59911,
+        "pop":734
+    },
+    {
+        "id":294794,
+        "name":"H̱eftsi Bah",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.51784,
+        "lon":35.42611,
+        "pop":733
+    },
+    {
+        "id":295124,
+        "name":"Even Sappir",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.76319,
+        "lon":35.13422,
+        "pop":730
+    },
+    {
+        "id":294989,
+        "name":"Giv‘at Nili",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.54864,
+        "lon":35.04026,
+        "pop":730
+    },
+    {
+        "id":294032,
+        "name":"Nir David",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.50406,
+        "lon":35.45708,
+        "pop":729
+    },
+    {
+        "id":293209,
+        "name":"Yeẖi‘am",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.99663,
+        "lon":35.22078,
+        "pop":729
+    },
+    {
+        "id":294771,
+        "name":"H̱ibbat Tsiyyon",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.39731,
+        "lon":34.91249,
+        "pop":727
+    },
+    {
+        "id":294033,
+        "name":"Nir Banim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.67178,
+        "lon":34.75482,
+        "pop":726
+    },
+    {
+        "id":8199391,
+        "name":"Nahliel",
+        "country":"IL",
+        "admin1":null,
+        "admin2":"",
+        "lat":31.97415,
+        "lon":35.13994,
+        "pop":725
+    },
+    {
+        "id":294024,
+        "name":"Nir Yafe",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.56905,
+        "lon":35.245,
+        "pop":724
+    },
+    {
+        "id":9887822,
+        "name":"Merav",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.45182,
+        "lon":35.42354,
+        "pop":723
+    },
+    {
+        "id":293327,
+        "name":"Tequma",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.44984,
+        "lon":34.57816,
+        "pop":722
+    },
+    {
+        "id":293093,
+        "name":"Misgav Dov",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.81897,
+        "lon":34.74012,
+        "pop":722
+    },
+    {
+        "id":294563,
+        "name":"Kfar ‘Azza",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.48406,
+        "lon":34.53306,
+        "pop":720
+    },
+    {
+        "id":294128,
+        "name":"Naẖala",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.65883,
+        "lon":34.79382,
+        "pop":717
+    },
+    {
+        "id":293604,
+        "name":"Segula",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.6709,
+        "lon":34.77975,
+        "pop":717
+    },
+    {
+        "id":293148,
+        "name":"Yotvata",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":29.89549,
+        "lon":35.06127,
+        "pop":717
+    },
+    {
+        "id":295230,
+        "name":"Elyashiv",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.38108,
+        "lon":34.90883,
+        "pop":714
+    },
+    {
+        "id":295745,
+        "name":"Afeq",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.83889,
+        "lon":35.12781,
+        "pop":713
+    },
+    {
+        "id":295438,
+        "name":"Bet Qeshet",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.71869,
+        "lon":35.39516,
+        "pop":712
+    },
+    {
+        "id":294826,
+        "name":"HaYogev",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.61093,
+        "lon":35.20358,
+        "pop":711
+    },
+    {
+        "id":293772,
+        "name":"Ramat Tsvi",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.59078,
+        "lon":35.41533,
+        "pop":710
+    },
+    {
+        "id":443091,
+        "name":"Ramat Magshimim",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.84473,
+        "lon":35.80822,
+        "pop":705
+    },
+    {
+        "id":295306,
+        "name":"Ed Dahī",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.62094,
+        "lon":35.34454,
+        "pop":703
+    },
+    {
+        "id":293751,
+        "name":"Rannen",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.33773,
+        "lon":34.60069,
+        "pop":703
+    },
+    {
+        "id":295004,
+        "name":"Ginnegar",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.66364,
+        "lon":35.25764,
+        "pop":702
+    },
+    {
+        "id":294675,
+        "name":"H̱ulata",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.05152,
+        "lon":35.60981,
+        "pop":701
+    },
+    {
+        "id":294312,
+        "name":"Massu’ot Yitsẖaq",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.70297,
+        "lon":34.69129,
+        "pop":697
+    },
+    {
+        "id":293625,
+        "name":"Sde Eliyyahu",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.43946,
+        "lon":35.5127,
+        "pop":691
+    },
+    {
+        "id":293467,
+        "name":"Shuva",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.45094,
+        "lon":34.54404,
+        "pop":691
+    },
+    {
+        "id":8261948,
+        "name":"Ya‘ad",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.87953,
+        "lon":35.24166,
+        "pop":690
+    },
+    {
+        "id":294462,
+        "name":"Kinneret",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.7138,
+        "lon":35.56301,
+        "pop":689
+    },
+    {
+        "id":293682,
+        "name":"Ruẖama",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.49743,
+        "lon":34.70611,
+        "pop":689
+    },
+    {
+        "id":294112,
+        "name":"Naẖsholim",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.61347,
+        "lon":34.92022,
+        "pop":687
+    },
+    {
+        "id":293614,
+        "name":"Sde Yiẕẖaq",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.4,
+        "lon":35.0,
+        "pop":687
+    },
+    {
+        "id":294461,
+        "name":"Kinneret",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.72264,
+        "lon":35.5662,
+        "pop":686
+    },
+    {
+        "id":294034,
+        "name":"Nir ‘Aqiva",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.46994,
+        "lon":34.64634,
+        "pop":686
+    },
+    {
+        "id":293577,
+        "name":"Shadmot Dvora",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.69706,
+        "lon":35.4367,
+        "pop":683
+    },
+    {
+        "id":294052,
+        "name":"Neve Mivtaẖ",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.80591,
+        "lon":34.73961,
+        "pop":677
+    },
+    {
+        "id":385959,
+        "name":"Magén Sha’ul",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.52174,
+        "lon":35.30776,
+        "pop":676
+    },
+    {
+        "id":295218,
+        "name":"‘En Gev",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.78269,
+        "lon":35.63841,
+        "pop":676
+    },
+    {
+        "id":294954,
+        "name":"Hadar ‘Am",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.35037,
+        "lon":34.89992,
+        "pop":675
+    },
+    {
+        "id":295562,
+        "name":"Bar Giyyora",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.72973,
+        "lon":35.07296,
+        "pop":674
+    },
+    {
+        "id":295344,
+        "name":"Deganya Bet",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.69987,
+        "lon":35.57596,
+        "pop":674
+    },
+    {
+        "id":294547,
+        "name":"Kfar Gil‘adi",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.24228,
+        "lon":35.57515,
+        "pop":673
+    },
+    {
+        "id":295612,
+        "name":"‘Avdon",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.04789,
+        "lon":35.17995,
+        "pop":668
+    },
+    {
+        "id":293542,
+        "name":"She’ar Yashuv",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.22957,
+        "lon":35.6484,
+        "pop":668
+    },
+    {
+        "id":293612,
+        "name":"Sde Ẕevi",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.44861,
+        "lon":34.71298,
+        "pop":665
+    },
+    {
+        "id":294260,
+        "name":"Merẖavya",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.60432,
+        "lon":35.30782,
+        "pop":662
+    },
+    {
+        "id":293483,
+        "name":"Sho’eva",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.79867,
+        "lon":35.07764,
+        "pop":655
+    },
+    {
+        "id":294070,
+        "name":"Netiv HaLamed He",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.68755,
+        "lon":34.98272,
+        "pop":654
+    },
+    {
+        "id":294807,
+        "name":"H̱atsor Ashdod",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.77227,
+        "lon":34.72051,
+        "pop":653
+    },
+    {
+        "id":293957,
+        "name":"Otsem",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.63685,
+        "lon":34.70395,
+        "pop":653
+    },
+    {
+        "id":293320,
+        "name":"Tidhar",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.37899,
+        "lon":34.62961,
+        "pop":653
+    },
+    {
+        "id":295171,
+        "name":"Eshbol",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.44677,
+        "lon":34.6672,
+        "pop":652
+    },
+    {
+        "id":295265,
+        "name":"Elifelet",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.94722,
+        "lon":35.54791,
+        "pop":651
+    },
+    {
+        "id":294524,
+        "name":"Kfar Mordekhay",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.82997,
+        "lon":34.75713,
+        "pop":644
+    },
+    {
+        "id":8265835,
+        "name":"Ras ‘Ali",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.77274,
+        "lon":35.15521,
+        "pop":643
+    },
+    {
+        "id":295205,
+        "name":"‘En Hod",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.70096,
+        "lon":34.98362,
+        "pop":643
+    },
+    {
+        "id":293144,
+        "name":"Yuval",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.24748,
+        "lon":35.59811,
+        "pop":638
+    },
+    {
+        "id":294022,
+        "name":"Nir Yitsẖaq",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.23739,
+        "lon":34.35743,
+        "pop":630
+    },
+    {
+        "id":295427,
+        "name":"Bet ‘Uzi’él",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.87039,
+        "lon":34.90483,
+        "pop":625
+    },
+    {
+        "id":293023,
+        "name":"Tzova",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.78377,
+        "lon":35.11926,
+        "pop":625
+    },
+    {
+        "id":293066,
+        "name":"Zimrat",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.44784,
+        "lon":34.55401,
+        "pop":624
+    },
+    {
+        "id":295031,
+        "name":"Gevim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.50756,
+        "lon":34.59869,
+        "pop":621
+    },
+    {
+        "id":294814,
+        "name":"H̱atseva",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":30.76873,
+        "lon":35.28025,
+        "pop":620
+    },
+    {
+        "id":294086,
+        "name":"Ne’ot Mordekhay",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.16034,
+        "lon":35.59663,
+        "pop":620
+    },
+    {
+        "id":294518,
+        "name":"Kfar Kisch",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.66686,
+        "lon":35.44893,
+        "pop":619
+    },
+    {
+        "id":295038,
+        "name":"Geva‘",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.5664,
+        "lon":35.37158,
+        "pop":618
+    },
+    {
+        "id":294268,
+        "name":"Menuẖa",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.6569,
+        "lon":34.77693,
+        "pop":618
+    },
+    {
+        "id":294183,
+        "name":"Mishmar HaSharon",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.35689,
+        "lon":34.90359,
+        "pop":617
+    },
+    {
+        "id":294670,
+        "name":"Hukok",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.87918,
+        "lon":35.49555,
+        "pop":612
+    },
+    {
+        "id":294035,
+        "name":"Nir‘am",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.51959,
+        "lon":34.58006,
+        "pop":611
+    },
+    {
+        "id":295220,
+        "name":"‘En Gedi",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.45238,
+        "lon":35.38443,
+        "pop":610
+    },
+    {
+        "id":293243,
+        "name":"Yājur",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.75,
+        "lon":35.05,
+        "pop":610
+    },
+    {
+        "id":295442,
+        "name":"Bet Nir",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.64747,
+        "lon":34.87382,
+        "pop":609
+    },
+    {
+        "id":295211,
+        "name":"‘En HaNaẕiv",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.47037,
+        "lon":35.50242,
+        "pop":604
+    },
+    {
+        "id":293940,
+        "name":"Parod",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.93269,
+        "lon":35.43379,
+        "pop":595
+    },
+    {
+        "id":293627,
+        "name":"Sde Dawid",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.57638,
+        "lon":34.68429,
+        "pop":594
+    },
+    {
+        "id":293541,
+        "name":"Shdema",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.83439,
+        "lon":34.74366,
+        "pop":593
+    },
+    {
+        "id":294026,
+        "name":"Nir Moshe",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.47812,
+        "lon":34.63204,
+        "pop":592
+    },
+    {
+        "id":293623,
+        "name":"Sde Ilan",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.74888,
+        "lon":35.42185,
+        "pop":590
+    },
+    {
+        "id":294007,
+        "name":"Nofekh",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.04372,
+        "lon":34.92066,
+        "pop":588
+    },
+    {
+        "id":443105,
+        "name":"Snir",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.24073,
+        "lon":35.6773,
+        "pop":586
+    },
+    {
+        "id":295002,
+        "name":"Ginnosar",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.84713,
+        "lon":35.52335,
+        "pop":585
+    },
+    {
+        "id":294005,
+        "name":"Nogah",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.62485,
+        "lon":34.6949,
+        "pop":583
+    },
+    {
+        "id":293613,
+        "name":"Sde Yo‘av",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.646,
+        "lon":34.67697,
+        "pop":583
+    },
+    {
+        "id":293559,
+        "name":"Shomrat",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.95155,
+        "lon":35.09497,
+        "pop":580
+    },
+    {
+        "id":295419,
+        "name":"Bet Zera‘",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.6886,
+        "lon":35.57281,
+        "pop":578
+    },
+    {
+        "id":295084,
+        "name":"Gan Shlomo",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.87864,
+        "lon":34.79961,
+        "pop":578
+    },
+    {
+        "id":8134533,
+        "name":"Or HaGanuz",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.00514,
+        "lon":35.44691,
+        "pop":574
+    },
+    {
+        "id":293579,
+        "name":"Sha‘ar Menashe",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.4498,
+        "lon":35.01561,
+        "pop":574
+    },
+    {
+        "id":293548,
+        "name":"Sharona",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.72533,
+        "lon":35.46692,
+        "pop":571
+    },
+    {
+        "id":293186,
+        "name":"Yiftaẖ",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.12884,
+        "lon":35.55231,
+        "pop":569
+    },
+    {
+        "id":6413457,
+        "name":"Ashalim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":30.96409,
+        "lon":34.69934,
+        "pop":568
+    },
+    {
+        "id":293480,
+        "name":"Shoqeda",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.42218,
+        "lon":34.52392,
+        "pop":565
+    },
+    {
+        "id":295491,
+        "name":"Berosh",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.37121,
+        "lon":34.63395,
+        "pop":564
+    },
+    {
+        "id":293956,
+        "name":"Pa‘amé Tashaz",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.43928,
+        "lon":34.69478,
+        "pop":562
+    },
+    {
+        "id":293334,
+        "name":"Tel Yosef",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.55646,
+        "lon":35.39919,
+        "pop":560
+    },
+    {
+        "id":293112,
+        "name":"Zavdi’él",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.65837,
+        "lon":34.7612,
+        "pop":559
+    },
+    {
+        "id":295177,
+        "name":"Erez",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.56024,
+        "lon":34.56661,
+        "pop":558
+    },
+    {
+        "id":294938,
+        "name":"H̱afets H̱ayyim",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.78832,
+        "lon":34.80011,
+        "pop":558
+    },
+    {
+        "id":386309,
+        "name":"Mikhmannim",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.90591,
+        "lon":35.32815,
+        "pop":557
+    },
+    {
+        "id":294187,
+        "name":"Mishmar Ayyalon",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.8706,
+        "lon":34.94112,
+        "pop":556
+    },
+    {
+        "id":294031,
+        "name":"Nir Eliyyahu",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.19672,
+        "lon":34.94921,
+        "pop":555
+    },
+    {
+        "id":295558,
+        "name":"Barqay",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.4751,
+        "lon":35.02966,
+        "pop":553
+    },
+    {
+        "id":293166,
+        "name":"Yizre‘el",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.56289,
+        "lon":35.32045,
+        "pop":553
+    },
+    {
+        "id":443084,
+        "name":"Ramot",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.85084,
+        "lon":35.66668,
+        "pop":552
+    },
+    {
+        "id":293709,
+        "name":"Revaẖa",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.65,
+        "lon":34.73333,
+        "pop":551
+    },
+    {
+        "id":294028,
+        "name":"Nir H̱en",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.60901,
+        "lon":34.71462,
+        "pop":548
+    },
+    {
+        "id":295726,
+        "name":"Aẖuzzam",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.55385,
+        "lon":34.77009,
+        "pop":547
+    },
+    {
+        "id":295204,
+        "name":"‘En ‘Iron",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.48324,
+        "lon":35.00902,
+        "pop":546
+    },
+    {
+        "id":295624,
+        "name":"Ashdot Ya‘aqov Me’uẖad",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.66363,
+        "lon":35.58282,
+        "pop":545
+    },
+    {
+        "id":6413459,
+        "name":"Telalim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":30.99268,
+        "lon":34.77035,
+        "pop":543
+    },
+    {
+        "id":293581,
+        "name":"Sha‘ar HaGolan",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.68669,
+        "lon":35.60402,
+        "pop":543
+    },
+    {
+        "id":386222,
+        "name":"Hararit",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.84572,
+        "lon":35.36823,
+        "pop":542
+    },
+    {
+        "id":295460,
+        "name":"Bet H̱anan",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":31.93432,
+        "lon":34.77304,
+        "pop":542
+    },
+    {
+        "id":8367614,
+        "name":"Retamim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.05464,
+        "lon":34.68969,
+        "pop":537
+    },
+    {
+        "id":8072853,
+        "name":"Alumma",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.65177,
+        "lon":34.74338,
+        "pop":537
+    },
+    {
+        "id":295117,
+        "name":"Eyal",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.21156,
+        "lon":34.97946,
+        "pop":534
+    },
+    {
+        "id":295055,
+        "name":"Gelil Yam",
+        "country":"IL",
+        "admin1":"Tel Aviv",
+        "admin2":"",
+        "lat":32.15733,
+        "lon":34.83141,
+        "pop":533
+    },
+    {
+        "id":293278,
+        "name":"Usha",
+        "country":"IL",
+        "admin1":"Haifa",
+        "admin2":"",
+        "lat":32.79509,
+        "lon":35.11511,
+        "pop":533
+    },
+    {
+        "id":294516,
+        "name":"Kfar Ruppin",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.45856,
+        "lon":35.55708,
+        "pop":531
+    },
+    {
+        "id":293438,
+        "name":"Talmé Bilu",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.43807,
+        "lon":34.64487,
+        "pop":529
+    },
+    {
+        "id":8309930,
+        "name":"Karkom",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.92862,
+        "lon":35.60774,
+        "pop":528
+    },
+    {
+        "id":295733,
+        "name":"‘Agur",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.69772,
+        "lon":34.91235,
+        "pop":528
+    },
+    {
+        "id":295573,
+        "name":"Balfouriyya",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.63035,
+        "lon":35.29651,
+        "pop":528
+    },
+    {
+        "id":295345,
+        "name":"Deganya Alef",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.70798,
+        "lon":35.57487,
+        "pop":528
+    },
+    {
+        "id":294483,
+        "name":"Kerem Ben Zimra",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":33.03833,
+        "lon":35.46872,
+        "pop":526
+    },
+    {
+        "id":293117,
+        "name":"Zanoaẖ",
+        "country":"IL",
+        "admin1":"Jerusalem",
+        "admin2":"",
+        "lat":31.73236,
+        "lon":34.99967,
+        "pop":524
+    },
+    {
+        "id":293791,
+        "name":"Ramat David",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.67845,
+        "lon":35.20325,
+        "pop":521
+    },
+    {
+        "id":293933,
+        "name":"Peduyim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.32714,
+        "lon":34.61189,
+        "pop":520
+    },
+    {
+        "id":386264,
+        "name":"Shorashim",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.89306,
+        "lon":35.25972,
+        "pop":517
+    },
+    {
+        "id":9997391,
+        "name":"Ed Dumeidā",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.81519,
+        "lon":35.22724,
+        "pop":515
+    },
+    {
+        "id":295758,
+        "name":"‘Adanim",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.13902,
+        "lon":34.90798,
+        "pop":515
+    },
+    {
+        "id":295714,
+        "name":"Allonim",
+        "country":"IL",
+        "admin1":"Northern District",
+        "admin2":"",
+        "lat":32.72082,
+        "lon":35.1445,
+        "pop":515
+    },
+    {
+        "id":8068328,
+        "name":"Yated",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.20648,
+        "lon":34.32757,
+        "pop":508
+    },
+    {
+        "id":8141247,
+        "name":"Shoshannat Ha‘Amaqim",
+        "country":"IL",
+        "admin1":"Central District",
+        "admin2":"",
+        "lat":32.35409,
+        "lon":34.85688,
+        "pop":505
+    },
+    {
+        "id":293560,
+        "name":"Shalva",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.56468,
+        "lon":34.76855,
+        "pop":503
+    },
+    {
+        "id":293279,
+        "name":"Urim",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.30433,
+        "lon":34.52328,
+        "pop":502
+    },
+    {
+        "id":8183896,
+        "name":"Sheqef",
+        "country":"IL",
+        "admin1":"Southern District",
+        "admin2":"",
+        "lat":31.51656,
+        "lon":34.93783,
+        "pop":501
+    }
+]

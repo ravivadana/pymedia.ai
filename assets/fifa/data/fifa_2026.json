@@ -1,0 +1,391 @@
+{
+  "tournament": "FIFA World Cup 2026",
+  "total_teams": 48,
+  "qualified_countries": [
+    {
+      "country": "Algeria",
+      "code": "ALG",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/mKNB10eBA4I"
+      ]
+    },
+    {
+      "country": "Argentina",
+      "code": "ARG",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/3efgrwuAKoI"
+      ]
+    },
+    {
+      "country": "Australia",
+      "code": "AUS",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/OZFZmx2Ai4E"
+      ]
+    },
+    {
+      "country": "Austria",
+      "code": "AUT",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/jPYKkNkkLGM"
+      ]
+    },
+    {
+      "country": "Belgium",
+      "code": "BEL",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/93z-hQ-XQTk"
+      ]
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "code": "BIH",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/zmAd7h2X208"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "code": "BRA",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DZhRUd6Ol88/?igsh=dmRhZmQ2c3h2Mzk%3D"
+      ]
+    },
+    {
+      "country": "Canada",
+      "code": "CAN",
+      "status": "Co-Host",
+      "video_urls": [
+        "https://www.instagram.com/reel/DZgduKlpxNE/?igsh=MWQ2MjU5ODd4aGFwaA%3D%3D",
+        "https://www.instagram.com/reel/DZrgunwze7F/?igsh=bzJjOGlwZjF4anlo"
+      ]
+    },
+    {
+      "country": "Cape Verde",
+      "code": "CPV",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/N1GZX29nhgI"
+      ]
+    },
+    {
+      "country": "Colombia",
+      "code": "COL",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DZkrQY_xeQu/?igsh=MXI2OXRkdXJleXJtdg%3D%3D"
+      ]
+    },
+    {
+      "country": "Croatia",
+      "code": "CRO",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/gGA1oX5VQ2M"
+      ]
+    },
+    {
+      "country": "Curaçao",
+      "code": "CUW",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/tcQghZ5y5EA"
+      ]
+    },
+    {
+      "country": "Czechia",
+      "code": "CZE",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/SkkwfcxBmOI"
+      ]
+    },
+    {
+      "country": "DR Congo",
+      "code": "COD",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DZdlopVpV2q/?igsh=N2hzMHg1bXcwZTdl"
+      ]
+    },
+    {
+      "country": "Ecuador",
+      "code": "ECU",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DY5WB6yRZoW/?igsh=OXJuczhma2ZpY3Zz"
+      ]
+    },
+    {
+      "country": "Egypt",
+      "code": "EGY",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DZvJB-QtOy9/?igsh=MW55czhjOXFnNHJ3MA%3D%3D"
+      ]
+    },
+    {
+      "country": "England",
+      "code": "ENG",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/dS6_AO4wfyM"
+      ]
+    },
+    {
+      "country": "France",
+      "code": "FRA",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DZbTPyZs1aY/?igsh=NWQ5Y3FnazZoa2Qz"
+      ]
+    },
+    {
+      "country": "Germany",
+      "code": "GER",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/N1HxaXBkcYQ"
+      ]
+    },
+    {
+      "country": "Ghana",
+      "code": "GHA",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/wnM0MHcyppA"
+      ]
+    },
+    {
+      "country": "Haiti",
+      "code": "HAI",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DZXXYpORZGi/?igsh=Y3RsdDZpYTBxMWgz"
+      ]
+    },
+    {
+      "country": "Iran",
+      "code": "IRN",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DZl6HfYv8Mf/?igsh=MWF3N2UwYXRzZHZ0Zw%3D%3D"
+      ]
+    },
+    {
+      "country": "Iraq",
+      "code": "IRQ",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DZdGqrrsyLQ/?igsh=MWc5cXZrYXZmZG5lOA%3D%3D"
+      ]
+    },
+    {
+      "country": "Ivory Coast",
+      "code": "CIV",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/cHuJxxDrEyM"
+      ]
+    },
+    {
+      "country": "Japan",
+      "code": "JPN",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DZqdK7LPsBG/?igsh=ZmV5M2IycXlwazV0"
+      ]
+    },
+    {
+      "country": "Jordan",
+      "code": "JOR",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/uPpr0G4LF6o"
+      ]
+    },
+    {
+      "country": "Mexico",
+      "code": "MEX",
+      "status": "Co-Host",
+      "video_urls": [
+        "https://www.instagram.com/reel/DZvRbPUxrvn/?igsh=MWQ1YW1jbGVsMDM2OA%3D%3D"
+      ]
+    },
+    {
+      "country": "Morocco",
+      "code": "MAR",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/GhZgt2_TwCY"
+      ]
+    },
+    {
+      "country": "Netherlands",
+      "code": "NED",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/dQzupBqFVnk"
+      ]
+    },
+    {
+      "country": "New Zealand",
+      "code": "NZL",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/tVWtKY3dXi0"
+      ]
+    },
+    {
+      "country": "Norway",
+      "code": "NOR",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/t0GZxa3MuZo"
+      ]
+    },
+    {
+      "country": "Panama",
+      "code": "PAN",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DZp-CPvOZIk/?igsh=MXQxYmNlb3pmdmM5cw%3D%3D"
+      ]
+    },
+    {
+      "country": "Paraguay",
+      "code": "PAR",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/mqwvQIOqk2o"
+      ]
+    },
+    {
+      "country": "Portugal",
+      "code": "POR",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DWjQcwsCHU9/?igsh=MXg1NmxrMzJwOHg0bA%3D%3D"
+      ]
+    },
+    {
+      "country": "Qatar",
+      "code": "QAT",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DZvGIoOsz2-/?igsh=NnVqeDUyaWo5OTFl"
+      ]
+    },
+    {
+      "country": "Saudi Arabia",
+      "code": "KSA",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DZnuXjRttng/?igsh=amJmbzkxOTIydHht"
+      ]
+    },
+    {
+      "country": "Scotland",
+      "code": "SCO",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/r_Z0TS7pCJM"
+      ]
+    },
+    {
+      "country": "Senegal",
+      "code": "SEN",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/RUHbCHEt8B8"
+      ]
+    },
+    {
+      "country": "South Africa",
+      "code": "RSA",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/radOkBJRAk4"
+      ]
+    },
+    {
+      "country": "South Korea",
+      "code": "KOR",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DZpehDNx3wE/?igsh=M29rcmgyd2R1OWFr"
+      ]
+    },
+    {
+      "country": "Spain",
+      "code": "ESP",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DX0rTp-OZoR/?igsh=MXY5YW16am50dDlqdg%3D%3D"
+      ]
+    },
+    {
+      "country": "Sweden",
+      "code": "SWE",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.youtube.com/shorts/jIzN37NSKGE"
+      ]
+    },
+    {
+      "country": "Switzerland",
+      "code": "SUI",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DZiIjPkAbiF/?igsh=ZWR3bDl6YnE4Y3By"
+      ]
+    },
+    {
+      "country": "Tunisia",
+      "code": "TUN",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DZil1TGojaa/?igsh=eDZhcTNmYnFxbzZz"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "code": "TUR",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DYsJTJCMKts/?igsh=M3psOWFqZGhscmJn"
+      ]
+    },
+    {
+      "country": "United States",
+      "code": "USA",
+      "status": "Co-Host",
+      "video_urls": [
+        "https://www.instagram.com/reel/DZweq91krls/?igsh=amd5bXJpbmdndGtv"
+      ]
+    },
+    {
+      "country": "Uruguay",
+      "code": "URU",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DZdDpaKR12c/?igsh=b2tzd3hvOW84eWx3"
+      ]
+    },
+    {
+      "country": "Uzbekistan",
+      "code": "UZB",
+      "status": "Qualified",
+      "video_urls": [
+        "https://www.instagram.com/reel/DY_t07ctZG0/?igsh=MWRnMXU3NmE3dHUyMw%3D%3D"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+[
+    {
+        "id":3041563,
+        "name":"Andorra la Vella",
+        "country":"AD",
+        "admin1":"Andorra la Vella",
+        "admin2":"",
+        "lat":42.50779,
+        "lon":1.52109,
+        "pop":20430
+    },
+    {
+        "id":3040051,
+        "name":"les Escaldes",
+        "country":"AD",
+        "admin1":"Escaldes-Engordany",
+        "admin2":"",
+        "lat":42.50729,
+        "lon":1.53414,
+        "pop":15853
+    },
+    {
+        "id":3040686,
+        "name":"Encamp",
+        "country":"AD",
+        "admin1":"Encamp",
+        "admin2":"",
+        "lat":42.53474,
+        "lon":1.58014,
+        "pop":11223
+    },
+    {
+        "id":3039163,
+        "name":"Sant Julià de Lòria",
+        "country":"AD",
+        "admin1":"Sant Julià de Loria",
+        "admin2":"",
+        "lat":42.46372,
+        "lon":1.49129,
+        "pop":8022
+    },
+    {
+        "id":3040132,
+        "name":"la Massana",
+        "country":"AD",
+        "admin1":"La Massana",
+        "admin2":"",
+        "lat":42.54499,
+        "lon":1.51483,
+        "pop":7211
+    },
+    {
+        "id":3041204,
+        "name":"Canillo",
+        "country":"AD",
+        "admin1":"Canillo",
+        "admin2":"",
+        "lat":42.5676,
+        "lon":1.59756,
+        "pop":3292
+    },
+    {
+        "id":3039678,
+        "name":"Ordino",
+        "country":"AD",
+        "admin1":"Ordino",
+        "admin2":"",
+        "lat":42.55623,
+        "lon":1.53319,
+        "pop":3066
+    },
+    {
+        "id":3039604,
+        "name":"Pas de la Casa",
+        "country":"AD",
+        "admin1":"Encamp",
+        "admin2":"",
+        "lat":42.54277,
+        "lon":1.73361,
+        "pop":2363
+    },
+    {
+        "id":3041519,
+        "name":"Arinsal",
+        "country":"AD",
+        "admin1":"La Massana",
+        "admin2":"",
+        "lat":42.57205,
+        "lon":1.48453,
+        "pop":1419
+    },
+    {
+        "id":3038832,
+        "name":"Vila",
+        "country":"AD",
+        "admin1":"Encamp",
+        "admin2":"",
+        "lat":42.53176,
+        "lon":1.56654,
+        "pop":1418
+    },
+    {
+        "id":3039154,
+        "name":"El Tarter",
+        "country":"AD",
+        "admin1":"Canillo",
+        "admin2":"",
+        "lat":42.57952,
+        "lon":1.65362,
+        "pop":1052
+    },
+    {
+        "id":3041604,
+        "name":"Aixirivall",
+        "country":"AD",
+        "admin1":"Sant Julià de Loria",
+        "admin2":"",
+        "lat":42.46245,
+        "lon":1.50209,
+        "pop":1041
+    },
+    {
+        "id":3041543,
+        "name":"Anyós",
+        "country":"AD",
+        "admin1":"La Massana",
+        "admin2":"",
+        "lat":42.53465,
+        "lon":1.5251,
+        "pop":1006
+    },
+    {
+        "id":3039077,
+        "name":"Sispony",
+        "country":"AD",
+        "admin1":"La Massana",
+        "admin2":"",
+        "lat":42.53368,
+        "lon":1.51613,
+        "pop":833
+    },
+    {
+        "id":3038999,
+        "name":"Soldeu",
+        "country":"AD",
+        "admin1":"Canillo",
+        "admin2":"",
+        "lat":42.57688,
+        "lon":1.66769,
+        "pop":602
+    },
+    {
+        "id":3040141,
+        "name":"l'Aldosa",
+        "country":"AD",
+        "admin1":"La Massana",
+        "admin2":"",
+        "lat":42.54391,
+        "lon":1.52289,
+        "pop":594
+    }
+]

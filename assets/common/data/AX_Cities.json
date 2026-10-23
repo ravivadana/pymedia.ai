@@ -1,0 +1,152 @@
+[
+    {
+        "id":3041732,
+        "name":"Mariehamn",
+        "country":"AX",
+        "admin1":"Mariehamns stad",
+        "admin2":"Mariehamn",
+        "lat":60.09726,
+        "lon":19.93481,
+        "pop":10682
+    },
+    {
+        "id":630705,
+        "name":"Ytterby",
+        "country":"AX",
+        "admin1":"Ålands landsbygd",
+        "admin2":"Jomala",
+        "lat":60.16667,
+        "lon":20.01667,
+        "pop":6384
+    },
+    {
+        "id":13527044,
+        "name":"Yomala",
+        "country":"AX",
+        "admin1":"Ålands landsbygd",
+        "admin2":"Jomala",
+        "lat":60.16689,
+        "lon":19.93341,
+        "pop":5789
+    },
+    {
+        "id":3041760,
+        "name":"Jomala",
+        "country":"AX",
+        "admin1":"Ålands landsbygd",
+        "admin2":"Jomala",
+        "lat":60.14902,
+        "lon":19.951,
+        "pop":3662
+    },
+    {
+        "id":3041666,
+        "name":"Tjudö",
+        "country":"AX",
+        "admin1":"Ålands landsbygd",
+        "admin2":"Finström",
+        "lat":60.33333,
+        "lon":19.95,
+        "pop":2630
+    },
+    {
+        "id":3041798,
+        "name":"Finström",
+        "country":"AX",
+        "admin1":"Ålands landsbygd",
+        "admin2":"Finström",
+        "lat":60.26667,
+        "lon":19.93333,
+        "pop":2412
+    },
+    {
+        "id":648382,
+        "name":"Lemland",
+        "country":"AX",
+        "admin1":"Ålands landsbygd",
+        "admin2":"Lemland",
+        "lat":60.07178,
+        "lon":20.08472,
+        "pop":1829
+    },
+    {
+        "id":637878,
+        "name":"Saltvik",
+        "country":"AX",
+        "admin1":"Ålands landsbygd",
+        "admin2":"Saltvik",
+        "lat":60.28333,
+        "lon":20.05,
+        "pop":1691
+    },
+    {
+        "id":3041776,
+        "name":"Hammarland",
+        "country":"AX",
+        "admin1":"Ålands landsbygd",
+        "admin2":"Hammarland",
+        "lat":60.21667,
+        "lon":19.75,
+        "pop":1395
+    },
+    {
+        "id":659823,
+        "name":"Godby",
+        "country":"AX",
+        "admin1":"Ålands landsbygd",
+        "admin2":"Finström",
+        "lat":60.22995,
+        "lon":19.9881,
+        "pop":1369
+    },
+    {
+        "id":3041807,
+        "name":"Eckerö",
+        "country":"AX",
+        "admin1":"Ålands landsbygd",
+        "admin2":"Eckerö",
+        "lat":60.21249,
+        "lon":19.61442,
+        "pop":1028
+    },
+    {
+        "id":635815,
+        "name":"Sund",
+        "country":"AX",
+        "admin1":"Ålands landsbygd",
+        "admin2":"Sund",
+        "lat":60.25,
+        "lon":20.11667,
+        "pop":1020
+    },
+    {
+        "id":660567,
+        "name":"Bomarsund",
+        "country":"AX",
+        "admin1":"Ålands landsbygd",
+        "admin2":"Sund",
+        "lat":60.21234,
+        "lon":20.24023,
+        "pop":1016
+    },
+    {
+        "id":659949,
+        "name":"Föglö",
+        "country":"AX",
+        "admin1":"Ålands skärgård",
+        "admin2":"Föglö",
+        "lat":60.01392,
+        "lon":20.41377,
+        "pop":632
+    },
+    {
+        "id":660521,
+        "name":"Brändö",
+        "country":"AX",
+        "admin1":"Ålands skärgård",
+        "admin2":"Brändö",
+        "lat":60.41165,
+        "lon":21.04534,
+        "pop":515
+    }
+]

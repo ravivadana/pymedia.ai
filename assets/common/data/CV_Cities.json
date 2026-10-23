@@ -1,0 +1,252 @@
+[
+    {
+        "id":3374333,
+        "name":"Praia",
+        "country":"CV",
+        "admin1":"Praia",
+        "admin2":"",
+        "lat":14.93152,
+        "lon":-23.51254,
+        "pop":137868
+    },
+    {
+        "id":3374462,
+        "name":"Mindelo",
+        "country":"CV",
+        "admin1":"São Vicente",
+        "admin2":"",
+        "lat":16.89014,
+        "lon":-24.98042,
+        "pop":69013
+    },
+    {
+        "id":8521418,
+        "name":"Espargos",
+        "country":"CV",
+        "admin1":"Sal",
+        "admin2":"",
+        "lat":16.75524,
+        "lon":-22.9446,
+        "pop":24500
+    },
+    {
+        "id":3374888,
+        "name":"Assomada",
+        "country":"CV",
+        "admin1":"Santa Catarina",
+        "admin2":"",
+        "lat":15.1,
+        "lon":-23.68333,
+        "pop":21297
+    },
+    {
+        "id":3374166,
+        "name":"Tarrafal",
+        "country":"CV",
+        "admin1":"Tarrafal",
+        "admin2":"",
+        "lat":15.27881,
+        "lon":-23.75192,
+        "pop":13483
+    },
+    {
+        "id":3374336,
+        "name":"Porto Novo",
+        "country":"CV",
+        "admin1":"Porto Novo",
+        "admin2":"",
+        "lat":17.01969,
+        "lon":-25.06471,
+        "pop":11138
+    },
+    {
+        "id":3374235,
+        "name":"Sal Rei",
+        "country":"CV",
+        "admin1":"Boa Vista",
+        "admin2":"",
+        "lat":16.17611,
+        "lon":-22.91722,
+        "pop":10936
+    },
+    {
+        "id":3374210,
+        "name":"São Filipe",
+        "country":"CV",
+        "admin1":"São Filipe",
+        "admin2":"",
+        "lat":14.8961,
+        "lon":-24.49556,
+        "pop":10097
+    },
+    {
+        "id":8441169,
+        "name":"Pedra Badejo",
+        "country":"CV",
+        "admin1":"Santa Cruz",
+        "admin2":"",
+        "lat":15.1375,
+        "lon":-23.53083,
+        "pop":10038
+    },
+    {
+        "id":3374221,
+        "name":"Santa Cruz",
+        "country":"CV",
+        "admin1":"Santa Cruz",
+        "admin2":"",
+        "lat":15.13403,
+        "lon":-23.55945,
+        "pop":9488
+    },
+    {
+        "id":3374218,
+        "name":"Santa Maria",
+        "country":"CV",
+        "admin1":"Sal",
+        "admin2":"",
+        "lat":16.59796,
+        "lon":-22.90509,
+        "pop":8400
+    },
+    {
+        "id":3374794,
+        "name":"Calheta",
+        "country":"CV",
+        "admin1":"São Miguel",
+        "admin2":"",
+        "lat":15.18613,
+        "lon":-23.59228,
+        "pop":6329
+    },
+    {
+        "id":3374120,
+        "name":"Vila do Maio",
+        "country":"CV",
+        "admin1":"Maio",
+        "admin2":"",
+        "lat":15.13823,
+        "lon":-23.21158,
+        "pop":4472
+    },
+    {
+        "id":3374165,
+        "name":"Tarrafal de São Nicolau",
+        "country":"CV",
+        "admin1":"Tarrafal de São Nicolau",
+        "admin2":"",
+        "lat":16.56622,
+        "lon":-24.35793,
+        "pop":4371
+    },
+    {
+        "id":3374555,
+        "name":"Igreja",
+        "country":"CV",
+        "admin1":"Mosteiros",
+        "admin2":"",
+        "lat":15.03333,
+        "lon":-24.33333,
+        "pop":4084
+    },
+    {
+        "id":3374725,
+        "name":"Cidade Velha",
+        "country":"CV",
+        "admin1":"Ribeira Grande de Santiago",
+        "admin2":"",
+        "lat":14.91531,
+        "lon":-23.60527,
+        "pop":3319
+    },
+    {
+        "id":3374346,
+        "name":"Ponta do Sol",
+        "country":"CV",
+        "admin1":"Ribeira Grande",
+        "admin2":"",
+        "lat":17.20171,
+        "lon":-25.09217,
+        "pop":3300
+    },
+    {
+        "id":3374275,
+        "name":"Ribeira Grande",
+        "country":"CV",
+        "admin1":"Ribeira Grande",
+        "admin2":"",
+        "lat":17.1825,
+        "lon":-25.065,
+        "pop":3000
+    },
+    {
+        "id":3374211,
+        "name":"São Domingos",
+        "country":"CV",
+        "admin1":"São Domingos",
+        "admin2":"",
+        "lat":15.02438,
+        "lon":-23.5625,
+        "pop":2960
+    },
+    {
+        "id":3374121,
+        "name":"Ribeira Brava",
+        "country":"CV",
+        "admin1":"Ribeira Brava",
+        "admin2":"",
+        "lat":16.61583,
+        "lon":-24.29833,
+        "pop":2851
+    },
+    {
+        "id":3374117,
+        "name":"Nova Sintra",
+        "country":"CV",
+        "admin1":"Brava",
+        "admin2":"",
+        "lat":14.87139,
+        "lon":-24.69556,
+        "pop":2225
+    },
+    {
+        "id":3374360,
+        "name":"Picos",
+        "country":"CV",
+        "admin1":"São Salvador do Mundo",
+        "admin2":"",
+        "lat":15.0836,
+        "lon":-23.63236,
+        "pop":2040
+    },
+    {
+        "id":3374351,
+        "name":"Pombas",
+        "country":"CV",
+        "admin1":"Paul",
+        "admin2":"",
+        "lat":17.15026,
+        "lon":-25.02007,
+        "pop":1429
+    },
+    {
+        "id":3374707,
+        "name":"Cova Figueira",
+        "country":"CV",
+        "admin1":"Santa Catarina do Fogo",
+        "admin2":"",
+        "lat":14.89054,
+        "lon":-24.29343,
+        "pop":720
+    },
+    {
+        "id":8441167,
+        "name":"João Teves",
+        "country":"CV",
+        "admin1":"São Lourenço dos Órgãos",
+        "admin2":"",
+        "lat":15.06694,
+        "lon":-23.58917,
+        "pop":627
+    }
+]

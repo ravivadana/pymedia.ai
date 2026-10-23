@@ -1,0 +1,42 @@
+[
+    {
+        "id":3573374,
+        "name":"The Valley",
+        "country":"AI",
+        "admin1":"The Valley",
+        "admin2":"",
+        "lat":18.21704,
+        "lon":-63.05783,
+        "pop":2035
+    },
+    {
+        "id":3573496,
+        "name":"Blowing Point Village",
+        "country":"AI",
+        "admin1":"Blowing Point",
+        "admin2":"",
+        "lat":18.17648,
+        "lon":-63.09375,
+        "pop":942
+    },
+    {
+        "id":11205445,
+        "name":"Sandy Hill",
+        "country":"AI",
+        "admin1":"Sandy Hill",
+        "admin2":"",
+        "lat":18.22104,
+        "lon":-63.01329,
+        "pop":879
+    },
+    {
+        "id":3573473,
+        "name":"East End Village",
+        "country":"AI",
+        "admin1":"East End",
+        "admin2":"",
+        "lat":18.23333,
+        "lon":-63.0,
+        "pop":671
+    }
+]

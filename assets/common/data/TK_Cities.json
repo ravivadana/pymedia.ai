@@ -1,0 +1,22 @@
+[
+    {
+        "id":7522181,
+        "name":"Nukunonu",
+        "country":"TK",
+        "admin1":"Nukunonu",
+        "admin2":"",
+        "lat":-9.20045,
+        "lon":-171.84804,
+        "pop":531
+    },
+    {
+        "id":7522183,
+        "name":"Atafu Village",
+        "country":"TK",
+        "admin1":"Atafu",
+        "admin2":"",
+        "lat":-8.54212,
+        "lon":-172.51591,
+        "pop":524
+    }
+]
